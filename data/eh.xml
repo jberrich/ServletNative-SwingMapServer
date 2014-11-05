@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="eh" name="Sahara Occidental">
+  <city name="Aaium">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="Aaiún">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="Aargub">
+    <latitude>23.6166667</latitude>
+    <longitude>-15.8666667</longitude>
+  </city>
+  <city name="Ad Dakhla">
+    <latitude>23.7</latitude>
+    <longitude>-15.9333333</longitude>
+  </city>
+  <city name="Ad Dchira">
+    <latitude>27.0261111</latitude>
+    <longitude>-13.0519444</longitude>
+  </city>
+  <city name="Agüenit">
+    <latitude>22.1833333</latitude>
+    <longitude>-13.1333333</longitude>
+  </city>
+  <city name="Aiun">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="Al Ayoun">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="Anzarane">
+    <latitude>21.6</latitude>
+    <longitude>-16.5</longitude>
+  </city>
+  <city name="Auserd">
+    <latitude>22.5833333</latitude>
+    <longitude>-14.3</longitude>
+  </city>
+  <city name="Ausert">
+    <latitude>22.5833333</latitude>
+    <longitude>-14.3</longitude>
+  </city>
+  <city name="Ausserd">
+    <latitude>22.5833333</latitude>
+    <longitude>-14.3</longitude>
+  </city>
+  <city name="Aussert">
+    <latitude>22.5833333</latitude>
+    <longitude>-14.3</longitude>
+  </city>
+  <city name="Bir Anzaraen">
+    <latitude>23.8833333</latitude>
+    <longitude>-14.5333333</longitude>
+  </city>
+  <city name="Bir Anzarane">
+    <latitude>23.8833333</latitude>
+    <longitude>-14.5333333</longitude>
+  </city>
+  <city name="Bir Enzarán">
+    <latitude>23.8833333</latitude>
+    <longitude>-14.5333333</longitude>
+  </city>
+  <city name="Bir Gandús">
+    <latitude>21.6</latitude>
+    <longitude>-16.5</longitude>
+  </city>
+  <city name="Bir Ganduz">
+    <latitude>21.6</latitude>
+    <longitude>-16.5</longitude>
+  </city>
+  <city name="Bir Nasaran">
+    <latitude>23.8833333</latitude>
+    <longitude>-14.5333333</longitude>
+  </city>
+  <city name="Bir Nazaran">
+    <latitude>23.8833333</latitude>
+    <longitude>-14.5333333</longitude>
+  </city>
+  <city name="Boujdour">
+    <latitude>26.1333333</latitude>
+    <longitude>-14.5</longitude>
+  </city>
+  <city name="Bu Craa">
+    <latitude>26.2833333</latitude>
+    <longitude>-12.7666667</longitude>
+  </city>
+  <city name="Cabo Bojador">
+    <latitude>26.1333333</latitude>
+    <longitude>-14.5</longitude>
+  </city>
+  <city name="Cape Blanc">
+    <latitude>26.1333333</latitude>
+    <longitude>-14.5</longitude>
+  </city>
+  <city name="Dakhlah">
+    <latitude>23.7</latitude>
+    <longitude>-15.9333333</longitude>
+  </city>
+  <city name="Daora">
+    <latitude>27.4625</latitude>
+    <longitude>-12.9922222</longitude>
+  </city>
+  <city name="Dchira">
+    <latitude>27.0261111</latitude>
+    <longitude>-13.0519444</longitude>
+  </city>
+  <city name="Dora">
+    <latitude>27.4625</latitude>
+    <longitude>-12.9922222</longitude>
+  </city>
+  <city name="Echdeiria">
+    <latitude>27.2333333</latitude>
+    <longitude>-10.45</longitude>
+  </city>
+  <city name="Echediria">
+    <latitude>27.2333333</latitude>
+    <longitude>-10.45</longitude>
+  </city>
+  <city name="Edchedereia">
+    <latitude>27.2333333</latitude>
+    <longitude>-10.45</longitude>
+  </city>
+  <city name="Edchera">
+    <latitude>27.0261111</latitude>
+    <longitude>-13.0519444</longitude>
+  </city>
+  <city name="Ejbei Uad el Aabd">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="El Aaiún">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="El Aargub">
+    <latitude>23.6166667</latitude>
+    <longitude>-15.8666667</longitude>
+  </city>
+  <city name="El Aium">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="El Aiún">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="El Argub">
+    <latitude>23.6166667</latitude>
+    <longitude>-15.8666667</longitude>
+  </city>
+  <city name="Esmara">
+    <latitude>26.7333333</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="Factoria Villa Cisneros">
+    <latitude>23.7</latitude>
+    <longitude>-15.9333333</longitude>
+  </city>
+  <city name="Fondeadero del Aaiún">
+    <latitude>23.6166667</latitude>
+    <longitude>-15.8666667</longitude>
+  </city>
+  <city name="Guelta Zemmur">
+    <latitude>25.1491667</latitude>
+    <longitude>-12.3658333</longitude>
+  </city>
+  <city name="Guelta Zemur">
+    <latitude>25.1491667</latitude>
+    <longitude>-12.3658333</longitude>
+  </city>
+  <city name="Gueria">
+    <latitude>20.8333333</latitude>
+    <longitude>-17.1</longitude>
+  </city>
+  <city name="Hasi Chor">
+    <latitude>21.3</latitude>
+    <longitude>-13.0166667</longitude>
+  </city>
+  <city name="Hasi el Fauuar">
+    <latitude>22.6833333</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Hasi Gueleita">
+    <latitude>25.1491667</latitude>
+    <longitude>-12.3658333</longitude>
+  </city>
+  <city name="Jcheibi el Gardeg">
+    <latitude>27.2666667</latitude>
+    <longitude>-10.3833333</longitude>
+  </city>
+  <city name="Khreïbichat">
+    <latitude>27.2333333</latitude>
+    <longitude>-11.7833333</longitude>
+  </city>
+  <city name="La Agüera">
+    <latitude>20.8333333</latitude>
+    <longitude>-17.1</longitude>
+  </city>
+  <city name="La Aguerra">
+    <latitude>20.8333333</latitude>
+    <longitude>-17.1</longitude>
+  </city>
+  <city name="La Aquera">
+    <latitude>20.8333333</latitude>
+    <longitude>-17.1</longitude>
+  </city>
+  <city name="Laayoune">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="Laayoune Plage">
+    <latitude>27.0961111</latitude>
+    <longitude>-13.4158333</longitude>
+  </city>
+  <city name="La Güera">
+    <latitude>20.8333333</latitude>
+    <longitude>-17.1</longitude>
+  </city>
+  <city name="La'Youn">
+    <latitude>27.1536111</latitude>
+    <longitude>-13.2033333</longitude>
+  </city>
+  <city name="Lemsid">
+    <latitude>26.55</latitude>
+    <longitude>-13.85</longitude>
+  </city>
+  <city name="Mahbés">
+    <latitude>27.1666667</latitude>
+    <longitude>-9.8333333</longitude>
+  </city>
+  <city name="Metmárfag">
+    <latitude>26.4333333</latitude>
+    <longitude>-13.4333333</longitude>
+  </city>
+  <city name="Oum Dreyga">
+    <latitude>24.1666667</latitude>
+    <longitude>-13.25</longitude>
+  </city>
+  <city name="Piedra del Kaisser">
+    <latitude>27.2333333</latitude>
+    <longitude>-11.7833333</longitude>
+  </city>
+  <city name="Playa de Aaiún">
+    <latitude>27.0961111</latitude>
+    <longitude>-13.4158333</longitude>
+  </city>
+  <city name="Playa del Aaiun">
+    <latitude>27.0961111</latitude>
+    <longitude>-13.4158333</longitude>
+  </city>
+  <city name="Samlat el Hafad">
+    <latitude>27.4333333</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Semara">
+    <latitude>26.7333333</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="Smara">
+    <latitude>26.7333333</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="Smar">
+    <latitude>26.7333333</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="Sug">
+    <latitude>21.6</latitude>
+    <longitude>-14.15</longitude>
+  </city>
+  <city name="Tichla">
+    <latitude>21.6</latitude>
+    <longitude>-14.9666667</longitude>
+  </city>
+  <city name="Tifarita">
+    <latitude>26.15</latitude>
+    <longitude>-10.55</longitude>
+  </city>
+  <city name="Tifariti">
+    <latitude>26.15</latitude>
+    <longitude>-10.55</longitude>
+  </city>
+  <city name="Uad Damran">
+    <latitude>27.4625</latitude>
+    <longitude>-12.9922222</longitude>
+  </city>
+  <city name="Uad el Bir">
+    <latitude>23.8833333</latitude>
+    <longitude>-14.5333333</longitude>
+  </city>
+  <city name="Uad Guenifa">
+    <latitude>20.8333333</latitude>
+    <longitude>-17.1</longitude>
+  </city>
+  <city name="Villa Cisneras">
+    <latitude>23.7</latitude>
+    <longitude>-15.9333333</longitude>
+  </city>
+  <city name="Villa Cisneros">
+    <latitude>23.7</latitude>
+    <longitude>-15.9333333</longitude>
+  </city>
+  <city name="Zoug">
+    <latitude>21.6</latitude>
+    <longitude>-14.15</longitude>
+  </city>
+  <city name="Zug">
+    <latitude>21.6</latitude>
+    <longitude>-14.15</longitude>
+  </city>
+</country>

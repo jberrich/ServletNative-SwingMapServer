@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="sh" name="Sainte Hélène">
+  <city name="Deadwood">
+    <latitude>-15.9333333</latitude>
+    <longitude>-5.6833333</longitude>
+  </city>
+  <city name="Edinburgh">
+    <latitude>-37.05</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Georgetown">
+    <latitude>-7.9333333</latitude>
+    <longitude>-14.4166667</longitude>
+  </city>
+  <city name="Half Tree Hollow">
+    <latitude>-15.9333333</latitude>
+    <longitude>-5.7166667</longitude>
+  </city>
+  <city name="Hutts Gate">
+    <latitude>-15.9666667</latitude>
+    <longitude>-5.7</longitude>
+  </city>
+  <city name="Jamestown">
+    <latitude>-15.9333333</latitude>
+    <longitude>-5.7166667</longitude>
+  </city>
+  <city name="Levelwood">
+    <latitude>-15.9666667</latitude>
+    <longitude>-5.6833333</longitude>
+  </city>
+  <city name="Longwood">
+    <latitude>-15.95</latitude>
+    <longitude>-5.6833333</longitude>
+  </city>
+  <city name="New Ground">
+    <latitude>-15.9333333</latitude>
+    <longitude>-5.7333333</longitude>
+  </city>
+  <city name="Settlement of Edinburgh">
+    <latitude>-37.05</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Taglate">
+    <latitude>-15.9666667</latitude>
+    <longitude>-5.6833333</longitude>
+  </city>
+  <city name="Thornton">
+    <latitude>-7.9333333</latitude>
+    <longitude>-14.4166667</longitude>
+  </city>
+  <city name="Tristan Island Settlement">
+    <latitude>-37.05</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Tristan Settlement">
+    <latitude>-37.05</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Two Boats Village">
+    <latitude>-7.9883333</latitude>
+    <longitude>-14.3661111</longitude>
+  </city>
+  <city name="Wild Cattle Pound">
+    <latitude>-16.9833333</latitude>
+    <longitude>-5.7666667</longitude>
+  </city>
+</country>

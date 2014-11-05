@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="fk" name="Falkland (Île)">
+  <city name="Anson">
+    <latitude>-51.5166667</latitude>
+    <longitude>-58.1166667</longitude>
+  </city>
+  <city name="Bahia Fox">
+    <latitude>-51.95</latitude>
+    <longitude>-60.0333333</longitude>
+  </city>
+  <city name="Beaver Settlement">
+    <latitude>-51.8583333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Bluff Cove">
+    <latitude>-51.75</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Bluff Cove Settlement">
+    <latitude>-51.75</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Bombilia House">
+    <latitude>-51.5166667</latitude>
+    <longitude>-58.7</longitude>
+  </city>
+  <city name="Burnside House">
+    <latitude>-51.7833333</latitude>
+    <longitude>-58.9333333</longitude>
+  </city>
+  <city name="Campo Verde">
+    <latitude>-51.5333333</latitude>
+    <longitude>-58.9666667</longitude>
+  </city>
+  <city name="Camp Verde">
+    <latitude>-51.5333333</latitude>
+    <longitude>-58.9666667</longitude>
+  </city>
+  <city name="Cantera de Arena">
+    <latitude>-51.4833333</latitude>
+    <longitude>-58.75</longitude>
+  </city>
+  <city name="Carcass Island Settlement">
+    <latitude>-51.2833333</latitude>
+    <longitude>-60.55</longitude>
+  </city>
+  <city name="Ceritos">
+    <latitude>-51.7166667</latitude>
+    <longitude>-58.85</longitude>
+  </city>
+  <city name="Cerritos">
+    <latitude>-51.7166667</latitude>
+    <longitude>-58.85</longitude>
+  </city>
+  <city name="Chartres">
+    <latitude>-51.7</latitude>
+    <longitude>-60.0666667</longitude>
+  </city>
+  <city name="Chartres Settlement">
+    <latitude>-51.7</latitude>
+    <longitude>-60.0666667</longitude>
+  </city>
+  <city name="Cranmer">
+    <latitude>-51.3333333</latitude>
+    <longitude>-59.9333333</longitude>
+  </city>
+  <city name="Darwin">
+    <latitude>-51.8</latitude>
+    <longitude>-58.9833333</longitude>
+  </city>
+  <city name="Darwin Settlement">
+    <latitude>-51.8</latitude>
+    <longitude>-58.9833333</longitude>
+  </city>
+  <city name="Dos Lomas">
+    <latitude>-51.7833333</latitude>
+    <longitude>-59.25</longitude>
+  </city>
+  <city name="Douglas Settlement">
+    <latitude>-51.45</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Douglas Station">
+    <latitude>-51.45</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Dunnose Head">
+    <latitude>-51.7333333</latitude>
+    <longitude>-60.4</longitude>
+  </city>
+  <city name="Dunnose Head Settlement">
+    <latitude>-51.7333333</latitude>
+    <longitude>-60.4</longitude>
+  </city>
+  <city name="East Settlement">
+    <latitude>-51.95</latitude>
+    <longitude>-60.0333333</longitude>
+  </city>
+  <city name="Estancia House">
+    <latitude>-51.6666667</latitude>
+    <longitude>-58.2166667</longitude>
+  </city>
+  <city name="Evelyn Station">
+    <latitude>-51.5666667</latitude>
+    <longitude>-58.4166667</longitude>
+  </city>
+  <city name="Fitzroy">
+    <latitude>-51.7833333</latitude>
+    <longitude>-58.2333333</longitude>
+  </city>
+  <city name="Fitzroy North">
+    <latitude>-51.7333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Fitzroy Settlement">
+    <latitude>-51.7833333</latitude>
+    <longitude>-58.2333333</longitude>
+  </city>
+  <city name="Fitzroy South">
+    <latitude>-51.7833333</latitude>
+    <longitude>-58.2333333</longitude>
+  </city>
+  <city name="Foam Creek House">
+    <latitude>-51.4666667</latitude>
+    <longitude>-58.3166667</longitude>
+  </city>
+  <city name="Foam Creek Settlement">
+    <latitude>-51.4666667</latitude>
+    <longitude>-58.3166667</longitude>
+  </city>
+  <city name="Fox Bay East Settlement">
+    <latitude>-51.95</latitude>
+    <longitude>-60.0333333</longitude>
+  </city>
+  <city name="Fox Bay West Settlement">
+    <latitude>-51.95</latitude>
+    <longitude>-60.1</longitude>
+  </city>
+  <city name="Goose Green">
+    <latitude>-51.8166667</latitude>
+    <longitude>-58.9666667</longitude>
+  </city>
+  <city name="Goose Green Settlement">
+    <latitude>-51.8166667</latitude>
+    <longitude>-58.9666667</longitude>
+  </city>
+  <city name="Green Patch Settlement">
+    <latitude>-51.55</latitude>
+    <longitude>-58.1166667</longitude>
+  </city>
+  <city name="Hill Cove">
+    <latitude>-51.5</latitude>
+    <longitude>-60.15</longitude>
+  </city>
+  <city name="Hope Cottage">
+    <latitude>-51.8166667</latitude>
+    <longitude>-59.3166667</longitude>
+  </city>
+  <city name="Horqueta">
+    <latitude>-51.8666667</latitude>
+    <longitude>-59.2333333</longitude>
+  </city>
+  <city name="Horseshoe Bay">
+    <latitude>-51.5333333</latitude>
+    <longitude>-58.2166667</longitude>
+  </city>
+  <city name="Johnson Harbour Settlement">
+    <latitude>-51.4833333</latitude>
+    <longitude>-58.0333333</longitude>
+  </city>
+  <city name="Johnsons Harbour">
+    <latitude>-51.5</latitude>
+    <longitude>-58.0333333</longitude>
+  </city>
+  <city name="Keppel Settlement">
+    <latitude>-51.3166667</latitude>
+    <longitude>-59.9333333</longitude>
+  </city>
+  <city name="Lively Settlement">
+    <latitude>-51.9833333</latitude>
+    <longitude>-58.45</longitude>
+  </city>
+  <city name="Mare Harbour Rancho">
+    <latitude>-51.9</latitude>
+    <longitude>-58.4</longitude>
+  </city>
+  <city name="Mariqueta">
+    <latitude>-51.9</latitude>
+    <longitude>-59.4</longitude>
+  </city>
+  <city name="Mariquita">
+    <latitude>-51.9</latitude>
+    <longitude>-59.4</longitude>
+  </city>
+  <city name="Mid Rancho">
+    <latitude>-51.8333333</latitude>
+    <longitude>-58.6</longitude>
+  </city>
+  <city name="New Island Settlement">
+    <latitude>-51.7166667</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="North Arm">
+    <latitude>-52.1</latitude>
+    <longitude>-59.35</longitude>
+  </city>
+  <city name="North Arm Settlement">
+    <latitude>-52.1</latitude>
+    <longitude>-59.35</longitude>
+  </city>
+  <city name="Orqueta">
+    <latitude>-51.8666667</latitude>
+    <longitude>-59.2333333</longitude>
+  </city>
+  <city name="Pebble Island Farm">
+    <latitude>-51.3166667</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Pebble Island Settlement">
+    <latitude>-51.3166667</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Piedra Sola">
+    <latitude>-51.5333333</latitude>
+    <longitude>-58.7666667</longitude>
+  </city>
+  <city name="Port Howard">
+    <latitude>-51.6166667</latitude>
+    <longitude>-59.5</longitude>
+  </city>
+  <city name="Port Louis">
+    <latitude>-51.5166667</latitude>
+    <longitude>-58.1166667</longitude>
+  </city>
+  <city name="Port Louis Settlement">
+    <latitude>-51.5166667</latitude>
+    <longitude>-58.1166667</longitude>
+  </city>
+  <city name="Port Louis South">
+    <latitude>-51.6</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Port San Carlos">
+    <latitude>-51.5</latitude>
+    <longitude>-58.9833333</longitude>
+  </city>
+  <city name="Port San Carlos Settlement">
+    <latitude>-51.5</latitude>
+    <longitude>-58.9833333</longitude>
+  </city>
+  <city name="Port Stanley">
+    <latitude>-51.7</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Port Stephens">
+    <latitude>-52.0833333</latitude>
+    <longitude>-60.8166667</longitude>
+  </city>
+  <city name="Port Stephens Settlement">
+    <latitude>-52.0833333</latitude>
+    <longitude>-60.8166667</longitude>
+  </city>
+  <city name="Rincon Grande">
+    <latitude>-51.4833333</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Rincon Grande Settlement">
+    <latitude>-51.4833333</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Roy Cove">
+    <latitude>-51.5333333</latitude>
+    <longitude>-60.3833333</longitude>
+  </city>
+  <city name="Roy Cove Settlement">
+    <latitude>-51.5333333</latitude>
+    <longitude>-60.3833333</longitude>
+  </city>
+  <city name="Saint Louis">
+    <latitude>-51.5166667</latitude>
+    <longitude>-58.1166667</longitude>
+  </city>
+  <city name="Salvador">
+    <latitude>-51.4666667</latitude>
+    <longitude>-58.3666667</longitude>
+  </city>
+  <city name="Salvador Settlement Corral">
+    <latitude>-51.4666667</latitude>
+    <longitude>-58.3666667</longitude>
+  </city>
+  <city name="Salvador Settlement">
+    <latitude>-51.4666667</latitude>
+    <longitude>-58.3666667</longitude>
+  </city>
+  <city name="San Carlos Estate">
+    <latitude>-51.5666667</latitude>
+    <longitude>-59.0166667</longitude>
+  </city>
+  <city name="San Carlos">
+    <latitude>-51.5666667</latitude>
+    <longitude>-59.0166667</longitude>
+  </city>
+  <city name="San Carlos Settlement">
+    <latitude>-51.5666667</latitude>
+    <longitude>-59.0166667</longitude>
+  </city>
+  <city name="Sand Fountain">
+    <latitude>-51.4833333</latitude>
+    <longitude>-58.75</longitude>
+  </city>
+  <city name="Saunders Island Settlement">
+    <latitude>-51.3666667</latitude>
+    <longitude>-60.0833333</longitude>
+  </city>
+  <city name="Soledad">
+    <latitude>-51.5166667</latitude>
+    <longitude>-58.1166667</longitude>
+  </city>
+  <city name="Speedwell Island Settlement">
+    <latitude>-52.2166667</latitude>
+    <longitude>-59.6833333</longitude>
+  </city>
+  <city name="Spring Point Settlement">
+    <latitude>-51.8166667</latitude>
+    <longitude>-60.45</longitude>
+  </city>
+  <city name="Spring Point">
+    <latitude>-51.8166667</latitude>
+    <longitude>-60.45</longitude>
+  </city>
+  <city name="Stanley Harbour">
+    <latitude>-51.7</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Stanley">
+    <latitude>-51.7</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Teal Inlet Settlement">
+    <latitude>-51.5666667</latitude>
+    <longitude>-58.4166667</longitude>
+  </city>
+  <city name="Teal Inlet">
+    <latitude>-51.5666667</latitude>
+    <longitude>-58.4166667</longitude>
+  </city>
+  <city name="Tranquilidad">
+    <latitude>-51.7666667</latitude>
+    <longitude>-59.15</longitude>
+  </city>
+  <city name="Walker Creek">
+    <latitude>-51.9666667</latitude>
+    <longitude>-58.7666667</longitude>
+  </city>
+  <city name="Weddell Settlement">
+    <latitude>-52.8833333</latitude>
+    <longitude>-60.9</longitude>
+  </city>
+  <city name="Westpoint Island Settlement">
+    <latitude>-51.35</latitude>
+    <longitude>-60.6833333</longitude>
+  </city>
+  <city name="West Settlement">
+    <latitude>-51.95</latitude>
+    <longitude>-60.1</longitude>
+  </city>
+</country>

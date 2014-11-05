@@ -1,0 +1,4271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="np" name="Nepal">
+  <city name="Achham">
+    <latitude>29.05</latitude>
+    <longitude>81.3</longitude>
+  </city>
+  <city name="Aiselukharka">
+    <latitude>27.35</latitude>
+    <longitude>86.75</longitude>
+  </city>
+  <city name="Aisvalukharka">
+    <latitude>27.35</latitude>
+    <longitude>86.75</longitude>
+  </city>
+  <city name="Aisyalukharka">
+    <latitude>27.35</latitude>
+    <longitude>86.75</longitude>
+  </city>
+  <city name="Amardaha">
+    <latitude>26.5333333</latitude>
+    <longitude>87.5666667</longitude>
+  </city>
+  <city name="Amariya">
+    <latitude>28.6833333</latitude>
+    <longitude>80.4333333</longitude>
+  </city>
+  <city name="Amile">
+    <latitude>27.9666667</latitude>
+    <longitude>82.2</longitude>
+  </city>
+  <city name="Amlekganj">
+    <latitude>27.2833333</latitude>
+    <longitude>84.9833333</longitude>
+  </city>
+  <city name="Amlekhagang">
+    <latitude>27.2833333</latitude>
+    <longitude>84.9833333</longitude>
+  </city>
+  <city name="Amlekhgang">
+    <latitude>27.2833333</latitude>
+    <longitude>84.9833333</longitude>
+  </city>
+  <city name="Amlekhganj">
+    <latitude>27.2833333</latitude>
+    <longitude>84.9833333</longitude>
+  </city>
+  <city name="Amlekhsagunz">
+    <latitude>27.2833333</latitude>
+    <longitude>84.9833333</longitude>
+  </city>
+  <city name="Amlia">
+    <latitude>28.7833333</latitude>
+    <longitude>80.25</longitude>
+  </city>
+  <city name="Amraia">
+    <latitude>28.6833333</latitude>
+    <longitude>80.4333333</longitude>
+  </city>
+  <city name="Andia">
+    <latitude>28.7833333</latitude>
+    <longitude>80.25</longitude>
+  </city>
+  <city name="Andrauli">
+    <latitude>27.5666667</latitude>
+    <longitude>84.1833333</longitude>
+  </city>
+  <city name="Angbung">
+    <latitude>27.2666667</latitude>
+    <longitude>87.7333333</longitude>
+  </city>
+  <city name="Arghakot">
+    <latitude>28.0166667</latitude>
+    <longitude>83.1</longitude>
+  </city>
+  <city name="Arughat Bazar">
+    <latitude>28.05</latitude>
+    <longitude>84.8</longitude>
+  </city>
+  <city name="Asaina">
+    <latitude>28.8833333</latitude>
+    <longitude>80.3333333</longitude>
+  </city>
+  <city name="Ataria">
+    <latitude>28.8</latitude>
+    <longitude>80.5666667</longitude>
+  </city>
+  <city name="Athmauza">
+    <latitude>26.45</latitude>
+    <longitude>87.6833333</longitude>
+  </city>
+  <city name="Athpali">
+    <latitude>29.65</latitude>
+    <longitude>80.8166667</longitude>
+  </city>
+  <city name="Atrauli">
+    <latitude>27.1</latitude>
+    <longitude>85.6166667</longitude>
+  </city>
+  <city name="Aulgurta">
+    <latitude>28.9166667</latitude>
+    <longitude>82.5</longitude>
+  </city>
+  <city name="Autaria">
+    <latitude>28.8</latitude>
+    <longitude>80.5666667</longitude>
+  </city>
+  <city name="Bachhuwa">
+    <latitude>28.8166667</latitude>
+    <longitude>80.25</longitude>
+  </city>
+  <city name="Badagaon">
+    <latitude>27.6833333</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Badiarpatti">
+    <latitude>26.6333333</latitude>
+    <longitude>86.3333333</longitude>
+  </city>
+  <city name="Bagar">
+    <latitude>29.05</latitude>
+    <longitude>80.75</longitude>
+  </city>
+  <city name="Bagarchhap">
+    <latitude>28.5166667</latitude>
+    <longitude>84.35</longitude>
+  </city>
+  <city name="Baglung">
+    <latitude>28.2666667</latitude>
+    <longitude>83.6</longitude>
+  </city>
+  <city name="Baglung Bazar">
+    <latitude>28.2666667</latitude>
+    <longitude>83.6</longitude>
+  </city>
+  <city name="Bahadurganj">
+    <latitude>27.5333333</latitude>
+    <longitude>82.8333333</longitude>
+  </city>
+  <city name="Bahairawah">
+    <latitude>27.6833333</latitude>
+    <longitude>83.4166667</longitude>
+  </city>
+  <city name="Bahasi">
+    <latitude>28.9666667</latitude>
+    <longitude>80.2</longitude>
+  </city>
+  <city name="Bahrabise">
+    <latitude>27.7833333</latitude>
+    <longitude>85.9</longitude>
+  </city>
+  <city name="Baijnathpurwa">
+    <latitude>28.1666667</latitude>
+    <longitude>81.6666667</longitude>
+  </city>
+  <city name="Bailikot">
+    <latitude>28.1166667</latitude>
+    <longitude>82.5333333</longitude>
+  </city>
+  <city name="Baindoli">
+    <latitude>28.65</latitude>
+    <longitude>80.8</longitude>
+  </city>
+  <city name="Bairia">
+    <latitude>27.0</latitude>
+    <longitude>85.3833333</longitude>
+  </city>
+  <city name="Baitadi">
+    <latitude>29.5333333</latitude>
+    <longitude>80.4333333</longitude>
+  </city>
+  <city name="Bajang">
+    <latitude>29.5333333</latitude>
+    <longitude>81.0833333</longitude>
+  </city>
+  <city name="Bajhang">
+    <latitude>29.5333333</latitude>
+    <longitude>81.0833333</longitude>
+  </city>
+  <city name="Bajura">
+    <latitude>29.3833333</latitude>
+    <longitude>81.3166667</longitude>
+  </city>
+  <city name="Bakarkot">
+    <latitude>29.3</latitude>
+    <longitude>80.5166667</longitude>
+  </city>
+  <city name="Bakhri Kharka">
+    <latitude>28.3666667</latitude>
+    <longitude>84.1166667</longitude>
+  </city>
+  <city name="Balaju">
+    <latitude>27.7333333</latitude>
+    <longitude>85.3</longitude>
+  </city>
+  <city name="Balapur">
+    <latitude>28.1</latitude>
+    <longitude>82.2333333</longitude>
+  </city>
+  <city name="Baldenggarhi">
+    <latitude>27.8166667</latitude>
+    <longitude>83.3166667</longitude>
+  </city>
+  <city name="Balkot">
+    <latitude>27.9666667</latitude>
+    <longitude>83.2333333</longitude>
+  </city>
+  <city name="Balma">
+    <latitude>28.85</latitude>
+    <longitude>80.1333333</longitude>
+  </city>
+  <city name="Banasawar">
+    <latitude>27.6833333</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Banda">
+    <latitude>28.8666667</latitude>
+    <longitude>80.4333333</longitude>
+  </city>
+  <city name="Bandadandi">
+    <latitude>28.7166667</latitude>
+    <longitude>80.5666667</longitude>
+  </city>
+  <city name="Bandi">
+    <latitude>28.8666667</latitude>
+    <longitude>80.4333333</longitude>
+  </city>
+  <city name="Bandichhap">
+    <latitude>27.9</latitude>
+    <longitude>84.0666667</longitude>
+  </city>
+  <city name="Bandipur">
+    <latitude>27.9333333</latitude>
+    <longitude>84.4166667</longitude>
+  </city>
+  <city name="Banepa">
+    <latitude>27.6333333</latitude>
+    <longitude>85.5166667</longitude>
+  </city>
+  <city name="Banepa Bazar">
+    <latitude>27.6333333</latitude>
+    <longitude>85.5166667</longitude>
+  </city>
+  <city name="Baneshore">
+    <latitude>27.6833333</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Baneshwar">
+    <latitude>27.6833333</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Baneswar">
+    <latitude>27.6833333</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Bangahi">
+    <latitude>27.7</latitude>
+    <longitude>83.15</longitude>
+  </city>
+  <city name="Banke">
+    <latitude>28.0333333</latitude>
+    <longitude>81.6166667</longitude>
+  </city>
+  <city name="Bansangu">
+    <latitude>27.7666667</latitude>
+    <longitude>85.8833333</longitude>
+  </city>
+  <city name="Banskot">
+    <latitude>28.1333333</latitude>
+    <longitude>83.5166667</longitude>
+  </city>
+  <city name="Banspani">
+    <latitude>28.5333333</latitude>
+    <longitude>81.4833333</longitude>
+  </city>
+  <city name="Baraban">
+    <latitude>28.75</latitude>
+    <longitude>82.0333333</longitude>
+  </city>
+  <city name="Barabise">
+    <latitude>27.55</latitude>
+    <longitude>86.1</longitude>
+  </city>
+  <city name="Barachbise">
+    <latitude>27.7833333</latitude>
+    <longitude>85.9</longitude>
+  </city>
+  <city name="Barahbise">
+    <latitude>27.7833333</latitude>
+    <longitude>85.9</longitude>
+  </city>
+  <city name="Barang">
+    <latitude>28.15</latitude>
+    <longitude>85.05</longitude>
+  </city>
+  <city name="Baratpur">
+    <latitude>27.5666667</latitude>
+    <longitude>84.1666667</longitude>
+  </city>
+  <city name="Barbatta">
+    <latitude>28.8</latitude>
+    <longitude>80.25</longitude>
+  </city>
+  <city name="Bardanda">
+    <latitude>27.9666667</latitude>
+    <longitude>82.8166667</longitude>
+  </city>
+  <city name="Bardia">
+    <latitude>28.3</latitude>
+    <longitude>81.3666667</longitude>
+  </city>
+  <city name="Bardiya">
+    <latitude>28.3</latitude>
+    <longitude>81.3666667</longitude>
+  </city>
+  <city name="Barewa">
+    <latitude>27.5166667</latitude>
+    <longitude>83.3666667</longitude>
+  </city>
+  <city name="Bargaon">
+    <latitude>28.7</latitude>
+    <longitude>82.45</longitude>
+  </city>
+  <city name="Barhamjia">
+    <latitude>26.5833333</latitude>
+    <longitude>86.9</longitude>
+  </city>
+  <city name="Barhara">
+    <latitude>26.6</latitude>
+    <longitude>86.8833333</longitude>
+  </city>
+  <city name="Barikot">
+    <latitude>28.9666667</latitude>
+    <longitude>82.25</longitude>
+  </city>
+  <city name="Barmdeo Mandi">
+    <latitude>29.1</latitude>
+    <longitude>80.15</longitude>
+  </city>
+  <city name="Barnideo Mandi">
+    <latitude>29.1</latitude>
+    <longitude>80.15</longitude>
+  </city>
+  <city name="Bartar">
+    <latitude>28.1166667</latitude>
+    <longitude>84.4333333</longitude>
+  </city>
+  <city name="Basbeti">
+    <latitude>26.7</latitude>
+    <longitude>87.2166667</longitude>
+  </city>
+  <city name="Batar Bazar">
+    <latitude>27.9</latitude>
+    <longitude>85.1666667</longitude>
+  </city>
+  <city name="Bathala">
+    <latitude>28.05</latitude>
+    <longitude>84.0666667</longitude>
+  </city>
+  <city name="Batra">
+    <latitude>26.9666667</latitude>
+    <longitude>85.15</longitude>
+  </city>
+  <city name="Battar">
+    <latitude>27.9</latitude>
+    <longitude>85.1666667</longitude>
+  </city>
+  <city name="Batter">
+    <latitude>27.9</latitude>
+    <longitude>85.1666667</longitude>
+  </city>
+  <city name="Baudha">
+    <latitude>27.7166667</latitude>
+    <longitude>85.3666667</longitude>
+  </city>
+  <city name="Baudhatinchule">
+    <latitude>27.7166667</latitude>
+    <longitude>85.3666667</longitude>
+  </city>
+  <city name="Baugachia">
+    <latitude>27.7</latitude>
+    <longitude>83.15</longitude>
+  </city>
+  <city name="Beding">
+    <latitude>27.9</latitude>
+    <longitude>86.3666667</longitude>
+  </city>
+  <city name="Bela">
+    <latitude>28.35</latitude>
+    <longitude>81.2833333</longitude>
+  </city>
+  <city name="Belahia">
+    <latitude>27.3333333</latitude>
+    <longitude>83.5166667</longitude>
+  </city>
+  <city name="Belani">
+    <latitude>27.6833333</latitude>
+    <longitude>84.05</longitude>
+  </city>
+  <city name="Belbhar">
+    <latitude>28.2666667</latitude>
+    <longitude>81.3833333</longitude>
+  </city>
+  <city name="Belgaon">
+    <latitude>28.9666667</latitude>
+    <longitude>81.0333333</longitude>
+  </city>
+  <city name="Beluwa">
+    <latitude>27.5333333</latitude>
+    <longitude>84.8166667</longitude>
+  </city>
+  <city name="Belwa">
+    <latitude>28.35</latitude>
+    <longitude>81.2833333</longitude>
+  </city>
+  <city name="Beni">
+    <latitude>28.35</latitude>
+    <longitude>83.5666667</longitude>
+  </city>
+  <city name="Beni Ghat">
+    <latitude>27.35</latitude>
+    <longitude>85.9833333</longitude>
+  </city>
+  <city name="Benighat">
+    <latitude>27.8166667</latitude>
+    <longitude>84.7833333</longitude>
+  </city>
+  <city name="Berhampuri">
+    <latitude>26.7166667</latitude>
+    <longitude>86.2833333</longitude>
+  </city>
+  <city name="Beteni">
+    <latitude>28.3666667</latitude>
+    <longitude>81.8833333</longitude>
+  </city>
+  <city name="Bethari">
+    <latitude>27.5333333</latitude>
+    <longitude>83.3833333</longitude>
+  </city>
+  <city name="Betrawati">
+    <latitude>27.9833333</latitude>
+    <longitude>85.1833333</longitude>
+  </city>
+  <city name="Bhada">
+    <latitude>28.7</latitude>
+    <longitude>80.7333333</longitude>
+  </city>
+  <city name="Bhadgaon">
+    <latitude>27.6833333</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Bhadrapur">
+    <latitude>26.5333333</latitude>
+    <longitude>88.0833333</longitude>
+  </city>
+  <city name="Bhagaura">
+    <latitude>27.45</latitude>
+    <longitude>84.3</longitude>
+  </city>
+  <city name="Bhagwanpur">
+    <latitude>26.6</latitude>
+    <longitude>86.4833333</longitude>
+  </city>
+  <city name="Bhainsaha">
+    <latitude>28.1166667</latitude>
+    <longitude>81.55</longitude>
+  </city>
+  <city name="Bhainse">
+    <latitude>27.5</latitude>
+    <longitude>85.05</longitude>
+  </city>
+  <city name="Bhainse Dobhan">
+    <latitude>27.5</latitude>
+    <longitude>85.05</longitude>
+  </city>
+  <city name="Bhairahawa">
+    <latitude>27.5</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Bhairawa">
+    <latitude>27.5</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Bhairhwa">
+    <latitude>27.5</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Bhairwa">
+    <latitude>27.5</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Bhaise">
+    <latitude>27.95</latitude>
+    <longitude>85.95</longitude>
+  </city>
+  <city name="Bhajni">
+    <latitude>28.4833333</latitude>
+    <longitude>80.9666667</longitude>
+  </city>
+  <city name="Bhaktapur">
+    <latitude>27.6666667</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Bhandar">
+    <latitude>27.5833333</latitude>
+    <longitude>86.35</longitude>
+  </city>
+  <city name="Bhandari">
+    <latitude>29.2666667</latitude>
+    <longitude>80.3333333</longitude>
+  </city>
+  <city name="Bharatpur">
+    <latitude>27.6833333</latitude>
+    <longitude>84.4333333</longitude>
+  </city>
+  <city name="Bhartabas">
+    <latitude>27.75</latitude>
+    <longitude>83.1166667</longitude>
+  </city>
+  <city name="Bhata">
+    <latitude>27.3166667</latitude>
+    <longitude>84.7833333</longitude>
+  </city>
+  <city name="Bhataulia">
+    <latitude>26.8166667</latitude>
+    <longitude>85.4333333</longitude>
+  </city>
+  <city name="Bhatgaon">
+    <latitude>27.6833333</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Bhatgoan">
+    <latitude>27.6833333</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Bhawanipur">
+    <latitude>27.9833333</latitude>
+    <longitude>82.1166667</longitude>
+  </city>
+  <city name="Bhikhna Tdjori">
+    <latitude>27.35</latitude>
+    <longitude>84.6166667</longitude>
+  </city>
+  <city name="Bhikhna Thori">
+    <latitude>27.35</latitude>
+    <longitude>84.6166667</longitude>
+  </city>
+  <city name="Bhikna Thori">
+    <latitude>27.35</latitude>
+    <longitude>84.6166667</longitude>
+  </city>
+  <city name="Bhimpedi">
+    <latitude>27.5333333</latitude>
+    <longitude>85.1166667</longitude>
+  </city>
+  <city name="Bhimphedi">
+    <latitude>27.5333333</latitude>
+    <longitude>85.1166667</longitude>
+  </city>
+  <city name="Bhingrigaon">
+    <latitude>28.15</latitude>
+    <longitude>82.7166667</longitude>
+  </city>
+  <city name="Bhirahawa">
+    <latitude>27.6833333</latitude>
+    <longitude>83.4166667</longitude>
+  </city>
+  <city name="Bhitania">
+    <latitude>28.7166667</latitude>
+    <longitude>80.8333333</longitude>
+  </city>
+  <city name="Bhojpur">
+    <latitude>27.1666667</latitude>
+    <longitude>87.05</longitude>
+  </city>
+  <city name="Bholi">
+    <latitude>29.35</latitude>
+    <longitude>81.95</longitude>
+  </city>
+  <city name="Bhopatpur">
+    <latitude>28.1833333</latitude>
+    <longitude>81.5666667</longitude>
+  </city>
+  <city name="Bhowa">
+    <latitude>27.9166667</latitude>
+    <longitude>82.0666667</longitude>
+  </city>
+  <city name="Bhujauli">
+    <latitude>27.5833333</latitude>
+    <longitude>83.2</longitude>
+  </city>
+  <city name="Bhurchaur">
+    <latitude>28.6333333</latitude>
+    <longitude>82.0833333</longitude>
+  </city>
+  <city name="Bhurkia">
+    <latitude>28.4666667</latitude>
+    <longitude>81.2833333</longitude>
+  </city>
+  <city name="Bichhuwa">
+    <latitude>28.7666667</latitude>
+    <longitude>80.5166667</longitude>
+  </city>
+  <city name="Bichhuwa Jhala">
+    <latitude>28.8333333</latitude>
+    <longitude>80.25</longitude>
+  </city>
+  <city name="Bijalpura">
+    <latitude>26.9666667</latitude>
+    <longitude>85.8</longitude>
+  </city>
+  <city name="Bijauri">
+    <latitude>28.1</latitude>
+    <longitude>82.3333333</longitude>
+  </city>
+  <city name="Bijulpura">
+    <latitude>26.9666667</latitude>
+    <longitude>85.8</longitude>
+  </city>
+  <city name="Bilauri">
+    <latitude>28.6833333</latitude>
+    <longitude>80.35</longitude>
+  </city>
+  <city name="Bilbhari">
+    <latitude>28.2666667</latitude>
+    <longitude>81.3833333</longitude>
+  </city>
+  <city name="Bimtakothi">
+    <latitude>28.6333333</latitude>
+    <longitude>84.45</longitude>
+  </city>
+  <city name="Binaikgaon">
+    <latitude>29.45</latitude>
+    <longitude>80.3</longitude>
+  </city>
+  <city name="Biprat">
+    <latitude>29.1</latitude>
+    <longitude>81.3166667</longitude>
+  </city>
+  <city name="Biratnagar">
+    <latitude>26.4833333</latitude>
+    <longitude>87.2833333</longitude>
+  </city>
+  <city name="Biratnagur">
+    <latitude>26.4833333</latitude>
+    <longitude>87.2833333</longitude>
+  </city>
+  <city name="Birganj">
+    <latitude>27.0</latitude>
+    <longitude>84.8666667</longitude>
+  </city>
+  <city name="Birgunj">
+    <latitude>27.0</latitude>
+    <longitude>84.8666667</longitude>
+  </city>
+  <city name="Birkot">
+    <latitude>27.85</latitude>
+    <longitude>83.7666667</longitude>
+  </city>
+  <city name="Birta">
+    <latitude>26.7166667</latitude>
+    <longitude>86.05</longitude>
+  </city>
+  <city name="Bishunpura">
+    <latitude>27.4666667</latitude>
+    <longitude>83.5666667</longitude>
+  </city>
+  <city name="Bistbara">
+    <latitude>29.3333333</latitude>
+    <longitude>81.95</longitude>
+  </city>
+  <city name="Bithara">
+    <latitude>29.0166667</latitude>
+    <longitude>80.95</longitude>
+  </city>
+  <city name="Bogri">
+    <latitude>27.4166667</latitude>
+    <longitude>83.3833333</longitude>
+  </city>
+  <city name="Boradandi">
+    <latitude>28.7166667</latitude>
+    <longitude>80.5666667</longitude>
+  </city>
+  <city name="Bramahdeomandi">
+    <latitude>29.1</latitude>
+    <longitude>80.15</longitude>
+  </city>
+  <city name="Bramhadeu Mandi">
+    <latitude>29.1</latitude>
+    <longitude>80.15</longitude>
+  </city>
+  <city name="Bubakone">
+    <latitude>28.5333333</latitude>
+    <longitude>82.5166667</longitude>
+  </city>
+  <city name="Budanilkantha">
+    <latitude>27.7666667</latitude>
+    <longitude>85.3666667</longitude>
+  </city>
+  <city name="Budha-Nilkantha">
+    <latitude>27.7666667</latitude>
+    <longitude>85.3666667</longitude>
+  </city>
+  <city name="Budhbare">
+    <latitude>26.9333333</latitude>
+    <longitude>87.6666667</longitude>
+  </city>
+  <city name="Bungmati">
+    <latitude>27.6333333</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Burathum">
+    <latitude>28.0666667</latitude>
+    <longitude>84.8333333</longitude>
+  </city>
+  <city name="Burhanilkantha">
+    <latitude>27.7666667</latitude>
+    <longitude>85.3666667</longitude>
+  </city>
+  <city name="Buriali">
+    <latitude>28.55</latitude>
+    <longitude>82.0166667</longitude>
+  </city>
+  <city name="Burtibang">
+    <latitude>28.3333333</latitude>
+    <longitude>83.1666667</longitude>
+  </city>
+  <city name="Butaul">
+    <latitude>27.7</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Butwai">
+    <latitude>27.7</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Butwal">
+    <latitude>27.7</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Captainganj">
+    <latitude>26.45</latitude>
+    <longitude>87.1166667</longitude>
+  </city>
+  <city name="Chainpur">
+    <latitude>27.2833333</latitude>
+    <longitude>87.3166667</longitude>
+  </city>
+  <city name="Chaitya">
+    <latitude>27.1</latitude>
+    <longitude>86.8666667</longitude>
+  </city>
+  <city name="Chala">
+    <latitude>29.9833333</latitude>
+    <longitude>81.6</longitude>
+  </city>
+  <city name="Champapur">
+    <latitude>27.6666667</latitude>
+    <longitude>82.95</longitude>
+  </city>
+  <city name="Champpur">
+    <latitude>27.6666667</latitude>
+    <longitude>82.95</longitude>
+  </city>
+  <city name="Chandragadhi">
+    <latitude>26.5833333</latitude>
+    <longitude>88.0666667</longitude>
+  </city>
+  <city name="Chandra Garhi">
+    <latitude>26.5833333</latitude>
+    <longitude>88.0666667</longitude>
+  </city>
+  <city name="Changrang">
+    <latitude>29.0833333</latitude>
+    <longitude>83.9166667</longitude>
+  </city>
+  <city name="Chapagaon">
+    <latitude>27.6</latitude>
+    <longitude>85.3</longitude>
+  </city>
+  <city name="Chapagaun">
+    <latitude>27.6</latitude>
+    <longitude>85.3</longitude>
+  </city>
+  <city name="Chapia">
+    <latitude>27.5333333</latitude>
+    <longitude>83.35</longitude>
+  </city>
+  <city name="Charang">
+    <latitude>29.0833333</latitude>
+    <longitude>83.9166667</longitude>
+  </city>
+  <city name="Charikot">
+    <latitude>27.6666667</latitude>
+    <longitude>86.0333333</longitude>
+  </city>
+  <city name="Chatra">
+    <latitude>26.85</latitude>
+    <longitude>87.1666667</longitude>
+  </city>
+  <city name="Chaturale">
+    <latitude>27.8666667</latitude>
+    <longitude>85.2166667</longitude>
+  </city>
+  <city name="Chaubisho">
+    <latitude>29.8</latitude>
+    <longitude>80.8666667</longitude>
+  </city>
+  <city name="Chaukle">
+    <latitude>28.9</latitude>
+    <longitude>81.2666667</longitude>
+  </city>
+  <city name="Chaukun">
+    <latitude>28.9</latitude>
+    <longitude>81.2666667</longitude>
+  </city>
+  <city name="Chaunrikharka">
+    <latitude>27.6666667</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Chautara">
+    <latitude>27.7666667</latitude>
+    <longitude>85.7</longitude>
+  </city>
+  <city name="Chautha">
+    <latitude>29.4666667</latitude>
+    <longitude>82.1</longitude>
+  </city>
+  <city name="Chepang">
+    <latitude>28.35</latitude>
+    <longitude>81.7</longitude>
+  </city>
+  <city name="Chepti">
+    <latitude>26.7166667</latitude>
+    <longitude>87.8833333</longitude>
+  </city>
+  <city name="Chepua">
+    <latitude>27.75</latitude>
+    <longitude>87.4166667</longitude>
+  </city>
+  <city name="Chepuwa">
+    <latitude>27.75</latitude>
+    <longitude>87.4166667</longitude>
+  </city>
+  <city name="Chhapia">
+    <latitude>27.5333333</latitude>
+    <longitude>83.35</longitude>
+  </city>
+  <city name="Chhapre">
+    <latitude>28.85</latitude>
+    <longitude>81.3833333</longitude>
+  </city>
+  <city name="Chharka Bhot">
+    <latitude>29.0166667</latitude>
+    <longitude>83.3166667</longitude>
+  </city>
+  <city name="Chharkabhotgaon">
+    <latitude>29.0166667</latitude>
+    <longitude>83.3166667</longitude>
+  </city>
+  <city name="Chhibro">
+    <latitude>29.9333333</latitude>
+    <longitude>81.85</longitude>
+  </city>
+  <city name="Chhintapu">
+    <latitude>27.1</latitude>
+    <longitude>87.9166667</longitude>
+  </city>
+  <city name="Chhokang">
+    <latitude>28.5</latitude>
+    <longitude>85.05</longitude>
+  </city>
+  <city name="Chhukgaon">
+    <latitude>28.9166667</latitude>
+    <longitude>83.8333333</longitude>
+  </city>
+  <city name="Chhule">
+    <latitude>27.95</latitude>
+    <longitude>86.6166667</longitude>
+  </city>
+  <city name="Chilankha">
+    <latitude>27.7666667</latitude>
+    <longitude>86.15</longitude>
+  </city>
+  <city name="Chilha">
+    <latitude>27.6166667</latitude>
+    <longitude>84.1166667</longitude>
+  </city>
+  <city name="Chilkha">
+    <latitude>29.1166667</latitude>
+    <longitude>81.7833333</longitude>
+  </city>
+  <city name="Chilkhaya">
+    <latitude>29.1166667</latitude>
+    <longitude>81.7833333</longitude>
+  </city>
+  <city name="Chisapani">
+    <latitude>26.9333333</latitude>
+    <longitude>86.1333333</longitude>
+  </city>
+  <city name="Chisapani Gadhi">
+    <latitude>27.5666667</latitude>
+    <longitude>85.1333333</longitude>
+  </city>
+  <city name="Chisapani Garhi">
+    <latitude>27.5666667</latitude>
+    <longitude>85.1333333</longitude>
+  </city>
+  <city name="Chisopani">
+    <latitude>26.9333333</latitude>
+    <longitude>86.1333333</longitude>
+  </city>
+  <city name="Chiyabari">
+    <latitude>26.8833333</latitude>
+    <longitude>86.55</longitude>
+  </city>
+  <city name="Chobhar">
+    <latitude>27.6666667</latitude>
+    <longitude>85.2833333</longitude>
+  </city>
+  <city name="Chobhor">
+    <latitude>27.6666667</latitude>
+    <longitude>85.2833333</longitude>
+  </city>
+  <city name="Cholpa">
+    <latitude>28.5333333</latitude>
+    <longitude>81.9</longitude>
+  </city>
+  <city name="Chong">
+    <latitude>29.0333333</latitude>
+    <longitude>82.75</longitude>
+  </city>
+  <city name="Choutara">
+    <latitude>27.7666667</latitude>
+    <longitude>85.7</longitude>
+  </city>
+  <city name="Chuchekanda">
+    <latitude>28.7833333</latitude>
+    <longitude>81.05</longitude>
+  </city>
+  <city name="Chukhung">
+    <latitude>27.9</latitude>
+    <longitude>86.8333333</longitude>
+  </city>
+  <city name="Chumik Gyatsa">
+    <latitude>28.8166667</latitude>
+    <longitude>83.8833333</longitude>
+  </city>
+  <city name="Chunemari">
+    <latitude>26.4</latitude>
+    <longitude>87.6333333</longitude>
+  </city>
+  <city name="Chyabari">
+    <latitude>26.8833333</latitude>
+    <longitude>86.55</longitude>
+  </city>
+  <city name="Chyamtang">
+    <latitude>27.7666667</latitude>
+    <longitude>87.4333333</longitude>
+  </city>
+  <city name="Chyangthapu">
+    <latitude>27.2833333</latitude>
+    <longitude>87.95</longitude>
+  </city>
+  <city name="Colonelbari">
+    <latitude>26.6666667</latitude>
+    <longitude>87.95</longitude>
+  </city>
+  <city name="Daban">
+    <latitude>28.2166667</latitude>
+    <longitude>82.4833333</longitude>
+  </city>
+  <city name="Dabhung">
+    <latitude>28.0166667</latitude>
+    <longitude>83.8166667</longitude>
+  </city>
+  <city name="Dadeldhura">
+    <latitude>29.3</latitude>
+    <longitude>80.5833333</longitude>
+  </city>
+  <city name="Dahawa">
+    <latitude>28.1833333</latitude>
+    <longitude>81.5666667</longitude>
+  </city>
+  <city name="Dailekh">
+    <latitude>28.8333333</latitude>
+    <longitude>81.7333333</longitude>
+  </city>
+  <city name="Daiphu">
+    <latitude>29.6166667</latitude>
+    <longitude>82.5666667</longitude>
+  </city>
+  <city name="Dakhakot">
+    <latitude>28.0833333</latitude>
+    <longitude>82.8333333</longitude>
+  </city>
+  <city name="Dakshinkali">
+    <latitude>27.5833333</latitude>
+    <longitude>85.25</longitude>
+  </city>
+  <city name="Dali">
+    <latitude>28.7833333</latitude>
+    <longitude>82.3166667</longitude>
+  </city>
+  <city name="Daliwa">
+    <latitude>28.1833333</latitude>
+    <longitude>81.5666667</longitude>
+  </city>
+  <city name="Dalli">
+    <latitude>28.7833333</latitude>
+    <longitude>82.3166667</longitude>
+  </city>
+  <city name="Dalphu">
+    <latitude>29.6166667</latitude>
+    <longitude>82.5666667</longitude>
+  </city>
+  <city name="Daman">
+    <latitude>27.6833333</latitude>
+    <longitude>85.1166667</longitude>
+  </city>
+  <city name="Damdwali">
+    <latitude>28.2666667</latitude>
+    <longitude>81.9</longitude>
+  </city>
+  <city name="Dana">
+    <latitude>28.5333333</latitude>
+    <longitude>83.6333333</longitude>
+  </city>
+  <city name="Dandakharka">
+    <latitude>26.9833333</latitude>
+    <longitude>87.1166667</longitude>
+  </city>
+  <city name="Dandeldhura">
+    <latitude>29.3</latitude>
+    <longitude>80.5833333</longitude>
+  </city>
+  <city name="Dandelhura">
+    <latitude>29.3</latitude>
+    <longitude>80.5833333</longitude>
+  </city>
+  <city name="Dangarmarwa">
+    <latitude>27.5333333</latitude>
+    <longitude>82.85</longitude>
+  </city>
+  <city name="Dang">
+    <latitude>28.1166667</latitude>
+    <longitude>82.3</longitude>
+  </city>
+  <city name="Dang Deu Khuri">
+    <latitude>28.1166667</latitude>
+    <longitude>82.3</longitude>
+  </city>
+  <city name="Darchula">
+    <latitude>29.85</latitude>
+    <longitude>80.55</longitude>
+  </city>
+  <city name="Daregaunra">
+    <latitude>28.4666667</latitude>
+    <longitude>82.75</longitude>
+  </city>
+  <city name="Darma">
+    <latitude>29.7333333</latitude>
+    <longitude>82.0833333</longitude>
+  </city>
+  <city name="Daura">
+    <latitude>29.6333333</latitude>
+    <longitude>82.45</longitude>
+  </city>
+  <city name="Daurah">
+    <latitude>28.2333333</latitude>
+    <longitude>81.45</longitude>
+  </city>
+  <city name="Deb">
+    <latitude>29.9333333</latitude>
+    <longitude>80.6333333</longitude>
+  </city>
+  <city name="Debichaur">
+    <latitude>27.5833333</latitude>
+    <longitude>84.7</longitude>
+  </city>
+  <city name="Debikot">
+    <latitude>27.8833333</latitude>
+    <longitude>82.7</longitude>
+  </city>
+  <city name="Dekhatbhuli">
+    <latitude>28.8333333</latitude>
+    <longitude>80.4</longitude>
+  </city>
+  <city name="Deomoro">
+    <latitude>29.35</latitude>
+    <longitude>80.6166667</longitude>
+  </city>
+  <city name="Deoraha">
+    <latitude>28.2333333</latitude>
+    <longitude>81.45</longitude>
+  </city>
+  <city name="Deorali">
+    <latitude>28.1166667</latitude>
+    <longitude>84.1666667</longitude>
+  </city>
+  <city name="Dhabai">
+    <latitude>28.7666667</latitude>
+    <longitude>80.7333333</longitude>
+  </city>
+  <city name="Dhading">
+    <latitude>27.8666667</latitude>
+    <longitude>84.9166667</longitude>
+  </city>
+  <city name="Dhakela">
+    <latitude>28.35</latitude>
+    <longitude>81.4666667</longitude>
+  </city>
+  <city name="Dhalkebar">
+    <latitude>26.95</latitude>
+    <longitude>85.8</longitude>
+  </city>
+  <city name="Dhalkewar">
+    <latitude>26.8333333</latitude>
+    <longitude>86.0833333</longitude>
+  </city>
+  <city name="Dhamaura">
+    <latitude>26.7833333</latitude>
+    <longitude>85.8166667</longitude>
+  </city>
+  <city name="Dhangadhi">
+    <latitude>28.6833333</latitude>
+    <longitude>80.6</longitude>
+  </city>
+  <city name="Dhangarhi">
+    <latitude>28.6833333</latitude>
+    <longitude>80.6</longitude>
+  </city>
+  <city name="Dhankuta Bazar">
+    <latitude>26.9833333</latitude>
+    <longitude>87.3333333</longitude>
+  </city>
+  <city name="Dhankuta">
+    <latitude>26.9833333</latitude>
+    <longitude>87.3333333</longitude>
+  </city>
+  <city name="Dhankutta">
+    <latitude>26.9833333</latitude>
+    <longitude>87.3333333</longitude>
+  </city>
+  <city name="Dhantardhi">
+    <latitude>28.6833333</latitude>
+    <longitude>80.6</longitude>
+  </city>
+  <city name="Dhanukha">
+    <latitude>26.8333333</latitude>
+    <longitude>86.0833333</longitude>
+  </city>
+  <city name="Dhap">
+    <latitude>29.8</latitude>
+    <longitude>80.5</longitude>
+  </city>
+  <city name="Dharamnager">
+    <latitude>27.5333333</latitude>
+    <longitude>82.85</longitude>
+  </city>
+  <city name="Dharampur">
+    <latitude>27.75</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Dharan Bazar">
+    <latitude>26.8166667</latitude>
+    <longitude>87.2833333</longitude>
+  </city>
+  <city name="Dharan">
+    <latitude>26.8166667</latitude>
+    <longitude>87.2833333</longitude>
+  </city>
+  <city name="Dharchula">
+    <latitude>29.85</latitude>
+    <longitude>80.55</longitude>
+  </city>
+  <city name="Dharchul">
+    <latitude>29.85</latitude>
+    <longitude>80.55</longitude>
+  </city>
+  <city name="Dharmpur">
+    <latitude>27.75</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Dharot">
+    <latitude>28.15</latitude>
+    <longitude>84.9166667</longitude>
+  </city>
+  <city name="Dharsing">
+    <latitude>27.5333333</latitude>
+    <longitude>85.1</longitude>
+  </city>
+  <city name="Dhik">
+    <latitude>29.6</latitude>
+    <longitude>80.5166667</longitude>
+  </city>
+  <city name="Dhita">
+    <latitude>29.2666667</latitude>
+    <longitude>82.2166667</longitude>
+  </city>
+  <city name="Dhorpatan">
+    <latitude>28.4833333</latitude>
+    <longitude>83.0666667</longitude>
+  </city>
+  <city name="Dhuli">
+    <latitude>29.7833333</latitude>
+    <longitude>81.2833333</longitude>
+  </city>
+  <city name="Dhulikhel">
+    <latitude>27.6166667</latitude>
+    <longitude>85.55</longitude>
+  </city>
+  <city name="Dhunche">
+    <latitude>28.1166667</latitude>
+    <longitude>85.2833333</longitude>
+  </city>
+  <city name="Dhundras">
+    <latitude>28.9333333</latitude>
+    <longitude>81.0833333</longitude>
+  </city>
+  <city name="Dhung">
+    <latitude>29.6</latitude>
+    <longitude>80.7666667</longitude>
+  </city>
+  <city name="Dhungrebas">
+    <latitude>27.2166667</latitude>
+    <longitude>85.9166667</longitude>
+  </city>
+  <city name="Dhurjanna">
+    <latitude>28.5333333</latitude>
+    <longitude>81.0666667</longitude>
+  </city>
+  <city name="Dhurkot">
+    <latitude>28.1166667</latitude>
+    <longitude>83.15</longitude>
+  </city>
+  <city name="Dhursing">
+    <latitude>27.5333333</latitude>
+    <longitude>85.1</longitude>
+  </city>
+  <city name="Digaman">
+    <latitude>29.0666667</latitude>
+    <longitude>80.8333333</longitude>
+  </city>
+  <city name="Diktel Bazar">
+    <latitude>27.2</latitude>
+    <longitude>86.7833333</longitude>
+  </city>
+  <city name="Diktel">
+    <latitude>27.2</latitude>
+    <longitude>86.7833333</longitude>
+  </city>
+  <city name="Dillikot">
+    <latitude>29.0666667</latitude>
+    <longitude>81.75</longitude>
+  </city>
+  <city name="Dingboche">
+    <latitude>27.9</latitude>
+    <longitude>86.8333333</longitude>
+  </city>
+  <city name="Dingla">
+    <latitude>27.05</latitude>
+    <longitude>87.0166667</longitude>
+  </city>
+  <city name="Dingpoche">
+    <latitude>27.9</latitude>
+    <longitude>86.8333333</longitude>
+  </city>
+  <city name="Dobala">
+    <latitude>29.0166667</latitude>
+    <longitude>80.5166667</longitude>
+  </city>
+  <city name="Dobata">
+    <latitude>29.0166667</latitude>
+    <longitude>80.5166667</longitude>
+  </city>
+  <city name="Doglang">
+    <latitude>28.0333333</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Dolakha">
+    <latitude>27.6833333</latitude>
+    <longitude>86.0666667</longitude>
+  </city>
+  <city name="Dolalghat">
+    <latitude>27.65</latitude>
+    <longitude>85.7</longitude>
+  </city>
+  <city name="Dorpattan">
+    <latitude>28.4833333</latitude>
+    <longitude>83.0666667</longitude>
+  </city>
+  <city name="Doti">
+    <latitude>29.2666667</latitude>
+    <longitude>80.9833333</longitude>
+  </city>
+  <city name="Duglha">
+    <latitude>27.9166667</latitude>
+    <longitude>86.8</longitude>
+  </city>
+  <city name="Dugtha">
+    <latitude>27.9166667</latitude>
+    <longitude>86.8</longitude>
+  </city>
+  <city name="Dullu">
+    <latitude>28.8666667</latitude>
+    <longitude>81.6</longitude>
+  </city>
+  <city name="Duman">
+    <latitude>27.6833333</latitude>
+    <longitude>85.1166667</longitude>
+  </city>
+  <city name="Dumja">
+    <latitude>27.4333333</latitude>
+    <longitude>85.8166667</longitude>
+  </city>
+  <city name="Dumrichaur">
+    <latitude>27.9833333</latitude>
+    <longitude>83.6</longitude>
+  </city>
+  <city name="Dumuhan">
+    <latitude>27.35</latitude>
+    <longitude>87.6166667</longitude>
+  </city>
+  <city name="Dunglang">
+    <latitude>28.0333333</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Durgaon">
+    <latitude>28.9</latitude>
+    <longitude>82.8166667</longitude>
+  </city>
+  <city name="Durgoli">
+    <latitude>28.5666667</latitude>
+    <longitude>81.1</longitude>
+  </city>
+  <city name="Fatehpur">
+    <latitude>26.7166667</latitude>
+    <longitude>86.9166667</longitude>
+  </city>
+  <city name="Gadhi">
+    <latitude>26.9333333</latitude>
+    <longitude>86.5166667</longitude>
+  </city>
+  <city name="Gadriya">
+    <latitude>28.65</latitude>
+    <longitude>80.7666667</longitude>
+  </city>
+  <city name="Gaindakanda">
+    <latitude>28.65</latitude>
+    <longitude>81.3166667</longitude>
+  </city>
+  <city name="Gairagaon">
+    <latitude>28.4333333</latitude>
+    <longitude>82.3</longitude>
+  </city>
+  <city name="Gairigaun">
+    <latitude>28.4333333</latitude>
+    <longitude>82.3</longitude>
+  </city>
+  <city name="Galba">
+    <latitude>29.6666667</latitude>
+    <longitude>81.8666667</longitude>
+  </city>
+  <city name="Galkot">
+    <latitude>28.2</latitude>
+    <longitude>83.4166667</longitude>
+  </city>
+  <city name="Galwa">
+    <latitude>29.6666667</latitude>
+    <longitude>81.8666667</longitude>
+  </city>
+  <city name="Galwa Gaun">
+    <latitude>29.6666667</latitude>
+    <longitude>81.8666667</longitude>
+  </city>
+  <city name="Gamphathang">
+    <latitude>27.95</latitude>
+    <longitude>85.8</longitude>
+  </city>
+  <city name="Ganinekanda">
+    <latitude>28.65</latitude>
+    <longitude>81.3166667</longitude>
+  </city>
+  <city name="Ganjri">
+    <latitude>29.4666667</latitude>
+    <longitude>80.7166667</longitude>
+  </city>
+  <city name="Garenkhuti">
+    <latitude>27.95</latitude>
+    <longitude>82.4833333</longitude>
+  </city>
+  <city name="Gaur">
+    <latitude>26.7666667</latitude>
+    <longitude>85.2666667</longitude>
+  </city>
+  <city name="Geta">
+    <latitude>28.75</latitude>
+    <longitude>80.5666667</longitude>
+  </city>
+  <city name="Ghachak">
+    <latitude>28.3166667</latitude>
+    <longitude>83.95</longitude>
+  </city>
+  <city name="Ghanpokhara">
+    <latitude>28.2833333</latitude>
+    <longitude>84.3</longitude>
+  </city>
+  <city name="Ghara">
+    <latitude>29.0833333</latitude>
+    <longitude>84.0166667</longitude>
+  </city>
+  <city name="Ghilinggaon">
+    <latitude>28.9833333</latitude>
+    <longitude>83.8333333</longitude>
+  </city>
+  <city name="Ghoghda">
+    <latitude>29.6166667</latitude>
+    <longitude>81.15</longitude>
+  </city>
+  <city name="Ghorahi">
+    <latitude>28.0333333</latitude>
+    <longitude>82.4833333</longitude>
+  </city>
+  <city name="Ghorai">
+    <latitude>28.0333333</latitude>
+    <longitude>82.4833333</longitude>
+  </city>
+  <city name="Ghumthang">
+    <latitude>27.8666667</latitude>
+    <longitude>85.8666667</longitude>
+  </city>
+  <city name="Ghunsa">
+    <latitude>27.6666667</latitude>
+    <longitude>87.95</longitude>
+  </city>
+  <city name="Ghunthang">
+    <latitude>27.8666667</latitude>
+    <longitude>85.8666667</longitude>
+  </city>
+  <city name="Giri">
+    <latitude>27.6333333</latitude>
+    <longitude>86.2333333</longitude>
+  </city>
+  <city name="Girma">
+    <latitude>27.4666667</latitude>
+    <longitude>83.6666667</longitude>
+  </city>
+  <city name="Godauari">
+    <latitude>27.6</latitude>
+    <longitude>85.4</longitude>
+  </city>
+  <city name="Godavari">
+    <latitude>27.6</latitude>
+    <longitude>85.4</longitude>
+  </city>
+  <city name="Godavri">
+    <latitude>27.6</latitude>
+    <longitude>85.4</longitude>
+  </city>
+  <city name="Godawari">
+    <latitude>27.6</latitude>
+    <longitude>85.4</longitude>
+  </city>
+  <city name="Gogangaon">
+    <latitude>29.2</latitude>
+    <longitude>80.4166667</longitude>
+  </city>
+  <city name="Gogan">
+    <latitude>29.2</latitude>
+    <longitude>80.4166667</longitude>
+  </city>
+  <city name="Golagauri">
+    <latitude>28.5166667</latitude>
+    <longitude>81.2166667</longitude>
+  </city>
+  <city name="Golagowar">
+    <latitude>28.5166667</latitude>
+    <longitude>81.2166667</longitude>
+  </city>
+  <city name="Golapala">
+    <latitude>29.1833333</latitude>
+    <longitude>81.1333333</longitude>
+  </city>
+  <city name="Gongrali">
+    <latitude>28.7</latitude>
+    <longitude>82.7</longitude>
+  </city>
+  <city name="Gopalpur">
+    <latitude>27.1833333</latitude>
+    <longitude>86.1166667</longitude>
+  </city>
+  <city name="Gorakha">
+    <latitude>28.0</latitude>
+    <longitude>84.6333333</longitude>
+  </city>
+  <city name="Gorkha">
+    <latitude>28.0</latitude>
+    <longitude>84.6333333</longitude>
+  </city>
+  <city name="Gorkhe">
+    <latitude>26.95</latitude>
+    <longitude>88.0666667</longitude>
+  </city>
+  <city name="Gosainkund">
+    <latitude>28.0833333</latitude>
+    <longitude>85.4</longitude>
+  </city>
+  <city name="Gotam">
+    <latitude>28.8666667</latitude>
+    <longitude>82.4833333</longitude>
+  </city>
+  <city name="Gotamsiyala">
+    <latitude>28.8666667</latitude>
+    <longitude>82.4833333</longitude>
+  </city>
+  <city name="Gothi">
+    <latitude>28.4333333</latitude>
+    <longitude>81.5166667</longitude>
+  </city>
+  <city name="Gour">
+    <latitude>26.7666667</latitude>
+    <longitude>85.2666667</longitude>
+  </city>
+  <city name="Guani">
+    <latitude>29.0833333</latitude>
+    <longitude>81.1166667</longitude>
+  </city>
+  <city name="Gudel">
+    <latitude>27.5</latitude>
+    <longitude>86.8666667</longitude>
+  </city>
+  <city name="Gularia">
+    <latitude>28.2333333</latitude>
+    <longitude>81.3333333</longitude>
+  </city>
+  <city name="Gulariya">
+    <latitude>28.2333333</latitude>
+    <longitude>81.3333333</longitude>
+  </city>
+  <city name="Gulmikot">
+    <latitude>28.0</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Gulmi Tamghas">
+    <latitude>28.0666667</latitude>
+    <longitude>83.25</longitude>
+  </city>
+  <city name="Gulmi Tanghas">
+    <latitude>28.0666667</latitude>
+    <longitude>83.25</longitude>
+  </city>
+  <city name="Gumbung">
+    <latitude>28.0333333</latitude>
+    <longitude>85.0</longitude>
+  </city>
+  <city name="Gum">
+    <latitude>29.5666667</latitude>
+    <longitude>82.15</longitude>
+  </city>
+  <city name="Gumsha">
+    <latitude>27.6666667</latitude>
+    <longitude>87.95</longitude>
+  </city>
+  <city name="Gunhana">
+    <latitude>28.1333333</latitude>
+    <longitude>81.5333333</longitude>
+  </city>
+  <city name="Gurdham">
+    <latitude>26.8</latitude>
+    <longitude>86.35</longitude>
+  </city>
+  <city name="Gurja">
+    <latitude>28.6</latitude>
+    <longitude>83.2333333</longitude>
+  </city>
+  <city name="Gurjakhana">
+    <latitude>28.6</latitude>
+    <longitude>83.2333333</longitude>
+  </city>
+  <city name="Gurjakhani">
+    <latitude>28.6</latitude>
+    <longitude>83.2333333</longitude>
+  </city>
+  <city name="Gurkha">
+    <latitude>28.0</latitude>
+    <longitude>84.6333333</longitude>
+  </city>
+  <city name="Guthi">
+    <latitude>28.4333333</latitude>
+    <longitude>81.5166667</longitude>
+  </city>
+  <city name="Hajminia">
+    <latitude>26.7833333</latitude>
+    <longitude>85.3</longitude>
+  </city>
+  <city name="Halji">
+    <latitude>30.15</latitude>
+    <longitude>81.5166667</longitude>
+  </city>
+  <city name="Handrung">
+    <latitude>27.3833333</latitude>
+    <longitude>87.6166667</longitude>
+  </city>
+  <city name="Hangsari">
+    <latitude>26.8833333</latitude>
+    <longitude>87.5666667</longitude>
+  </city>
+  <city name="Hanumannagar">
+    <latitude>26.5</latitude>
+    <longitude>86.85</longitude>
+  </city>
+  <city name="Haraincha">
+    <latitude>26.6</latitude>
+    <longitude>87.3666667</longitude>
+  </city>
+  <city name="Hardia Chauki">
+    <latitude>27.3</latitude>
+    <longitude>85.2</longitude>
+  </city>
+  <city name="Haria">
+    <latitude>26.7666667</latitude>
+    <longitude>86.8166667</longitude>
+  </city>
+  <city name="Hariharpur Gadhi">
+    <latitude>27.3166667</latitude>
+    <longitude>85.4833333</longitude>
+  </city>
+  <city name="Hariharpur Garhi">
+    <latitude>27.3166667</latitude>
+    <longitude>85.4833333</longitude>
+  </city>
+  <city name="Harpur">
+    <latitude>27.0</latitude>
+    <longitude>85.5666667</longitude>
+  </city>
+  <city name="Harrebarre">
+    <latitude>27.8333333</latitude>
+    <longitude>82.9666667</longitude>
+  </city>
+  <city name="Harta">
+    <latitude>27.4666667</latitude>
+    <longitude>84.7</longitude>
+  </city>
+  <city name="Hasta">
+    <latitude>27.4666667</latitude>
+    <longitude>84.7</longitude>
+  </city>
+  <city name="Hatia">
+    <latitude>27.7333333</latitude>
+    <longitude>87.35</longitude>
+  </city>
+  <city name="Hatranga">
+    <latitude>29.4333333</latitude>
+    <longitude>80.4</longitude>
+  </city>
+  <city name="Helambu">
+    <latitude>27.95</latitude>
+    <longitude>85.4833333</longitude>
+  </city>
+  <city name="Helmu">
+    <latitude>27.95</latitude>
+    <longitude>85.4833333</longitude>
+  </city>
+  <city name="Hetauda Bazar">
+    <latitude>27.4166667</latitude>
+    <longitude>85.0333333</longitude>
+  </city>
+  <city name="Hetauda">
+    <latitude>27.4166667</latitude>
+    <longitude>85.0333333</longitude>
+  </city>
+  <city name="Hetaunda">
+    <latitude>27.4166667</latitude>
+    <longitude>85.0333333</longitude>
+  </city>
+  <city name="Hetaura">
+    <latitude>27.4166667</latitude>
+    <longitude>85.0333333</longitude>
+  </city>
+  <city name="Hidalwa">
+    <latitude>26.7</latitude>
+    <longitude>87.1</longitude>
+  </city>
+  <city name="Hilajug">
+    <latitude>27.85</latitude>
+    <longitude>86.65</longitude>
+  </city>
+  <city name="Hithaura">
+    <latitude>27.4166667</latitude>
+    <longitude>85.0333333</longitude>
+  </city>
+  <city name="Hitura">
+    <latitude>27.4166667</latitude>
+    <longitude>85.0333333</longitude>
+  </city>
+  <city name="Ilam">
+    <latitude>26.9</latitude>
+    <longitude>87.9333333</longitude>
+  </city>
+  <city name="Inarwa">
+    <latitude>26.5</latitude>
+    <longitude>86.8333333</longitude>
+  </city>
+  <city name="Irung">
+    <latitude>28.0166667</latitude>
+    <longitude>85.5</longitude>
+  </city>
+  <city name="Ismakot">
+    <latitude>28.1833333</latitude>
+    <longitude>83.2</longitude>
+  </city>
+  <city name="Itahari">
+    <latitude>26.6666667</latitude>
+    <longitude>87.2833333</longitude>
+  </city>
+  <city name="Ithari">
+    <latitude>26.6666667</latitude>
+    <longitude>87.2833333</longitude>
+  </city>
+  <city name="Jabdahawa">
+    <latitude>28.3</latitude>
+    <longitude>81.3666667</longitude>
+  </city>
+  <city name="Jagat">
+    <latitude>28.3166667</latitude>
+    <longitude>84.8833333</longitude>
+  </city>
+  <city name="Jain">
+    <latitude>28.7833333</latitude>
+    <longitude>80.3666667</longitude>
+  </city>
+  <city name="Jajarkot">
+    <latitude>28.7</latitude>
+    <longitude>82.2333333</longitude>
+  </city>
+  <city name="Jaleshwar">
+    <latitude>26.6333333</latitude>
+    <longitude>85.8</longitude>
+  </city>
+  <city name="Jaleswar">
+    <latitude>26.6333333</latitude>
+    <longitude>85.8</longitude>
+  </city>
+  <city name="Jalkundi">
+    <latitude>27.95</latitude>
+    <longitude>82.2166667</longitude>
+  </city>
+  <city name="Jalthal">
+    <latitude>26.5166667</latitude>
+    <longitude>87.9833333</longitude>
+  </city>
+  <city name="Jamu">
+    <latitude>28.7833333</latitude>
+    <longitude>81.3333333</longitude>
+  </city>
+  <city name="Jamuna">
+    <latitude>27.0166667</latitude>
+    <longitude>87.9833333</longitude>
+  </city>
+  <city name="Janakpur">
+    <latitude>26.7</latitude>
+    <longitude>85.9166667</longitude>
+  </city>
+  <city name="Jang">
+    <latitude>30.15</latitude>
+    <longitude>81.5333333</longitude>
+  </city>
+  <city name="Jantra Khani">
+    <latitude>27.4</latitude>
+    <longitude>86.5</longitude>
+  </city>
+  <city name="Jawalakhel">
+    <latitude>27.6666667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Jawlakhel">
+    <latitude>27.6666667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Jemir Ghat">
+    <latitude>28.1833333</latitude>
+    <longitude>83.6666667</longitude>
+  </city>
+  <city name="Jhala">
+    <latitude>28.8333333</latitude>
+    <longitude>80.25</longitude>
+  </city>
+  <city name="Jhapa">
+    <latitude>26.4833333</latitude>
+    <longitude>87.85</longitude>
+  </city>
+  <city name="Jharkham">
+    <latitude>28.0166667</latitude>
+    <longitude>83.7833333</longitude>
+  </city>
+  <city name="Jhawani">
+    <latitude>27.5833333</latitude>
+    <longitude>84.5166667</longitude>
+  </city>
+  <city name="Jhikabasti">
+    <latitude>29.1833333</latitude>
+    <longitude>80.9833333</longitude>
+  </city>
+  <city name="Jhin">
+    <latitude>28.4333333</latitude>
+    <longitude>83.5166667</longitude>
+  </city>
+  <city name="Jhuga">
+    <latitude>28.6333333</latitude>
+    <longitude>81.15</longitude>
+  </city>
+  <city name="Jhunga">
+    <latitude>28.6333333</latitude>
+    <longitude>81.15</longitude>
+  </city>
+  <city name="Jhuwani">
+    <latitude>27.5833333</latitude>
+    <longitude>84.5166667</longitude>
+  </city>
+  <city name="Jibu">
+    <latitude>28.6666667</latitude>
+    <longitude>82.5333333</longitude>
+  </city>
+  <city name="Jiri">
+    <latitude>27.6333333</latitude>
+    <longitude>86.2333333</longitude>
+  </city>
+  <city name="Jiwadanda">
+    <latitude>28.1333333</latitude>
+    <longitude>84.6833333</longitude>
+  </city>
+  <city name="Jogikuti">
+    <latitude>27.6666667</latitude>
+    <longitude>83.4666667</longitude>
+  </city>
+  <city name="Jomosom">
+    <latitude>28.7833333</latitude>
+    <longitude>83.7333333</longitude>
+  </city>
+  <city name="Jomoson">
+    <latitude>28.7833333</latitude>
+    <longitude>83.7333333</longitude>
+  </city>
+  <city name="Joriapani">
+    <latitude>28.9666667</latitude>
+    <longitude>80.3</longitude>
+  </city>
+  <city name="Joshipur">
+    <latitude>28.5666667</latitude>
+    <longitude>81.0166667</longitude>
+  </city>
+  <city name="Jubing">
+    <latitude>27.5833333</latitude>
+    <longitude>86.7</longitude>
+  </city>
+  <city name="Jub">
+    <latitude>29.15</latitude>
+    <longitude>81.3</longitude>
+  </city>
+  <city name="Jumla">
+    <latitude>29.25</latitude>
+    <longitude>82.25</longitude>
+  </city>
+  <city name="Junbesi">
+    <latitude>27.5833333</latitude>
+    <longitude>86.5333333</longitude>
+  </city>
+  <city name="Juribela">
+    <latitude>27.1166667</latitude>
+    <longitude>85.3833333</longitude>
+  </city>
+  <city name="Jwalakhel">
+    <latitude>27.6666667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Kachai">
+    <latitude>28.8666667</latitude>
+    <longitude>80.4666667</longitude>
+  </city>
+  <city name="Kacha">
+    <latitude>29.5833333</latitude>
+    <longitude>82.1333333</longitude>
+  </city>
+  <city name="Kadarbana">
+    <latitude>26.7666667</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Kagbeni">
+    <latitude>28.8333333</latitude>
+    <longitude>83.7833333</longitude>
+  </city>
+  <city name="Kaigaon">
+    <latitude>29.05</latitude>
+    <longitude>82.55</longitude>
+  </city>
+  <city name="Kaigaun">
+    <latitude>29.05</latitude>
+    <longitude>82.55</longitude>
+  </city>
+  <city name="Kailali">
+    <latitude>28.5666667</latitude>
+    <longitude>80.7833333</longitude>
+  </city>
+  <city name="Kakani">
+    <latitude>27.8166667</latitude>
+    <longitude>85.25</longitude>
+  </city>
+  <city name="Kalaiya">
+    <latitude>27.0333333</latitude>
+    <longitude>85.0</longitude>
+  </city>
+  <city name="Kalikot">
+    <latitude>29.1</latitude>
+    <longitude>81.6833333</longitude>
+  </city>
+  <city name="Kalimate">
+    <latitude>27.8</latitude>
+    <longitude>85.2166667</longitude>
+  </city>
+  <city name="Kalimati">
+    <latitude>27.8</latitude>
+    <longitude>85.2166667</longitude>
+  </city>
+  <city name="Kampu Ghat">
+    <latitude>26.8666667</latitude>
+    <longitude>86.85</longitude>
+  </city>
+  <city name="Kamsin">
+    <latitude>29.9333333</latitude>
+    <longitude>80.6166667</longitude>
+  </city>
+  <city name="Kanchanpur">
+    <latitude>26.6333333</latitude>
+    <longitude>86.9166667</longitude>
+  </city>
+  <city name="Kando">
+    <latitude>29.7166667</latitude>
+    <longitude>81.35</longitude>
+  </city>
+  <city name="Kandrang Garhi">
+    <latitude>27.7166667</latitude>
+    <longitude>84.7833333</longitude>
+  </city>
+  <city name="Kanouli">
+    <latitude>26.45</latitude>
+    <longitude>86.8</longitude>
+  </city>
+  <city name="Kanthapur">
+    <latitude>28.1666667</latitude>
+    <longitude>81.45</longitude>
+  </city>
+  <city name="Kantipura">
+    <latitude>27.7166667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Kantipur">
+    <latitude>27.7166667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Kantu Purwa">
+    <latitude>28.1666667</latitude>
+    <longitude>81.45</longitude>
+  </city>
+  <city name="Kaparkot">
+    <latitude>28.2166667</latitude>
+    <longitude>82.35</longitude>
+  </city>
+  <city name="Kapilvastu">
+    <latitude>27.5333333</latitude>
+    <longitude>83.05</longitude>
+  </city>
+  <city name="Kapurkot">
+    <latitude>28.2166667</latitude>
+    <longitude>82.35</longitude>
+  </city>
+  <city name="Karelung">
+    <latitude>28.1833333</latitude>
+    <longitude>84.2</longitude>
+  </city>
+  <city name="Karmaiya">
+    <latitude>27.1166667</latitude>
+    <longitude>85.4833333</longitude>
+  </city>
+  <city name="Kasba">
+    <latitude>28.75</latitude>
+    <longitude>80.4166667</longitude>
+  </city>
+  <city name="Kaski">
+    <latitude>28.2666667</latitude>
+    <longitude>83.8833333</longitude>
+  </city>
+  <city name="Kaspa">
+    <latitude>28.75</latitude>
+    <longitude>80.4166667</longitude>
+  </city>
+  <city name="Kathmandu">
+    <latitude>27.7166667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Katle">
+    <latitude>27.1166667</latitude>
+    <longitude>85.9666667</longitude>
+  </city>
+  <city name="Katmandu">
+    <latitude>27.7166667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Katomato">
+    <latitude>29.1</latitude>
+    <longitude>80.65</longitude>
+  </city>
+  <city name="Katti">
+    <latitude>28.7833333</latitude>
+    <longitude>81.8166667</longitude>
+  </city>
+  <city name="Katunje">
+    <latitude>28.9</latitude>
+    <longitude>80.8666667</longitude>
+  </city>
+  <city name="Kehami">
+    <latitude>29.05</latitude>
+    <longitude>83.8666667</longitude>
+  </city>
+  <city name="Kermi">
+    <latitude>30.0166667</latitude>
+    <longitude>81.6666667</longitude>
+  </city>
+  <city name="Kerwani">
+    <latitude>27.6166667</latitude>
+    <longitude>83.5833333</longitude>
+  </city>
+  <city name="Keware">
+    <latitude>27.95</latitude>
+    <longitude>83.7833333</longitude>
+  </city>
+  <city name="Khadi">
+    <latitude>28.8166667</latitude>
+    <longitude>82.45</longitude>
+  </city>
+  <city name="Khadkagaon">
+    <latitude>27.7666667</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Khadka Gaun">
+    <latitude>27.7666667</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Khadka">
+    <latitude>27.7666667</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Khadreha">
+    <latitude>28.65</latitude>
+    <longitude>80.7666667</longitude>
+  </city>
+  <city name="Khairbana">
+    <latitude>26.65</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Khairban">
+    <latitude>26.65</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Khaireni">
+    <latitude>27.7166667</latitude>
+    <longitude>83.25</longitude>
+  </city>
+  <city name="Khalte">
+    <latitude>27.8333333</latitude>
+    <longitude>84.3</longitude>
+  </city>
+  <city name="Khamachin">
+    <latitude>27.7333333</latitude>
+    <longitude>87.9833333</longitude>
+  </city>
+  <city name="Khanbari">
+    <latitude>27.3666667</latitude>
+    <longitude>87.2166667</longitude>
+  </city>
+  <city name="Khanchikot">
+    <latitude>27.9333333</latitude>
+    <longitude>83.1166667</longitude>
+  </city>
+  <city name="Khandbari">
+    <latitude>27.3666667</latitude>
+    <longitude>87.2166667</longitude>
+  </city>
+  <city name="Khangra">
+    <latitude>27.8</latitude>
+    <longitude>82.2833333</longitude>
+  </city>
+  <city name="Khangsar">
+    <latitude>28.6833333</latitude>
+    <longitude>83.9833333</longitude>
+  </city>
+  <city name="Khanjpur">
+    <latitude>26.65</latitude>
+    <longitude>86.5833333</longitude>
+  </city>
+  <city name="Khanskot">
+    <latitude>29.4166667</latitude>
+    <longitude>80.8666667</longitude>
+  </city>
+  <city name="Kharang">
+    <latitude>27.2666667</latitude>
+    <longitude>87.25</longitude>
+  </city>
+  <city name="Kharchyun">
+    <latitude>30.0666667</latitude>
+    <longitude>82.0333333</longitude>
+  </city>
+  <city name="Khargauli">
+    <latitude>27.5666667</latitude>
+    <longitude>84.3166667</longitude>
+  </city>
+  <city name="Kharpu">
+    <latitude>29.9333333</latitude>
+    <longitude>81.8833333</longitude>
+  </city>
+  <city name="Khatmandu">
+    <latitude>27.7166667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Khinchit">
+    <latitude>27.9166667</latitude>
+    <longitude>85.15</longitude>
+  </city>
+  <city name="Khokna">
+    <latitude>27.6666667</latitude>
+    <longitude>85.2666667</longitude>
+  </city>
+  <city name="Khotang">
+    <latitude>27.0166667</latitude>
+    <longitude>86.85</longitude>
+  </city>
+  <city name="Khumjung">
+    <latitude>27.8333333</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Khunza">
+    <latitude>27.6666667</latitude>
+    <longitude>87.95</longitude>
+  </city>
+  <city name="Khurpa">
+    <latitude>28.8333333</latitude>
+    <longitude>82.1833333</longitude>
+  </city>
+  <city name="Kirantichhap">
+    <latitude>27.6333333</latitude>
+    <longitude>86.0666667</longitude>
+  </city>
+  <city name="Kiratichhap">
+    <latitude>27.6333333</latitude>
+    <longitude>86.0666667</longitude>
+  </city>
+  <city name="Kiratpur">
+    <latitude>28.6166667</latitude>
+    <longitude>80.9333333</longitude>
+  </city>
+  <city name="Kirtipur">
+    <latitude>27.6666667</latitude>
+    <longitude>85.2833333</longitude>
+  </city>
+  <city name="Kodali">
+    <latitude>27.9666667</latitude>
+    <longitude>85.9333333</longitude>
+  </city>
+  <city name="Kodari">
+    <latitude>27.9666667</latitude>
+    <longitude>85.9333333</longitude>
+  </city>
+  <city name="Kodudanga">
+    <latitude>26.6</latitude>
+    <longitude>87.7</longitude>
+  </city>
+  <city name="Koilabas">
+    <latitude>27.7</latitude>
+    <longitude>82.5166667</longitude>
+  </city>
+  <city name="Koropani">
+    <latitude>28.1</latitude>
+    <longitude>83.2</longitude>
+  </city>
+  <city name="Kothari">
+    <latitude>27.9666667</latitude>
+    <longitude>85.9333333</longitude>
+  </city>
+  <city name="Kuiyahi">
+    <latitude>26.5833333</latitude>
+    <longitude>87.0333333</longitude>
+  </city>
+  <city name="Kulikhani">
+    <latitude>27.5833333</latitude>
+    <longitude>85.15</longitude>
+  </city>
+  <city name="Kumaltar">
+    <latitude>28.0333333</latitude>
+    <longitude>82.7833333</longitude>
+  </city>
+  <city name="Kumbher">
+    <latitude>28.2666667</latitude>
+    <longitude>81.4</longitude>
+  </city>
+  <city name="Kumragaon">
+    <latitude>28.3333333</latitude>
+    <longitude>81.3166667</longitude>
+  </city>
+  <city name="Kunauli">
+    <latitude>26.45</latitude>
+    <longitude>86.8</longitude>
+  </city>
+  <city name="Kunchha">
+    <latitude>28.1333333</latitude>
+    <longitude>84.3333333</longitude>
+  </city>
+  <city name="Kuseri">
+    <latitude>29.5</latitude>
+    <longitude>80.3333333</longitude>
+  </city>
+  <city name="Kusma">
+    <latitude>28.2333333</latitude>
+    <longitude>83.6833333</longitude>
+  </city>
+  <city name="Kuthanawa">
+    <latitude>26.8166667</latitude>
+    <longitude>86.2166667</longitude>
+  </city>
+  <city name="Kutharpekot">
+    <latitude>28.3166667</latitude>
+    <longitude>83.1333333</longitude>
+  </city>
+  <city name="Labsibot">
+    <latitude>28.2</latitude>
+    <longitude>84.8666667</longitude>
+  </city>
+  <city name="Labu">
+    <latitude>28.5833333</latitude>
+    <longitude>81.95</longitude>
+  </city>
+  <city name="Lahan">
+    <latitude>26.7166667</latitude>
+    <longitude>86.4833333</longitude>
+  </city>
+  <city name="Lakarpata">
+    <latitude>28.75</latitude>
+    <longitude>81.4833333</longitude>
+  </city>
+  <city name="Lakkar">
+    <latitude>28.55</latitude>
+    <longitude>81.0</longitude>
+  </city>
+  <city name="Lalbhitti">
+    <latitude>26.9666667</latitude>
+    <longitude>85.9166667</longitude>
+  </city>
+  <city name="Lalitapura">
+    <latitude>27.6666667</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Lalitpur">
+    <latitude>27.6666667</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Lamabagar">
+    <latitude>27.9</latitude>
+    <longitude>86.2166667</longitude>
+  </city>
+  <city name="Lamadihi">
+    <latitude>27.65</latitude>
+    <longitude>85.6</longitude>
+  </city>
+  <city name="Lamji">
+    <latitude>28.9</latitude>
+    <longitude>81.6</longitude>
+  </city>
+  <city name="Lamjung">
+    <latitude>28.2</latitude>
+    <longitude>84.3666667</longitude>
+  </city>
+  <city name="Lammela">
+    <latitude>28.4333333</latitude>
+    <longitude>83.2666667</longitude>
+  </city>
+  <city name="Lamobagar Gola">
+    <latitude>27.6666667</latitude>
+    <longitude>87.3333333</longitude>
+  </city>
+  <city name="Lamobagar">
+    <latitude>27.9</latitude>
+    <longitude>86.2166667</longitude>
+  </city>
+  <city name="Lamodihi">
+    <latitude>27.65</latitude>
+    <longitude>85.6</longitude>
+  </city>
+  <city name="Lampakha">
+    <latitude>28.7666667</latitude>
+    <longitude>82.6833333</longitude>
+  </city>
+  <city name="Lamri">
+    <latitude>29.3333333</latitude>
+    <longitude>82.2833333</longitude>
+  </city>
+  <city name="Langtang">
+    <latitude>28.2166667</latitude>
+    <longitude>85.5833333</longitude>
+  </city>
+  <city name="Larkya">
+    <latitude>28.6666667</latitude>
+    <longitude>84.6166667</longitude>
+  </city>
+  <city name="Lawamjula">
+    <latitude>28.3</latitude>
+    <longitude>82.2666667</longitude>
+  </city>
+  <city name="Lekhparajuli">
+    <latitude>28.4333333</latitude>
+    <longitude>81.6333333</longitude>
+  </city>
+  <city name="Lekhparajul">
+    <latitude>28.4333333</latitude>
+    <longitude>81.6333333</longitude>
+  </city>
+  <city name="Lekparajuli">
+    <latitude>28.4333333</latitude>
+    <longitude>81.6333333</longitude>
+  </city>
+  <city name="Lete">
+    <latitude>28.6333333</latitude>
+    <longitude>83.6166667</longitude>
+  </city>
+  <city name="Lho Mantang">
+    <latitude>29.1833333</latitude>
+    <longitude>83.9666667</longitude>
+  </city>
+  <city name="Lhonak">
+    <latitude>27.7833333</latitude>
+    <longitude>88.0333333</longitude>
+  </city>
+  <city name="Libanggaon">
+    <latitude>28.3</latitude>
+    <longitude>82.6333333</longitude>
+  </city>
+  <city name="Lidanda">
+    <latitude>28.55</latitude>
+    <longitude>84.75</longitude>
+  </city>
+  <city name="Limbudin">
+    <latitude>27.3333333</latitude>
+    <longitude>87.8833333</longitude>
+  </city>
+  <city name="Limbuwan">
+    <latitude>27.3333333</latitude>
+    <longitude>87.8833333</longitude>
+  </city>
+  <city name="Lindanda Village">
+    <latitude>28.55</latitude>
+    <longitude>84.75</longitude>
+  </city>
+  <city name="Liping">
+    <latitude>27.95</latitude>
+    <longitude>85.95</longitude>
+  </city>
+  <city name="Litakot">
+    <latitude>29.25</latitude>
+    <longitude>82.0666667</longitude>
+  </city>
+  <city name="Liwangaon">
+    <latitude>28.3</latitude>
+    <longitude>82.6333333</longitude>
+  </city>
+  <city name="Liwang">
+    <latitude>28.3</latitude>
+    <longitude>82.6333333</longitude>
+  </city>
+  <city name="Lobuche">
+    <latitude>27.95</latitude>
+    <longitude>86.8166667</longitude>
+  </city>
+  <city name="Lobuje">
+    <latitude>27.95</latitude>
+    <longitude>86.8166667</longitude>
+  </city>
+  <city name="Lobujya">
+    <latitude>27.95</latitude>
+    <longitude>86.8166667</longitude>
+  </city>
+  <city name="Loh Mantung">
+    <latitude>29.1833333</latitude>
+    <longitude>83.9666667</longitude>
+  </city>
+  <city name="Lokondo">
+    <latitude>29.6666667</latitude>
+    <longitude>81.3333333</longitude>
+  </city>
+  <city name="Lo Mantang">
+    <latitude>29.1833333</latitude>
+    <longitude>83.9666667</longitude>
+  </city>
+  <city name="Lomnang">
+    <latitude>28.0</latitude>
+    <longitude>86.1833333</longitude>
+  </city>
+  <city name="Lukla">
+    <latitude>27.7</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Lumbini Bagh">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Lumbini Garden">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Lumbini Grove">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Lumbini">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Lumsal">
+    <latitude>29.5833333</latitude>
+    <longitude>80.4166667</longitude>
+  </city>
+  <city name="Lumsumkhani">
+    <latitude>28.5166667</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Lumsum">
+    <latitude>28.5166667</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Lunak">
+    <latitude>27.7833333</latitude>
+    <longitude>88.0333333</longitude>
+  </city>
+  <city name="Lungchung">
+    <latitude>27.55</latitude>
+    <longitude>87.7833333</longitude>
+  </city>
+  <city name="Lungthung">
+    <latitude>27.55</latitude>
+    <longitude>87.7833333</longitude>
+  </city>
+  <city name="Lunh">
+    <latitude>29.0166667</latitude>
+    <longitude>82.5333333</longitude>
+  </city>
+  <city name="Lunishera">
+    <latitude>29.25</latitude>
+    <longitude>82.0</longitude>
+  </city>
+  <city name="Lurigaon">
+    <latitude>29.3666667</latitude>
+    <longitude>83.0833333</longitude>
+  </city>
+  <city name="Mahadevtar">
+    <latitude>27.5833333</latitude>
+    <longitude>84.7166667</longitude>
+  </city>
+  <city name="Mahankai">
+    <latitude>27.7666667</latitude>
+    <longitude>85.4333333</longitude>
+  </city>
+  <city name="Mahankal">
+    <latitude>27.7666667</latitude>
+    <longitude>85.4333333</longitude>
+  </city>
+  <city name="Maharajganj">
+    <latitude>27.5666667</latitude>
+    <longitude>82.95</longitude>
+  </city>
+  <city name="Mahen Dkanagar">
+    <latitude>28.9166667</latitude>
+    <longitude>80.3333333</longitude>
+  </city>
+  <city name="Mahendranagar">
+    <latitude>28.9166667</latitude>
+    <longitude>80.3333333</longitude>
+  </city>
+  <city name="Maikot">
+    <latitude>28.6833333</latitude>
+    <longitude>82.8666667</longitude>
+  </city>
+  <city name="Majari">
+    <latitude>28.75</latitude>
+    <longitude>81.9333333</longitude>
+  </city>
+  <city name="Majhgaon">
+    <latitude>29.3</latitude>
+    <longitude>83.25</longitude>
+  </city>
+  <city name="Makaising">
+    <latitude>27.8833333</latitude>
+    <longitude>84.6833333</longitude>
+  </city>
+  <city name="Makwanpur Garhi">
+    <latitude>27.4166667</latitude>
+    <longitude>85.1333333</longitude>
+  </city>
+  <city name="Malakheti">
+    <latitude>28.8333333</latitude>
+    <longitude>80.5166667</longitude>
+  </city>
+  <city name="Malangawa">
+    <latitude>26.8666667</latitude>
+    <longitude>85.5666667</longitude>
+  </city>
+  <city name="Malangwa">
+    <latitude>26.8666667</latitude>
+    <longitude>85.5666667</longitude>
+  </city>
+  <city name="Malankwa">
+    <latitude>26.8666667</latitude>
+    <longitude>85.5666667</longitude>
+  </city>
+  <city name="Malbhanguwa">
+    <latitude>28.6833333</latitude>
+    <longitude>81.0833333</longitude>
+  </city>
+  <city name="Malemchigaon">
+    <latitude>28.05</latitude>
+    <longitude>85.5333333</longitude>
+  </city>
+  <city name="Malimchigaon">
+    <latitude>28.05</latitude>
+    <longitude>85.5333333</longitude>
+  </city>
+  <city name="Manakot">
+    <latitude>29.4833333</latitude>
+    <longitude>81.4</longitude>
+  </city>
+  <city name="Manangbhot">
+    <latitude>28.6666667</latitude>
+    <longitude>84.0166667</longitude>
+  </city>
+  <city name="Manang">
+    <latitude>28.6666667</latitude>
+    <longitude>84.0166667</longitude>
+  </city>
+  <city name="Mandpur">
+    <latitude>28.1833333</latitude>
+    <longitude>81.4666667</longitude>
+  </city>
+  <city name="Manebhaniyang">
+    <latitude>27.2</latitude>
+    <longitude>86.4333333</longitude>
+  </city>
+  <city name="Manebhanjyang">
+    <latitude>27.2</latitude>
+    <longitude>86.4333333</longitude>
+  </city>
+  <city name="Mangalpur">
+    <latitude>27.1166667</latitude>
+    <longitude>85.4666667</longitude>
+  </city>
+  <city name="Mangle">
+    <latitude>28.4666667</latitude>
+    <longitude>83.5166667</longitude>
+  </city>
+  <city name="Mangri">
+    <latitude>29.6</latitude>
+    <longitude>82.3</longitude>
+  </city>
+  <city name="Manhari">
+    <latitude>27.5833333</latitude>
+    <longitude>85.05</longitude>
+  </city>
+  <city name="Manikapur">
+    <latitude>28.1</latitude>
+    <longitude>81.6666667</longitude>
+  </city>
+  <city name="Maniramkanda">
+    <latitude>28.4833333</latitude>
+    <longitude>81.5666667</longitude>
+  </city>
+  <city name="Mankali">
+    <latitude>29.2833333</latitude>
+    <longitude>81.2666667</longitude>
+  </city>
+  <city name="Mankot">
+    <latitude>29.8333333</latitude>
+    <longitude>80.7</longitude>
+  </city>
+  <city name="Manma">
+    <latitude>29.15</latitude>
+    <longitude>81.6166667</longitude>
+  </city>
+  <city name="Manpur">
+    <latitude>28.1833333</latitude>
+    <longitude>81.4666667</longitude>
+  </city>
+  <city name="Manung">
+    <latitude>28.15</latitude>
+    <longitude>82.8833333</longitude>
+  </city>
+  <city name="Mariphant">
+    <latitude>27.8833333</latitude>
+    <longitude>83.85</longitude>
+  </city>
+  <city name="Markhu">
+    <latitude>27.6166667</latitude>
+    <longitude>85.15</longitude>
+  </city>
+  <city name="Maruwa Ghat">
+    <latitude>27.7</latitude>
+    <longitude>84.4</longitude>
+  </city>
+  <city name="Megauli">
+    <latitude>27.5833333</latitude>
+    <longitude>84.2333333</longitude>
+  </city>
+  <city name="Meghauli">
+    <latitude>27.5833333</latitude>
+    <longitude>84.2333333</longitude>
+  </city>
+  <city name="Melekheti">
+    <latitude>28.8333333</latitude>
+    <longitude>80.5166667</longitude>
+  </city>
+  <city name="Melung">
+    <latitude>27.5166667</latitude>
+    <longitude>86.05</longitude>
+  </city>
+  <city name="Mingbo">
+    <latitude>27.85</latitude>
+    <longitude>86.8166667</longitude>
+  </city>
+  <city name="Mohami">
+    <latitude>27.8833333</latitude>
+    <longitude>83.9333333</longitude>
+  </city>
+  <city name="Motipur">
+    <latitude>27.7</latitude>
+    <longitude>83.1333333</longitude>
+  </city>
+  <city name="Mughla">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2333333</longitude>
+  </city>
+  <city name="Muglaha">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2333333</longitude>
+  </city>
+  <city name="Mugu">
+    <latitude>29.75</latitude>
+    <longitude>82.5333333</longitude>
+  </city>
+  <city name="Muhjung">
+    <latitude>27.8666667</latitude>
+    <longitude>83.3833333</longitude>
+  </city>
+  <city name="Mujigaon">
+    <latitude>29.45</latitude>
+    <longitude>81.1166667</longitude>
+  </city>
+  <city name="Mujkot">
+    <latitude>28.8166667</latitude>
+    <longitude>81.9333333</longitude>
+  </city>
+  <city name="Muktinath">
+    <latitude>28.8166667</latitude>
+    <longitude>83.8833333</longitude>
+  </city>
+  <city name="Munchi">
+    <latitude>30.0166667</latitude>
+    <longitude>81.55</longitude>
+  </city>
+  <city name="Munchu">
+    <latitude>30.0166667</latitude>
+    <longitude>81.55</longitude>
+  </city>
+  <city name="Munga">
+    <latitude>27.0333333</latitude>
+    <longitude>87.2166667</longitude>
+  </city>
+  <city name="Munge">
+    <latitude>28.1</latitude>
+    <longitude>84.55</longitude>
+  </city>
+  <city name="Munigaon">
+    <latitude>29.2166667</latitude>
+    <longitude>82.35</longitude>
+  </city>
+  <city name="Munigaun">
+    <latitude>29.2166667</latitude>
+    <longitude>82.35</longitude>
+  </city>
+  <city name="Mushtang">
+    <latitude>29.1833333</latitude>
+    <longitude>83.9666667</longitude>
+  </city>
+  <city name="Musikot">
+    <latitude>28.1666667</latitude>
+    <longitude>83.2666667</longitude>
+  </city>
+  <city name="Mustang">
+    <latitude>29.1833333</latitude>
+    <longitude>83.9666667</longitude>
+  </city>
+  <city name="Nagaa">
+    <latitude>27.6666667</latitude>
+    <longitude>85.2666667</longitude>
+  </city>
+  <city name="Nagarkot">
+    <latitude>27.7</latitude>
+    <longitude>85.5166667</longitude>
+  </city>
+  <city name="Nagma">
+    <latitude>29.2</latitude>
+    <longitude>81.8833333</longitude>
+  </city>
+  <city name="Namai">
+    <latitude>27.8666667</latitude>
+    <longitude>82.5166667</longitude>
+  </city>
+  <city name="Nambo">
+    <latitude>29.2333333</latitude>
+    <longitude>83.95</longitude>
+  </city>
+  <city name="Namche Bazar">
+    <latitude>27.8166667</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Namde Goan">
+    <latitude>29.2666667</latitude>
+    <longitude>83.1</longitude>
+  </city>
+  <city name="Namdogaon">
+    <latitude>29.2666667</latitude>
+    <longitude>83.1</longitude>
+  </city>
+  <city name="Namdu">
+    <latitude>27.1333333</latitude>
+    <longitude>87.7833333</longitude>
+  </city>
+  <city name="Namrek">
+    <latitude>27.2833333</latitude>
+    <longitude>87.9333333</longitude>
+  </city>
+  <city name="Nanche Bazar">
+    <latitude>27.8166667</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Nandpur">
+    <latitude>27.5666667</latitude>
+    <longitude>84.0333333</longitude>
+  </city>
+  <city name="Nangaon">
+    <latitude>27.8833333</latitude>
+    <longitude>86.4333333</longitude>
+  </city>
+  <city name="Nangraon">
+    <latitude>29.6666667</latitude>
+    <longitude>80.5666667</longitude>
+  </city>
+  <city name="Naraingarh">
+    <latitude>27.6833333</latitude>
+    <longitude>84.4166667</longitude>
+  </city>
+  <city name="Narayangadh">
+    <latitude>27.6833333</latitude>
+    <longitude>84.4166667</longitude>
+  </city>
+  <city name="Narayangarah">
+    <latitude>27.6833333</latitude>
+    <longitude>84.4166667</longitude>
+  </city>
+  <city name="Narayangarh">
+    <latitude>27.6833333</latitude>
+    <longitude>84.4166667</longitude>
+  </city>
+  <city name="Narayanghat">
+    <latitude>27.6833333</latitude>
+    <longitude>84.4166667</longitude>
+  </city>
+  <city name="Narcheng">
+    <latitude>28.5166667</latitude>
+    <longitude>83.6833333</longitude>
+  </city>
+  <city name="Nargaon">
+    <latitude>29.25</latitude>
+    <longitude>80.65</longitude>
+  </city>
+  <city name="Naubise">
+    <latitude>27.7166667</latitude>
+    <longitude>85.15</longitude>
+  </city>
+  <city name="Nauche">
+    <latitude>27.8166667</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Nauranga">
+    <latitude>28.6833333</latitude>
+    <longitude>80.4666667</longitude>
+  </city>
+  <city name="Nawakot">
+    <latitude>27.7166667</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Nayagaon">
+    <latitude>28.0833333</latitude>
+    <longitude>82.8</longitude>
+  </city>
+  <city name="Nepalganj">
+    <latitude>28.05</latitude>
+    <longitude>81.6166667</longitude>
+  </city>
+  <city name="Nepaltar">
+    <latitude>26.9</latitude>
+    <longitude>86.5333333</longitude>
+  </city>
+  <city name="Nepa">
+    <latitude>28.65</latitude>
+    <longitude>81.9166667</longitude>
+  </city>
+  <city name="Nepka">
+    <latitude>29.8333333</latitude>
+    <longitude>82.1333333</longitude>
+  </city>
+  <city name="Netadurling">
+    <latitude>28.25</latitude>
+    <longitude>83.1666667</longitude>
+  </city>
+  <city name="Neta">
+    <latitude>28.55</latitude>
+    <longitude>81.7833333</longitude>
+  </city>
+  <city name="Neto">
+    <latitude>29.6833333</latitude>
+    <longitude>81.6833333</longitude>
+  </city>
+  <city name="Ngyak">
+    <latitude>28.45</latitude>
+    <longitude>84.9</longitude>
+  </city>
+  <city name="Nijgarh">
+    <latitude>27.2</latitude>
+    <longitude>85.1666667</longitude>
+  </city>
+  <city name="Nisalgaon">
+    <latitude>29.3833333</latitude>
+    <longitude>83.1166667</longitude>
+  </city>
+  <city name="Nougam">
+    <latitude>27.6666667</latitude>
+    <longitude>85.2666667</longitude>
+  </city>
+  <city name="Num">
+    <latitude>27.55</latitude>
+    <longitude>87.2833333</longitude>
+  </city>
+  <city name="Nuo">
+    <latitude>27.7166667</latitude>
+    <longitude>87.85</longitude>
+  </city>
+  <city name="Nup">
+    <latitude>27.7166667</latitude>
+    <longitude>87.85</longitude>
+  </city>
+  <city name="Nuwaket">
+    <latitude>28.1333333</latitude>
+    <longitude>83.8833333</longitude>
+  </city>
+  <city name="Nuwakot">
+    <latitude>28.1333333</latitude>
+    <longitude>83.8833333</longitude>
+  </city>
+  <city name="Odarapur">
+    <latitude>28.1166667</latitude>
+    <longitude>81.55</longitude>
+  </city>
+  <city name="Ojna">
+    <latitude>28.9833333</latitude>
+    <longitude>80.7166667</longitude>
+  </city>
+  <city name="Okhaldhunga Bazaar">
+    <latitude>27.3166667</latitude>
+    <longitude>86.5</longitude>
+  </city>
+  <city name="Okhaldhunga">
+    <latitude>27.3166667</latitude>
+    <longitude>86.5</longitude>
+  </city>
+  <city name="Olanchungola">
+    <latitude>27.6833333</latitude>
+    <longitude>87.8</longitude>
+  </city>
+  <city name="Olangchuk Gola">
+    <latitude>27.6833333</latitude>
+    <longitude>87.8</longitude>
+  </city>
+  <city name="Olang">
+    <latitude>28.2166667</latitude>
+    <longitude>84.6</longitude>
+  </city>
+  <city name="Oligaon">
+    <latitude>29.3833333</latitude>
+    <longitude>81.35</longitude>
+  </city>
+  <city name="Olingchung Gola">
+    <latitude>27.6833333</latitude>
+    <longitude>87.8</longitude>
+  </city>
+  <city name="Pachgachhiya">
+    <latitude>26.95</latitude>
+    <longitude>85.5166667</longitude>
+  </city>
+  <city name="Pachkaria">
+    <latitude>28.6833333</latitude>
+    <longitude>80.5</longitude>
+  </city>
+  <city name="Pachui">
+    <latitude>28.7</latitude>
+    <longitude>80.3166667</longitude>
+  </city>
+  <city name="Pachuwar Ghat">
+    <latitude>27.5666667</latitude>
+    <longitude>85.75</longitude>
+  </city>
+  <city name="Pachwarghat">
+    <latitude>27.5666667</latitude>
+    <longitude>85.75</longitude>
+  </city>
+  <city name="Padmi">
+    <latitude>28.6</latitude>
+    <longitude>82.8</longitude>
+  </city>
+  <city name="Padukasthan">
+    <latitude>28.9</latitude>
+    <longitude>81.5666667</longitude>
+  </city>
+  <city name="Pahritol">
+    <latitude>27.1833333</latitude>
+    <longitude>85.5</longitude>
+  </city>
+  <city name="Pahung">
+    <latitude>29.9333333</latitude>
+    <longitude>81.7333333</longitude>
+  </city>
+  <city name="Pakhra">
+    <latitude>28.2333333</latitude>
+    <longitude>83.9833333</longitude>
+  </city>
+  <city name="Paklihawa">
+    <latitude>27.4833333</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Paklihwa">
+    <latitude>27.4833333</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Pali">
+    <latitude>29.5</latitude>
+    <longitude>80.5</longitude>
+  </city>
+  <city name="Palpa">
+    <latitude>27.8666667</latitude>
+    <longitude>83.4833333</longitude>
+  </city>
+  <city name="Palung">
+    <latitude>27.6333333</latitude>
+    <longitude>85.0666667</longitude>
+  </city>
+  <city name="Palung Sikarkot">
+    <latitude>27.6333333</latitude>
+    <longitude>85.0666667</longitude>
+  </city>
+  <city name="Panaoti">
+    <latitude>27.5833333</latitude>
+    <longitude>85.5166667</longitude>
+  </city>
+  <city name="Panauti Village">
+    <latitude>27.5833333</latitude>
+    <longitude>85.5166667</longitude>
+  </city>
+  <city name="Panbari">
+    <latitude>27.7</latitude>
+    <longitude>83.25</longitude>
+  </city>
+  <city name="Panchkhal">
+    <latitude>27.65</latitude>
+    <longitude>85.6166667</longitude>
+  </city>
+  <city name="Panepa">
+    <latitude>27.6333333</latitude>
+    <longitude>85.5166667</longitude>
+  </city>
+  <city name="Panga">
+    <latitude>27.6666667</latitude>
+    <longitude>85.2833333</longitude>
+  </city>
+  <city name="Pangboche">
+    <latitude>27.85</latitude>
+    <longitude>86.8</longitude>
+  </city>
+  <city name="Pangpoche">
+    <latitude>27.85</latitude>
+    <longitude>86.8</longitude>
+  </city>
+  <city name="Pangthok">
+    <latitude>27.7333333</latitude>
+    <longitude>87.35</longitude>
+  </city>
+  <city name="Panigata">
+    <latitude>26.7166667</latitude>
+    <longitude>87.6666667</longitude>
+  </city>
+  <city name="Panighat">
+    <latitude>26.7166667</latitude>
+    <longitude>87.6666667</longitude>
+  </city>
+  <city name="Parabice">
+    <latitude>27.7833333</latitude>
+    <longitude>85.9</longitude>
+  </city>
+  <city name="Para">
+    <latitude>29.0666667</latitude>
+    <longitude>82.7166667</longitude>
+  </city>
+  <city name="Parasi">
+    <latitude>27.5333333</latitude>
+    <longitude>83.6666667</longitude>
+  </city>
+  <city name="Partapur">
+    <latitude>28.4833333</latitude>
+    <longitude>81.3166667</longitude>
+  </city>
+  <city name="Partol">
+    <latitude>29.4833333</latitude>
+    <longitude>81.7</longitude>
+  </city>
+  <city name="Pasandhara">
+    <latitude>28.7666667</latitude>
+    <longitude>82.6666667</longitude>
+  </city>
+  <city name="Pasauli">
+    <latitude>27.4333333</latitude>
+    <longitude>83.75</longitude>
+  </city>
+  <city name="Pashupatinath">
+    <latitude>27.7</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Pasupati">
+    <latitude>27.7</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Patan">
+    <latitude>27.6666667</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Patharkot">
+    <latitude>27.0833333</latitude>
+    <longitude>85.65</longitude>
+  </city>
+  <city name="Patia">
+    <latitude>28.8833333</latitude>
+    <longitude>80.2333333</longitude>
+  </city>
+  <city name="Pati Bhamyang">
+    <latitude>27.85</latitude>
+    <longitude>85.4666667</longitude>
+  </city>
+  <city name="Pati Bhanjyang">
+    <latitude>27.85</latitude>
+    <longitude>85.4666667</longitude>
+  </city>
+  <city name="Patlahara">
+    <latitude>27.5833333</latitude>
+    <longitude>84.3666667</longitude>
+  </city>
+  <city name="Pato">
+    <latitude>27.0333333</latitude>
+    <longitude>85.9166667</longitude>
+  </city>
+  <city name="Pausauli">
+    <latitude>27.4333333</latitude>
+    <longitude>83.75</longitude>
+  </city>
+  <city name="Phalabang">
+    <latitude>28.2833333</latitude>
+    <longitude>82.2666667</longitude>
+  </city>
+  <city name="Phalame Sangu">
+    <latitude>27.8</latitude>
+    <longitude>85.7666667</longitude>
+  </city>
+  <city name="Phalamsangu">
+    <latitude>27.8</latitude>
+    <longitude>85.7666667</longitude>
+  </city>
+  <city name="Phaphlu">
+    <latitude>27.5166667</latitude>
+    <longitude>86.5833333</longitude>
+  </city>
+  <city name="Phaplu">
+    <latitude>27.5166667</latitude>
+    <longitude>86.5833333</longitude>
+  </city>
+  <city name="Pharping">
+    <latitude>27.6</latitude>
+    <longitude>85.2666667</longitude>
+  </city>
+  <city name="Pharpin">
+    <latitude>27.6</latitude>
+    <longitude>85.2666667</longitude>
+  </city>
+  <city name="Phembu">
+    <latitude>27.5166667</latitude>
+    <longitude>87.7833333</longitude>
+  </city>
+  <city name="Phidim">
+    <latitude>27.15</latitude>
+    <longitude>87.7666667</longitude>
+  </city>
+  <city name="Phijorgaon">
+    <latitude>29.4</latitude>
+    <longitude>82.9</longitude>
+  </city>
+  <city name="Phopagaon">
+    <latitude>29.4833333</latitude>
+    <longitude>82.85</longitude>
+  </city>
+  <city name="Phorcha">
+    <latitude>27.85</latitude>
+    <longitude>86.75</longitude>
+  </city>
+  <city name="Phorse">
+    <latitude>27.85</latitude>
+    <longitude>86.75</longitude>
+  </city>
+  <city name="Phugaon">
+    <latitude>28.7666667</latitude>
+    <longitude>84.2666667</longitude>
+  </city>
+  <city name="Phugru">
+    <latitude>28.65</latitude>
+    <longitude>82.3333333</longitude>
+  </city>
+  <city name="Phulbari">
+    <latitude>27.7833333</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Phulwaria">
+    <latitude>28.6</latitude>
+    <longitude>80.7166667</longitude>
+  </city>
+  <city name="Phungnangtar">
+    <latitude>26.8333333</latitude>
+    <longitude>87.6666667</longitude>
+  </city>
+  <city name="Pipalkot">
+    <latitude>29.5833333</latitude>
+    <longitude>80.8666667</longitude>
+  </city>
+  <city name="Pipraha">
+    <latitude>28.65</latitude>
+    <longitude>81.05</longitude>
+  </city>
+  <city name="Piprahwa">
+    <latitude>27.5333333</latitude>
+    <longitude>83.05</longitude>
+  </city>
+  <city name="Pipra">
+    <latitude>26.7</latitude>
+    <longitude>87.2166667</longitude>
+  </city>
+  <city name="Piuthan">
+    <latitude>28.1</latitude>
+    <longitude>82.8666667</longitude>
+  </city>
+  <city name="Pokhara">
+    <latitude>28.2333333</latitude>
+    <longitude>83.9833333</longitude>
+  </city>
+  <city name="Pokharia">
+    <latitude>26.8166667</latitude>
+    <longitude>85.25</longitude>
+  </city>
+  <city name="Pokhar">
+    <latitude>28.2333333</latitude>
+    <longitude>83.9833333</longitude>
+  </city>
+  <city name="Pokhra">
+    <latitude>28.2333333</latitude>
+    <longitude>83.9833333</longitude>
+  </city>
+  <city name="Pokhria">
+    <latitude>26.8166667</latitude>
+    <longitude>85.25</longitude>
+  </city>
+  <city name="Poklihawa">
+    <latitude>27.4833333</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Prangmu">
+    <latitude>27.1833333</latitude>
+    <longitude>87.9166667</longitude>
+  </city>
+  <city name="Pratappur">
+    <latitude>28.4833333</latitude>
+    <longitude>81.3166667</longitude>
+  </city>
+  <city name="Pudamigaon">
+    <latitude>29.0666667</latitude>
+    <longitude>82.9666667</longitude>
+  </city>
+  <city name="Pulanto">
+    <latitude>29.3666667</latitude>
+    <longitude>81.7666667</longitude>
+  </city>
+  <city name="Purti Ghat">
+    <latitude>28.05</latitude>
+    <longitude>83.5333333</longitude>
+  </city>
+  <city name="Putalikhet">
+    <latitude>28.1</latitude>
+    <longitude>83.8833333</longitude>
+  </city>
+  <city name="Putallkhet">
+    <latitude>28.1</latitude>
+    <longitude>83.8833333</longitude>
+  </city>
+  <city name="Putlikhet">
+    <latitude>28.1</latitude>
+    <longitude>83.8833333</longitude>
+  </city>
+  <city name="Pyuthan">
+    <latitude>28.1</latitude>
+    <longitude>82.8666667</longitude>
+  </city>
+  <city name="Raha">
+    <latitude>29.8666667</latitude>
+    <longitude>81.8666667</longitude>
+  </city>
+  <city name="Rajapur">
+    <latitude>28.4333333</latitude>
+    <longitude>81.0833333</longitude>
+  </city>
+  <city name="Rajbiraj">
+    <latitude>26.5333333</latitude>
+    <longitude>86.75</longitude>
+  </city>
+  <city name="Ralnabas">
+    <latitude>27.7166667</latitude>
+    <longitude>83.8333333</longitude>
+  </city>
+  <city name="Ramdighat">
+    <latitude>27.9</latitude>
+    <longitude>83.65</longitude>
+  </city>
+  <city name="Ramdikbana">
+    <latitude>28.6666667</latitude>
+    <longitude>81.5666667</longitude>
+  </city>
+  <city name="Ramechhap">
+    <latitude>27.3333333</latitude>
+    <longitude>86.0833333</longitude>
+  </city>
+  <city name="Ramgarh">
+    <latitude>28.75</latitude>
+    <longitude>80.9166667</longitude>
+  </city>
+  <city name="Ramnagar">
+    <latitude>27.0833333</latitude>
+    <longitude>85.0666667</longitude>
+  </city>
+  <city name="Rampur">
+    <latitude>27.0833333</latitude>
+    <longitude>86.5666667</longitude>
+  </city>
+  <city name="Rangeli">
+    <latitude>26.4666667</latitude>
+    <longitude>87.4833333</longitude>
+  </city>
+  <city name="Rangkhung">
+    <latitude>28.4666667</latitude>
+    <longitude>82.5333333</longitude>
+  </city>
+  <city name="Ranibirta">
+    <latitude>26.6333333</latitude>
+    <longitude>87.9833333</longitude>
+  </city>
+  <city name="Ranipauwa">
+    <latitude>28.2166667</latitude>
+    <longitude>84.0</longitude>
+  </city>
+  <city name="Ranitar">
+    <latitude>26.8833333</latitude>
+    <longitude>86.9833333</longitude>
+  </city>
+  <city name="Rara">
+    <latitude>29.5666667</latitude>
+    <longitude>82.0666667</longitude>
+  </city>
+  <city name="Rasi">
+    <latitude>28.95</latitude>
+    <longitude>82.9</longitude>
+  </city>
+  <city name="Raskot">
+    <latitude>29.2333333</latitude>
+    <longitude>81.65</longitude>
+  </city>
+  <city name="Rasnadu Village">
+    <latitude>27.5666667</latitude>
+    <longitude>86.2</longitude>
+  </city>
+  <city name="Rasnalu">
+    <latitude>27.5666667</latitude>
+    <longitude>86.2</longitude>
+  </city>
+  <city name="Rasua Garhi">
+    <latitude>28.2833333</latitude>
+    <longitude>85.3833333</longitude>
+  </city>
+  <city name="Rasua">
+    <latitude>28.2833333</latitude>
+    <longitude>85.3833333</longitude>
+  </city>
+  <city name="Rasuwa Garhi">
+    <latitude>28.2833333</latitude>
+    <longitude>85.3833333</longitude>
+  </city>
+  <city name="Rasuwa">
+    <latitude>27.0833333</latitude>
+    <longitude>86.4333333</longitude>
+  </city>
+  <city name="Rear">
+    <latitude>27.9</latitude>
+    <longitude>82.3333333</longitude>
+  </city>
+  <city name="Rehara">
+    <latitude>27.5833333</latitude>
+    <longitude>83.1333333</longitude>
+  </city>
+  <city name="Rehra">
+    <latitude>27.5833333</latitude>
+    <longitude>83.1333333</longitude>
+  </city>
+  <city name="Rekcha">
+    <latitude>28.8833333</latitude>
+    <longitude>81.25</longitude>
+  </city>
+  <city name="Ridikot">
+    <latitude>29.2166667</latitude>
+    <longitude>81.2166667</longitude>
+  </city>
+  <city name="Ridi">
+    <latitude>27.95</latitude>
+    <longitude>83.4333333</longitude>
+  </city>
+  <city name="Rijabang">
+    <latitude>28.4166667</latitude>
+    <longitude>82.4666667</longitude>
+  </city>
+  <city name="Rimi">
+    <latitude>29.1333333</latitude>
+    <longitude>82.5666667</longitude>
+  </city>
+  <city name="Riri Bazar">
+    <latitude>27.95</latitude>
+    <longitude>83.4333333</longitude>
+  </city>
+  <city name="Ririkot">
+    <latitude>29.2166667</latitude>
+    <longitude>81.2166667</longitude>
+  </city>
+  <city name="Romandey">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Rukumkot">
+    <latitude>28.6166667</latitude>
+    <longitude>82.6166667</longitude>
+  </city>
+  <city name="Rumalgaon">
+    <latitude>28.8333333</latitude>
+    <longitude>82.1166667</longitude>
+  </city>
+  <city name="Rumjatar">
+    <latitude>27.3</latitude>
+    <longitude>86.55</longitude>
+  </city>
+  <city name="Rummin-dei">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Rupandehi">
+    <latitude>27.4833333</latitude>
+    <longitude>83.2833333</longitude>
+  </city>
+  <city name="Saipal">
+    <latitude>30.05</latitude>
+    <longitude>81.1333333</longitude>
+  </city>
+  <city name="Sakha">
+    <latitude>28.6166667</latitude>
+    <longitude>82.5</longitude>
+  </city>
+  <city name="Saldanggaon">
+    <latitude>29.3</latitude>
+    <longitude>83.0833333</longitude>
+  </city>
+  <city name="Salkot">
+    <latitude>28.8</latitude>
+    <longitude>81.4833333</longitude>
+  </city>
+  <city name="Sallen">
+    <latitude>28.15</latitude>
+    <longitude>83.4166667</longitude>
+  </city>
+  <city name="Sallyana">
+    <latitude>28.3666667</latitude>
+    <longitude>82.1666667</longitude>
+  </city>
+  <city name="Sallyan">
+    <latitude>28.3666667</latitude>
+    <longitude>82.1666667</longitude>
+  </city>
+  <city name="Salyan">
+    <latitude>28.3666667</latitude>
+    <longitude>82.1666667</longitude>
+  </city>
+  <city name="Samargaon">
+    <latitude>28.95</latitude>
+    <longitude>83.8</longitude>
+  </city>
+  <city name="Sama">
+    <latitude>28.5833333</latitude>
+    <longitude>84.6333333</longitude>
+  </city>
+  <city name="Samde">
+    <latitude>27.8333333</latitude>
+    <longitude>86.6666667</longitude>
+  </city>
+  <city name="Samjung">
+    <latitude>29.2333333</latitude>
+    <longitude>84.0166667</longitude>
+  </city>
+  <city name="Sanam">
+    <latitude>27.45</latitude>
+    <longitude>86.8833333</longitude>
+  </city>
+  <city name="Sangdah">
+    <latitude>28.9</latitude>
+    <longitude>83.6833333</longitude>
+  </city>
+  <city name="Sangu">
+    <latitude>28.0333333</latitude>
+    <longitude>84.6166667</longitude>
+  </city>
+  <city name="Sangutar">
+    <latitude>27.35</latitude>
+    <longitude>86.2166667</longitude>
+  </city>
+  <city name="Sankhu">
+    <latitude>27.7166667</latitude>
+    <longitude>85.45</longitude>
+  </city>
+  <city name="Sanwal">
+    <latitude>27.6166667</latitude>
+    <longitude>83.6333333</longitude>
+  </city>
+  <city name="Sarswati">
+    <latitude>26.75</latitude>
+    <longitude>86.4166667</longitude>
+  </city>
+  <city name="Sasaiya">
+    <latitude>28.6666667</latitude>
+    <longitude>80.8833333</longitude>
+  </city>
+  <city name="Saukatia">
+    <latitude>29.5166667</latitude>
+    <longitude>80.8333333</longitude>
+  </city>
+  <city name="Selkot">
+    <latitude>29.1166667</latitude>
+    <longitude>80.8166667</longitude>
+  </city>
+  <city name="Semri">
+    <latitude>27.5333333</latitude>
+    <longitude>83.4166667</longitude>
+  </city>
+  <city name="Setibas">
+    <latitude>28.3666667</latitude>
+    <longitude>84.9</longitude>
+  </city>
+  <city name="Setibeni">
+    <latitude>28.0</latitude>
+    <longitude>83.6166667</longitude>
+  </city>
+  <city name="Setu Bash">
+    <latitude>28.3666667</latitude>
+    <longitude>84.9</longitude>
+  </city>
+  <city name="Seulabang">
+    <latitude>28.3166667</latitude>
+    <longitude>82.95</longitude>
+  </city>
+  <city name="Shibganj">
+    <latitude>26.5833333</latitude>
+    <longitude>87.0666667</longitude>
+  </city>
+  <city name="Shibkhola">
+    <latitude>28.9</latitude>
+    <longitude>82.3</longitude>
+  </city>
+  <city name="Shimi">
+    <latitude>28.9833333</latitude>
+    <longitude>82.5833333</longitude>
+  </city>
+  <city name="Shirha">
+    <latitude>26.65</latitude>
+    <longitude>86.2</longitude>
+  </city>
+  <city name="Shivanagar">
+    <latitude>27.5166667</latitude>
+    <longitude>82.8</longitude>
+  </city>
+  <city name="Shringa">
+    <latitude>27.8</latitude>
+    <longitude>84.3333333</longitude>
+  </city>
+  <city name="Shyabu">
+    <latitude>28.15</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Sialkot">
+    <latitude>28.8</latitude>
+    <longitude>81.4833333</longitude>
+  </city>
+  <city name="Siddharthanagar">
+    <latitude>27.5</latitude>
+    <longitude>83.45</longitude>
+  </city>
+  <city name="Sidhnia Ghat">
+    <latitude>28.0666667</latitude>
+    <longitude>81.7166667</longitude>
+  </city>
+  <city name="Sikha">
+    <latitude>28.45</latitude>
+    <longitude>83.6666667</longitude>
+  </city>
+  <city name="Sikpasor Khani">
+    <latitude>27.7666667</latitude>
+    <longitude>86.3</longitude>
+  </city>
+  <city name="Sikta Ghat">
+    <latitude>28.0333333</latitude>
+    <longitude>81.9833333</longitude>
+  </city>
+  <city name="Siktahan">
+    <latitude>27.5666667</latitude>
+    <longitude>83.55</longitude>
+  </city>
+  <city name="Silgadhi-Doti">
+    <latitude>29.2666667</latitude>
+    <longitude>80.9833333</longitude>
+  </city>
+  <city name="Silgadhi">
+    <latitude>29.2666667</latitude>
+    <longitude>80.9833333</longitude>
+  </city>
+  <city name="Silgarhi-Doti">
+    <latitude>29.2666667</latitude>
+    <longitude>80.9833333</longitude>
+  </city>
+  <city name="Silgarhi Dot">
+    <latitude>29.2666667</latitude>
+    <longitude>80.9833333</longitude>
+  </city>
+  <city name="Siliguri">
+    <latitude>29.2666667</latitude>
+    <longitude>80.9833333</longitude>
+  </city>
+  <city name="Simagaon">
+    <latitude>28.4333333</latitude>
+    <longitude>82.5333333</longitude>
+  </city>
+  <city name="Simara">
+    <latitude>27.1666667</latitude>
+    <longitude>84.9833333</longitude>
+  </city>
+  <city name="Simengaon">
+    <latitude>29.3166667</latitude>
+    <longitude>83.2166667</longitude>
+  </city>
+  <city name="Simikot">
+    <latitude>29.9666667</latitude>
+    <longitude>81.8333333</longitude>
+  </city>
+  <city name="Simra">
+    <latitude>27.1666667</latitude>
+    <longitude>84.9833333</longitude>
+  </city>
+  <city name="Sindhuli Gadhi">
+    <latitude>27.2666667</latitude>
+    <longitude>85.9666667</longitude>
+  </city>
+  <city name="Sindhuli Garhi">
+    <latitude>27.2666667</latitude>
+    <longitude>85.9666667</longitude>
+  </city>
+  <city name="Sindhuli">
+    <latitude>27.2666667</latitude>
+    <longitude>85.9666667</longitude>
+  </city>
+  <city name="Sinja">
+    <latitude>29.45</latitude>
+    <longitude>82.0333333</longitude>
+  </city>
+  <city name="Siraha">
+    <latitude>26.65</latitude>
+    <longitude>86.2</longitude>
+  </city>
+  <city name="Sirha">
+    <latitude>26.65</latitude>
+    <longitude>86.2</longitude>
+  </city>
+  <city name="Sirkot">
+    <latitude>28.9666667</latitude>
+    <longitude>81.4666667</longitude>
+  </city>
+  <city name="Siror">
+    <latitude>29.3666667</latitude>
+    <longitude>80.75</longitude>
+  </city>
+  <city name="Sirsia">
+    <latitude>26.7666667</latitude>
+    <longitude>85.3</longitude>
+  </city>
+  <city name="Sisaghat Bazar">
+    <latitude>28.0833333</latitude>
+    <longitude>84.25</longitude>
+  </city>
+  <city name="Sisaghat">
+    <latitude>28.0833333</latitude>
+    <longitude>84.25</longitude>
+  </city>
+  <city name="Sisaria">
+    <latitude>28.6666667</latitude>
+    <longitude>80.8833333</longitude>
+  </city>
+  <city name="Sisbani">
+    <latitude>26.8166667</latitude>
+    <longitude>86.2</longitude>
+  </city>
+  <city name="Sitalpati">
+    <latitude>28.3666667</latitude>
+    <longitude>82.1833333</longitude>
+  </city>
+  <city name="Sitapur">
+    <latitude>27.5</latitude>
+    <longitude>83.5833333</longitude>
+  </city>
+  <city name="Sitlapur">
+    <latitude>27.5</latitude>
+    <longitude>83.5833333</longitude>
+  </city>
+  <city name="Siurigaon">
+    <latitude>28.35</latitude>
+    <longitude>82.8166667</longitude>
+  </city>
+  <city name="Siwanagar">
+    <latitude>27.5166667</latitude>
+    <longitude>82.8</longitude>
+  </city>
+  <city name="Sonauli">
+    <latitude>27.5</latitude>
+    <longitude>83.4166667</longitude>
+  </city>
+  <city name="Sorukot">
+    <latitude>29.65</latitude>
+    <longitude>81.95</longitude>
+  </city>
+  <city name="Sorung">
+    <latitude>27.1</latitude>
+    <longitude>86.4333333</longitude>
+  </city>
+  <city name="Sripur">
+    <latitude>26.8666667</latitude>
+    <longitude>85.7666667</longitude>
+  </city>
+  <city name="Subakone">
+    <latitude>28.5333333</latitude>
+    <longitude>82.5166667</longitude>
+  </city>
+  <city name="Sugarkhal">
+    <latitude>28.7666667</latitude>
+    <longitude>81.15</longitude>
+  </city>
+  <city name="Sukadhik">
+    <latitude>29.5333333</latitude>
+    <longitude>81.8166667</longitude>
+  </city>
+  <city name="Sukhar">
+    <latitude>28.6666667</latitude>
+    <longitude>80.95</longitude>
+  </city>
+  <city name="Sukhchauri">
+    <latitude>27.0666667</latitude>
+    <longitude>86.3666667</longitude>
+  </city>
+  <city name="Sunarpur">
+    <latitude>27.0166667</latitude>
+    <longitude>85.1166667</longitude>
+  </city>
+  <city name="Sunauli">
+    <latitude>27.5</latitude>
+    <longitude>83.4166667</longitude>
+  </city>
+  <city name="Sundarijal">
+    <latitude>27.75</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Sundarpur">
+    <latitude>27.0166667</latitude>
+    <longitude>85.1166667</longitude>
+  </city>
+  <city name="Sunderijal">
+    <latitude>27.75</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Sundraijal">
+    <latitude>27.75</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Sundrijal">
+    <latitude>27.75</latitude>
+    <longitude>85.4166667</longitude>
+  </city>
+  <city name="Sungarkhal">
+    <latitude>28.7666667</latitude>
+    <longitude>81.15</longitude>
+  </city>
+  <city name="Sunwal">
+    <latitude>27.6166667</latitude>
+    <longitude>83.6333333</longitude>
+  </city>
+  <city name="Surajpura">
+    <latitude>27.4166667</latitude>
+    <longitude>83.8</longitude>
+  </city>
+  <city name="Surkhet">
+    <latitude>28.6</latitude>
+    <longitude>81.6</longitude>
+  </city>
+  <city name="Swargdwari">
+    <latitude>28.1166667</latitude>
+    <longitude>82.6666667</longitude>
+  </city>
+  <city name="Swargdwar">
+    <latitude>28.1166667</latitude>
+    <longitude>82.6666667</longitude>
+  </city>
+  <city name="Syabru Bensi">
+    <latitude>28.1666667</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Syabru">
+    <latitude>28.15</latitude>
+    <longitude>85.35</longitude>
+  </city>
+  <city name="Syangja">
+    <latitude>28.0833333</latitude>
+    <longitude>83.8666667</longitude>
+  </city>
+  <city name="Syang">
+    <latitude>28.7833333</latitude>
+    <longitude>83.7</longitude>
+  </city>
+  <city name="Tagring">
+    <latitude>28.35</latitude>
+    <longitude>84.3833333</longitude>
+  </city>
+  <city name="Taklak">
+    <latitude>28.0166667</latitude>
+    <longitude>83.6333333</longitude>
+  </city>
+  <city name="Talkot">
+    <latitude>29.6166667</latitude>
+    <longitude>81.3166667</longitude>
+  </city>
+  <city name="Talpaka">
+    <latitude>29.3333333</latitude>
+    <longitude>80.4666667</longitude>
+  </city>
+  <city name="Tamaspur">
+    <latitude>27.5666667</latitude>
+    <longitude>83.95</longitude>
+  </city>
+  <city name="Tamgas">
+    <latitude>28.0666667</latitude>
+    <longitude>83.25</longitude>
+  </city>
+  <city name="Tamghas">
+    <latitude>28.0666667</latitude>
+    <longitude>83.25</longitude>
+  </city>
+  <city name="Tanahun">
+    <latitude>28.0333333</latitude>
+    <longitude>84.3333333</longitude>
+  </city>
+  <city name="Tandi">
+    <latitude>27.6333333</latitude>
+    <longitude>85.9166667</longitude>
+  </city>
+  <city name="Tange">
+    <latitude>29.0</latitude>
+    <longitude>83.95</longitude>
+  </city>
+  <city name="Tangmoche">
+    <latitude>27.75</latitude>
+    <longitude>87.4166667</longitude>
+  </city>
+  <city name="Tanhu">
+    <latitude>28.0333333</latitude>
+    <longitude>84.3333333</longitude>
+  </city>
+  <city name="Tanje">
+    <latitude>28.2833333</latitude>
+    <longitude>84.5333333</longitude>
+  </city>
+  <city name="Tanju">
+    <latitude>28.4833333</latitude>
+    <longitude>84.9833333</longitude>
+  </city>
+  <city name="Tansen">
+    <latitude>27.8666667</latitude>
+    <longitude>83.4833333</longitude>
+  </city>
+  <city name="Tansing">
+    <latitude>27.8666667</latitude>
+    <longitude>83.55</longitude>
+  </city>
+  <city name="Taplejung">
+    <latitude>27.35</latitude>
+    <longitude>87.6666667</longitude>
+  </city>
+  <city name="Tarakot">
+    <latitude>28.8833333</latitude>
+    <longitude>82.9833333</longitude>
+  </city>
+  <city name="Tarapgaon">
+    <latitude>29.0333333</latitude>
+    <longitude>83.1833333</longitude>
+  </city>
+  <city name="Tarenggaon">
+    <latitude>28.8666667</latitude>
+    <longitude>83.3666667</longitude>
+  </city>
+  <city name="Tarke Ghyang">
+    <latitude>28.0</latitude>
+    <longitude>85.5666667</longitude>
+  </city>
+  <city name="Tatopani">
+    <latitude>27.95</latitude>
+    <longitude>85.9333333</longitude>
+  </city>
+  <city name="Taulia">
+    <latitude>27.5333333</latitude>
+    <longitude>83.05</longitude>
+  </city>
+  <city name="Taulihawa">
+    <latitude>27.5333333</latitude>
+    <longitude>83.05</longitude>
+  </city>
+  <city name="Teghari">
+    <latitude>28.8333333</latitude>
+    <longitude>80.5666667</longitude>
+  </city>
+  <city name="Tehrathum">
+    <latitude>27.1166667</latitude>
+    <longitude>87.5333333</longitude>
+  </city>
+  <city name="Teh">
+    <latitude>29.0333333</latitude>
+    <longitude>84.0</longitude>
+  </city>
+  <city name="Telok">
+    <latitude>27.3666667</latitude>
+    <longitude>87.85</longitude>
+  </city>
+  <city name="Telpani">
+    <latitude>28.5666667</latitude>
+    <longitude>81.45</longitude>
+  </city>
+  <city name="Tempathang">
+    <latitude>28.0</latitude>
+    <longitude>85.7833333</longitude>
+  </city>
+  <city name="Terhathum">
+    <latitude>27.1166667</latitude>
+    <longitude>87.5333333</longitude>
+  </city>
+  <city name="Terhthum">
+    <latitude>27.1166667</latitude>
+    <longitude>87.5333333</longitude>
+  </city>
+  <city name="Thabang">
+    <latitude>28.4833333</latitude>
+    <longitude>82.7166667</longitude>
+  </city>
+  <city name="Thahrakot">
+    <latitude>27.8666667</latitude>
+    <longitude>83.1333333</longitude>
+  </city>
+  <city name="Thakle">
+    <latitude>26.75</latitude>
+    <longitude>87.9</longitude>
+  </city>
+  <city name="Thalara">
+    <latitude>29.4833333</latitude>
+    <longitude>80.9833333</longitude>
+  </city>
+  <city name="Thami">
+    <latitude>27.8333333</latitude>
+    <longitude>86.6333333</longitude>
+  </city>
+  <city name="Thammu">
+    <latitude>27.8166667</latitude>
+    <longitude>86.6666667</longitude>
+  </city>
+  <city name="Thandar">
+    <latitude>28.6166667</latitude>
+    <longitude>82.1666667</longitude>
+  </city>
+  <city name="Thangjet">
+    <latitude>28.1833333</latitude>
+    <longitude>85.3</longitude>
+  </city>
+  <city name="Thangmoche">
+    <latitude>27.85</latitude>
+    <longitude>86.65</longitude>
+  </city>
+  <city name="Thangpoche">
+    <latitude>27.8333333</latitude>
+    <longitude>86.7666667</longitude>
+  </city>
+  <city name="Thankol">
+    <latitude>27.6833333</latitude>
+    <longitude>85.1833333</longitude>
+  </city>
+  <city name="Thankot">
+    <latitude>27.6833333</latitude>
+    <longitude>85.1833333</longitude>
+  </city>
+  <city name="Thapagaon">
+    <latitude>27.85</latitude>
+    <longitude>85.3</longitude>
+  </city>
+  <city name="Thapathali">
+    <latitude>27.7166667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Tharakot">
+    <latitude>27.8666667</latitude>
+    <longitude>83.1333333</longitude>
+  </city>
+  <city name="Thare Pati">
+    <latitude>28.0166667</latitude>
+    <longitude>85.5</longitude>
+  </city>
+  <city name="Thargumtha">
+    <latitude>29.5166667</latitude>
+    <longitude>81.8833333</longitude>
+  </city>
+  <city name="Thimi">
+    <latitude>27.6833333</latitude>
+    <longitude>85.3833333</longitude>
+  </city>
+  <city name="Thodung">
+    <latitude>27.6</latitude>
+    <longitude>86.35</longitude>
+  </city>
+  <city name="Thonje">
+    <latitude>28.5166667</latitude>
+    <longitude>84.35</longitude>
+  </city>
+  <city name="Thori">
+    <latitude>27.35</latitude>
+    <longitude>84.6166667</longitude>
+  </city>
+  <city name="Those">
+    <latitude>27.5833333</latitude>
+    <longitude>86.25</longitude>
+  </city>
+  <city name="Thotung">
+    <latitude>27.6</latitude>
+    <longitude>86.35</longitude>
+  </city>
+  <city name="Thukla">
+    <latitude>27.9166667</latitude>
+    <longitude>86.8</longitude>
+  </city>
+  <city name="Thulopatal">
+    <latitude>27.6</latitude>
+    <longitude>86.1666667</longitude>
+  </city>
+  <city name="Thumshe">
+    <latitude>28.5166667</latitude>
+    <longitude>84.35</longitude>
+  </city>
+  <city name="Thyangboche">
+    <latitude>27.8333333</latitude>
+    <longitude>86.7666667</longitude>
+  </city>
+  <city name="Thyangtoche">
+    <latitude>27.8333333</latitude>
+    <longitude>86.7666667</longitude>
+  </city>
+  <city name="Tibrikot">
+    <latitude>29.0333333</latitude>
+    <longitude>82.7833333</longitude>
+  </city>
+  <city name="Tigri">
+    <latitude>28.8333333</latitude>
+    <longitude>80.5666667</longitude>
+  </city>
+  <city name="Tikabhairab">
+    <latitude>27.5666667</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Tikapur">
+    <latitude>28.5</latitude>
+    <longitude>81.1333333</longitude>
+  </city>
+  <city name="Tikoli">
+    <latitude>27.6333333</latitude>
+    <longitude>84.5</longitude>
+  </city>
+  <city name="Tilaurakot">
+    <latitude>27.5833333</latitude>
+    <longitude>83.0666667</longitude>
+  </city>
+  <city name="Tiling">
+    <latitude>29.3333333</latitude>
+    <longitude>83.0833333</longitude>
+  </city>
+  <city name="Til">
+    <latitude>30.1166667</latitude>
+    <longitude>81.4833333</longitude>
+  </city>
+  <city name="Tinakar">
+    <latitude>30.1333333</latitude>
+    <longitude>80.9333333</longitude>
+  </city>
+  <city name="Tingjegaon">
+    <latitude>29.2333333</latitude>
+    <longitude>83.3166667</longitude>
+  </city>
+  <city name="Tinkar">
+    <latitude>30.1333333</latitude>
+    <longitude>80.9333333</longitude>
+  </city>
+  <city name="Titahari">
+    <latitude>26.6666667</latitude>
+    <longitude>87.2833333</longitude>
+  </city>
+  <city name="Tokha">
+    <latitude>27.75</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Tokna">
+    <latitude>27.75</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Toli">
+    <latitude>28.9</latitude>
+    <longitude>81.3333333</longitude>
+  </city>
+  <city name="Topke Gola">
+    <latitude>27.65</latitude>
+    <longitude>87.5666667</longitude>
+  </city>
+  <city name="Topla">
+    <latitude>29.1</latitude>
+    <longitude>82.0833333</longitude>
+  </city>
+  <city name="Tribeni Gatt">
+    <latitude>26.9166667</latitude>
+    <longitude>87.1666667</longitude>
+  </city>
+  <city name="Tribeni Ghat">
+    <latitude>26.9333333</latitude>
+    <longitude>86.2833333</longitude>
+  </city>
+  <city name="Tribeni">
+    <latitude>26.9166667</latitude>
+    <longitude>87.1666667</longitude>
+  </city>
+  <city name="Trisuli Bazar">
+    <latitude>27.9166667</latitude>
+    <longitude>85.15</longitude>
+  </city>
+  <city name="Trisuli">
+    <latitude>27.9166667</latitude>
+    <longitude>85.15</longitude>
+  </city>
+  <city name="Tsarang">
+    <latitude>29.0833333</latitude>
+    <longitude>83.9166667</longitude>
+  </city>
+  <city name="Tukotigaon">
+    <latitude>28.9166667</latitude>
+    <longitude>83.3666667</longitude>
+  </city>
+  <city name="Tukucha">
+    <latitude>28.7166667</latitude>
+    <longitude>83.6666667</longitude>
+  </city>
+  <city name="Tulsipur">
+    <latitude>28.1333333</latitude>
+    <longitude>82.3</longitude>
+  </city>
+  <city name="Tulsi">
+    <latitude>27.0166667</latitude>
+    <longitude>85.9166667</longitude>
+  </city>
+  <city name="Tumlingtar">
+    <latitude>27.3</latitude>
+    <longitude>87.2</longitude>
+  </city>
+  <city name="Tumlintar">
+    <latitude>27.3</latitude>
+    <longitude>87.2</longitude>
+  </city>
+  <city name="Tunrikhel">
+    <latitude>27.2166667</latitude>
+    <longitude>87.7333333</longitude>
+  </city>
+  <city name="Udain">
+    <latitude>28.1666667</latitude>
+    <longitude>81.7666667</longitude>
+  </city>
+  <city name="Udaipur Gadhi">
+    <latitude>26.9333333</latitude>
+    <longitude>86.5166667</longitude>
+  </city>
+  <city name="Udaipur Garhi">
+    <latitude>26.9333333</latitude>
+    <longitude>86.5166667</longitude>
+  </city>
+  <city name="Udaipur">
+    <latitude>26.9333333</latitude>
+    <longitude>86.5166667</longitude>
+  </city>
+  <city name="Udai">
+    <latitude>28.1666667</latitude>
+    <longitude>81.7666667</longitude>
+  </city>
+  <city name="Udayapur Garhi">
+    <latitude>26.9333333</latitude>
+    <longitude>86.5166667</longitude>
+  </city>
+  <city name="Ukta">
+    <latitude>29.0833333</latitude>
+    <longitude>82.4833333</longitude>
+  </city>
+  <city name="Ulejula">
+    <latitude>28.5333333</latitude>
+    <longitude>82.3333333</longitude>
+  </city>
+  <city name="Umari">
+    <latitude>29.0833333</latitude>
+    <longitude>81.0333333</longitude>
+  </city>
+  <city name="Umraro">
+    <latitude>29.2333333</latitude>
+    <longitude>80.9166667</longitude>
+  </city>
+  <city name="Umse">
+    <latitude>27.8666667</latitude>
+    <longitude>84.1166667</longitude>
+  </city>
+  <city name="Unapani">
+    <latitude>29.7833333</latitude>
+    <longitude>81.9</longitude>
+  </city>
+  <city name="Upardang Gadhi">
+    <latitude>27.7666667</latitude>
+    <longitude>84.5666667</longitude>
+  </city>
+  <city name="Upardang Garhi">
+    <latitude>27.7666667</latitude>
+    <longitude>84.5666667</longitude>
+  </city>
+  <city name="Uwagaon">
+    <latitude>28.4333333</latitude>
+    <longitude>82.8166667</longitude>
+  </city>
+  <city name="Vishnupura">
+    <latitude>27.4666667</latitude>
+    <longitude>83.5666667</longitude>
+  </city>
+  <city name="Waleng">
+    <latitude>27.5</latitude>
+    <longitude>87.1833333</longitude>
+  </city>
+  <city name="Waling">
+    <latitude>27.9833333</latitude>
+    <longitude>83.7666667</longitude>
+  </city>
+  <city name="Wali">
+    <latitude>28.2666667</latitude>
+    <longitude>81.9</longitude>
+  </city>
+  <city name="Walling">
+    <latitude>27.9833333</latitude>
+    <longitude>83.7666667</longitude>
+  </city>
+  <city name="Walungchung Gola">
+    <latitude>27.6833333</latitude>
+    <longitude>87.8</longitude>
+  </city>
+  <city name="Wamitaksar">
+    <latitude>28.1833333</latitude>
+    <longitude>83.3</longitude>
+  </city>
+  <city name="Wapsa Khani">
+    <latitude>27.5166667</latitude>
+    <longitude>86.7166667</longitude>
+  </city>
+  <city name="Yala">
+    <latitude>27.6666667</latitude>
+    <longitude>85.3333333</longitude>
+  </city>
+  <city name="Yalbang">
+    <latitude>30.0166667</latitude>
+    <longitude>81.6</longitude>
+  </city>
+  <city name="Yamphodin">
+    <latitude>27.45</latitude>
+    <longitude>87.9</longitude>
+  </city>
+  <city name="Yangar">
+    <latitude>30.0166667</latitude>
+    <longitude>81.6</longitude>
+  </city>
+  <city name="Yangbel">
+    <latitude>27.5333333</latitude>
+    <longitude>85.7166667</longitude>
+  </city>
+  <city name="Yang Fu Ring">
+    <latitude>27.45</latitude>
+    <longitude>87.9</longitude>
+  </city>
+  <city name="Yangphuring">
+    <latitude>27.45</latitude>
+    <longitude>87.9</longitude>
+  </city>
+  <city name="Yapkel">
+    <latitude>30.0</latitude>
+    <longitude>81.7333333</longitude>
+  </city>
+  <city name="Yari">
+    <latitude>30.0666667</latitude>
+    <longitude>81.4666667</longitude>
+  </city>
+  <city name="Yarsa">
+    <latitude>28.0</latitude>
+    <longitude>85.3166667</longitude>
+  </city>
+  <city name="Yektim">
+    <latitude>27.2</latitude>
+    <longitude>87.9166667</longitude>
+  </city>
+</country>

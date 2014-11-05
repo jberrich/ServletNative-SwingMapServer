@@ -1,0 +1,2455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="gy" name="Guyane">
+  <city name="Abary">
+    <latitude>6.55</latitude>
+    <longitude>-57.75</longitude>
+  </city>
+  <city name="Achiwib">
+    <latitude>2.3</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Achiwuib Village">
+    <latitude>2.3</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Acquero">
+    <latitude>7.65</latitude>
+    <longitude>-58.9333333</longitude>
+  </city>
+  <city name="Adelair">
+    <latitude>2.1333333</latitude>
+    <longitude>-59.6333333</longitude>
+  </city>
+  <city name="Adventure">
+    <latitude>7.0833333</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Agricola Village">
+    <latitude>6.4666667</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Aishalton">
+    <latitude>2.5166667</latitude>
+    <longitude>-59.25</longitude>
+  </city>
+  <city name="Aishalton Village">
+    <latitude>2.5166667</latitude>
+    <longitude>-59.25</longitude>
+  </city>
+  <city name="Ajimipepai">
+    <latitude>5.9</latitude>
+    <longitude>-60.5666667</longitude>
+  </city>
+  <city name="Akar">
+    <latitude>5.6833333</latitude>
+    <longitude>-60.3166667</longitude>
+  </city>
+  <city name="Akar Village">
+    <latitude>5.6833333</latitude>
+    <longitude>-60.3166667</longitude>
+  </city>
+  <city name="Akawini Mission">
+    <latitude>7.3666667</latitude>
+    <longitude>-58.7333333</longitude>
+  </city>
+  <city name="Akwero">
+    <latitude>7.65</latitude>
+    <longitude>-58.9333333</longitude>
+  </city>
+  <city name="Alberttown">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Albouystown">
+    <latitude>6.8</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Alexander Village">
+    <latitude>6.8</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Alexanderville">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Alnes">
+    <latitude>6.2</latitude>
+    <longitude>-57.2833333</longitude>
+  </city>
+  <city name="Alness">
+    <latitude>6.2</latitude>
+    <longitude>-57.2833333</longitude>
+  </city>
+  <city name="Altora Village">
+    <latitude>2.4833333</latitude>
+    <longitude>-59.1666667</longitude>
+  </city>
+  <city name="Amamure Village">
+    <latitude>6.8</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Amamuri Village">
+    <latitude>6.8</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Amazon">
+    <latitude>7.3833333</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Ambrose Village">
+    <latitude>3.0333333</latitude>
+    <longitude>-59.7666667</longitude>
+  </city>
+  <city name="Amokokopai Village">
+    <latitude>5.3833333</latitude>
+    <longitude>-60.3</longitude>
+  </city>
+  <city name="Ampa">
+    <latitude>6.5</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Amstel">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Anna Catherina">
+    <latitude>6.7666667</latitude>
+    <longitude>-58.2666667</longitude>
+  </city>
+  <city name="Annai">
+    <latitude>3.95</latitude>
+    <longitude>-59.1333333</longitude>
+  </city>
+  <city name="Anwai">
+    <latitude>3.95</latitude>
+    <longitude>-59.1333333</longitude>
+  </city>
+  <city name="Apanachi">
+    <latitude>5.65</latitude>
+    <longitude>-59.2166667</longitude>
+  </city>
+  <city name="Apoteri">
+    <latitude>4.0333333</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Aqueero">
+    <latitude>7.65</latitude>
+    <longitude>-58.9333333</longitude>
+  </city>
+  <city name="Arakaka">
+    <latitude>7.5833333</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Arakwai Outstation">
+    <latitude>2.7666667</latitude>
+    <longitude>-59.4833333</longitude>
+  </city>
+  <city name="Arau Village">
+    <latitude>6.4166667</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Arawai Village">
+    <latitude>6.3166667</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Arnik Village">
+    <latitude>5.0166667</latitude>
+    <longitude>-59.5333333</longitude>
+  </city>
+  <city name="Assura Village">
+    <latitude>5.8166667</latitude>
+    <longitude>-59.65</longitude>
+  </city>
+  <city name="Atamadpau">
+    <latitude>3.0</latitude>
+    <longitude>-59.7166667</longitude>
+  </city>
+  <city name="Attai">
+    <latitude>5.0833333</latitude>
+    <longitude>-58.5166667</longitude>
+  </city>
+  <city name="Attai Village">
+    <latitude>5.0833333</latitude>
+    <longitude>-58.5166667</longitude>
+  </city>
+  <city name="Aunama">
+    <latitude>7.15</latitude>
+    <longitude>-60.0833333</longitude>
+  </city>
+  <city name="Aunama Village">
+    <latitude>7.15</latitude>
+    <longitude>-60.0833333</longitude>
+  </city>
+  <city name="Aurora">
+    <latitude>6.8</latitude>
+    <longitude>-59.75</longitude>
+  </city>
+  <city name="Awarabati">
+    <latitude>6.8</latitude>
+    <longitude>-60.8</longitude>
+  </city>
+  <city name="Awariwaunau">
+    <latitude>2.6666667</latitude>
+    <longitude>-59.2</longitude>
+  </city>
+  <city name="Awaruwaunawa">
+    <latitude>2.6666667</latitude>
+    <longitude>-59.2</longitude>
+  </city>
+  <city name="Bagotstown">
+    <latitude>6.7833333</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Baiabu">
+    <latitude>6.55</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Banakari">
+    <latitude>6.6166667</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Barabara">
+    <latitude>6.55</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Barabina Hill">
+    <latitude>8.2166667</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Barakara">
+    <latitude>6.3833333</latitude>
+    <longitude>-58.6666667</longitude>
+  </city>
+  <city name="Barakara Mission">
+    <latitude>5.85</latitude>
+    <longitude>-57.4666667</longitude>
+  </city>
+  <city name="Baramani">
+    <latitude>7.8333333</latitude>
+    <longitude>-59.2166667</longitude>
+  </city>
+  <city name="Baramanna">
+    <latitude>7.8333333</latitude>
+    <longitude>-59.2166667</longitude>
+  </city>
+  <city name="Baramanni">
+    <latitude>7.8333333</latitude>
+    <longitude>-59.2166667</longitude>
+  </city>
+  <city name="Baramita">
+    <latitude>7.35</latitude>
+    <longitude>-60.4833333</longitude>
+  </city>
+  <city name="Barimanni">
+    <latitude>7.8333333</latitude>
+    <longitude>-59.2166667</longitude>
+  </city>
+  <city name="Barteke">
+    <latitude>6.4</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Bartica">
+    <latitude>6.4</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Basha Village">
+    <latitude>3.3333333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Bel Air">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Bel Air Gardens">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Bel Air Park">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Bel Air Springs">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Belfield">
+    <latitude>6.7333333</latitude>
+    <longitude>-57.9666667</longitude>
+  </city>
+  <city name="Belfield Village">
+    <latitude>6.7333333</latitude>
+    <longitude>-57.9666667</longitude>
+  </city>
+  <city name="Belladrum">
+    <latitude>6.5166667</latitude>
+    <longitude>-57.7</longitude>
+  </city>
+  <city name="Berebisibali">
+    <latitude>6.6666667</latitude>
+    <longitude>-58.5666667</longitude>
+  </city>
+  <city name="Berebisiballi">
+    <latitude>6.6666667</latitude>
+    <longitude>-58.5666667</longitude>
+  </city>
+  <city name="Beribissibali">
+    <latitude>6.6666667</latitude>
+    <longitude>-58.5666667</longitude>
+  </city>
+  <city name="Beribissiballi">
+    <latitude>6.6666667</latitude>
+    <longitude>-58.5666667</longitude>
+  </city>
+  <city name="Berks">
+    <latitude>7.4</latitude>
+    <longitude>-58.5666667</longitude>
+  </city>
+  <city name="Beterverwagting">
+    <latitude>6.8</latitude>
+    <longitude>-58.0666667</longitude>
+  </city>
+  <city name="Bethany">
+    <latitude>6.8</latitude>
+    <longitude>-58.6</longitude>
+  </city>
+  <city name="Biabu">
+    <latitude>6.55</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Big Baiabo">
+    <latitude>6.55</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Big Baiabu">
+    <latitude>6.55</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Big Biaboo">
+    <latitude>6.55</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Big Biabu">
+    <latitude>6.55</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Big Diamond">
+    <latitude>6.7166667</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Biloku">
+    <latitude>1.7666667</latitude>
+    <longitude>-58.55</longitude>
+  </city>
+  <city name="Blairmont">
+    <latitude>6.25</latitude>
+    <longitude>-57.55</longitude>
+  </city>
+  <city name="Blairmont Place">
+    <latitude>6.25</latitude>
+    <longitude>-57.55</longitude>
+  </city>
+  <city name="Blygezight">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Blygezight Gardens">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Bom Sucesso">
+    <latitude>3.3833333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Bon Success">
+    <latitude>3.3833333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Bounty Hall">
+    <latitude>7.3666667</latitude>
+    <longitude>-58.5166667</longitude>
+  </city>
+  <city name="Bourda">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Brandwagt-Sari">
+    <latitude>5.9833333</latitude>
+    <longitude>-57.6333333</longitude>
+  </city>
+  <city name="Brighton">
+    <latitude>6.15</latitude>
+    <longitude>-57.2166667</longitude>
+  </city>
+  <city name="Burisanawa Village">
+    <latitude>2.35</latitude>
+    <longitude>-59.35</longitude>
+  </city>
+  <city name="Bush Lot">
+    <latitude>6.2166667</latitude>
+    <longitude>-57.2666667</longitude>
+  </city>
+  <city name="Bush Lot Village">
+    <latitude>6.2166667</latitude>
+    <longitude>-57.2666667</longitude>
+  </city>
+  <city name="Butakari">
+    <latitude>5.75</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Butukari">
+    <latitude>5.75</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Buxton">
+    <latitude>6.7833333</latitude>
+    <longitude>-58.0333333</longitude>
+  </city>
+  <city name="Cajueiro">
+    <latitude>3.8</latitude>
+    <longitude>-59.4</longitude>
+  </city>
+  <city name="Caledonia">
+    <latitude>7.0</latitude>
+    <longitude>-58.4333333</longitude>
+  </city>
+  <city name="Campbellville">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Canefield">
+    <latitude>6.2333333</latitude>
+    <longitude>-57.4833333</longitude>
+  </city>
+  <city name="Cane Grove">
+    <latitude>6.6166667</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Capoey">
+    <latitude>7.2</latitude>
+    <longitude>-58.4333333</longitude>
+  </city>
+  <city name="Charity">
+    <latitude>7.4</latitude>
+    <longitude>-58.6</longitude>
+  </city>
+  <city name="Charlestown">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Chenapowu Village">
+    <latitude>4.9166667</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Chinese Landing">
+    <latitude>7.5166667</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Christianburg">
+    <latitude>6.0166667</latitude>
+    <longitude>-58.3166667</longitude>
+  </city>
+  <city name="Clonbrook">
+    <latitude>6.7333333</latitude>
+    <longitude>-57.9333333</longitude>
+  </city>
+  <city name="Cockatara Village">
+    <latitude>6.0</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Coomacka">
+    <latitude>5.5666667</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Courida Park">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1</longitude>
+  </city>
+  <city name="Crabwood Creek">
+    <latitude>5.85</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Craig">
+    <latitude>6.6833333</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Cummingsburg">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Dadanawa">
+    <latitude>2.8333333</latitude>
+    <longitude>-59.5166667</longitude>
+  </city>
+  <city name="Dalli">
+    <latitude>6.4833333</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Danielstown">
+    <latitude>7.3</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Dartmouth">
+    <latitude>7.3666667</latitude>
+    <longitude>-58.5</longitude>
+  </city>
+  <city name="Dawa">
+    <latitude>7.2</latitude>
+    <longitude>-58.6</longitude>
+  </city>
+  <city name="De Jonge Rachael">
+    <latitude>6.7</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="De Kinderen">
+    <latitude>6.6333333</latitude>
+    <longitude>-57.8333333</longitude>
+  </city>
+  <city name="De Kindern">
+    <latitude>6.6333333</latitude>
+    <longitude>-57.8333333</longitude>
+  </city>
+  <city name="Demerara">
+    <latitude>6.8</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Den Amstel">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Den Amstel Village">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="De Vigilante">
+    <latitude>5.85</latitude>
+    <longitude>-57.7</longitude>
+  </city>
+  <city name="Diamond">
+    <latitude>6.7166667</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Diamond Place">
+    <latitude>6.7166667</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Dukestown">
+    <latitude>5.9</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="Durung Bang">
+    <latitude>7.25</latitude>
+    <longitude>-58.8833333</longitude>
+  </city>
+  <city name="Ebini Downs">
+    <latitude>5.6666667</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Ebini">
+    <latitude>5.6666667</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Ekereku">
+    <latitude>6.4666667</latitude>
+    <longitude>-60.8333333</longitude>
+  </city>
+  <city name="Elizabeth">
+    <latitude>6.9166667</latitude>
+    <longitude>-58.4333333</longitude>
+  </city>
+  <city name="Enachu">
+    <latitude>6.15</latitude>
+    <longitude>-60.0333333</longitude>
+  </city>
+  <city name="Enachu Landing">
+    <latitude>6.15</latitude>
+    <longitude>-60.0333333</longitude>
+  </city>
+  <city name="Enachu Station">
+    <latitude>6.15</latitude>
+    <longitude>-60.0333333</longitude>
+  </city>
+  <city name="Enaruko Village">
+    <latitude>4.5666667</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Enmore">
+    <latitude>6.7666667</latitude>
+    <longitude>-57.9833333</longitude>
+  </city>
+  <city name="Enterprise">
+    <latitude>6.9333333</latitude>
+    <longitude>-58.4</longitude>
+  </city>
+  <city name="Epira">
+    <latitude>5.1333333</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Epira Mission">
+    <latitude>5.1333333</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Espera">
+    <latitude>5.1333333</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Eupukari">
+    <latitude>3.6666667</latitude>
+    <longitude>-59.35</longitude>
+  </city>
+  <city name="Eurowa">
+    <latitude>7.4</latitude>
+    <longitude>-58.6</longitude>
+  </city>
+  <city name="Fear Not">
+    <latitude>7.3</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="First Savannah">
+    <latitude>6.3833333</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Five Star">
+    <latitude>7.6</latitude>
+    <longitude>-60.3666667</longitude>
+  </city>
+  <city name="Five Star Landing">
+    <latitude>7.6</latitude>
+    <longitude>-60.3666667</longitude>
+  </city>
+  <city name="Five Stars">
+    <latitude>7.6</latitude>
+    <longitude>-60.3666667</longitude>
+  </city>
+  <city name="Fort Wellington">
+    <latitude>6.4</latitude>
+    <longitude>-57.6</longitude>
+  </city>
+  <city name="Fredericksburg">
+    <latitude>6.95</latitude>
+    <longitude>-58.4333333</longitude>
+  </city>
+  <city name="Fyrish">
+    <latitude>6.2833333</latitude>
+    <longitude>-57.3833333</longitude>
+  </city>
+  <city name="Fyrish Village">
+    <latitude>6.2833333</latitude>
+    <longitude>-57.3833333</longitude>
+  </city>
+  <city name="Georgetown">
+    <latitude>6.8</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Glasgow">
+    <latitude>6.5166667</latitude>
+    <longitude>-58.2833333</longitude>
+  </city>
+  <city name="Glasgow Village">
+    <latitude>6.5166667</latitude>
+    <longitude>-58.2833333</longitude>
+  </city>
+  <city name="GNS Kimbia">
+    <latitude>5.6166667</latitude>
+    <longitude>-57.7333333</longitude>
+  </city>
+  <city name="Golden Fleece">
+    <latitude>7.15</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Golden Fleece Plantation">
+    <latitude>7.15</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Golden Grove">
+    <latitude>6.7166667</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Goldspie">
+    <latitude>6.1</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Good Hope">
+    <latitude>6.1</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Good Intent">
+    <latitude>6.7166667</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="Gordon Table">
+    <latitude>6.3833333</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Governor Light">
+    <latitude>6.45</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Grahams Hall">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.0833333</longitude>
+  </city>
+  <city name="Grass Hook">
+    <latitude>6.5333333</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Great Diamond">
+    <latitude>6.7166667</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Hai Maruni">
+    <latitude>6.4</latitude>
+    <longitude>-58.2666667</longitude>
+  </city>
+  <city name="Hart">
+    <latitude>3.75</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Hawkins Mission">
+    <latitude>3.4833333</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Helena">
+    <latitude>6.6833333</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Helena Number Two">
+    <latitude>6.7</latitude>
+    <longitude>-57.9333333</longitude>
+  </city>
+  <city name="Hiawa">
+    <latitude>3.4</latitude>
+    <longitude>-59.6333333</longitude>
+  </city>
+  <city name="Hitia">
+    <latitude>5.8</latitude>
+    <longitude>-57.75</longitude>
+  </city>
+  <city name="Hittia Settlement">
+    <latitude>5.8</latitude>
+    <longitude>-57.75</longitude>
+  </city>
+  <city name="Hobediah">
+    <latitude>7.9666667</latitude>
+    <longitude>-59.8166667</longitude>
+  </city>
+  <city name="Hoff Van Aurich">
+    <latitude>7.1833333</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Holmia">
+    <latitude>4.9666667</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Hooboo">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.4666667</longitude>
+  </city>
+  <city name="Hopetown">
+    <latitude>6.5333333</latitude>
+    <longitude>-58.2833333</longitude>
+  </city>
+  <city name="Hororabo">
+    <latitude>6.2833333</latitude>
+    <longitude>-58.7333333</longitude>
+  </city>
+  <city name="Hosororo">
+    <latitude>8.1666667</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Hossororo">
+    <latitude>8.1666667</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Hotakwai">
+    <latitude>8.0166667</latitude>
+    <longitude>-59.8166667</longitude>
+  </city>
+  <city name="Houston">
+    <latitude>6.8</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Hubu">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.4666667</longitude>
+  </city>
+  <city name="Hururu">
+    <latitude>5.3666667</latitude>
+    <longitude>-58.0</longitude>
+  </city>
+  <city name="Hyde Park">
+    <latitude>6.5</latitude>
+    <longitude>-58.2666667</longitude>
+  </city>
+  <city name="Iguapa">
+    <latitude>7.4</latitude>
+    <longitude>-59.2666667</longitude>
+  </city>
+  <city name="Igupa Village">
+    <latitude>7.4</latitude>
+    <longitude>-59.2666667</longitude>
+  </city>
+  <city name="Illimir Village">
+    <latitude>2.2666667</latitude>
+    <longitude>-59.45</longitude>
+  </city>
+  <city name="Imbaimadai">
+    <latitude>5.7</latitude>
+    <longitude>-60.2833333</longitude>
+  </city>
+  <city name="Imprenza">
+    <latitude>3.1333333</latitude>
+    <longitude>-59.8333333</longitude>
+  </city>
+  <city name="Ipichau">
+    <latitude>4.8833333</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Ipisháu">
+    <latitude>4.8833333</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Ipisiau Village">
+    <latitude>4.8833333</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Ipotaikuru">
+    <latitude>7.4333333</latitude>
+    <longitude>-59.6</longitude>
+  </city>
+  <city name="Ishalton">
+    <latitude>2.5166667</latitude>
+    <longitude>-59.25</longitude>
+  </city>
+  <city name="Isherton">
+    <latitude>2.3166667</latitude>
+    <longitude>-59.3666667</longitude>
+  </city>
+  <city name="Islington">
+    <latitude>6.2166667</latitude>
+    <longitude>-57.5166667</longitude>
+  </city>
+  <city name="Issano">
+    <latitude>5.8166667</latitude>
+    <longitude>-59.4166667</longitude>
+  </city>
+  <city name="Isseneru Village">
+    <latitude>6.4666667</latitude>
+    <longitude>-60.3333333</longitude>
+  </city>
+  <city name="Issororo">
+    <latitude>8.1666667</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Itabac">
+    <latitude>4.6</latitude>
+    <longitude>-60.1</longitude>
+  </city>
+  <city name="Itoni Township">
+    <latitude>5.5333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Ituni">
+    <latitude>5.5333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Ituni Townsite">
+    <latitude>5.5333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Jacaretinga">
+    <latitude>3.5166667</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Jacoba">
+    <latitude>6.45</latitude>
+    <longitude>-57.6666667</longitude>
+  </city>
+  <city name="Jakaretinga">
+    <latitude>3.5166667</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Java">
+    <latitude>6.1333333</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Joanna">
+    <latitude>6.0833333</latitude>
+    <longitude>-57.2666667</longitude>
+  </city>
+  <city name="Johi">
+    <latitude>1.85</latitude>
+    <longitude>-58.5333333</longitude>
+  </city>
+  <city name="Johi Village">
+    <latitude>1.85</latitude>
+    <longitude>-58.5333333</longitude>
+  </city>
+  <city name="Juanita">
+    <latitude>7.95</latitude>
+    <longitude>-60.2166667</longitude>
+  </city>
+  <city name="Kaibarupai Village">
+    <latitude>3.5666667</latitude>
+    <longitude>-59.8666667</longitude>
+  </city>
+  <city name="Kaikan">
+    <latitude>6.1833333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Kaituma">
+    <latitude>7.7333333</latitude>
+    <longitude>-59.8833333</longitude>
+  </city>
+  <city name="Kalacoon">
+    <latitude>6.4</latitude>
+    <longitude>-58.65</longitude>
+  </city>
+  <city name="Kalakoon House">
+    <latitude>6.4</latitude>
+    <longitude>-58.65</longitude>
+  </city>
+  <city name="Kalakun">
+    <latitude>6.4</latitude>
+    <longitude>-58.65</longitude>
+  </city>
+  <city name="Kalkoon">
+    <latitude>6.4</latitude>
+    <longitude>-58.65</longitude>
+  </city>
+  <city name="Kalkuni">
+    <latitude>5.55</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Kamana Village">
+    <latitude>4.8333333</latitude>
+    <longitude>-59.9333333</longitude>
+  </city>
+  <city name="Kamarang">
+    <latitude>5.8666667</latitude>
+    <longitude>-60.6166667</longitude>
+  </city>
+  <city name="Kamaria">
+    <latitude>6.4166667</latitude>
+    <longitude>-58.7666667</longitude>
+  </city>
+  <city name="Kamuda">
+    <latitude>5.6333333</latitude>
+    <longitude>-60.3</longitude>
+  </city>
+  <city name="Kamuda Village">
+    <latitude>5.6333333</latitude>
+    <longitude>-60.3</longitude>
+  </city>
+  <city name="Kamwatta Hill">
+    <latitude>8.1166667</latitude>
+    <longitude>-59.85</longitude>
+  </city>
+  <city name="Kanapang Village">
+    <latitude>4.5333333</latitude>
+    <longitude>-60.1333333</longitude>
+  </city>
+  <city name="Karanambo">
+    <latitude>3.75</latitude>
+    <longitude>-59.3</longitude>
+  </city>
+  <city name="Karasabai">
+    <latitude>4.0333333</latitude>
+    <longitude>-59.5333333</longitude>
+  </city>
+  <city name="Karasabai Village">
+    <latitude>4.0333333</latitude>
+    <longitude>-59.5333333</longitude>
+  </city>
+  <city name="Karaudanawa">
+    <latitude>2.4666667</latitude>
+    <longitude>-59.4333333</longitude>
+  </city>
+  <city name="Karia">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Kariakaria">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Kariakau">
+    <latitude>7.3666667</latitude>
+    <longitude>-59.7</longitude>
+  </city>
+  <city name="Kariaku">
+    <latitude>7.3666667</latitude>
+    <longitude>-59.7</longitude>
+  </city>
+  <city name="Karisparu Village">
+    <latitude>4.9166667</latitude>
+    <longitude>-59.45</longitude>
+  </city>
+  <city name="Karto">
+    <latitude>4.6666667</latitude>
+    <longitude>-59.8166667</longitude>
+  </city>
+  <city name="Kataliriwau Outstation">
+    <latitude>2.8166667</latitude>
+    <longitude>-59.25</longitude>
+  </city>
+  <city name="Kato">
+    <latitude>4.6666667</latitude>
+    <longitude>-59.8166667</longitude>
+  </city>
+  <city name="Kato Village">
+    <latitude>4.6666667</latitude>
+    <longitude>-59.8166667</longitude>
+  </city>
+  <city name="Kaywaek">
+    <latitude>5.9333333</latitude>
+    <longitude>-60.6333333</longitude>
+  </city>
+  <city name="Kaywaek Village">
+    <latitude>5.9333333</latitude>
+    <longitude>-60.6333333</longitude>
+  </city>
+  <city name="Keweigek">
+    <latitude>5.9333333</latitude>
+    <longitude>-60.6333333</longitude>
+  </city>
+  <city name="Kingston">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Kitty">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Kitty Village">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Klip">
+    <latitude>6.3833333</latitude>
+    <longitude>-58.6666667</longitude>
+  </city>
+  <city name="Kokadai">
+    <latitude>5.75</latitude>
+    <longitude>-60.5666667</longitude>
+  </city>
+  <city name="Kokatara Village">
+    <latitude>6.0</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Kokerite">
+    <latitude>7.3333333</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Kokerit">
+    <latitude>7.3333333</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Kokerit Landing">
+    <latitude>7.3333333</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Konashen">
+    <latitude>1.5666667</latitude>
+    <longitude>-58.6833333</longitude>
+  </city>
+  <city name="Konora Village">
+    <latitude>7.25</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Konoro Village">
+    <latitude>7.25</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Kopinang Mission">
+    <latitude>4.9333333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Koriabo">
+    <latitude>7.6166667</latitude>
+    <longitude>-59.6333333</longitude>
+  </city>
+  <city name="Kotoewau">
+    <latitude>2.3</latitude>
+    <longitude>-59.15</longitude>
+  </city>
+  <city name="Kowaeng">
+    <latitude>5.65</latitude>
+    <longitude>-60.3</longitude>
+  </city>
+  <city name="Kowaeng Village">
+    <latitude>5.65</latitude>
+    <longitude>-60.3</longitude>
+  </city>
+  <city name="Kukuieng">
+    <latitude>4.5833333</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Kukui-Eng Village">
+    <latitude>4.5833333</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Kumaka">
+    <latitude>7.65</latitude>
+    <longitude>-58.95</longitude>
+  </city>
+  <city name="Kumu Village">
+    <latitude>3.3333333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Kurachi">
+    <latitude>6.8833333</latitude>
+    <longitude>-60.2666667</longitude>
+  </city>
+  <city name="Kurikebaru">
+    <latitude>4.75</latitude>
+    <longitude>-59.8833333</longitude>
+  </city>
+  <city name="Kurikebary">
+    <latitude>4.75</latitude>
+    <longitude>-59.8833333</longitude>
+  </city>
+  <city name="Kurukabaru">
+    <latitude>4.75</latitude>
+    <longitude>-59.8833333</longitude>
+  </city>
+  <city name="Kurukabaru Village">
+    <latitude>4.75</latitude>
+    <longitude>-59.8833333</longitude>
+  </city>
+  <city name="Kurukuru-Baibari">
+    <latitude>1.7333333</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Kurutuku Village">
+    <latitude>6.9</latitude>
+    <longitude>-60.3</longitude>
+  </city>
+  <city name="Kwabanna">
+    <latitude>7.5666667</latitude>
+    <longitude>-59.15</longitude>
+  </city>
+  <city name="Kwaimatta">
+    <latitude>3.8166667</latitude>
+    <longitude>-59.3333333</longitude>
+  </city>
+  <city name="Kwaimatta Village">
+    <latitude>3.8166667</latitude>
+    <longitude>-59.3333333</longitude>
+  </city>
+  <city name="Kwaiwatta Village">
+    <latitude>3.8166667</latitude>
+    <longitude>-59.3333333</longitude>
+  </city>
+  <city name="Kwakwani">
+    <latitude>5.2833333</latitude>
+    <longitude>-58.05</longitude>
+  </city>
+  <city name="Kwamatta">
+    <latitude>3.8166667</latitude>
+    <longitude>-59.3333333</longitude>
+  </city>
+  <city name="Kwatata">
+    <latitude>3.6333333</latitude>
+    <longitude>-59.5</longitude>
+  </city>
+  <city name="Kwiokrebaru">
+    <latitude>6.0166667</latitude>
+    <longitude>-60.65</longitude>
+  </city>
+  <city name="Lacytown">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="La Grange">
+    <latitude>6.7833333</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="La Juanita">
+    <latitude>7.95</latitude>
+    <longitude>-60.2166667</longitude>
+  </city>
+  <city name="Lamaha Gardens">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Lanaballi">
+    <latitude>6.6</latitude>
+    <longitude>-58.5666667</longitude>
+  </city>
+  <city name="Lancaster">
+    <latitude>5.8333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Land of Canaan">
+    <latitude>6.6</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="La Penitence">
+    <latitude>6.8</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Leeds">
+    <latitude>6.05</latitude>
+    <longitude>-57.1666667</longitude>
+  </city>
+  <city name="Lesbeholden">
+    <latitude>6.15</latitude>
+    <longitude>-57.3</longitude>
+  </city>
+  <city name="Lethem">
+    <latitude>3.3833333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Lethen">
+    <latitude>3.3833333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Lichfield">
+    <latitude>6.4833333</latitude>
+    <longitude>-57.65</longitude>
+  </city>
+  <city name="Linden">
+    <latitude>6.0</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Lodge">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Lodge Village">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Lorenza">
+    <latitude>6.7</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="Louisiana">
+    <latitude>6.9</latitude>
+    <longitude>-58.4333333</longitude>
+  </city>
+  <city name="Lower Kamaria">
+    <latitude>6.4166667</latitude>
+    <longitude>-58.7666667</longitude>
+  </city>
+  <city name="Lowood">
+    <latitude>6.4</latitude>
+    <longitude>-58.2666667</longitude>
+  </city>
+  <city name="Low Wood">
+    <latitude>6.4</latitude>
+    <longitude>-58.2666667</longitude>
+  </city>
+  <city name="Lumidpau">
+    <latitude>2.4</latitude>
+    <longitude>-59.4833333</longitude>
+  </city>
+  <city name="Mabaruma">
+    <latitude>8.2</latitude>
+    <longitude>-59.7833333</longitude>
+  </city>
+  <city name="Macaw">
+    <latitude>6.0833333</latitude>
+    <longitude>-57.5833333</longitude>
+  </city>
+  <city name="MacDonald">
+    <latitude>3.5166667</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Machabo">
+    <latitude>7.05</latitude>
+    <longitude>-58.55</longitude>
+  </city>
+  <city name="Mackenzie">
+    <latitude>6.0</latitude>
+    <longitude>-58.2833333</longitude>
+  </city>
+  <city name="Macusi Village">
+    <latitude>3.0666667</latitude>
+    <longitude>-59.7166667</longitude>
+  </city>
+  <city name="Mahaica Village">
+    <latitude>6.6833333</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Mahaicony">
+    <latitude>6.55</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Mahaicony Village">
+    <latitude>6.55</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Mahdia">
+    <latitude>5.2666667</latitude>
+    <longitude>-59.15</longitude>
+  </city>
+  <city name="Makari">
+    <latitude>4.55</latitude>
+    <longitude>-58.55</longitude>
+  </city>
+  <city name="Makouria">
+    <latitude>6.4666667</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Malali">
+    <latitude>5.6166667</latitude>
+    <longitude>-58.35</longitude>
+  </city>
+  <city name="Mamir Pawa">
+    <latitude>1.9666667</latitude>
+    <longitude>-59.7333333</longitude>
+  </city>
+  <city name="Manaka">
+    <latitude>6.7</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Manari">
+    <latitude>7.5166667</latitude>
+    <longitude>-59.8333333</longitude>
+  </city>
+  <city name="Manari Village">
+    <latitude>7.5166667</latitude>
+    <longitude>-59.8333333</longitude>
+  </city>
+  <city name="Manawarin">
+    <latitude>7.5833333</latitude>
+    <longitude>-58.8666667</longitude>
+  </city>
+  <city name="Marakanata">
+    <latitude>3.6</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Maria Johanna">
+    <latitude>6.9333333</latitude>
+    <longitude>-58.4666667</longitude>
+  </city>
+  <city name="Mariwa Village">
+    <latitude>3.05</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Marlborough">
+    <latitude>7.4833333</latitude>
+    <longitude>-58.6333333</longitude>
+  </city>
+  <city name="Martins Burial Ground">
+    <latitude>6.5333333</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Maruranau">
+    <latitude>2.75</latitude>
+    <longitude>-59.1666667</longitude>
+  </city>
+  <city name="Maruranawa">
+    <latitude>2.75</latitude>
+    <longitude>-59.1666667</longitude>
+  </city>
+  <city name="Marurawaunawa">
+    <latitude>2.75</latitude>
+    <longitude>-59.1666667</longitude>
+  </city>
+  <city name="Marurawaunawa Village">
+    <latitude>2.75</latitude>
+    <longitude>-59.1666667</longitude>
+  </city>
+  <city name="Masabona">
+    <latitude>5.6</latitude>
+    <longitude>-58.3833333</longitude>
+  </city>
+  <city name="Massara">
+    <latitude>3.9</latitude>
+    <longitude>-59.3</longitude>
+  </city>
+  <city name="Massara Village">
+    <latitude>3.9</latitude>
+    <longitude>-59.3</longitude>
+  </city>
+  <city name="Matthews Ridge">
+    <latitude>7.5</latitude>
+    <longitude>-60.1666667</longitude>
+  </city>
+  <city name="McDoom Village">
+    <latitude>6.7833333</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="McKenzie">
+    <latitude>6.0</latitude>
+    <longitude>-58.2833333</longitude>
+  </city>
+  <city name="McTurk">
+    <latitude>3.8</latitude>
+    <longitude>-59.4</longitude>
+  </city>
+  <city name="Meadow Bank">
+    <latitude>6.8</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Melville">
+    <latitude>6.9666667</latitude>
+    <longitude>-58.4666667</longitude>
+  </city>
+  <city name="Melvilles Ranch">
+    <latitude>2.8333333</latitude>
+    <longitude>-59.5166667</longitude>
+  </city>
+  <city name="Meritizero">
+    <latitude>3.75</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Meruwang">
+    <latitude>5.8166667</latitude>
+    <longitude>-61.0</longitude>
+  </city>
+  <city name="Mibikuri">
+    <latitude>6.1166667</latitude>
+    <longitude>-57.2833333</longitude>
+  </city>
+  <city name="Minata">
+    <latitude>5.95</latitude>
+    <longitude>-60.6</longitude>
+  </city>
+  <city name="Mission Landing">
+    <latitude>7.75</latitude>
+    <longitude>-59.8666667</longitude>
+  </city>
+  <city name="Moco-Moco">
+    <latitude>3.3333333</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Moco-Moco Village">
+    <latitude>3.3333333</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Mongreppo">
+    <latitude>6.4</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Monkey Mountain">
+    <latitude>4.4833333</latitude>
+    <longitude>-59.6833333</longitude>
+  </city>
+  <city name="Moraikobe">
+    <latitude>6.1</latitude>
+    <longitude>-57.95</longitude>
+  </city>
+  <city name="Morasi">
+    <latitude>6.75</latitude>
+    <longitude>-58.5</longitude>
+  </city>
+  <city name="Morawhanna">
+    <latitude>8.2666667</latitude>
+    <longitude>-59.75</longitude>
+  </city>
+  <city name="Moreiro">
+    <latitude>3.9</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Moreiru">
+    <latitude>3.9</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Morowta">
+    <latitude>5.75</latitude>
+    <longitude>-60.5833333</longitude>
+  </city>
+  <city name="Mortice">
+    <latitude>6.5</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Mountain Point">
+    <latitude>3.0</latitude>
+    <longitude>-59.6333333</longitude>
+  </city>
+  <city name="Mountain View">
+    <latitude>3.5166667</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Mount Everard">
+    <latitude>7.8166667</latitude>
+    <longitude>-59.4666667</longitude>
+  </city>
+  <city name="Mubohina">
+    <latitude>7.5833333</latitude>
+    <longitude>-59.1333333</longitude>
+  </city>
+  <city name="Muriakundi">
+    <latitude>7.1666667</latitude>
+    <longitude>-60.1333333</longitude>
+  </city>
+  <city name="Muriwa Village">
+    <latitude>3.05</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Muruakundi">
+    <latitude>7.1666667</latitude>
+    <longitude>-60.1333333</longitude>
+  </city>
+  <city name="Muruwawe Village">
+    <latitude>6.4666667</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Nappi Village">
+    <latitude>3.4166667</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="New Amsterdam">
+    <latitude>6.25</latitude>
+    <longitude>-57.5166667</longitude>
+  </city>
+  <city name="New Burg">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="New Found Out">
+    <latitude>6.3833333</latitude>
+    <longitude>-58.0666667</longitude>
+  </city>
+  <city name="New Ground Village">
+    <latitude>5.85</latitude>
+    <longitude>-57.4666667</longitude>
+  </city>
+  <city name="New Haven">
+    <latitude>6.0833333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Newtown">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Nismes">
+    <latitude>6.75</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="Noitgedacht">
+    <latitude>6.0</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Number 2">
+    <latitude>6.7</latitude>
+    <longitude>-57.9333333</longitude>
+  </city>
+  <city name="Number 80">
+    <latitude>5.8833333</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="Number Forty-five">
+    <latitude>6.1</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Number Forty">
+    <latitude>6.4666667</latitude>
+    <longitude>-57.6666667</longitude>
+  </city>
+  <city name="Number Forty-one">
+    <latitude>6.4666667</latitude>
+    <longitude>-57.6666667</longitude>
+  </city>
+  <city name="Number Forty-six">
+    <latitude>6.0833333</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Number Sixty-one">
+    <latitude>6.0</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Number Sixty-seven">
+    <latitude>5.9666667</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Number Sixty-six">
+    <latitude>5.9666667</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Number Sixty-two">
+    <latitude>5.9833333</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Number Ten">
+    <latitude>6.5833333</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Number Twelve">
+    <latitude>6.35</latitude>
+    <longitude>-57.5833333</longitude>
+  </city>
+  <city name="Old Vigilante">
+    <latitude>5.85</latitude>
+    <longitude>-57.7</longitude>
+  </city>
+  <city name="Old Vigilantie">
+    <latitude>5.85</latitude>
+    <longitude>-57.7</longitude>
+  </city>
+  <city name="Onderneeming">
+    <latitude>7.1</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Opadai">
+    <latitude>5.4333333</latitude>
+    <longitude>-60.5833333</longitude>
+  </city>
+  <city name="Oranapai Landing">
+    <latitude>6.0666667</latitude>
+    <longitude>-59.9166667</longitude>
+  </city>
+  <city name="Oranapai">
+    <latitude>6.0666667</latitude>
+    <longitude>-59.9166667</longitude>
+  </city>
+  <city name="Oranopai">
+    <latitude>6.0666667</latitude>
+    <longitude>-59.9166667</longitude>
+  </city>
+  <city name="Oreala">
+    <latitude>5.3166667</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Orealla Mission">
+    <latitude>5.3166667</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Orealla">
+    <latitude>5.3166667</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Orinduik">
+    <latitude>4.7</latitude>
+    <longitude>-60.0166667</longitude>
+  </city>
+  <city name="Owenteik">
+    <latitude>4.45</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Pakera">
+    <latitude>7.4833333</latitude>
+    <longitude>-60.15</longitude>
+  </city>
+  <city name="Parabara">
+    <latitude>2.2166667</latitude>
+    <longitude>-59.3</longitude>
+  </city>
+  <city name="Paradise">
+    <latitude>5.5666667</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Paramahatoi">
+    <latitude>4.7166667</latitude>
+    <longitude>-59.7</longitude>
+  </city>
+  <city name="Paramakatoi">
+    <latitude>4.7166667</latitude>
+    <longitude>-59.7</longitude>
+  </city>
+  <city name="Parapimai">
+    <latitude>7.3666667</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Paricaranal">
+    <latitude>3.5666667</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Parika">
+    <latitude>6.8666667</latitude>
+    <longitude>-58.4166667</longitude>
+  </city>
+  <city name="Parikaranal">
+    <latitude>3.5666667</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Parishara">
+    <latitude>3.45</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Parishara Village">
+    <latitude>3.45</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Paruima Mission">
+    <latitude>5.8</latitude>
+    <longitude>-61.05</longitude>
+  </city>
+  <city name="Paruima">
+    <latitude>5.8</latitude>
+    <longitude>-61.05</longitude>
+  </city>
+  <city name="Patarinau">
+    <latitude>3.0333333</latitude>
+    <longitude>-59.7666667</longitude>
+  </city>
+  <city name="Patentia">
+    <latitude>6.7</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="Pathawaru">
+    <latitude>6.4333333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Peropo">
+    <latitude>4.1333333</latitude>
+    <longitude>-59.1166667</longitude>
+  </city>
+  <city name="Perth">
+    <latitude>6.55</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Perth Village">
+    <latitude>6.55</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Phoenix Town">
+    <latitude>6.8</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="Pickersgill">
+    <latitude>7.2666667</latitude>
+    <longitude>-58.7166667</longitude>
+  </city>
+  <city name="Pickersgil">
+    <latitude>7.2666667</latitude>
+    <longitude>-58.7166667</longitude>
+  </city>
+  <city name="Pilanawa">
+    <latitude>2.7666667</latitude>
+    <longitude>-59.6833333</longitude>
+  </city>
+  <city name="Pilinawa">
+    <latitude>2.7666667</latitude>
+    <longitude>-59.6833333</longitude>
+  </city>
+  <city name="Pine Ground">
+    <latitude>6.4166667</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Pipillipai">
+    <latitude>5.5166667</latitude>
+    <longitude>-60.4333333</longitude>
+  </city>
+  <city name="Pirara">
+    <latitude>3.6166667</latitude>
+    <longitude>-59.6666667</longitude>
+  </city>
+  <city name="Plaisance">
+    <latitude>6.8</latitude>
+    <longitude>-58.1</longitude>
+  </city>
+  <city name="Plaisance Village">
+    <latitude>6.8</latitude>
+    <longitude>-58.1</longitude>
+  </city>
+  <city name="Pomona">
+    <latitude>7.0666667</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Port Kaituma">
+    <latitude>7.7333333</latitude>
+    <longitude>-59.8833333</longitude>
+  </city>
+  <city name="Port Mourant">
+    <latitude>6.25</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Port Mourant Village">
+    <latitude>6.25</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Post Ampa">
+    <latitude>6.5</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Poterima">
+    <latitude>6.2833333</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Powisanau Village">
+    <latitude>2.5333333</latitude>
+    <longitude>-59.45</longitude>
+  </city>
+  <city name="Prashad Nagar">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Primrose Hill">
+    <latitude>6.5833333</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Princetown">
+    <latitude>5.9</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Providence Place">
+    <latitude>6.2166667</latitude>
+    <longitude>-57.5166667</longitude>
+  </city>
+  <city name="Providence">
+    <latitude>6.7666667</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Pubu">
+    <latitude>5.2333333</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Pukasanta Village">
+    <latitude>3.0666667</latitude>
+    <longitude>-58.9</longitude>
+  </city>
+  <city name="Puwa">
+    <latitude>4.5166667</latitude>
+    <longitude>-59.9833333</longitude>
+  </city>
+  <city name="Puwa Village">
+    <latitude>4.5166667</latitude>
+    <longitude>-59.9833333</longitude>
+  </city>
+  <city name="Quatata">
+    <latitude>3.6333333</latitude>
+    <longitude>-59.5</longitude>
+  </city>
+  <city name="Queenstown">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Queenstown Village">
+    <latitude>7.2</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Red Hill Settlement">
+    <latitude>7.8666667</latitude>
+    <longitude>-59.4333333</longitude>
+  </city>
+  <city name="Ridge">
+    <latitude>6.9166667</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Rising">
+    <latitude>6.0833333</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Rising Sun">
+    <latitude>6.0833333</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Riverstown">
+    <latitude>7.0666667</latitude>
+    <longitude>-58.5</longitude>
+  </city>
+  <city name="Robbstown">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Rockstone">
+    <latitude>5.9833333</latitude>
+    <longitude>-58.55</longitude>
+  </city>
+  <city name="Rose Hall">
+    <latitude>6.2666667</latitude>
+    <longitude>-57.35</longitude>
+  </city>
+  <city name="Rose Hall Village">
+    <latitude>6.2666667</latitude>
+    <longitude>-57.35</longitude>
+  </city>
+  <city name="Rosignal">
+    <latitude>6.2833333</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Rosignol">
+    <latitude>6.2833333</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Sabernawau Village">
+    <latitude>2.3333333</latitude>
+    <longitude>-59.2333333</longitude>
+  </city>
+  <city name="Saint Bede's Mission">
+    <latitude>7.5666667</latitude>
+    <longitude>-59.4666667</longitude>
+  </city>
+  <city name="Saint Bedes">
+    <latitude>7.5666667</latitude>
+    <longitude>-59.4666667</longitude>
+  </city>
+  <city name="Saint Benedict Mission">
+    <latitude>7.8166667</latitude>
+    <longitude>-59.8333333</longitude>
+  </city>
+  <city name="Saint Cuthberts Mission">
+    <latitude>6.3666667</latitude>
+    <longitude>-58.0833333</longitude>
+  </city>
+  <city name="Saint Cuthberts">
+    <latitude>6.3666667</latitude>
+    <longitude>-58.0833333</longitude>
+  </city>
+  <city name="Saint Cuthberts Village">
+    <latitude>6.3666667</latitude>
+    <longitude>-58.0833333</longitude>
+  </city>
+  <city name="Saint Edwards Mission">
+    <latitude>6.3666667</latitude>
+    <longitude>-58.7</longitude>
+  </city>
+  <city name="Saint Francis Mission">
+    <latitude>6.1</latitude>
+    <longitude>-57.95</longitude>
+  </city>
+  <city name="Saint Ignatius Mission">
+    <latitude>3.3333333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Saint Ignatius">
+    <latitude>3.3333333</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Saint John">
+    <latitude>6.3833333</latitude>
+    <longitude>-57.6166667</longitude>
+  </city>
+  <city name="Saint Mary">
+    <latitude>5.2</latitude>
+    <longitude>-59.0166667</longitude>
+  </city>
+  <city name="Saint Marys">
+    <latitude>6.25</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Saint Mary's">
+    <latitude>5.2</latitude>
+    <longitude>-59.0166667</longitude>
+  </city>
+  <city name="Saint Nicholas Mission">
+    <latitude>7.5</latitude>
+    <longitude>-58.95</longitude>
+  </city>
+  <city name="Saint Nicholas">
+    <latitude>7.5</latitude>
+    <longitude>-58.95</longitude>
+  </city>
+  <city name="Sand Creek Village">
+    <latitude>3.0</latitude>
+    <longitude>-59.5166667</longitude>
+  </city>
+  <city name="Sand Hills">
+    <latitude>5.8</latitude>
+    <longitude>-57.75</longitude>
+  </city>
+  <city name="Santa Cruz">
+    <latitude>7.65</latitude>
+    <longitude>-59.2333333</longitude>
+  </city>
+  <city name="Santa Fé Ranch">
+    <latitude>3.7833333</latitude>
+    <longitude>-59.6</longitude>
+  </city>
+  <city name="Santa Fe">
+    <latitude>3.7833333</latitude>
+    <longitude>-59.6</longitude>
+  </city>
+  <city name="Santa Rosa Mission">
+    <latitude>7.65</latitude>
+    <longitude>-58.95</longitude>
+  </city>
+  <city name="Santa Rosa">
+    <latitude>7.65</latitude>
+    <longitude>-58.95</longitude>
+  </city>
+  <city name="Sarah">
+    <latitude>6.9666667</latitude>
+    <longitude>-58.4666667</longitude>
+  </city>
+  <city name="Sawariwaunawa">
+    <latitude>2.6833333</latitude>
+    <longitude>-59.65</longitude>
+  </city>
+  <city name="Sawariwau">
+    <latitude>2.6833333</latitude>
+    <longitude>-59.65</longitude>
+  </city>
+  <city name="Saxacalli">
+    <latitude>6.5833333</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Saxakalli">
+    <latitude>6.5833333</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Saxsacali">
+    <latitude>6.5833333</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Scottsburg">
+    <latitude>5.9166667</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="Shea">
+    <latitude>2.8166667</latitude>
+    <longitude>-59.1333333</longitude>
+  </city>
+  <city name="Shea Village">
+    <latitude>2.8166667</latitude>
+    <longitude>-59.1333333</longitude>
+  </city>
+  <city name="Shoa">
+    <latitude>2.8166667</latitude>
+    <longitude>-59.1333333</longitude>
+  </city>
+  <city name="Shulinab">
+    <latitude>3.0833333</latitude>
+    <longitude>-59.7833333</longitude>
+  </city>
+  <city name="Shulinab Village">
+    <latitude>3.0833333</latitude>
+    <longitude>-59.7833333</longitude>
+  </city>
+  <city name="Simirie">
+    <latitude>6.5166667</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Simiri">
+    <latitude>7.2166667</latitude>
+    <longitude>-58.6666667</longitude>
+  </city>
+  <city name="Sinclair Landing">
+    <latitude>7.7666667</latitude>
+    <longitude>-59.8333333</longitude>
+  </city>
+  <city name="Sinking Ground">
+    <latitude>6.3333333</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Sion">
+    <latitude>5.6833333</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Sirikie">
+    <latitude>7.3</latitude>
+    <longitude>-58.6666667</longitude>
+  </city>
+  <city name="Sir James">
+    <latitude>6.2833333</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Sisipelin">
+    <latitude>4.65</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Sisipelin Village">
+    <latitude>4.65</latitude>
+    <longitude>-59.55</longitude>
+  </city>
+  <city name="Skeldon Place">
+    <latitude>5.8833333</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="Skeldon">
+    <latitude>5.8833333</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="Smythfield">
+    <latitude>6.2333333</latitude>
+    <longitude>-57.5166667</longitude>
+  </city>
+  <city name="Soesdyke">
+    <latitude>6.5333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Soesdyk">
+    <latitude>6.5333333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Somerset">
+    <latitude>7.4</latitude>
+    <longitude>-58.5666667</longitude>
+  </city>
+  <city name="Springlands Place">
+    <latitude>5.9</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Springlands">
+    <latitude>5.9</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Stabroek">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Stanleytown">
+    <latitude>6.2333333</latitude>
+    <longitude>-57.5166667</longitude>
+  </city>
+  <city name="Subryanville">
+    <latitude>6.8333333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Suddie">
+    <latitude>7.1166667</latitude>
+    <longitude>-58.4833333</longitude>
+  </city>
+  <city name="Sunnyside">
+    <latitude>3.7</latitude>
+    <longitude>-59.65</longitude>
+  </city>
+  <city name="Surama">
+    <latitude>4.1666667</latitude>
+    <longitude>-59.0833333</longitude>
+  </city>
+  <city name="Surama Village">
+    <latitude>4.1666667</latitude>
+    <longitude>-59.0833333</longitude>
+  </city>
+  <city name="Surprise Hill">
+    <latitude>7.8166667</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Surumatra">
+    <latitude>4.1666667</latitude>
+    <longitude>-59.0666667</longitude>
+  </city>
+  <city name="Tacama">
+    <latitude>5.5666667</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Takama Battle School">
+    <latitude>5.6</latitude>
+    <longitude>-57.9666667</longitude>
+  </city>
+  <city name="Takama">
+    <latitude>5.5666667</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Tamtom">
+    <latitude>2.35</latitude>
+    <longitude>-59.7166667</longitude>
+  </city>
+  <city name="Tamton">
+    <latitude>2.35</latitude>
+    <longitude>-59.7166667</longitude>
+  </city>
+  <city name="Tarlogie Farm">
+    <latitude>6.1833333</latitude>
+    <longitude>-57.2333333</longitude>
+  </city>
+  <city name="Tarlogie">
+    <latitude>6.1833333</latitude>
+    <longitude>-57.2333333</longitude>
+  </city>
+  <city name="Taruka">
+    <latitude>4.8</latitude>
+    <longitude>-59.6333333</longitude>
+  </city>
+  <city name="Taruma">
+    <latitude>2.0833333</latitude>
+    <longitude>-58.3833333</longitude>
+  </city>
+  <city name="Taruma Village">
+    <latitude>2.0833333</latitude>
+    <longitude>-58.3833333</longitude>
+  </city>
+  <city name="The Clip">
+    <latitude>6.3833333</latitude>
+    <longitude>-58.6666667</longitude>
+  </city>
+  <city name="Tiger Pond Village">
+    <latitude>4.05</latitude>
+    <longitude>-59.4333333</longitude>
+  </city>
+  <city name="Tipuru">
+    <latitude>4.2166667</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Tipuru Village">
+    <latitude>4.2166667</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Toka">
+    <latitude>3.9166667</latitude>
+    <longitude>-59.3833333</longitude>
+  </city>
+  <city name="Toka Village">
+    <latitude>3.9166667</latitude>
+    <longitude>-59.3833333</longitude>
+  </city>
+  <city name="Towakaima Landing">
+    <latitude>7.3166667</latitude>
+    <longitude>-60.0</longitude>
+  </city>
+  <city name="Towakaima">
+    <latitude>7.3166667</latitude>
+    <longitude>-60.0</longitude>
+  </city>
+  <city name="Towokaima Fallssee Towakaima">
+    <latitude>7.3166667</latitude>
+    <longitude>-60.0</longitude>
+  </city>
+  <city name="Tuka">
+    <latitude>3.9166667</latitude>
+    <longitude>-59.3833333</longitude>
+  </city>
+  <city name="Tumareng">
+    <latitude>6.1666667</latitude>
+    <longitude>-60.05</longitude>
+  </city>
+  <city name="Tumereng">
+    <latitude>6.1666667</latitude>
+    <longitude>-60.05</longitude>
+  </city>
+  <city name="Tumureng">
+    <latitude>6.1666667</latitude>
+    <longitude>-60.05</longitude>
+  </city>
+  <city name="Tuschen">
+    <latitude>6.8833333</latitude>
+    <longitude>-58.35</longitude>
+  </city>
+  <city name="Uitvlugt">
+    <latitude>6.8666667</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Upper Kamaria">
+    <latitude>6.4333333</latitude>
+    <longitude>-58.8</longitude>
+  </city>
+  <city name="Urisirima">
+    <latitude>6.4333333</latitude>
+    <longitude>-58.6</longitude>
+  </city>
+  <city name="Velgrad">
+    <latitude>4.8666667</latitude>
+    <longitude>-59.8</longitude>
+  </city>
+  <city name="Vergenoegen">
+    <latitude>6.8666667</latitude>
+    <longitude>-58.35</longitude>
+  </city>
+  <city name="Vigilantie">
+    <latitude>5.85</latitude>
+    <longitude>-57.7</longitude>
+  </city>
+  <city name="Village Burisanawa">
+    <latitude>2.35</latitude>
+    <longitude>-59.35</longitude>
+  </city>
+  <city name="Village Nappita">
+    <latitude>3.4166667</latitude>
+    <longitude>-59.5666667</longitude>
+  </city>
+  <city name="Village Shulinab">
+    <latitude>3.0833333</latitude>
+    <longitude>-59.7833333</longitude>
+  </city>
+  <city name="Vreed en Hoop">
+    <latitude>6.8</latitude>
+    <longitude>-58.1833333</longitude>
+  </city>
+  <city name="Waikerebi Mission">
+    <latitude>7.5333333</latitude>
+    <longitude>-59.4</longitude>
+  </city>
+  <city name="Waioklepalul">
+    <latitude>5.45</latitude>
+    <longitude>-60.15</longitude>
+  </city>
+  <city name="Waioklepaluta Village">
+    <latitude>5.45</latitude>
+    <longitude>-60.15</longitude>
+  </city>
+  <city name="Waipa Village">
+    <latitude>4.9333333</latitude>
+    <longitude>-60.0</longitude>
+  </city>
+  <city name="Wai-Wai">
+    <latitude>1.5833333</latitude>
+    <longitude>-58.65</longitude>
+  </city>
+  <city name="Waiwoi Village">
+    <latitude>1.4333333</latitude>
+    <longitude>-58.8</longitude>
+  </city>
+  <city name="Wakadanawa">
+    <latitude>1.9833333</latitude>
+    <longitude>-59.7166667</longitude>
+  </city>
+  <city name="Wakakulud Village">
+    <latitude>1.3833333</latitude>
+    <longitude>-58.75</longitude>
+  </city>
+  <city name="Wakakulud">
+    <latitude>1.3833333</latitude>
+    <longitude>-58.75</longitude>
+  </city>
+  <city name="Wakapau Village">
+    <latitude>7.5166667</latitude>
+    <longitude>-58.8</longitude>
+  </city>
+  <city name="Wales">
+    <latitude>6.7</latitude>
+    <longitude>-58.2</longitude>
+  </city>
+  <city name="Wandaik Village">
+    <latitude>4.45</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Wandaik">
+    <latitude>4.45</latitude>
+    <longitude>-59.5833333</longitude>
+  </city>
+  <city name="Wandapa Village">
+    <latitude>4.55</latitude>
+    <longitude>-59.7166667</longitude>
+  </city>
+  <city name="Wandapa">
+    <latitude>4.55</latitude>
+    <longitude>-59.7166667</longitude>
+  </city>
+  <city name="Waramadan">
+    <latitude>5.8166667</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="Waramadon Village">
+    <latitude>5.8166667</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="Waramuri Mission">
+    <latitude>7.6166667</latitude>
+    <longitude>-58.8666667</longitude>
+  </city>
+  <city name="Waramuri">
+    <latitude>7.6166667</latitude>
+    <longitude>-58.8666667</longitude>
+  </city>
+  <city name="Ward village">
+    <latitude>6.0666667</latitude>
+    <longitude>-57.1833333</longitude>
+  </city>
+  <city name="Warimure">
+    <latitude>2.9333333</latitude>
+    <longitude>-59.4833333</longitude>
+  </city>
+  <city name="Wariwau">
+    <latitude>2.7166667</latitude>
+    <longitude>-59.2</longitude>
+  </city>
+  <city name="Wariwiau Village">
+    <latitude>2.7166667</latitude>
+    <longitude>-59.2</longitude>
+  </city>
+  <city name="Waropoko Mission">
+    <latitude>7.8166667</latitude>
+    <longitude>-59.25</longitude>
+  </city>
+  <city name="Waruma Outstation">
+    <latitude>3.1</latitude>
+    <longitude>-59.9</longitude>
+  </city>
+  <city name="Waruma">
+    <latitude>3.1</latitude>
+    <longitude>-59.9</longitude>
+  </city>
+  <city name="Watooka Village">
+    <latitude>6.0</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Watuka">
+    <latitude>6.0</latitude>
+    <longitude>-58.3</longitude>
+  </city>
+  <city name="Waudapa Village">
+    <latitude>4.55</latitude>
+    <longitude>-59.7166667</longitude>
+  </city>
+  <city name="Wauna-Yarakita">
+    <latitude>8.0833333</latitude>
+    <longitude>-59.9166667</longitude>
+  </city>
+  <city name="Wauna-Yarikita">
+    <latitude>8.0833333</latitude>
+    <longitude>-59.9166667</longitude>
+  </city>
+  <city name="Weldaad">
+    <latitude>6.5</latitude>
+    <longitude>-57.6833333</longitude>
+  </city>
+  <city name="Wel te Vreeden">
+    <latitude>5.85</latitude>
+    <longitude>-57.4666667</longitude>
+  </city>
+  <city name="Werk en Rust">
+    <latitude>6.7833333</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Whim">
+    <latitude>6.2666667</latitude>
+    <longitude>-57.35</longitude>
+  </city>
+  <city name="Wiapri">
+    <latitude>4.95</latitude>
+    <longitude>-59.9833333</longitude>
+  </city>
+  <city name="Wichabai">
+    <latitude>2.8666667</latitude>
+    <longitude>-59.5333333</longitude>
+  </city>
+  <city name="Windsor Forest">
+    <latitude>6.85</latitude>
+    <longitude>-58.2333333</longitude>
+  </city>
+  <city name="Wineperu">
+    <latitude>6.1833333</latitude>
+    <longitude>-58.5833333</longitude>
+  </city>
+  <city name="Wiribisirikanali">
+    <latitude>5.5</latitude>
+    <longitude>-58.3833333</longitude>
+  </city>
+  <city name="Wisemar">
+    <latitude>6.0</latitude>
+    <longitude>-58.3166667</longitude>
+  </city>
+  <city name="Wismar">
+    <latitude>6.0</latitude>
+    <longitude>-58.3166667</longitude>
+  </city>
+  <city name="Wolga">
+    <latitude>6.4666667</latitude>
+    <longitude>-58.6166667</longitude>
+  </city>
+  <city name="Wortmanville">
+    <latitude>6.8166667</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Woweta Village">
+    <latitude>3.9833333</latitude>
+    <longitude>-59.0833333</longitude>
+  </city>
+  <city name="Woweta">
+    <latitude>3.9833333</latitude>
+    <longitude>-59.0833333</longitude>
+  </city>
+  <city name="Yakarinta">
+    <latitude>3.9</latitude>
+    <longitude>-59.25</longitude>
+  </city>
+  <city name="Yakusari">
+    <latitude>6.05</latitude>
+    <longitude>-57.25</longitude>
+  </city>
+  <city name="Yepi Village">
+    <latitude>1.35</latitude>
+    <longitude>-58.6666667</longitude>
+  </city>
+  <city name="Yepu Village">
+    <latitude>1.3666667</latitude>
+    <longitude>-58.6333333</longitude>
+  </city>
+  <city name="Yupukari">
+    <latitude>3.6666667</latitude>
+    <longitude>-59.35</longitude>
+  </city>
+  <city name="Yupukarri">
+    <latitude>3.6666667</latitude>
+    <longitude>-59.35</longitude>
+  </city>
+  <city name="Zion">
+    <latitude>5.6833333</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+</country>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="ck" name="Cook (Îles)">
+  <city name="Amuri">
+    <latitude>-18.8538889</latitude>
+    <longitude>-159.7963889</longitude>
+  </city>
+  <city name="Areora">
+    <latitude>-20.0066667</latitude>
+    <longitude>-158.1122222</longitude>
+  </city>
+  <city name="Arorangi">
+    <latitude>-21.2316667</latitude>
+    <longitude>-159.8277778</longitude>
+  </city>
+  <city name="Arutanga">
+    <latitude>-18.8686111</latitude>
+    <longitude>-159.8</longitude>
+  </city>
+  <city name="Arutunga">
+    <latitude>-18.8686111</latitude>
+    <longitude>-159.8</longitude>
+  </city>
+  <city name="Avarua">
+    <latitude>-21.2077778</latitude>
+    <longitude>-159.775</longitude>
+  </city>
+  <city name="Avatiu">
+    <latitude>-21.2055556</latitude>
+    <longitude>-159.7866667</longitude>
+  </city>
+  <city name="Home">
+    <latitude>-18.0608333</latitude>
+    <longitude>-163.1933333</longitude>
+  </city>
+  <city name="Ivirua">
+    <latitude>-21.9177778</latitude>
+    <longitude>-157.8986111</longitude>
+  </city>
+  <city name="Ivirua Village">
+    <latitude>-21.9177778</latitude>
+    <longitude>-157.8986111</longitude>
+  </city>
+  <city name="Karanga Village">
+    <latitude>-21.9083333</latitude>
+    <longitude>-157.905</longitude>
+  </city>
+  <city name="Kaumata Village">
+    <latitude>-21.9247222</latitude>
+    <longitude>-157.965</longitude>
+  </city>
+  <city name="Kimiangatau Village">
+    <latitude>-20.1466667</latitude>
+    <longitude>-157.35</longitude>
+  </city>
+  <city name="Mangarei Village">
+    <latitude>-19.6972222</latitude>
+    <longitude>-157.7166667</longitude>
+  </city>
+  <city name="Mapumai">
+    <latitude>-19.9877778</latitude>
+    <longitude>-158.1188889</longitude>
+  </city>
+  <city name="Matavera">
+    <latitude>-21.2244444</latitude>
+    <longitude>-159.7333333</longitude>
+  </city>
+  <city name="Muri">
+    <latitude>-21.2566667</latitude>
+    <longitude>-159.7319444</longitude>
+  </city>
+  <city name="Natikitea">
+    <latitude>-20.0166667</latitude>
+    <longitude>-158.1166667</longitude>
+  </city>
+  <city name="Ngatangiia">
+    <latitude>-21.2402778</latitude>
+    <longitude>-159.7291667</longitude>
+  </city>
+  <city name="Ngatiarua">
+    <latitude>-19.9986111</latitude>
+    <longitude>-158.1333333</longitude>
+  </city>
+  <city name="Nikao">
+    <latitude>-21.2066667</latitude>
+    <longitude>-159.8094444</longitude>
+  </city>
+  <city name="Nikaupara">
+    <latitude>-18.87</latitude>
+    <longitude>-159.8033333</longitude>
+  </city>
+  <city name="Nukatere">
+    <latitude>-19.8166667</latitude>
+    <longitude>-157.7166667</longitude>
+  </city>
+  <city name="Nukuao">
+    <latitude>-20.1333333</latitude>
+    <longitude>-157.3666667</longitude>
+  </city>
+  <city name="Omoka">
+    <latitude>-8.9816667</latitude>
+    <longitude>-158.0605556</longitude>
+  </city>
+  <city name="Omoko">
+    <latitude>-8.9816667</latitude>
+    <longitude>-158.0605556</longitude>
+  </city>
+  <city name="Oneroa">
+    <latitude>-21.92</latitude>
+    <longitude>-157.9602778</longitude>
+  </city>
+  <city name="Palmerston Island Village">
+    <latitude>-18.0608333</latitude>
+    <longitude>-163.1933333</longitude>
+  </city>
+  <city name="Palmerston">
+    <latitude>-18.0608333</latitude>
+    <longitude>-163.1933333</longitude>
+  </city>
+  <city name="Papaolematuu">
+    <latitude>-13.8333333</latitude>
+    <longitude>-172.0833333</longitude>
+  </city>
+  <city name="Papapapaitai">
+    <latitude>-13.9333333</latitude>
+    <longitude>-171.75</longitude>
+  </city>
+  <city name="Papapapaiuta">
+    <latitude>-13.9333333</latitude>
+    <longitude>-171.75</longitude>
+  </city>
+  <city name="Pue">
+    <latitude>-21.2047222</latitude>
+    <longitude>-159.7583333</longitude>
+  </city>
+  <city name="Reureu">
+    <latitude>-18.8669444</latitude>
+    <longitude>-159.8011111</longitude>
+  </city>
+  <city name="Roto">
+    <latitude>-10.8833333</latitude>
+    <longitude>-165.8333333</longitude>
+  </city>
+  <city name="Tamarua">
+    <latitude>-21.9530556</latitude>
+    <longitude>-157.925</longitude>
+  </city>
+  <city name="Tamarua Village">
+    <latitude>-21.9530556</latitude>
+    <longitude>-157.925</longitude>
+  </city>
+  <city name="Tauhunu">
+    <latitude>-10.425</latitude>
+    <longitude>-161.0352778</longitude>
+  </city>
+  <city name="Tauhunu Village">
+    <latitude>-10.425</latitude>
+    <longitude>-161.0352778</longitude>
+  </city>
+  <city name="Tautua">
+    <latitude>-8.9602778</latitude>
+    <longitude>-157.9311111</longitude>
+  </city>
+  <city name="Tautu">
+    <latitude>-18.88</latitude>
+    <longitude>-159.7816667</longitude>
+  </city>
+  <city name="Tava'enga Village">
+    <latitude>-21.9186111</latitude>
+    <longitude>-157.96</longitude>
+  </city>
+  <city name="Teenui">
+    <latitude>-19.9869444</latitude>
+    <longitude>-158.1291667</longitude>
+  </city>
+  <city name="Te Enui">
+    <latitude>-19.9869444</latitude>
+    <longitude>-158.1291667</longitude>
+  </city>
+  <city name="Temakatea Village">
+    <latitude>-21.92</latitude>
+    <longitude>-157.9602778</longitude>
+  </city>
+  <city name="Tengatangi">
+    <latitude>-19.9991667</latitude>
+    <longitude>-158.1155556</longitude>
+  </city>
+  <city name="Tengatangi Village">
+    <latitude>-19.9991667</latitude>
+    <longitude>-158.1155556</longitude>
+  </city>
+  <city name="Te Tautua">
+    <latitude>-8.9602778</latitude>
+    <longitude>-157.9311111</longitude>
+  </city>
+  <city name="Titikaveka">
+    <latitude>-21.2719444</latitude>
+    <longitude>-159.755</longitude>
+  </city>
+  <city name="Titikaweka">
+    <latitude>-21.2719444</latitude>
+    <longitude>-159.755</longitude>
+  </city>
+  <city name="Toamua">
+    <latitude>-13.8</latitude>
+    <longitude>-171.7833333</longitude>
+  </city>
+  <city name="Tukao">
+    <latitude>-10.3763889</latitude>
+    <longitude>-160.0116667</longitude>
+  </city>
+  <city name="Tuko">
+    <latitude>-10.3763889</latitude>
+    <longitude>-160.0116667</longitude>
+  </city>
+  <city name="Tuko Village">
+    <latitude>-10.3763889</latitude>
+    <longitude>-160.0116667</longitude>
+  </city>
+  <city name="Vaipae">
+    <latitude>-18.8713889</latitude>
+    <longitude>-159.7811111</longitude>
+  </city>
+  <city name="Village">
+    <latitude>-18.0608333</latitude>
+    <longitude>-163.1933333</longitude>
+  </city>
+</country>

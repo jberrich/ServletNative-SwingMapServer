@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="gl" name="Groenland">
+  <city name="Aalatsivik">
+    <latitude>68.1666667</latitude>
+    <longitude>-52.8333333</longitude>
+  </city>
+  <city name="Aappilattoq">
+    <latitude>72.8833333</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Aappilattorq">
+    <latitude>72.8833333</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Aasiaat">
+    <latitude>68.7166667</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Aasivik">
+    <latitude>62.2</latitude>
+    <longitude>-49.3333333</longitude>
+  </city>
+  <city name="Agdluitsoq">
+    <latitude>60.55</latitude>
+    <longitude>-45.4666667</longitude>
+  </city>
+  <city name="Agdluitsup Pâ">
+    <latitude>60.45</latitude>
+    <longitude>-45.55</longitude>
+  </city>
+  <city name="Agpamiut">
+    <latitude>65.6666667</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Agparssuit">
+    <latitude>77.4166667</latitude>
+    <longitude>-72.6666667</longitude>
+  </city>
+  <city name="Agpat">
+    <latitude>69.7666667</latitude>
+    <longitude>-51.3166667</longitude>
+  </city>
+  <city name="Agto">
+    <latitude>67.95</latitude>
+    <longitude>-53.6333333</longitude>
+  </city>
+  <city name="Akigsungek">
+    <latitude>67.8666667</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Akínaitsât">
+    <latitude>65.5333333</latitude>
+    <longitude>-37.2</longitude>
+  </city>
+  <city name="Akínátsiait">
+    <latitude>65.5333333</latitude>
+    <longitude>-37.2</longitude>
+  </city>
+  <city name="Akiqsserniak">
+    <latitude>67.8666667</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Akugdlek">
+    <latitude>68.6666667</latitude>
+    <longitude>-51.25</longitude>
+  </city>
+  <city name="Akugdlît">
+    <latitude>68.3833333</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Akuliarusek">
+    <latitude>60.4666667</latitude>
+    <longitude>-45.4833333</longitude>
+  </city>
+  <city name="Akuliaruseq">
+    <latitude>71.0333333</latitude>
+    <longitude>-51.9666667</longitude>
+  </city>
+  <city name="Akulliit">
+    <latitude>68.3833333</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Akumak">
+    <latitude>68.75</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Akúnâq">
+    <latitude>68.75</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Akunnaaq">
+    <latitude>68.75</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Alluitsoq">
+    <latitude>60.55</latitude>
+    <longitude>-45.4666667</longitude>
+  </city>
+  <city name="Alluitsup Paa">
+    <latitude>60.45</latitude>
+    <longitude>-45.55</longitude>
+  </city>
+  <city name="Amerdlok">
+    <latitude>66.9333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Ammassalik">
+    <latitude>65.6</latitude>
+    <longitude>-37.6333333</longitude>
+  </city>
+  <city name="Ammassivik">
+    <latitude>60.6</latitude>
+    <longitude>-45.3833333</longitude>
+  </city>
+  <city name="Angmagssalik">
+    <latitude>65.6</latitude>
+    <longitude>-37.6333333</longitude>
+  </city>
+  <city name="Angmagssivik">
+    <latitude>65.9666667</latitude>
+    <longitude>-37.1166667</longitude>
+  </city>
+  <city name="Angmagsslik">
+    <latitude>65.6</latitude>
+    <longitude>-37.6333333</longitude>
+  </city>
+  <city name="Angmassalik">
+    <latitude>65.6</latitude>
+    <longitude>-37.6333333</longitude>
+  </city>
+  <city name="Anordliuitsoq">
+    <latitude>60.0833333</latitude>
+    <longitude>-44.2166667</longitude>
+  </city>
+  <city name="Anorliuitsoq">
+    <latitude>60.0833333</latitude>
+    <longitude>-44.2166667</longitude>
+  </city>
+  <city name="Appaarsuit">
+    <latitude>77.4166667</latitude>
+    <longitude>-72.6666667</longitude>
+  </city>
+  <city name="Appamiut">
+    <latitude>65.6666667</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Appat">
+    <latitude>70.9166667</latitude>
+    <longitude>-52.1666667</longitude>
+  </city>
+  <city name="Aputiteeq">
+    <latitude>67.7833333</latitude>
+    <longitude>-32.2833333</longitude>
+  </city>
+  <city name="Aputiteq">
+    <latitude>67.7833333</latitude>
+    <longitude>-32.2833333</longitude>
+  </city>
+  <city name="Aqigsserniaq">
+    <latitude>67.8666667</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Aqisserniaq">
+    <latitude>67.8666667</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Arsivik">
+    <latitude>69.85</latitude>
+    <longitude>-50.7</longitude>
+  </city>
+  <city name="Arsuk">
+    <latitude>61.1666667</latitude>
+    <longitude>-48.45</longitude>
+  </city>
+  <city name="Asatdlut">
+    <latitude>60.55</latitude>
+    <longitude>-45.2333333</longitude>
+  </city>
+  <city name="Assaqutaq">
+    <latitude>66.9166667</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Ataa">
+    <latitude>69.7666667</latitude>
+    <longitude>-50.95</longitude>
+  </city>
+  <city name="Atâ">
+    <latitude>69.7666667</latitude>
+    <longitude>-50.95</longitude>
+  </city>
+  <city name="Atammik">
+    <latitude>64.8</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Atangmik">
+    <latitude>64.8</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Atarta">
+    <latitude>70.3166667</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="Attu">
+    <latitude>67.95</latitude>
+    <longitude>-53.6333333</longitude>
+  </city>
+  <city name="Augpaiartok">
+    <latitude>72.8833333</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Augpalartok">
+    <latitude>72.8833333</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Augpilagtok">
+    <latitude>72.8833333</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Augpilagtoq">
+    <latitude>72.8833333</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Aulatsivik">
+    <latitude>68.1666667</latitude>
+    <longitude>-52.8333333</longitude>
+  </city>
+  <city name="Aumarutigssat">
+    <latitude>69.4333333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Ausiait">
+    <latitude>68.7166667</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Aussivik">
+    <latitude>62.2</latitude>
+    <longitude>-49.3333333</longitude>
+  </city>
+  <city name="Autdlainiarfinguaq">
+    <latitude>70.7</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Avangnardlit">
+    <latitude>69.1166667</latitude>
+    <longitude>-51.0833333</longitude>
+  </city>
+  <city name="Avigaat">
+    <latitude>62.2333333</latitude>
+    <longitude>-49.8333333</longitude>
+  </city>
+  <city name="Avigait">
+    <latitude>62.2333333</latitude>
+    <longitude>-49.8333333</longitude>
+  </city>
+  <city name="Avssaqútaq">
+    <latitude>66.9166667</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Camp Lloyd">
+    <latitude>66.9833333</latitude>
+    <longitude>-50.9333333</longitude>
+  </city>
+  <city name="Cape York">
+    <latitude>75.9272222</latitude>
+    <longitude>-66.4488889</longitude>
+  </city>
+  <city name="Christianshaab">
+    <latitude>68.8166667</latitude>
+    <longitude>-51.1833333</longitude>
+  </city>
+  <city name="Christianshåb">
+    <latitude>68.8166667</latitude>
+    <longitude>-51.1833333</longitude>
+  </city>
+  <city name="Claushavn">
+    <latitude>69.0833333</latitude>
+    <longitude>-51.1166667</longitude>
+  </city>
+  <city name="Diskofjord">
+    <latitude>69.4833333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Dundas">
+    <latitude>76.5772222</latitude>
+    <longitude>-68.7755556</longitude>
+  </city>
+  <city name="East Proven">
+    <latitude>59.9833333</latitude>
+    <longitude>-44.7</longitude>
+  </city>
+  <city name="Egedesminde">
+    <latitude>68.7166667</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Ekogfat">
+    <latitude>69.9833333</latitude>
+    <longitude>-51.4333333</longitude>
+  </city>
+  <city name="Eqalugaarsuit">
+    <latitude>60.6166667</latitude>
+    <longitude>-45.9166667</longitude>
+  </city>
+  <city name="Eqi">
+    <latitude>69.1333333</latitude>
+    <longitude>-51.0833333</longitude>
+  </city>
+  <city name="Eripassut">
+    <latitude>77.7830556</latitude>
+    <longitude>-70.3097222</longitude>
+  </city>
+  <city name="Erkigtok">
+    <latitude>69.4833333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Etah">
+    <latitude>78.3166667</latitude>
+    <longitude>-72.6333333</longitude>
+  </city>
+  <city name="Evkitsok">
+    <latitude>69.4833333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Færingehavn">
+    <latitude>63.7</latitude>
+    <longitude>-51.55</longitude>
+  </city>
+  <city name="Faeringerhavnen">
+    <latitude>63.7</latitude>
+    <longitude>-51.55</longitude>
+  </city>
+  <city name="Finnsbu">
+    <latitude>63.3833333</latitude>
+    <longitude>-41.3</longitude>
+  </city>
+  <city name="Fiskenaes">
+    <latitude>63.0833333</latitude>
+    <longitude>-50.6666667</longitude>
+  </city>
+  <city name="Fiskenæsset">
+    <latitude>63.0833333</latitude>
+    <longitude>-50.6666667</longitude>
+  </city>
+  <city name="Fiskengesset">
+    <latitude>63.0833333</latitude>
+    <longitude>-50.6666667</longitude>
+  </city>
+  <city name="Fiskernæs">
+    <latitude>63.0833333</latitude>
+    <longitude>-50.6666667</longitude>
+  </city>
+  <city name="Frederiksdal">
+    <latitude>60.0030556</latitude>
+    <longitude>-44.6636111</longitude>
+  </city>
+  <city name="Frederikshaab">
+    <latitude>62.0</latitude>
+    <longitude>-49.75</longitude>
+  </city>
+  <city name="Frederikshåb">
+    <latitude>62.0</latitude>
+    <longitude>-49.75</longitude>
+  </city>
+  <city name="Gamle Egedesminde">
+    <latitude>67.65</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Gamle Qutdligssat">
+    <latitude>70.0333333</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Gammel Sukkertoppen">
+    <latitude>65.8333333</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Godhavn">
+    <latitude>69.25</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Godthaab">
+    <latitude>64.1833333</latitude>
+    <longitude>-51.75</longitude>
+  </city>
+  <city name="Godthåb">
+    <latitude>64.1833333</latitude>
+    <longitude>-51.75</longitude>
+  </city>
+  <city name="Grønnedal">
+    <latitude>61.2333333</latitude>
+    <longitude>-48.1</longitude>
+  </city>
+  <city name="Harbor Camp">
+    <latitude>66.9833333</latitude>
+    <longitude>-50.9333333</longitude>
+  </city>
+  <city name="Herjolfsnes">
+    <latitude>59.9833333</latitude>
+    <longitude>-44.7</longitude>
+  </city>
+  <city name="Holsteinborg">
+    <latitude>66.9333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Holsteinsborg">
+    <latitude>66.9333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Holstenborg">
+    <latitude>66.9333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Holstensborg">
+    <latitude>66.9333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Hunde Ejland">
+    <latitude>68.85</latitude>
+    <longitude>-53.1166667</longitude>
+  </city>
+  <city name="Igaliko">
+    <latitude>60.9833333</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Igaliku">
+    <latitude>60.9833333</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Igdloluarsuit">
+    <latitude>70.05</latitude>
+    <longitude>-54.8333333</longitude>
+  </city>
+  <city name="Igdlorpait">
+    <latitude>60.45</latitude>
+    <longitude>-45.3333333</longitude>
+  </city>
+  <city name="Igdlorqortôrmiut">
+    <latitude>70.4833333</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Igdlorssuit">
+    <latitude>77.5566667</latitude>
+    <longitude>-68.585</longitude>
+  </city>
+  <city name="Igdlorsuit">
+    <latitude>71.2333333</latitude>
+    <longitude>-53.5666667</longitude>
+  </city>
+  <city name="Igdluiartorfik">
+    <latitude>72.6666667</latitude>
+    <longitude>-56.15</longitude>
+  </city>
+  <city name="Igdlukavsak">
+    <latitude>72.2</latitude>
+    <longitude>-55.8166667</longitude>
+  </city>
+  <city name="Igdlukorssuit">
+    <latitude>72.2333333</latitude>
+    <longitude>-55.9333333</longitude>
+  </city>
+  <city name="Igdluligssuak">
+    <latitude>74.35</latitude>
+    <longitude>-56.7</longitude>
+  </city>
+  <city name="Igdlulik">
+    <latitude>74.35</latitude>
+    <longitude>-56.7</longitude>
+  </city>
+  <city name="Igdluluarssuit">
+    <latitude>77.7952778</latitude>
+    <longitude>-70.7558333</longitude>
+  </city>
+  <city name="Igdlumiut">
+    <latitude>65.5833333</latitude>
+    <longitude>-37.5833333</longitude>
+  </city>
+  <city name="Igdlúnguaq">
+    <latitude>64.25</latitude>
+    <longitude>-50.9666667</longitude>
+  </city>
+  <city name="Igíniarfik">
+    <latitude>68.15</latitude>
+    <longitude>-53.1666667</longitude>
+  </city>
+  <city name="Iginniarfik">
+    <latitude>68.15</latitude>
+    <longitude>-53.1666667</longitude>
+  </city>
+  <city name="Igssalik">
+    <latitude>65.5166667</latitude>
+    <longitude>-39.0166667</longitude>
+  </city>
+  <city name="Igterajivit">
+    <latitude>70.45</latitude>
+    <longitude>-22.3833333</longitude>
+  </city>
+  <city name="Igtorqortôrmît">
+    <latitude>70.4833333</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Igtumît">
+    <latitude>65.5833333</latitude>
+    <longitude>-37.5833333</longitude>
+  </city>
+  <city name="Ikamiut">
+    <latitude>68.6333333</latitude>
+    <longitude>-51.8333333</longitude>
+  </city>
+  <city name="Íkáteq">
+    <latitude>65.6333333</latitude>
+    <longitude>-37.9333333</longitude>
+  </city>
+  <city name="Ikerârssuk">
+    <latitude>66.8166667</latitude>
+    <longitude>-53.1</longitude>
+  </city>
+  <city name="Ikerasaarsuk">
+    <latitude>68.1333333</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Ikerasagssuak">
+    <latitude>60.05</latitude>
+    <longitude>-43.1666667</longitude>
+  </city>
+  <city name="Ikerasagssuaq">
+    <latitude>65.5666667</latitude>
+    <longitude>-37.1166667</longitude>
+  </city>
+  <city name="Ikerasak">
+    <latitude>70.5</latitude>
+    <longitude>-51.3</longitude>
+  </city>
+  <city name="Ikerasârssuk">
+    <latitude>68.1333333</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Ikerasassuaq">
+    <latitude>60.05</latitude>
+    <longitude>-43.1666667</longitude>
+  </city>
+  <city name="Ikeraussak">
+    <latitude>77.3613889</latitude>
+    <longitude>-68.4641667</longitude>
+  </city>
+  <city name="Ikeraussek">
+    <latitude>77.3613889</latitude>
+    <longitude>-68.4641667</longitude>
+  </city>
+  <city name="Ikigait">
+    <latitude>59.9833333</latitude>
+    <longitude>-44.7</longitude>
+  </city>
+  <city name="Ikkamiut">
+    <latitude>65.6333333</latitude>
+    <longitude>-52.8</longitude>
+  </city>
+  <city name="Ikorfat">
+    <latitude>69.9833333</latitude>
+    <longitude>-51.4333333</longitude>
+  </city>
+  <city name="Ilimanaq">
+    <latitude>69.0833333</latitude>
+    <longitude>-51.1166667</longitude>
+  </city>
+  <city name="Ilivileq">
+    <latitude>60.1166667</latitude>
+    <longitude>-45.2166667</longitude>
+  </city>
+  <city name="Illoqqortoormiut">
+    <latitude>70.4833333</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Illorpaat">
+    <latitude>60.45</latitude>
+    <longitude>-45.3333333</longitude>
+  </city>
+  <city name="Illorsuit">
+    <latitude>71.2333333</latitude>
+    <longitude>-53.5666667</longitude>
+  </city>
+  <city name="Illulik">
+    <latitude>74.35</latitude>
+    <longitude>-56.7</longitude>
+  </city>
+  <city name="Iluilek">
+    <latitude>69.25</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Ilulisat">
+    <latitude>69.2166667</latitude>
+    <longitude>-51.1</longitude>
+  </city>
+  <city name="Ilulissat">
+    <latitude>69.2166667</latitude>
+    <longitude>-51.1</longitude>
+  </city>
+  <city name="Innalik">
+    <latitude>68.45</latitude>
+    <longitude>-53.5</longitude>
+  </city>
+  <city name="Inugsuk">
+    <latitude>70.0333333</latitude>
+    <longitude>-50.5333333</longitude>
+  </city>
+  <city name="Inussuk">
+    <latitude>70.0333333</latitude>
+    <longitude>-50.5333333</longitude>
+  </city>
+  <city name="Ippik">
+    <latitude>60.5</latitude>
+    <longitude>-45.2833333</longitude>
+  </city>
+  <city name="Isertoq">
+    <latitude>65.5333333</latitude>
+    <longitude>-38.9833333</longitude>
+  </city>
+  <city name="Isortoq">
+    <latitude>65.5333333</latitude>
+    <longitude>-38.9833333</longitude>
+  </city>
+  <city name="Isua">
+    <latitude>60.35</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Iterdlak">
+    <latitude>60.9166667</latitude>
+    <longitude>-45.3</longitude>
+  </city>
+  <city name="Iterlak">
+    <latitude>60.9166667</latitude>
+    <longitude>-45.3</longitude>
+  </city>
+  <city name="Itilleq">
+    <latitude>77.2244444</latitude>
+    <longitude>-69.4891667</longitude>
+  </city>
+  <city name="Itivdlek">
+    <latitude>77.2244444</latitude>
+    <longitude>-69.4891667</longitude>
+  </city>
+  <city name="Itivdleq">
+    <latitude>77.2244444</latitude>
+    <longitude>-69.4891667</longitude>
+  </city>
+  <city name="Itivnera">
+    <latitude>64.3833333</latitude>
+    <longitude>-50.4</longitude>
+  </city>
+  <city name="Itseqqortoormiit">
+    <latitude>70.4833333</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Ittaajimmiut">
+    <latitude>70.45</latitude>
+    <longitude>-22.3833333</longitude>
+  </city>
+  <city name="Itterajivit">
+    <latitude>70.45</latitude>
+    <longitude>-22.3833333</longitude>
+  </city>
+  <city name="Ittoqqortoormiit">
+    <latitude>70.4833333</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Ittorisseq">
+    <latitude>70.45</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Ittumiit">
+    <latitude>65.5833333</latitude>
+    <longitude>-37.5833333</longitude>
+  </city>
+  <city name="Ivanganek">
+    <latitude>75.9272222</latitude>
+    <longitude>-66.4488889</longitude>
+  </city>
+  <city name="Iviggut">
+    <latitude>61.2</latitude>
+    <longitude>-48.1666667</longitude>
+  </city>
+  <city name="Ivigtut">
+    <latitude>61.2</latitude>
+    <longitude>-48.1666667</longitude>
+  </city>
+  <city name="Ivittuut">
+    <latitude>61.2</latitude>
+    <longitude>-48.1666667</longitude>
+  </city>
+  <city name="Ivnalik">
+    <latitude>68.45</latitude>
+    <longitude>-53.5</longitude>
+  </city>
+  <city name="Ivnânganek">
+    <latitude>75.9272222</latitude>
+    <longitude>-66.4488889</longitude>
+  </city>
+  <city name="Ivssorigseg">
+    <latitude>70.45</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Ivssorigseq">
+    <latitude>70.45</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Ivtorigteq">
+    <latitude>70.45</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Jakobshavn">
+    <latitude>69.2166667</latitude>
+    <longitude>-51.1</longitude>
+  </city>
+  <city name="Julianehaab">
+    <latitude>60.7166667</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Julianehåb">
+    <latitude>60.7166667</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Julian Haab">
+    <latitude>60.7166667</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Kaersut">
+    <latitude>70.7333333</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Kagsiarsuk">
+    <latitude>60.9</latitude>
+    <longitude>-45.2833333</longitude>
+  </city>
+  <city name="Kagsimiut">
+    <latitude>60.7833333</latitude>
+    <longitude>-47.1666667</longitude>
+  </city>
+  <city name="Kagssiarssuk">
+    <latitude>61.15</latitude>
+    <longitude>-45.5166667</longitude>
+  </city>
+  <city name="Kagssigssalik">
+    <latitude>77.3333333</latitude>
+    <longitude>-71.5333333</longitude>
+  </city>
+  <city name="Kakortak">
+    <latitude>60.7166667</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Kakortok">
+    <latitude>60.7166667</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Kanâk">
+    <latitude>77.4894444</latitude>
+    <longitude>-69.3322222</longitude>
+  </city>
+  <city name="Kanâq">
+    <latitude>77.4894444</latitude>
+    <longitude>-69.3322222</longitude>
+  </city>
+  <city name="Kangaamiut">
+    <latitude>65.8333333</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Kangaarsuk">
+    <latitude>72.0</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Kangaatsiaq">
+    <latitude>68.3</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Kangâmiut">
+    <latitude>65.8333333</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Kanganiut">
+    <latitude>65.8333333</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Kangârssuk">
+    <latitude>72.0</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Kangatôk">
+    <latitude>77.3833333</latitude>
+    <longitude>-72.4666667</longitude>
+  </city>
+  <city name="Kangatsiak">
+    <latitude>68.3</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Kangâtsiaq">
+    <latitude>68.3</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Kangek">
+    <latitude>77.3025</latitude>
+    <longitude>-68.8425</longitude>
+  </city>
+  <city name="Kangeq">
+    <latitude>77.2666667</latitude>
+    <longitude>-69.1</longitude>
+  </city>
+  <city name="Kangerdluarssoruseq">
+    <latitude>63.7</latitude>
+    <longitude>-51.55</longitude>
+  </city>
+  <city name="Kangerdluarssuk">
+    <latitude>77.5566667</latitude>
+    <longitude>-68.585</longitude>
+  </city>
+  <city name="Kangerdlugssuaq">
+    <latitude>77.3775</latitude>
+    <longitude>-67.0819444</longitude>
+  </city>
+  <city name="Kangerluarsoruseq">
+    <latitude>63.7</latitude>
+    <longitude>-51.55</longitude>
+  </city>
+  <city name="Kangerluarsuk">
+    <latitude>77.5566667</latitude>
+    <longitude>-68.585</longitude>
+  </city>
+  <city name="Kangerlussuaq">
+    <latitude>77.3775</latitude>
+    <longitude>-67.0819444</longitude>
+  </city>
+  <city name="Kangerssuatsiaq">
+    <latitude>72.3833333</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Kangersuatsiak">
+    <latitude>72.3833333</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Kangersuatsiaq">
+    <latitude>72.3833333</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Kangerup Nûa">
+    <latitude>70.05</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Kangidlermiut">
+    <latitude>62.8166667</latitude>
+    <longitude>-50.4</longitude>
+  </city>
+  <city name="Kangigdlermiut">
+    <latitude>62.8166667</latitude>
+    <longitude>-50.4</longitude>
+  </city>
+  <city name="Kangikasîk">
+    <latitude>60.5166667</latitude>
+    <longitude>-45.65</longitude>
+  </city>
+  <city name="Kangikitsoq">
+    <latitude>60.45</latitude>
+    <longitude>-44.7833333</longitude>
+  </city>
+  <city name="Kangilineq">
+    <latitude>61.95</latitude>
+    <longitude>-49.4666667</longitude>
+  </city>
+  <city name="Kanissut">
+    <latitude>70.8333333</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Kanísut">
+    <latitude>70.8333333</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Kap Dan">
+    <latitude>65.5666667</latitude>
+    <longitude>-37.1166667</longitude>
+  </city>
+  <city name="Kap Hope">
+    <latitude>70.45</latitude>
+    <longitude>-22.3833333</longitude>
+  </city>
+  <city name="Kapingasok">
+    <latitude>68.2833333</latitude>
+    <longitude>-53.15</longitude>
+  </city>
+  <city name="Kapisigdlit">
+    <latitude>64.4333333</latitude>
+    <longitude>-50.2666667</longitude>
+  </city>
+  <city name="Kapisilik">
+    <latitude>64.4333333</latitude>
+    <longitude>-50.2666667</longitude>
+  </city>
+  <city name="Kapisillit">
+    <latitude>64.4333333</latitude>
+    <longitude>-50.2666667</longitude>
+  </city>
+  <city name="Kap Tobin">
+    <latitude>70.4</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Karna">
+    <latitude>77.4894444</latitude>
+    <longitude>-69.3322222</longitude>
+  </city>
+  <city name="Kasigianguit">
+    <latitude>68.8166667</latitude>
+    <longitude>-51.1833333</longitude>
+  </city>
+  <city name="Kekertak">
+    <latitude>70.0</latitude>
+    <longitude>-51.3166667</longitude>
+  </city>
+  <city name="Kekertarssuak">
+    <latitude>77.4275</latitude>
+    <longitude>-70.1891667</longitude>
+  </city>
+  <city name="K'ekertarssuak">
+    <latitude>69.25</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Kekertarsuak">
+    <latitude>69.25</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Kekertarsuatsiak">
+    <latitude>63.0833333</latitude>
+    <longitude>-50.6666667</longitude>
+  </city>
+  <city name="Kekertat">
+    <latitude>76.0344444</latitude>
+    <longitude>-65.9863889</longitude>
+  </city>
+  <city name="Kekertgarsuatsiak">
+    <latitude>68.4166667</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Kiatak">
+    <latitude>77.35</latitude>
+    <longitude>-71.4666667</longitude>
+  </city>
+  <city name="Kigdlûssat">
+    <latitude>69.3833333</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Kigtorsak">
+    <latitude>73.95</latitude>
+    <longitude>-56.7333333</longitude>
+  </city>
+  <city name="Kigtorsaq">
+    <latitude>73.95</latitude>
+    <longitude>-56.7333333</longitude>
+  </city>
+  <city name="Kiinnarissoq">
+    <latitude>62.1666667</latitude>
+    <longitude>-49.3</longitude>
+  </city>
+  <city name="Kiirigsoq">
+    <latitude>62.1666667</latitude>
+    <longitude>-49.3</longitude>
+  </city>
+  <city name="Killiat">
+    <latitude>68.2833333</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Kinalik">
+    <latitude>60.5166667</latitude>
+    <longitude>-45.65</longitude>
+  </city>
+  <city name="Kitdliat">
+    <latitude>68.2833333</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Kitdlî">
+    <latitude>68.6166667</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Kitdlusat">
+    <latitude>69.3833333</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Kitorsak">
+    <latitude>73.95</latitude>
+    <longitude>-56.7333333</longitude>
+  </city>
+  <city name="Kitsigsuarssuit">
+    <latitude>68.85</latitude>
+    <longitude>-53.1166667</longitude>
+  </city>
+  <city name="Kittorsaq">
+    <latitude>73.95</latitude>
+    <longitude>-56.7333333</longitude>
+  </city>
+  <city name="Klatak">
+    <latitude>77.35</latitude>
+    <longitude>-71.4666667</longitude>
+  </city>
+  <city name="Kornok">
+    <latitude>64.5333333</latitude>
+    <longitude>-51.1</longitude>
+  </city>
+  <city name="Kraulshavn">
+    <latitude>74.1166667</latitude>
+    <longitude>-57.0666667</longitude>
+  </city>
+  <city name="Kronprinsen Ejland">
+    <latitude>69.0166667</latitude>
+    <longitude>-53.3166667</longitude>
+  </city>
+  <city name="Kuánit">
+    <latitude>62.2333333</latitude>
+    <longitude>-49.8333333</longitude>
+  </city>
+  <city name="Kûgkat">
+    <latitude>77.7830556</latitude>
+    <longitude>-70.3097222</longitude>
+  </city>
+  <city name="Kugsiarsuk">
+    <latitude>60.9</latitude>
+    <longitude>-45.2833333</longitude>
+  </city>
+  <city name="Kuinassuk">
+    <latitude>77.5325</latitude>
+    <longitude>-67.7672222</longitude>
+  </city>
+  <city name="Kûk">
+    <latitude>73.7</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Kullorsuaq">
+    <latitude>74.5833333</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Kulusuk">
+    <latitude>65.5666667</latitude>
+    <longitude>-37.1833333</longitude>
+  </city>
+  <city name="Kûngmiut">
+    <latitude>65.8666667</latitude>
+    <longitude>-37.0166667</longitude>
+  </city>
+  <city name="Kutdligssat">
+    <latitude>70.0833333</latitude>
+    <longitude>-53.0166667</longitude>
+  </city>
+  <city name="Kutdlisat">
+    <latitude>70.0833333</latitude>
+    <longitude>-53.0166667</longitude>
+  </city>
+  <city name="Kuuk">
+    <latitude>73.7</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Kuummiit">
+    <latitude>65.8666667</latitude>
+    <longitude>-37.0166667</longitude>
+  </city>
+  <city name="Kuummiut">
+    <latitude>65.8666667</latitude>
+    <longitude>-37.0166667</longitude>
+  </city>
+  <city name="Kuvdlorssuak">
+    <latitude>74.5833333</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Lichtenau">
+    <latitude>60.55</latitude>
+    <longitude>-45.4666667</longitude>
+  </city>
+  <city name="Maarmorilik">
+    <latitude>71.1333333</latitude>
+    <longitude>-51.2833333</longitude>
+  </city>
+  <city name="Maitsoq">
+    <latitude>65.4166667</latitude>
+    <longitude>-52.9</longitude>
+  </city>
+  <city name="Majestic Bay Settlement">
+    <latitude>73.3666667</latitude>
+    <longitude>-56.05</longitude>
+  </city>
+  <city name="Manermiut">
+    <latitude>68.6</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Maniitsoq">
+    <latitude>65.4166667</latitude>
+    <longitude>-52.9</longitude>
+  </city>
+  <city name="Manitsok">
+    <latitude>65.4166667</latitude>
+    <longitude>-52.9</longitude>
+  </city>
+  <city name="Manitsoq">
+    <latitude>65.4166667</latitude>
+    <longitude>-52.9</longitude>
+  </city>
+  <city name="Manûssak">
+    <latitude>76.7561111</latitude>
+    <longitude>-69.8863889</longitude>
+  </city>
+  <city name="Manûssaq">
+    <latitude>76.7561111</latitude>
+    <longitude>-69.8863889</longitude>
+  </city>
+  <city name="Manuusaq">
+    <latitude>76.7561111</latitude>
+    <longitude>-69.8863889</longitude>
+  </city>
+  <city name="Marmorbrud">
+    <latitude>71.1333333</latitude>
+    <longitude>-51.2833333</longitude>
+  </city>
+  <city name="Marmorilik">
+    <latitude>71.1333333</latitude>
+    <longitude>-51.2833333</longitude>
+  </city>
+  <city name="Marraat">
+    <latitude>69.3666667</latitude>
+    <longitude>-52.7833333</longitude>
+  </city>
+  <city name="Marrait">
+    <latitude>69.3666667</latitude>
+    <longitude>-52.7833333</longitude>
+  </city>
+  <city name="Moriusaq">
+    <latitude>76.7561111</latitude>
+    <longitude>-69.8863889</longitude>
+  </city>
+  <city name="Moriussaq">
+    <latitude>76.7561111</latitude>
+    <longitude>-69.8863889</longitude>
+  </city>
+  <city name="Myggbukta">
+    <latitude>73.5</latitude>
+    <longitude>-21.5666667</longitude>
+  </city>
+  <city name="Naajat">
+    <latitude>71.5833333</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Nanortalik">
+    <latitude>60.1166667</latitude>
+    <longitude>-45.2166667</longitude>
+  </city>
+  <city name="Napasok">
+    <latitude>65.05</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Napasoq">
+    <latitude>65.05</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Napassok">
+    <latitude>65.05</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Napassoq">
+    <latitude>65.05</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Napasuligssuaq">
+    <latitude>70.3</latitude>
+    <longitude>-54.4833333</longitude>
+  </city>
+  <city name="Narsaarsuk">
+    <latitude>76.4472222</latitude>
+    <longitude>-69.3494444</longitude>
+  </city>
+  <city name="Narsak">
+    <latitude>60.5</latitude>
+    <longitude>-43.4166667</longitude>
+  </city>
+  <city name="Narsalik">
+    <latitude>61.6166667</latitude>
+    <longitude>-49.35</longitude>
+  </city>
+  <city name="Narsaq Kujalleq">
+    <latitude>60.0030556</latitude>
+    <longitude>-44.6636111</longitude>
+  </city>
+  <city name="Narsaq">
+    <latitude>77.3025</latitude>
+    <longitude>-68.8425</longitude>
+  </city>
+  <city name="Narsarmiut">
+    <latitude>65.8833333</latitude>
+    <longitude>-53.3</longitude>
+  </city>
+  <city name="Narsarssauk">
+    <latitude>61.1666667</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Narsarssuak">
+    <latitude>61.1666667</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Narsarssunk">
+    <latitude>61.1666667</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Narsarssurk">
+    <latitude>61.1666667</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Narsarsuak">
+    <latitude>61.1666667</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Narsarsuaq">
+    <latitude>61.1666667</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Narsatsiaat">
+    <latitude>62.1</latitude>
+    <longitude>-49.3666667</longitude>
+  </city>
+  <city name="Narssak kujatdlek">
+    <latitude>60.0030556</latitude>
+    <longitude>-44.6636111</longitude>
+  </city>
+  <city name="Narssak">
+    <latitude>77.3025</latitude>
+    <longitude>-68.8425</longitude>
+  </city>
+  <city name="Narssalik">
+    <latitude>61.6166667</latitude>
+    <longitude>-49.35</longitude>
+  </city>
+  <city name="Narssaq">
+    <latitude>77.3025</latitude>
+    <longitude>-68.8425</longitude>
+  </city>
+  <city name="Narssarmiut">
+    <latitude>65.8833333</latitude>
+    <longitude>-53.3</longitude>
+  </city>
+  <city name="Narssarssuaq">
+    <latitude>61.1666667</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Narssârssuk">
+    <latitude>76.4472222</latitude>
+    <longitude>-69.3494444</longitude>
+  </city>
+  <city name="Narssatsiait">
+    <latitude>62.1</latitude>
+    <longitude>-49.3666667</longitude>
+  </city>
+  <city name="Narssurscuk">
+    <latitude>76.4472222</latitude>
+    <longitude>-69.3494444</longitude>
+  </city>
+  <city name="Narssûrssuk">
+    <latitude>76.4472222</latitude>
+    <longitude>-69.3494444</longitude>
+  </city>
+  <city name="Natsilivik">
+    <latitude>77.175</latitude>
+    <longitude>-70.7375</longitude>
+  </city>
+  <city name="Natsillvik">
+    <latitude>77.175</latitude>
+    <longitude>-70.7375</longitude>
+  </city>
+  <city name="Naujât">
+    <latitude>71.5833333</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Neke">
+    <latitude>77.8666667</latitude>
+    <longitude>-71.6166667</longitude>
+  </city>
+  <city name="Neqe">
+    <latitude>77.8666667</latitude>
+    <longitude>-71.6166667</longitude>
+  </city>
+  <city name="Neqi">
+    <latitude>77.8666667</latitude>
+    <longitude>-71.6166667</longitude>
+  </city>
+  <city name="Neria">
+    <latitude>61.6166667</latitude>
+    <longitude>-49.1166667</longitude>
+  </city>
+  <city name="Neriunaq">
+    <latitude>64.4666667</latitude>
+    <longitude>-50.3166667</longitude>
+  </city>
+  <city name="Niakornarsuk">
+    <latitude>68.2333333</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Niakornat">
+    <latitude>70.8</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Niaqornaarsuk">
+    <latitude>68.2333333</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Niaqornaq">
+    <latitude>61.0</latitude>
+    <longitude>-46.1333333</longitude>
+  </city>
+  <city name="Niaqornârssuk">
+    <latitude>68.2333333</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Niaqornat">
+    <latitude>70.8</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Nivaaq">
+    <latitude>68.6166667</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Nivak">
+    <latitude>68.6166667</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Nivâq">
+    <latitude>68.6166667</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Nord">
+    <latitude>81.7166667</latitude>
+    <longitude>-17.8</longitude>
+  </city>
+  <city name="Nordre Huse">
+    <latitude>69.1166667</latitude>
+    <longitude>-51.0833333</longitude>
+  </city>
+  <city name="North House">
+    <latitude>69.1166667</latitude>
+    <longitude>-51.0833333</longitude>
+  </city>
+  <city name="Nugak">
+    <latitude>69.9666667</latitude>
+    <longitude>-51.2666667</longitude>
+  </city>
+  <city name="Nûgâq">
+    <latitude>69.9666667</latitude>
+    <longitude>-51.2666667</longitude>
+  </city>
+  <city name="Nûgâtsiaq">
+    <latitude>71.55</latitude>
+    <longitude>-53.2166667</longitude>
+  </city>
+  <city name="Nûgssûtâ">
+    <latitude>70.6666667</latitude>
+    <longitude>-54.6</longitude>
+  </city>
+  <city name="Nuk">
+    <latitude>64.1833333</latitude>
+    <longitude>-51.75</longitude>
+  </city>
+  <city name="Nuliarfik">
+    <latitude>71.5166667</latitude>
+    <longitude>-52.8833333</longitude>
+  </city>
+  <city name="Nunatame">
+    <latitude>80.0</latitude>
+    <longitude>-66.0</longitude>
+  </city>
+  <city name="Nunatami">
+    <latitude>80.0</latitude>
+    <longitude>-66.0</longitude>
+  </city>
+  <city name="Nunatarssuak">
+    <latitude>77.4238889</latitude>
+    <longitude>-66.5747222</longitude>
+  </city>
+  <city name="Nunatarssuaq">
+    <latitude>77.4238889</latitude>
+    <longitude>-66.5747222</longitude>
+  </city>
+  <city name="Nunatarsuaq">
+    <latitude>77.4238889</latitude>
+    <longitude>-66.5747222</longitude>
+  </city>
+  <city name="Nunat">
+    <latitude>77.3894444</latitude>
+    <longitude>-67.5297222</longitude>
+  </city>
+  <city name="Nursak">
+    <latitude>60.5</latitude>
+    <longitude>-43.4166667</longitude>
+  </city>
+  <city name="Nûssaq">
+    <latitude>70.4333333</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Nutât">
+    <latitude>77.3894444</latitude>
+    <longitude>-67.5297222</longitude>
+  </city>
+  <city name="Nuugaaq">
+    <latitude>69.9666667</latitude>
+    <longitude>-51.2666667</longitude>
+  </city>
+  <city name="Nuugaatsiaq">
+    <latitude>71.55</latitude>
+    <longitude>-53.2166667</longitude>
+  </city>
+  <city name="Nuuk">
+    <latitude>64.1833333</latitude>
+    <longitude>-51.75</longitude>
+  </city>
+  <city name="Nuussuaq">
+    <latitude>74.1166667</latitude>
+    <longitude>-57.0666667</longitude>
+  </city>
+  <city name="Old Sukkertoppen">
+    <latitude>65.8333333</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Oqaitsut">
+    <latitude>69.35</latitude>
+    <longitude>-51.0166667</longitude>
+  </city>
+  <city name="Østprøven">
+    <latitude>59.9833333</latitude>
+    <longitude>-44.7</longitude>
+  </city>
+  <city name="Paamiut">
+    <latitude>62.0</latitude>
+    <longitude>-49.75</longitude>
+  </city>
+  <city name="Paarnakajiit">
+    <latitude>66.0833333</latitude>
+    <longitude>-37.6333333</longitude>
+  </city>
+  <city name="Pamiut">
+    <latitude>62.0</latitude>
+    <longitude>-49.75</longitude>
+  </city>
+  <city name="Paornakajît">
+    <latitude>66.0833333</latitude>
+    <longitude>-37.6333333</longitude>
+  </city>
+  <city name="Perdlernerit">
+    <latitude>75.9272222</latitude>
+    <longitude>-66.4488889</longitude>
+  </city>
+  <city name="Perlernerit">
+    <latitude>75.9272222</latitude>
+    <longitude>-66.4488889</longitude>
+  </city>
+  <city name="Pingorssuaq">
+    <latitude>60.35</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Pingorsuaq">
+    <latitude>60.35</latitude>
+    <longitude>-45.4166667</longitude>
+  </city>
+  <city name="Pitorqeq">
+    <latitude>69.2166667</latitude>
+    <longitude>-51.1333333</longitude>
+  </city>
+  <city name="Port of Lievely">
+    <latitude>69.25</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Portusooq">
+    <latitude>60.55</latitude>
+    <longitude>-45.2333333</longitude>
+  </city>
+  <city name="Portusôq">
+    <latitude>60.55</latitude>
+    <longitude>-45.2333333</longitude>
+  </city>
+  <city name="Prins Christianssund">
+    <latitude>60.05</latitude>
+    <longitude>-43.1666667</longitude>
+  </city>
+  <city name="Prins Christians Sund">
+    <latitude>60.05</latitude>
+    <longitude>-43.1666667</longitude>
+  </city>
+  <city name="Prins Christian Sund">
+    <latitude>60.05</latitude>
+    <longitude>-43.1666667</longitude>
+  </city>
+  <city name="Prøven">
+    <latitude>72.3833333</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Qaanaaq">
+    <latitude>77.4894444</latitude>
+    <longitude>-69.3322222</longitude>
+  </city>
+  <city name="Qaarsoq">
+    <latitude>60.4833333</latitude>
+    <longitude>-45.8666667</longitude>
+  </city>
+  <city name="Qaarsut">
+    <latitude>70.7333333</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Qaersut">
+    <latitude>70.7333333</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Qagdlimiut">
+    <latitude>60.7</latitude>
+    <longitude>-45.3333333</longitude>
+  </city>
+  <city name="Qagssiarssuk">
+    <latitude>61.15</latitude>
+    <longitude>-45.5166667</longitude>
+  </city>
+  <city name="Qagssimiut">
+    <latitude>60.7833333</latitude>
+    <longitude>-47.1666667</longitude>
+  </city>
+  <city name="Qagssissalik">
+    <latitude>77.3333333</latitude>
+    <longitude>-71.5333333</longitude>
+  </city>
+  <city name="Qaksiarsuk">
+    <latitude>61.15</latitude>
+    <longitude>-45.5166667</longitude>
+  </city>
+  <city name="Qallimiut">
+    <latitude>60.7</latitude>
+    <longitude>-45.3333333</longitude>
+  </city>
+  <city name="Qânâq">
+    <latitude>77.4894444</latitude>
+    <longitude>-69.3322222</longitude>
+  </city>
+  <city name="Qangátait">
+    <latitude>77.3833333</latitude>
+    <longitude>-72.4666667</longitude>
+  </city>
+  <city name="Qangattaat">
+    <latitude>77.3833333</latitude>
+    <longitude>-72.4666667</longitude>
+  </city>
+  <city name="Qaqortoq">
+    <latitude>60.7166667</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Qarajat">
+    <latitude>63.9666667</latitude>
+    <longitude>-51.5333333</longitude>
+  </city>
+  <city name="Qasigianguit">
+    <latitude>68.8166667</latitude>
+    <longitude>-51.1833333</longitude>
+  </city>
+  <city name="Qasigiannguit">
+    <latitude>68.8166667</latitude>
+    <longitude>-51.1833333</longitude>
+  </city>
+  <city name="Qassiarsuk">
+    <latitude>61.15</latitude>
+    <longitude>-45.5166667</longitude>
+  </city>
+  <city name="Qassimiut">
+    <latitude>60.7833333</latitude>
+    <longitude>-47.1666667</longitude>
+  </city>
+  <city name="Qassisalik">
+    <latitude>77.3333333</latitude>
+    <longitude>-71.5333333</longitude>
+  </city>
+  <city name="Qaugátait">
+    <latitude>77.3833333</latitude>
+    <longitude>-72.4666667</longitude>
+  </city>
+  <city name="Qeertartivatsiaq">
+    <latitude>65.8333333</latitude>
+    <longitude>-38.0166667</longitude>
+  </city>
+  <city name="Qekertarssuaq">
+    <latitude>77.4275</latitude>
+    <longitude>-70.1891667</longitude>
+  </city>
+  <city name="Qeqertaarsuk">
+    <latitude>70.0</latitude>
+    <longitude>-50.75</longitude>
+  </city>
+  <city name="Qeqertaq">
+    <latitude>76.0344444</latitude>
+    <longitude>-65.9863889</longitude>
+  </city>
+  <city name="Qeqertarssuaq">
+    <latitude>77.4275</latitude>
+    <longitude>-70.1891667</longitude>
+  </city>
+  <city name="Qeqertarssuatsiait">
+    <latitude>63.0833333</latitude>
+    <longitude>-50.6666667</longitude>
+  </city>
+  <city name="Qeqertarssuatsiaq">
+    <latitude>65.8333333</latitude>
+    <longitude>-38.0166667</longitude>
+  </city>
+  <city name="Qeqertârssuk">
+    <latitude>70.0</latitude>
+    <longitude>-50.75</longitude>
+  </city>
+  <city name="Qeqertarssuq">
+    <latitude>62.1166667</latitude>
+    <longitude>-49.7833333</longitude>
+  </city>
+  <city name="Qeqertarsuaq">
+    <latitude>77.4275</latitude>
+    <longitude>-70.1891667</longitude>
+  </city>
+  <city name="Qeqertarsuatsiaat">
+    <latitude>63.0833333</latitude>
+    <longitude>-50.6666667</longitude>
+  </city>
+  <city name="Qeqertarsuatsiaq">
+    <latitude>68.4166667</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Qeqertat">
+    <latitude>77.5097222</latitude>
+    <longitude>-66.6477778</longitude>
+  </city>
+  <city name="Qernertuarssivit">
+    <latitude>65.7166667</latitude>
+    <longitude>-37.3</longitude>
+  </city>
+  <city name="Qernertuarssuit">
+    <latitude>65.7166667</latitude>
+    <longitude>-37.3</longitude>
+  </city>
+  <city name="Qigdlûssat">
+    <latitude>69.3833333</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Qíngeq">
+    <latitude>65.9666667</latitude>
+    <longitude>-37.1166667</longitude>
+  </city>
+  <city name="Qingua">
+    <latitude>64.2666667</latitude>
+    <longitude>-50.9</longitude>
+  </city>
+  <city name="Qipingasoq">
+    <latitude>68.2833333</latitude>
+    <longitude>-53.15</longitude>
+  </city>
+  <city name="Qipingassoq">
+    <latitude>68.2833333</latitude>
+    <longitude>-53.15</longitude>
+  </city>
+  <city name="Qiqdlussat">
+    <latitude>69.3833333</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Qitdlôrfik">
+    <latitude>70.6666667</latitude>
+    <longitude>-51.9166667</longitude>
+  </city>
+  <city name="Qooqqut">
+    <latitude>64.2666667</latitude>
+    <longitude>-50.9</longitude>
+  </city>
+  <city name="Qoornoq">
+    <latitude>64.5333333</latitude>
+    <longitude>-51.1</longitude>
+  </city>
+  <city name="Qôrnoq">
+    <latitude>64.5333333</latitude>
+    <longitude>-51.1</longitude>
+  </city>
+  <city name="Qôrqut">
+    <latitude>64.2666667</latitude>
+    <longitude>-50.9</longitude>
+  </city>
+  <city name="Qubdligssat">
+    <latitude>70.0833333</latitude>
+    <longitude>-53.0166667</longitude>
+  </city>
+  <city name="Quequrtat">
+    <latitude>77.5097222</latitude>
+    <longitude>-66.6477778</longitude>
+  </city>
+  <city name="Quinassuk">
+    <latitude>77.5325</latitude>
+    <longitude>-67.7672222</longitude>
+  </city>
+  <city name="Quínissut">
+    <latitude>77.5325</latitude>
+    <longitude>-67.7672222</longitude>
+  </city>
+  <city name="Qullissat">
+    <latitude>70.0833333</latitude>
+    <longitude>-53.0166667</longitude>
+  </city>
+  <city name="Qunnermiut">
+    <latitude>60.45</latitude>
+    <longitude>-45.25</longitude>
+  </city>
+  <city name="Qutdligssârqat">
+    <latitude>70.0333333</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Qutdligssat">
+    <latitude>70.0833333</latitude>
+    <longitude>-53.0166667</longitude>
+  </city>
+  <city name="Quvnermiut">
+    <latitude>60.45</latitude>
+    <longitude>-45.25</longitude>
+  </city>
+  <city name="Ritenbenk">
+    <latitude>69.7666667</latitude>
+    <longitude>-51.3166667</longitude>
+  </city>
+  <city name="Rodebay">
+    <latitude>69.35</latitude>
+    <longitude>-51.0166667</longitude>
+  </city>
+  <city name="Saarloq">
+    <latitude>60.5333333</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Saattut">
+    <latitude>70.8166667</latitude>
+    <longitude>-51.6333333</longitude>
+  </city>
+  <city name="Sammisoq">
+    <latitude>59.9908333</latitude>
+    <longitude>-43.9322222</longitude>
+  </city>
+  <city name="Sangmisok">
+    <latitude>59.9908333</latitude>
+    <longitude>-43.9322222</longitude>
+  </city>
+  <city name="Sangmissok">
+    <latitude>59.9908333</latitude>
+    <longitude>-43.9322222</longitude>
+  </city>
+  <city name="Sangmissoq">
+    <latitude>59.9908333</latitude>
+    <longitude>-43.9322222</longitude>
+  </city>
+  <city name="Saqqamiut">
+    <latitude>60.8166667</latitude>
+    <longitude>-47.4166667</longitude>
+  </city>
+  <city name="Saqqaq">
+    <latitude>70.0166667</latitude>
+    <longitude>-51.95</longitude>
+  </city>
+  <city name="Saqqarliit">
+    <latitude>66.8666667</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Saqqisikuik">
+    <latitude>63.2166667</latitude>
+    <longitude>-41.3166667</longitude>
+  </city>
+  <city name="Sardlog">
+    <latitude>60.5333333</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Sardlok">
+    <latitude>60.5333333</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Sârdloq">
+    <latitude>60.5333333</latitude>
+    <longitude>-46.0333333</longitude>
+  </city>
+  <city name="Sarfanguak">
+    <latitude>66.9</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Sarfánguaq">
+    <latitude>66.9</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Sarfannguaq">
+    <latitude>66.9</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Sarfannguit">
+    <latitude>66.9</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Sarkak">
+    <latitude>66.7</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Sarkardlit">
+    <latitude>66.8666667</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Sarqamiut">
+    <latitude>60.8166667</latitude>
+    <longitude>-47.4166667</longitude>
+  </city>
+  <city name="Sarqaq">
+    <latitude>66.7</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Sarqardlît">
+    <latitude>66.8666667</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Sãtut">
+    <latitude>70.8166667</latitude>
+    <longitude>-51.6333333</longitude>
+  </city>
+  <city name="Savigsivik">
+    <latitude>76.0233333</latitude>
+    <longitude>-65.0813889</longitude>
+  </city>
+  <city name="Savissivik">
+    <latitude>76.0233333</latitude>
+    <longitude>-65.0813889</longitude>
+  </city>
+  <city name="Scoresby Sound">
+    <latitude>70.4833333</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Scoresbysund">
+    <latitude>70.4833333</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Sermiarssuit">
+    <latitude>70.5666667</latitude>
+    <longitude>-52.1</longitude>
+  </city>
+  <city name="Sermiarsuit">
+    <latitude>70.5666667</latitude>
+    <longitude>-52.1</longitude>
+  </city>
+  <city name="Sermiarsut">
+    <latitude>70.5666667</latitude>
+    <longitude>-52.1</longitude>
+  </city>
+  <city name="Sermiligaaq">
+    <latitude>65.9</latitude>
+    <longitude>-36.3666667</longitude>
+  </city>
+  <city name="Sermiligâq">
+    <latitude>65.9</latitude>
+    <longitude>-36.3666667</longitude>
+  </city>
+  <city name="Sermilik">
+    <latitude>60.45</latitude>
+    <longitude>-44.8833333</longitude>
+  </city>
+  <city name="Simiutaq">
+    <latitude>65.8666667</latitude>
+    <longitude>-37.0333333</longitude>
+  </city>
+  <city name="Siorapaluk">
+    <latitude>77.7952778</latitude>
+    <longitude>-70.7558333</longitude>
+  </city>
+  <city name="Sioropaluk">
+    <latitude>77.7952778</latitude>
+    <longitude>-70.7558333</longitude>
+  </city>
+  <city name="Sisimiut">
+    <latitude>66.9333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Sivsingassoq">
+    <latitude>65.55</latitude>
+    <longitude>-37.2166667</longitude>
+  </city>
+  <city name="Sivtingaleq">
+    <latitude>65.55</latitude>
+    <longitude>-37.2166667</longitude>
+  </city>
+  <city name="Skansen">
+    <latitude>69.4333333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Skanske">
+    <latitude>69.4333333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Skjoldungen">
+    <latitude>63.2166667</latitude>
+    <longitude>-41.3166667</longitude>
+  </city>
+  <city name="Sletten">
+    <latitude>60.6</latitude>
+    <longitude>-45.3833333</longitude>
+  </city>
+  <city name="Søndre Igaliko">
+    <latitude>60.9</latitude>
+    <longitude>-45.2833333</longitude>
+  </city>
+  <city name="Søndre Igaliku">
+    <latitude>60.9</latitude>
+    <longitude>-45.2833333</longitude>
+  </city>
+  <city name="Søndre Strømfjord">
+    <latitude>67.0</latitude>
+    <longitude>-50.7</longitude>
+  </city>
+  <city name="Søndre Upernavik">
+    <latitude>72.15</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Søndre Upernivik">
+    <latitude>72.15</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="South Proven">
+    <latitude>60.45</latitude>
+    <longitude>-45.55</longitude>
+  </city>
+  <city name="South Upernavik">
+    <latitude>72.15</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Sowallick Point">
+    <latitude>76.0233333</latitude>
+    <longitude>-65.0813889</longitude>
+  </city>
+  <city name="Sujunerajik">
+    <latitude>65.5333333</latitude>
+    <longitude>-37.2</longitude>
+  </city>
+  <city name="Sukkertoppen">
+    <latitude>65.4166667</latitude>
+    <longitude>-52.9</longitude>
+  </city>
+  <city name="Summer Place">
+    <latitude>72.7833333</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Sydprøven">
+    <latitude>60.45</latitude>
+    <longitude>-45.55</longitude>
+  </city>
+  <city name="Tartanaq">
+    <latitude>70.0333333</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Tartunak">
+    <latitude>70.0333333</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Tartunaq">
+    <latitude>70.0333333</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Tasiilaq">
+    <latitude>65.6</latitude>
+    <longitude>-37.6333333</longitude>
+  </city>
+  <city name="Tasiusak">
+    <latitude>73.3666667</latitude>
+    <longitude>-56.05</longitude>
+  </city>
+  <city name="Tasiusaq">
+    <latitude>73.3666667</latitude>
+    <longitude>-56.05</longitude>
+  </city>
+  <city name="Tasiussak">
+    <latitude>73.3666667</latitude>
+    <longitude>-56.05</longitude>
+  </city>
+  <city name="Tasiussaq">
+    <latitude>60.1833333</latitude>
+    <longitude>-44.7833333</longitude>
+  </city>
+  <city name="Taupait">
+    <latitude>60.1166667</latitude>
+    <longitude>-45.1666667</longitude>
+  </city>
+  <city name="Thule">
+    <latitude>77.4894444</latitude>
+    <longitude>-69.3322222</longitude>
+  </city>
+  <city name="Tikeraasaq">
+    <latitude>77.3613889</latitude>
+    <longitude>-68.4641667</longitude>
+  </city>
+  <city name="Tikeraussaq">
+    <latitude>77.3613889</latitude>
+    <longitude>-68.4641667</longitude>
+  </city>
+  <city name="Timerdlît">
+    <latitude>65.8333333</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Timerliit">
+    <latitude>65.8333333</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Timmiarmiut">
+    <latitude>62.5333333</latitude>
+    <longitude>-42.2166667</longitude>
+  </city>
+  <city name="Tingmiarmiut">
+    <latitude>62.5333333</latitude>
+    <longitude>-42.2166667</longitude>
+  </city>
+  <city name="Tiniteqilaaq">
+    <latitude>65.8833333</latitude>
+    <longitude>-37.7833333</longitude>
+  </city>
+  <city name="Tiniteqilaarmiit">
+    <latitude>63.3833333</latitude>
+    <longitude>-41.1166667</longitude>
+  </city>
+  <city name="Tiniteqilâq">
+    <latitude>65.8833333</latitude>
+    <longitude>-37.7833333</longitude>
+  </city>
+  <city name="Tiniteqilârmît">
+    <latitude>63.3833333</latitude>
+    <longitude>-41.1166667</longitude>
+  </city>
+  <city name="Tinuteqissâq">
+    <latitude>63.3833333</latitude>
+    <longitude>-41.1166667</longitude>
+  </city>
+  <city name="Toqqusaq">
+    <latitude>64.8666667</latitude>
+    <longitude>-52.2</longitude>
+  </city>
+  <city name="Tovqussaq">
+    <latitude>64.8666667</latitude>
+    <longitude>-52.2</longitude>
+  </city>
+  <city name="Trigtut">
+    <latitude>61.2</latitude>
+    <longitude>-48.1666667</longitude>
+  </city>
+  <city name="Tuapaat">
+    <latitude>60.1166667</latitude>
+    <longitude>-45.1666667</longitude>
+  </city>
+  <city name="Tuapail">
+    <latitude>60.1166667</latitude>
+    <longitude>-45.1666667</longitude>
+  </city>
+  <city name="Tuapait">
+    <latitude>60.1166667</latitude>
+    <longitude>-45.1666667</longitude>
+  </city>
+  <city name="Tugssâq">
+    <latitude>73.05</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Tunúngassoq">
+    <latitude>68.1</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Tununngasoq">
+    <latitude>68.1</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Tussaaq">
+    <latitude>73.05</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Tuvgssâq">
+    <latitude>73.05</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Tuvssâq">
+    <latitude>73.05</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Ujaraat">
+    <latitude>62.1166667</latitude>
+    <longitude>-49.3833333</longitude>
+  </city>
+  <city name="Ujarait">
+    <latitude>62.1166667</latitude>
+    <longitude>-49.3833333</longitude>
+  </city>
+  <city name="Ujarasugssuk">
+    <latitude>69.8666667</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Ujarasussuk">
+    <latitude>69.8666667</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Ukîverajik">
+    <latitude>65.75</latitude>
+    <longitude>-37.9166667</longitude>
+  </city>
+  <city name="Ukkusissat">
+    <latitude>71.05</latitude>
+    <longitude>-51.8833333</longitude>
+  </city>
+  <city name="Ulugssat">
+    <latitude>77.3833333</latitude>
+    <longitude>-71.0666667</longitude>
+  </city>
+  <city name="Ulussat">
+    <latitude>77.3833333</latitude>
+    <longitude>-71.0666667</longitude>
+  </city>
+  <city name="Ûmanák">
+    <latitude>76.5772222</latitude>
+    <longitude>-68.7755556</longitude>
+  </city>
+  <city name="Umanak">
+    <latitude>64.4833333</latitude>
+    <longitude>-50.7833333</longitude>
+  </city>
+  <city name="Umanaq">
+    <latitude>64.4833333</latitude>
+    <longitude>-50.7833333</longitude>
+  </city>
+  <city name="Umánârssuk">
+    <latitude>66.85</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Umanatsiak">
+    <latitude>70.5666667</latitude>
+    <longitude>-51.6833333</longitude>
+  </city>
+  <city name="Ûmánatsiaq">
+    <latitude>70.5333333</latitude>
+    <longitude>-51.2666667</longitude>
+  </city>
+  <city name="Umiagtuartivit">
+    <latitude>65.9</latitude>
+    <longitude>-37.9833333</longitude>
+  </city>
+  <city name="Umiartorfik">
+    <latitude>70.5166667</latitude>
+    <longitude>-51.9333333</longitude>
+  </city>
+  <city name="Umiattuartivit">
+    <latitude>65.9</latitude>
+    <longitude>-37.9833333</longitude>
+  </city>
+  <city name="Umigtuarajît">
+    <latitude>65.9</latitude>
+    <longitude>-37.9833333</longitude>
+  </city>
+  <city name="Umigtuarjit">
+    <latitude>65.9</latitude>
+    <longitude>-37.9833333</longitude>
+  </city>
+  <city name="Umigtuarssuit">
+    <latitude>65.9</latitude>
+    <longitude>-37.9833333</longitude>
+  </city>
+  <city name="Umigtuartivit">
+    <latitude>65.9</latitude>
+    <longitude>-37.9833333</longitude>
+  </city>
+  <city name="Ûnarteq">
+    <latitude>70.4166667</latitude>
+    <longitude>-21.9833333</longitude>
+  </city>
+  <city name="Unartok">
+    <latitude>69.9</latitude>
+    <longitude>-52.6</longitude>
+  </city>
+  <city name="Ûnartoq">
+    <latitude>70.4166667</latitude>
+    <longitude>-21.9833333</longitude>
+  </city>
+  <city name="Upernaviarssuk">
+    <latitude>60.75</latitude>
+    <longitude>-45.8833333</longitude>
+  </city>
+  <city name="Upernaviarsuk">
+    <latitude>60.75</latitude>
+    <longitude>-45.8833333</longitude>
+  </city>
+  <city name="Upernavigssuak">
+    <latitude>77.3166667</latitude>
+    <longitude>-71.8333333</longitude>
+  </city>
+  <city name="Upernavik Kujalleq">
+    <latitude>72.15</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Upernavik">
+    <latitude>72.7833333</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Upernavissuaq">
+    <latitude>77.3166667</latitude>
+    <longitude>-71.8333333</longitude>
+  </city>
+  <city name="Upernivik">
+    <latitude>72.7833333</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Utoqqarmiut">
+    <latitude>63.8</latitude>
+    <longitude>-51.4666667</longitude>
+  </city>
+  <city name="Utorkarmiut">
+    <latitude>63.8</latitude>
+    <longitude>-51.4666667</longitude>
+  </city>
+  <city name="Utorqarmiut">
+    <latitude>65.9</latitude>
+    <longitude>-36.3666667</longitude>
+  </city>
+  <city name="Uummannaarsuk">
+    <latitude>66.85</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Uummannaq">
+    <latitude>70.6833333</latitude>
+    <longitude>-50.1666667</longitude>
+  </city>
+  <city name="Uummannatsiaq">
+    <latitude>70.5333333</latitude>
+    <longitude>-51.2666667</longitude>
+  </city>
+  <city name="Uunarteq">
+    <latitude>70.4</latitude>
+    <longitude>-21.9666667</longitude>
+  </city>
+  <city name="Uunartoq">
+    <latitude>70.4166667</latitude>
+    <longitude>-21.9833333</longitude>
+  </city>
+  <city name="Uvdle">
+    <latitude>76.5886111</latitude>
+    <longitude>-68.31</longitude>
+  </city>
+  <city name="Uvkusigsat">
+    <latitude>71.05</latitude>
+    <longitude>-51.8833333</longitude>
+  </city>
+  <city name="Uvkusigssat">
+    <latitude>71.05</latitude>
+    <longitude>-51.8833333</longitude>
+  </city>
+  <city name="Vandreblokken">
+    <latitude>70.65</latitude>
+    <longitude>-24.0</longitude>
+  </city>
+  <city name="Vandreblok">
+    <latitude>70.65</latitude>
+    <longitude>-24.0</longitude>
+  </city>
+  <city name="Vester Ejland">
+    <latitude>68.6166667</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+</country>

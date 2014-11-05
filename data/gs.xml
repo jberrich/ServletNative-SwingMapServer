@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="gs" name="Géorgie du Sud et Sandwich du Sud (Îles)">
+  <city name="Grytviken">
+    <latitude>-54.2766667</latitude>
+    <longitude>-36.5116667</longitude>
+  </city>
+  <city name="Stromness">
+    <latitude>-54.1561111</latitude>
+    <longitude>-36.7161111</longitude>
+  </city>
+</country>

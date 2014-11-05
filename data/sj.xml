@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="sj" name="Svalbard et Jan Mayen (Îles)">
+  <city name="Barentsburg">
+    <latitude>78.0666667</latitude>
+    <longitude>14.2333333</longitude>
+  </city>
+  <city name="Funksjonærbyen">
+    <latitude>78.2166667</latitude>
+    <longitude>15.6333333</longitude>
+  </city>
+  <city name="Grumantbyen">
+    <latitude>78.1833333</latitude>
+    <longitude>15.1333333</longitude>
+  </city>
+  <city name="Grumant City">
+    <latitude>78.1833333</latitude>
+    <longitude>15.1333333</longitude>
+  </city>
+  <city name="Haugen">
+    <latitude>78.2166667</latitude>
+    <longitude>15.6333333</longitude>
+  </city>
+  <city name="Longyearbyen">
+    <latitude>78.2166667</latitude>
+    <longitude>15.6333333</longitude>
+  </city>
+  <city name="Longyear City">
+    <latitude>78.2166667</latitude>
+    <longitude>15.6333333</longitude>
+  </city>
+  <city name="Longyear-Tal-Stadt">
+    <latitude>78.2166667</latitude>
+    <longitude>15.6333333</longitude>
+  </city>
+  <city name="Navarhaugen">
+    <latitude>78.2166667</latitude>
+    <longitude>15.6333333</longitude>
+  </city>
+  <city name="Neu-Aalesund">
+    <latitude>78.9333333</latitude>
+    <longitude>11.95</longitude>
+  </city>
+  <city name="New Aalesund">
+    <latitude>78.9333333</latitude>
+    <longitude>11.95</longitude>
+  </city>
+  <city name="Ny-Ålesund">
+    <latitude>78.9333333</latitude>
+    <longitude>11.95</longitude>
+  </city>
+  <city name="Nybyen">
+    <latitude>78.2</latitude>
+    <longitude>15.6166667</longitude>
+  </city>
+  <city name="Østre Sverdrupbyen">
+    <latitude>78.2</latitude>
+    <longitude>15.6166667</longitude>
+  </city>
+  <city name="Sveagruvan">
+    <latitude>77.9</latitude>
+    <longitude>16.6833333</longitude>
+  </city>
+  <city name="Sveagruva">
+    <latitude>77.9</latitude>
+    <longitude>16.6833333</longitude>
+  </city>
+  <city name="Sveakaivos">
+    <latitude>77.9</latitude>
+    <longitude>16.6833333</longitude>
+  </city>
+  <city name="Svea">
+    <latitude>77.9</latitude>
+    <longitude>16.6833333</longitude>
+  </city>
+  <city name="Svenskstad">
+    <latitude>77.9</latitude>
+    <longitude>16.6833333</longitude>
+  </city>
+</country>

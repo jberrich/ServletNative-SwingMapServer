@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="sg" name="Singapour">
+  <city name="Adam Park">
+    <latitude>1.3316667</latitude>
+    <longitude>103.8122222</longitude>
+  </city>
+  <city name="Adelphi Park Estate">
+    <latitude>1.355</latitude>
+    <longitude>103.8288889</longitude>
+  </city>
+  <city name="Ah Soo Garden">
+    <latitude>1.3502778</latitude>
+    <longitude>103.9002778</longitude>
+  </city>
+  <city name="Aik Hong and Aik Chiang Estate">
+    <latitude>1.3908333</latitude>
+    <longitude>103.7286111</longitude>
+  </city>
+  <city name="Alexandra">
+    <latitude>1.2938889</latitude>
+    <longitude>103.8197222</longitude>
+  </city>
+  <city name="Alexandra Estate">
+    <latitude>1.2938889</latitude>
+    <longitude>103.8197222</longitude>
+  </city>
+  <city name="Ama Keng">
+    <latitude>1.4044444</latitude>
+    <longitude>103.7066667</longitude>
+  </city>
+  <city name="Ama Keng Village">
+    <latitude>1.4044444</latitude>
+    <longitude>103.7066667</longitude>
+  </city>
+  <city name="Ang Mo Kio">
+    <latitude>1.3691667</latitude>
+    <longitude>103.8497222</longitude>
+  </city>
+  <city name="Ang Mo Kio New Town">
+    <latitude>1.3691667</latitude>
+    <longitude>103.8497222</longitude>
+  </city>
+  <city name="Ang Mo Kio Village">
+    <latitude>1.3691667</latitude>
+    <longitude>103.8497222</longitude>
+  </city>
+  <city name="Ardmore Flats">
+    <latitude>1.3094444</latitude>
+    <longitude>103.83</longitude>
+  </city>
+  <city name="Ayer Rajah">
+    <latitude>1.305</latitude>
+    <longitude>103.7833333</longitude>
+  </city>
+  <city name="Ayer Raja New Town">
+    <latitude>1.305</latitude>
+    <longitude>103.7833333</longitude>
+  </city>
+  <city name="Bajau Estate">
+    <latitude>1.3369444</latitude>
+    <longitude>103.6633333</longitude>
+  </city>
+  <city name="Bamboo Grove Park">
+    <latitude>1.3577778</latitude>
+    <longitude>103.7577778</longitude>
+  </city>
+  <city name="Bandar Baharu Jurong">
+    <latitude>1.3341667</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Ban Guan Park">
+    <latitude>1.3236111</latitude>
+    <longitude>103.7891667</longitude>
+  </city>
+  <city name="Banta Tengeh">
+    <latitude>1.35</latitude>
+    <longitude>103.65</longitude>
+  </city>
+  <city name="Bedok">
+    <latitude>1.3225</latitude>
+    <longitude>103.9613889</longitude>
+  </city>
+  <city name="Bedok Garden">
+    <latitude>1.3227778</latitude>
+    <longitude>103.9577778</longitude>
+  </city>
+  <city name="Bedok New Town">
+    <latitude>1.3263889</latitude>
+    <longitude>103.9416667</longitude>
+  </city>
+  <city name="Bedok Village">
+    <latitude>1.3225</latitude>
+    <longitude>103.9613889</longitude>
+  </city>
+  <city name="Bedok Ville">
+    <latitude>1.3244444</latitude>
+    <longitude>103.9544444</longitude>
+  </city>
+  <city name="Bena Park">
+    <latitude>1.3516667</latitude>
+    <longitude>103.975</longitude>
+  </city>
+  <city name="Bin Tong Park">
+    <latitude>1.3205556</latitude>
+    <longitude>103.7975</longitude>
+  </city>
+  <city name="Bishan New Town">
+    <latitude>1.3463889</latitude>
+    <longitude>103.8530556</longitude>
+  </city>
+  <city name="Boon Lay">
+    <latitude>1.3333333</latitude>
+    <longitude>103.7</longitude>
+  </city>
+  <city name="Boon Lay Resettlement Area">
+    <latitude>1.3352778</latitude>
+    <longitude>103.6988889</longitude>
+  </city>
+  <city name="Braddell Heights Estate">
+    <latitude>1.3452778</latitude>
+    <longitude>103.8652778</longitude>
+  </city>
+  <city name="Brickworks Estate">
+    <latitude>1.2872222</latitude>
+    <longitude>103.8083333</longitude>
+  </city>
+  <city name="Bright Hill Crescent">
+    <latitude>1.35</latitude>
+    <longitude>103.8333333</longitude>
+  </city>
+  <city name="Brizay Park">
+    <latitude>1.3302778</latitude>
+    <longitude>103.7866667</longitude>
+  </city>
+  <city name="Bukit Batok">
+    <latitude>1.3516667</latitude>
+    <longitude>103.7627778</longitude>
+  </city>
+  <city name="Bukit Batok New Town">
+    <latitude>1.3516667</latitude>
+    <longitude>103.7627778</longitude>
+  </city>
+  <city name="Bukit Ho Swee Estate">
+    <latitude>1.2877778</latitude>
+    <longitude>103.83</longitude>
+  </city>
+  <city name="Bukit Mandai">
+    <latitude>1.4122222</latitude>
+    <longitude>103.7566667</longitude>
+  </city>
+  <city name="Bukit Mandai Village">
+    <latitude>1.4122222</latitude>
+    <longitude>103.7566667</longitude>
+  </city>
+  <city name="Bukit Merah Estate">
+    <latitude>1.2841667</latitude>
+    <longitude>103.8230556</longitude>
+  </city>
+  <city name="Bukit Panjang">
+    <latitude>1.3797222</latitude>
+    <longitude>103.7647222</longitude>
+  </city>
+  <city name="Bukit Panjang Estate">
+    <latitude>1.3816667</latitude>
+    <longitude>103.7525</longitude>
+  </city>
+  <city name="Bukit Panjang New Town">
+    <latitude>1.3797222</latitude>
+    <longitude>103.7647222</longitude>
+  </city>
+  <city name="Bukit Sembawang Estate">
+    <latitude>1.3597222</latitude>
+    <longitude>103.9702778</longitude>
+  </city>
+  <city name="Bukit Timah">
+    <latitude>1.3402778</latitude>
+    <longitude>103.7758333</longitude>
+  </city>
+  <city name="Bukit Timah Estate">
+    <latitude>1.3402778</latitude>
+    <longitude>103.7758333</longitude>
+  </city>
+  <city name="Bukit Timah Village">
+    <latitude>1.3402778</latitude>
+    <longitude>103.7758333</longitude>
+  </city>
+  <city name="Bulim">
+    <latitude>1.3744444</latitude>
+    <longitude>103.7177778</longitude>
+  </city>
+  <city name="Bulim Village">
+    <latitude>1.3744444</latitude>
+    <longitude>103.7177778</longitude>
+  </city>
+  <city name="Buona Vista">
+    <latitude>1.2805556</latitude>
+    <longitude>103.7880556</longitude>
+  </city>
+  <city name="Buona Vista Village">
+    <latitude>1.2805556</latitude>
+    <longitude>103.7880556</longitude>
+  </city>
+  <city name="Caidecutt Hill Estate">
+    <latitude>1.3366667</latitude>
+    <longitude>103.835</longitude>
+  </city>
+  <city name="Caldecott Hill Estate">
+    <latitude>1.3366667</latitude>
+    <longitude>103.835</longitude>
+  </city>
+  <city name="Camden Park">
+    <latitude>1.3277778</latitude>
+    <longitude>103.8163889</longitude>
+  </city>
+  <city name="Chai Chee Estate">
+    <latitude>1.3266667</latitude>
+    <longitude>103.9333333</longitude>
+  </city>
+  <city name="Changi">
+    <latitude>1.3416667</latitude>
+    <longitude>103.9636111</longitude>
+  </city>
+  <city name="Changi Village">
+    <latitude>1.3844444</latitude>
+    <longitude>103.9830556</longitude>
+  </city>
+  <city name="Charlton Park">
+    <latitude>1.3563889</latitude>
+    <longitude>103.9013889</longitude>
+  </city>
+  <city name="Chia Keng">
+    <latitude>1.36</latitude>
+    <longitude>103.8916667</longitude>
+  </city>
+  <city name="Chia Keng Village">
+    <latitude>1.36</latitude>
+    <longitude>103.8916667</longitude>
+  </city>
+  <city name="Chia Tong Quah Estate">
+    <latitude>1.4086111</latitude>
+    <longitude>104.0508333</longitude>
+  </city>
+  <city name="Chinese Gardens">
+    <latitude>1.3113889</latitude>
+    <longitude>103.7977778</longitude>
+  </city>
+  <city name="Chip Hock Garden">
+    <latitude>1.3202778</latitude>
+    <longitude>103.8136111</longitude>
+  </city>
+  <city name="Choa Chu Kang">
+    <latitude>1.3825</latitude>
+    <longitude>103.7497222</longitude>
+  </city>
+  <city name="Choa Chu Kang New Town">
+    <latitude>1.3825</latitude>
+    <longitude>103.7497222</longitude>
+  </city>
+  <city name="Chong Pang">
+    <latitude>1.4444444</latitude>
+    <longitude>103.8238889</longitude>
+  </city>
+  <city name="Chong Pang Village">
+    <latitude>1.4444444</latitude>
+    <longitude>103.8238889</longitude>
+  </city>
+  <city name="Chye Kay">
+    <latitude>1.4261111</latitude>
+    <longitude>103.8241667</longitude>
+  </city>
+  <city name="City West">
+    <latitude>1.3166667</latitude>
+    <longitude>103.8166667</longitude>
+  </city>
+  <city name="Clementi">
+    <latitude>1.3158333</latitude>
+    <longitude>103.7647222</longitude>
+  </city>
+  <city name="Clementi Housing Estate">
+    <latitude>1.3158333</latitude>
+    <longitude>103.7647222</longitude>
+  </city>
+  <city name="Clementi New Town">
+    <latitude>1.3158333</latitude>
+    <longitude>103.7647222</longitude>
+  </city>
+  <city name="Coronation Gardens">
+    <latitude>1.3233333</latitude>
+    <longitude>103.8036111</longitude>
+  </city>
+  <city name="Delta Estate">
+    <latitude>1.2911111</latitude>
+    <longitude>103.8294444</longitude>
+  </city>
+  <city name="Dixil">
+    <latitude>1.3972222</latitude>
+    <longitude>103.8719444</longitude>
+  </city>
+  <city name="Dragon View Park">
+    <latitude>1.2955556</latitude>
+    <longitude>103.8238889</longitude>
+  </city>
+  <city name="Dunearn Estate">
+    <latitude>1.3252778</latitude>
+    <longitude>103.8230556</longitude>
+  </city>
+  <city name="Eastern Gardens">
+    <latitude>1.3180556</latitude>
+    <longitude>103.945</longitude>
+  </city>
+  <city name="East View Garden">
+    <latitude>1.3458333</latitude>
+    <longitude>103.9652778</longitude>
+  </city>
+  <city name="Eden Hall">
+    <latitude>1.3105556</latitude>
+    <longitude>103.8219444</longitude>
+  </city>
+  <city name="Eden Park">
+    <latitude>1.3313889</latitude>
+    <longitude>103.7925</longitude>
+  </city>
+  <city name="Eng Khong Gardens">
+    <latitude>1.3361111</latitude>
+    <longitude>103.7705556</longitude>
+  </city>
+  <city name="Ewart Park">
+    <latitude>1.3247222</latitude>
+    <longitude>103.7825</longitude>
+  </city>
+  <city name="Faber Garden">
+    <latitude>1.3630556</latitude>
+    <longitude>103.8297222</longitude>
+  </city>
+  <city name="Faber Hills">
+    <latitude>1.3208333</latitude>
+    <longitude>103.7597222</longitude>
+  </city>
+  <city name="Fernhill Gardens">
+    <latitude>1.3144444</latitude>
+    <longitude>103.8222222</longitude>
+  </city>
+  <city name="Fish Farming Estate">
+    <latitude>1.3636111</latitude>
+    <longitude>103.9136111</longitude>
+  </city>
+  <city name="Frankel Estate">
+    <latitude>1.3136111</latitude>
+    <longitude>103.9294444</longitude>
+  </city>
+  <city name="Fuyong Estate">
+    <latitude>1.3594444</latitude>
+    <longitude>103.7680556</longitude>
+  </city>
+  <city name="Gay World Park">
+    <latitude>1.3111111</latitude>
+    <longitude>103.8911111</longitude>
+  </city>
+  <city name="Geylang Serai">
+    <latitude>1.32</latitude>
+    <longitude>103.91</longitude>
+  </city>
+  <city name="Geylang Serai Village">
+    <latitude>1.32</latitude>
+    <longitude>103.91</longitude>
+  </city>
+  <city name="Ghim Moh">
+    <latitude>1.3111111</latitude>
+    <longitude>103.7877778</longitude>
+  </city>
+  <city name="Goldhill Gardens">
+    <latitude>1.3222222</latitude>
+    <longitude>103.8319444</longitude>
+  </city>
+  <city name="Hai Sing Park">
+    <latitude>1.3636111</latitude>
+    <longitude>103.905</longitude>
+  </city>
+  <city name="Happy Gardens">
+    <latitude>1.3305556</latitude>
+    <longitude>103.8963889</longitude>
+  </city>
+  <city name="Havelock/Delta Estate">
+    <latitude>1.2911111</latitude>
+    <longitude>103.8294444</longitude>
+  </city>
+  <city name="Havelock Estate">
+    <latitude>1.2911111</latitude>
+    <longitude>103.8294444</longitude>
+  </city>
+  <city name="Heap Guan">
+    <latitude>1.2666667</latitude>
+    <longitude>103.8</longitude>
+  </city>
+  <city name="Heap Guan Village">
+    <latitude>1.2666667</latitude>
+    <longitude>103.8</longitude>
+  </city>
+  <city name="Henderson Estate">
+    <latitude>1.2891667</latitude>
+    <longitude>103.8233333</longitude>
+  </city>
+  <city name="Hillcrest Park">
+    <latitude>1.3347222</latitude>
+    <longitude>103.8091667</longitude>
+  </city>
+  <city name="Holland Grove Park">
+    <latitude>1.3136111</latitude>
+    <longitude>103.7802778</longitude>
+  </city>
+  <city name="Holland">
+    <latitude>1.3119444</latitude>
+    <longitude>103.7933333</longitude>
+  </city>
+  <city name="Holland Village">
+    <latitude>1.3119444</latitude>
+    <longitude>103.7933333</longitude>
+  </city>
+  <city name="Hong Kah">
+    <latitude>1.3594444</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Hong Kah Village">
+    <latitude>1.3594444</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Hong Kong Park">
+    <latitude>1.3397222</latitude>
+    <longitude>103.7855556</longitude>
+  </city>
+  <city name="Hong Leong Garden">
+    <latitude>1.3194444</latitude>
+    <longitude>103.7547222</longitude>
+  </city>
+  <city name="Hougang New Town">
+    <latitude>1.3566667</latitude>
+    <longitude>103.8908333</longitude>
+  </city>
+  <city name="Huat Choe">
+    <latitude>1.34</latitude>
+    <longitude>103.6936111</longitude>
+  </city>
+  <city name="Huat Choe Village">
+    <latitude>1.34</latitude>
+    <longitude>103.6936111</longitude>
+  </city>
+  <city name="Hume Heights">
+    <latitude>1.355</latitude>
+    <longitude>103.765</longitude>
+  </city>
+  <city name="Hun Yeang">
+    <latitude>1.3686111</latitude>
+    <longitude>103.9319444</longitude>
+  </city>
+  <city name="Hun Yeang Village">
+    <latitude>1.3686111</latitude>
+    <longitude>103.9319444</longitude>
+  </city>
+  <city name="Island View Estate">
+    <latitude>1.2947222</latitude>
+    <longitude>103.7727778</longitude>
+  </city>
+  <city name="Jalan Kayu">
+    <latitude>1.3972222</latitude>
+    <longitude>103.8719444</longitude>
+  </city>
+  <city name="Jurong East">
+    <latitude>1.3413889</latitude>
+    <longitude>103.7391667</longitude>
+  </city>
+  <city name="Jurong East New Town">
+    <latitude>1.3413889</latitude>
+    <longitude>103.7391667</longitude>
+  </city>
+  <city name="Jurong">
+    <latitude>1.3341667</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Jurong New Town">
+    <latitude>1.3341667</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Jurong Town">
+    <latitude>1.3341667</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Jurong Village">
+    <latitude>1.3341667</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Jurong West">
+    <latitude>1.3502778</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Jurong West New Town">
+    <latitude>1.3502778</latitude>
+    <longitude>103.7227778</longitude>
+  </city>
+  <city name="Kaki Bukit Estate">
+    <latitude>1.3375</latitude>
+    <longitude>103.9091667</longitude>
+  </city>
+  <city name="Kalang">
+    <latitude>1.3333333</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Kallang">
+    <latitude>1.3333333</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Kampong Amber">
+    <latitude>1.3002778</latitude>
+    <longitude>103.9116667</longitude>
+  </city>
+  <city name="Kampong Amoy Quee">
+    <latitude>1.3833333</latitude>
+    <longitude>103.85</longitude>
+  </city>
+  <city name="Kampong Ayer Bajau">
+    <latitude>1.3666667</latitude>
+    <longitude>103.65</longitude>
+  </city>
+  <city name="Kampong Ayer Gemuruh">
+    <latitude>1.35</latitude>
+    <longitude>103.9833333</longitude>
+  </city>
+  <city name="Kampong Ayer Limau">
+    <latitude>1.2833333</latitude>
+    <longitude>103.7166667</longitude>
+  </city>
+  <city name="Kampong Ayer Merbau">
+    <latitude>1.2666667</latitude>
+    <longitude>103.7166667</longitude>
+  </city>
+  <city name="Kampong Ayer Samak Darat">
+    <latitude>1.4138889</latitude>
+    <longitude>104.0722222</longitude>
+  </city>
+  <city name="Kampong Ayer Samak">
+    <latitude>1.4205556</latitude>
+    <longitude>104.0794444</longitude>
+  </city>
+  <city name="Kampong Baharu">
+    <latitude>1.2666667</latitude>
+    <longitude>103.7333333</longitude>
+  </city>
+  <city name="Kampong Bahru">
+    <latitude>1.4186111</latitude>
+    <longitude>103.9702778</longitude>
+  </city>
+  <city name="Kampong Batak">
+    <latitude>1.3438889</latitude>
+    <longitude>103.9216667</longitude>
+  </city>
+  <city name="Kampong Batu Koyok">
+    <latitude>1.3969444</latitude>
+    <longitude>104.0477778</longitude>
+  </city>
+  <city name="Kampong Belimbing">
+    <latitude>1.3711111</latitude>
+    <longitude>103.6919444</longitude>
+  </city>
+  <city name="Kampong Bereh">
+    <latitude>1.3741667</latitude>
+    <longitude>103.6844444</longitude>
+  </city>
+  <city name="Kampong Beremban">
+    <latitude>1.3813889</latitude>
+    <longitude>103.9158333</longitude>
+  </city>
+  <city name="Kampong Blukang">
+    <latitude>1.35</latitude>
+    <longitude>103.65</longitude>
+  </city>
+  <city name="Kampong Bugis">
+    <latitude>1.2166667</latitude>
+    <longitude>103.7666667</longitude>
+  </city>
+  <city name="Kampong Bukit Panjang">
+    <latitude>1.3836111</latitude>
+    <longitude>103.76</longitude>
+  </city>
+  <city name="Kampong Chai Chee">
+    <latitude>1.3333333</latitude>
+    <longitude>103.9333333</longitude>
+  </city>
+  <city name="Kampong Changi">
+    <latitude>1.3833333</latitude>
+    <longitude>104.0</longitude>
+  </city>
+  <city name="Kampong Chantek Baharu">
+    <latitude>1.35</latitude>
+    <longitude>103.7883333</longitude>
+  </city>
+  <city name="Kampong Che Jevah">
+    <latitude>1.4144444</latitude>
+    <longitude>103.9897222</longitude>
+  </city>
+  <city name="Kampong Cutforth">
+    <latitude>1.3819444</latitude>
+    <longitude>103.7363889</longitude>
+  </city>
+  <city name="Kampong Darat Nanas">
+    <latitude>1.3580556</latitude>
+    <longitude>103.9794444</longitude>
+  </city>
+  <city name="Kampong Dulah">
+    <latitude>1.3833333</latitude>
+    <longitude>103.6666667</longitude>
+  </city>
+  <city name="Kampong Eunos">
+    <latitude>1.3208333</latitude>
+    <longitude>103.9177778</longitude>
+  </city>
+  <city name="Kampong Harvey">
+    <latitude>1.3436111</latitude>
+    <longitude>103.9586111</longitude>
+  </city>
+  <city name="Kampong Hock Soon">
+    <latitude>1.3166667</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Kampong Jagoh">
+    <latitude>1.2666667</latitude>
+    <longitude>103.8166667</longitude>
+  </city>
+  <city name="Kampong Java Teban">
+    <latitude>1.3333333</latitude>
+    <longitude>103.7333333</longitude>
+  </city>
+  <city name="Kampong Jelutong">
+    <latitude>1.4011111</latitude>
+    <longitude>103.9588889</longitude>
+  </city>
+  <city name="Kampong Kebun Baharu">
+    <latitude>1.3666667</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Kampong Kembangan">
+    <latitude>1.3230556</latitude>
+    <longitude>103.9283333</longitude>
+  </city>
+  <city name="Kampong Kitin">
+    <latitude>1.435</latitude>
+    <longitude>103.8591667</longitude>
+  </city>
+  <city name="Kampong Kopit">
+    <latitude>1.2666667</latitude>
+    <longitude>103.8333333</longitude>
+  </city>
+  <city name="Kampong Kranji">
+    <latitude>1.4333333</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Kampong Kuchai">
+    <latitude>1.3166667</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Kampong Ladang">
+    <latitude>1.3333333</latitude>
+    <longitude>103.9</longitude>
+  </city>
+  <city name="Kampong Lew Lian">
+    <latitude>1.35</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Kampong Loya">
+    <latitude>1.3777778</latitude>
+    <longitude>103.9594444</longitude>
+  </city>
+  <city name="Kampong Loyang">
+    <latitude>1.3777778</latitude>
+    <longitude>103.9594444</longitude>
+  </city>
+  <city name="Kampong Mak Baok">
+    <latitude>1.2666667</latitude>
+    <longitude>103.7166667</longitude>
+  </city>
+  <city name="Kampong Malayu">
+    <latitude>1.4086111</latitude>
+    <longitude>103.9794444</longitude>
+  </city>
+  <city name="Kampong Mamam">
+    <latitude>1.4172222</latitude>
+    <longitude>103.9761111</longitude>
+  </city>
+  <city name="Kampong Mandai Kechil">
+    <latitude>1.4408333</latitude>
+    <longitude>103.7652778</longitude>
+  </city>
+  <city name="Kampong Melayu">
+    <latitude>1.4086111</latitude>
+    <longitude>103.9794444</longitude>
+  </city>
+  <city name="Kampong Noordin">
+    <latitude>1.4177778</latitude>
+    <longitude>103.965</longitude>
+  </city>
+  <city name="Kampong O'Carroll Scott">
+    <latitude>1.3</latitude>
+    <longitude>103.7833333</longitude>
+  </city>
+  <city name="Kampong Pachitan">
+    <latitude>1.3166667</latitude>
+    <longitude>103.9166667</longitude>
+  </city>
+  <city name="Kampong Padang Terbakar">
+    <latitude>1.33</latitude>
+    <longitude>103.9666667</longitude>
+  </city>
+  <city name="Kampong Pahang">
+    <latitude>1.4091667</latitude>
+    <longitude>104.0327778</longitude>
+  </city>
+  <city name="Kampong Pasir">
+    <latitude>1.4083333</latitude>
+    <longitude>104.0841667</longitude>
+  </city>
+  <city name="Kampong Pasir Merah">
+    <latitude>1.4291667</latitude>
+    <longitude>104.0469444</longitude>
+  </city>
+  <city name="Kampong Pasir Ris">
+    <latitude>1.3783333</latitude>
+    <longitude>103.9319444</longitude>
+  </city>
+  <city name="Kampong Pengkalan Kundor">
+    <latitude>1.41</latitude>
+    <longitude>103.8444444</longitude>
+  </city>
+  <city name="Kampong Pengkalan Pakau">
+    <latitude>1.4094444</latitude>
+    <longitude>104.0725</longitude>
+  </city>
+  <city name="Kampong Pengkalan Petai">
+    <latitude>1.4033333</latitude>
+    <longitude>103.85</longitude>
+  </city>
+  <city name="Kampong Perigi Piau">
+    <latitude>1.2333333</latitude>
+    <longitude>103.7666667</longitude>
+  </city>
+  <city name="Kampong Permatang">
+    <latitude>1.4241667</latitude>
+    <longitude>104.0388889</longitude>
+  </city>
+  <city name="Kampong Pesek">
+    <latitude>1.2833333</latitude>
+    <longitude>103.6833333</longitude>
+  </city>
+  <city name="Kampong Pinang">
+    <latitude>1.3811111</latitude>
+    <longitude>103.8941667</longitude>
+  </city>
+  <city name="Kampong Potong Pasir">
+    <latitude>1.3333333</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Kampong Pulau Kechil">
+    <latitude>1.2833333</latitude>
+    <longitude>103.7333333</longitude>
+  </city>
+  <city name="Kampong Pulau Ubin">
+    <latitude>1.4033333</latitude>
+    <longitude>103.9713889</longitude>
+  </city>
+  <city name="Kampong Punggol">
+    <latitude>1.4125</latitude>
+    <longitude>103.9102778</longitude>
+  </city>
+  <city name="Kampong Radin Mas">
+    <latitude>1.2738889</latitude>
+    <longitude>103.8241667</longitude>
+  </city>
+  <city name="Kampong Reteh">
+    <latitude>1.3333333</latitude>
+    <longitude>103.9</longitude>
+  </city>
+  <city name="Kampong Saigon">
+    <latitude>1.2166667</latitude>
+    <longitude>103.7666667</longitude>
+  </city>
+  <city name="Kampong Sakeng">
+    <latitude>1.2077778</latitude>
+    <longitude>103.7777778</longitude>
+  </city>
+  <city name="Kampong Salabin">
+    <latitude>1.4161111</latitude>
+    <longitude>104.0333333</longitude>
+  </city>
+  <city name="Kampong San Teng">
+    <latitude>1.3469444</latitude>
+    <longitude>103.8408333</longitude>
+  </city>
+  <city name="Kampong Sanyongkong">
+    <latitude>1.3983333</latitude>
+    <longitude>104.0577778</longitude>
+  </city>
+  <city name="Kampong Sanyonkong Parit">
+    <latitude>1.4061111</latitude>
+    <longitude>104.0658333</longitude>
+  </city>
+  <city name="Kampong Sek Lim">
+    <latitude>1.3325</latitude>
+    <longitude>103.9616667</longitude>
+  </city>
+  <city name="Kampong Seminei">
+    <latitude>1.4069444</latitude>
+    <longitude>104.0394444</longitude>
+  </city>
+  <city name="Kampong Serangoon Kechil">
+    <latitude>1.39</latitude>
+    <longitude>103.9072222</longitude>
+  </city>
+  <city name="Kampong Seraya">
+    <latitude>1.2833333</latitude>
+    <longitude>103.7333333</longitude>
+  </city>
+  <city name="Kampong Silat Estate">
+    <latitude>1.2788889</latitude>
+    <longitude>103.8263889</longitude>
+  </city>
+  <city name="Kampong Sireh">
+    <latitude>1.35</latitude>
+    <longitude>103.8833333</longitude>
+  </city>
+  <city name="Kampong Siren">
+    <latitude>1.3522222</latitude>
+    <longitude>103.8980556</longitude>
+  </city>
+  <city name="Kampong Soopoo">
+    <latitude>1.3166667</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Kampong Sudong">
+    <latitude>1.2063889</latitude>
+    <longitude>103.7286111</longitude>
+  </city>
+  <city name="Kampong Sultan">
+    <latitude>1.2833333</latitude>
+    <longitude>103.7833333</longitude>
+  </city>
+  <city name="Kampong Sungai Belang">
+    <latitude>1.4233333</latitude>
+    <longitude>104.0666667</longitude>
+  </city>
+  <city name="Kampong Sungai Blukar">
+    <latitude>1.3880556</latitude>
+    <longitude>103.9183333</longitude>
+  </city>
+  <city name="Kampong Sungai Jurong">
+    <latitude>1.3516667</latitude>
+    <longitude>103.7336111</longitude>
+  </city>
+  <city name="Kampong Sungai Pandan">
+    <latitude>1.3166667</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Kampong Sungai Tengah">
+    <latitude>1.3833333</latitude>
+    <longitude>103.9</longitude>
+  </city>
+  <city name="Kampong Sungi Pinang">
+    <latitude>1.3811111</latitude>
+    <longitude>103.8941667</longitude>
+  </city>
+  <city name="Kampong Tampines">
+    <latitude>1.37</latitude>
+    <longitude>103.9511111</longitude>
+  </city>
+  <city name="Kampong Tanah Merah">
+    <latitude>1.2625</latitude>
+    <longitude>103.7</longitude>
+  </city>
+  <city name="Kampong Tanah Merah Kechil">
+    <latitude>1.3205556</latitude>
+    <longitude>103.9555556</longitude>
+  </city>
+  <city name="Kampong Tanjong Irau">
+    <latitude>1.4566667</latitude>
+    <longitude>103.8466667</longitude>
+  </city>
+  <city name="Kampong Tanjong Penjuru">
+    <latitude>1.3</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Kampong Tanjong Penuru">
+    <latitude>1.3</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Kampong Teban">
+    <latitude>1.3786111</latitude>
+    <longitude>103.9077778</longitude>
+  </city>
+  <city name="Kampong Tebing Terjun">
+    <latitude>1.3333333</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Kampong Telok">
+    <latitude>1.3833333</latitude>
+    <longitude>103.65</longitude>
+  </city>
+  <city name="Kampong Tengah">
+    <latitude>1.3719444</latitude>
+    <longitude>103.7038889</longitude>
+  </city>
+  <city name="Kampong Todak">
+    <latitude>1.4213889</latitude>
+    <longitude>104.0216667</longitude>
+  </city>
+  <city name="Kampong Tongkang Pechah">
+    <latitude>1.39</latitude>
+    <longitude>103.8763889</longitude>
+  </city>
+  <city name="Kampong Tulloch">
+    <latitude>1.3</latitude>
+    <longitude>103.7833333</longitude>
+  </city>
+  <city name="Kampong Ubi">
+    <latitude>1.3166667</latitude>
+    <longitude>103.9</longitude>
+  </city>
+  <city name="Kampong Ulu Jurong">
+    <latitude>1.35</latitude>
+    <longitude>103.7166667</longitude>
+  </city>
+  <city name="Kampong Ulu Pandan">
+    <latitude>1.3461111</latitude>
+    <longitude>103.745</longitude>
+  </city>
+  <city name="Kampong Unam">
+    <latitude>1.4313889</latitude>
+    <longitude>104.0597222</longitude>
+  </city>
+  <city name="Kampong Unum">
+    <latitude>1.4313889</latitude>
+    <longitude>104.0597222</longitude>
+  </city>
+  <city name="Kampong Wah Tuang">
+    <latitude>1.4566667</latitude>
+    <longitude>103.8466667</longitude>
+  </city>
+  <city name="Kampong Wak Bechik">
+    <latitude>1.2833333</latitude>
+    <longitude>103.7166667</longitude>
+  </city>
+  <city name="Kampong Wak Dulah">
+    <latitude>1.3833333</latitude>
+    <longitude>103.6666667</longitude>
+  </city>
+  <city name="Kampong Wak Hassan">
+    <latitude>1.4613889</latitude>
+    <longitude>103.8363889</longitude>
+  </city>
+  <city name="Kampong Wak Sekak">
+    <latitude>1.2666667</latitude>
+    <longitude>103.7</longitude>
+  </city>
+  <city name="Kampong Wak Tanjong">
+    <latitude>1.3166667</latitude>
+    <longitude>103.9</longitude>
+  </city>
+  <city name="Kampong Wing Loong">
+    <latitude>1.35</latitude>
+    <longitude>103.9719444</longitude>
+  </city>
+  <city name="Kampong Woodleigh">
+    <latitude>1.3419444</latitude>
+    <longitude>103.8719444</longitude>
+  </city>
+  <city name="Kam Wak Hassan">
+    <latitude>1.4375</latitude>
+    <longitude>103.8305556</longitude>
+  </city>
+  <city name="Kangkar">
+    <latitude>1.3761111</latitude>
+    <longitude>103.9016667</longitude>
+  </city>
+  <city name="Keat Hong">
+    <latitude>1.3777778</latitude>
+    <longitude>103.7441667</longitude>
+  </city>
+  <city name="Keat Hong Village">
+    <latitude>1.3777778</latitude>
+    <longitude>103.7441667</longitude>
+  </city>
+  <city name="Kembangan">
+    <latitude>1.3230556</latitude>
+    <longitude>103.9283333</longitude>
+  </city>
+  <city name="Kent Ridge">
+    <latitude>1.2930556</latitude>
+    <longitude>103.7844444</longitude>
+  </city>
+  <city name="Kian Hong Estate">
+    <latitude>1.3572222</latitude>
+    <longitude>103.7261111</longitude>
+  </city>
+  <city name="Kian Teck San Estate">
+    <latitude>1.3616667</latitude>
+    <longitude>103.6652778</longitude>
+  </city>
+  <city name="Kilburn Estate">
+    <latitude>1.3402778</latitude>
+    <longitude>103.7813889</longitude>
+  </city>
+  <city name="Kim Chuan">
+    <latitude>1.3413889</latitude>
+    <longitude>103.9033333</longitude>
+  </city>
+  <city name="Kimlin Park">
+    <latitude>1.3016667</latitude>
+    <longitude>103.8269444</longitude>
+  </city>
+  <city name="King Albert Park">
+    <latitude>1.3344444</latitude>
+    <longitude>103.7797222</longitude>
+  </city>
+  <city name="Kingsmead Hall">
+    <latitude>1.3183333</latitude>
+    <longitude>103.805</longitude>
+  </city>
+  <city name="Kranji">
+    <latitude>1.4333333</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Lam Kiong Estate">
+    <latitude>1.3491667</latitude>
+    <longitude>103.6527778</longitude>
+  </city>
+  <city name="Lam San">
+    <latitude>1.3769444</latitude>
+    <longitude>103.7313889</longitude>
+  </city>
+  <city name="Lam San Village">
+    <latitude>1.3769444</latitude>
+    <longitude>103.7313889</longitude>
+  </city>
+  <city name="Leedon Park">
+    <latitude>1.3169444</latitude>
+    <longitude>103.7941667</longitude>
+  </city>
+  <city name="Lim Chu Kang Estate">
+    <latitude>1.4152778</latitude>
+    <longitude>103.6766667</longitude>
+  </city>
+  <city name="Lim Chu Kang">
+    <latitude>1.4366667</latitude>
+    <longitude>103.7094444</longitude>
+  </city>
+  <city name="Lokvang">
+    <latitude>1.33</latitude>
+    <longitude>103.6813889</longitude>
+  </city>
+  <city name="Lokyang">
+    <latitude>1.33</latitude>
+    <longitude>103.6813889</longitude>
+  </city>
+  <city name="Lokyang Village">
+    <latitude>1.33</latitude>
+    <longitude>103.6813889</longitude>
+  </city>
+  <city name="Lorong Tiga Estate">
+    <latitude>1.3166667</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Lucky Hills">
+    <latitude>1.3255556</latitude>
+    <longitude>103.9527778</longitude>
+  </city>
+  <city name="Lucky Park">
+    <latitude>1.3286111</latitude>
+    <longitude>103.7913889</longitude>
+  </city>
+  <city name="Mandai">
+    <latitude>1.4122222</latitude>
+    <longitude>103.7566667</longitude>
+  </city>
+  <city name="Mandai Road Village">
+    <latitude>1.4122222</latitude>
+    <longitude>103.7566667</longitude>
+  </city>
+  <city name="Marine Parade Estate">
+    <latitude>1.3041667</latitude>
+    <longitude>103.9247222</longitude>
+  </city>
+  <city name="Marsiling Estate">
+    <latitude>1.4297222</latitude>
+    <longitude>103.7675</longitude>
+  </city>
+  <city name="Marsiling">
+    <latitude>1.4411111</latitude>
+    <longitude>103.7708333</longitude>
+  </city>
+  <city name="Maryland Estate">
+    <latitude>1.3202778</latitude>
+    <longitude>103.7869444</longitude>
+  </city>
+  <city name="Mata Ikan">
+    <latitude>1.3361111</latitude>
+    <longitude>103.975</longitude>
+  </city>
+  <city name="Mata Ikan Village">
+    <latitude>1.3361111</latitude>
+    <longitude>103.975</longitude>
+  </city>
+  <city name="Matilda Estate">
+    <latitude>1.3994444</latitude>
+    <longitude>103.9027778</longitude>
+  </city>
+  <city name="Mayflower Estate">
+    <latitude>1.3719444</latitude>
+    <longitude>103.8394444</longitude>
+  </city>
+  <city name="McMahon Park">
+    <latitude>1.3144444</latitude>
+    <longitude>103.785</longitude>
+  </city>
+  <city name="Medway Park">
+    <latitude>1.3055556</latitude>
+    <longitude>103.7755556</longitude>
+  </city>
+  <city name="Mok Peng Hiang Estate">
+    <latitude>1.4455556</latitude>
+    <longitude>103.7969444</longitude>
+  </city>
+  <city name="Mount Emily Park">
+    <latitude>1.3047222</latitude>
+    <longitude>103.8472222</longitude>
+  </city>
+  <city name="Mount Pleasant">
+    <latitude>1.3316667</latitude>
+    <longitude>103.8327778</longitude>
+  </city>
+  <city name="Mount Rosie">
+    <latitude>1.3233333</latitude>
+    <longitude>103.8341667</longitude>
+  </city>
+  <city name="Mount Vernon">
+    <latitude>1.3358333</latitude>
+    <longitude>103.8975</longitude>
+  </city>
+  <city name="Namazie Estate">
+    <latitude>1.4219444</latitude>
+    <longitude>103.7069444</longitude>
+  </city>
+  <city name="Nee Soon Estate">
+    <latitude>1.4027778</latitude>
+    <longitude>103.8177778</longitude>
+  </city>
+  <city name="Nee Soon">
+    <latitude>1.4027778</latitude>
+    <longitude>103.8177778</longitude>
+  </city>
+  <city name="Nee Soon Village">
+    <latitude>1.4027778</latitude>
+    <longitude>103.8177778</longitude>
+  </city>
+  <city name="Nepal Park">
+    <latitude>1.3016667</latitude>
+    <longitude>103.7880556</longitude>
+  </city>
+  <city name="Ng Kay Boon Estate">
+    <latitude>1.4394444</latitude>
+    <longitude>103.7311111</longitude>
+  </city>
+  <city name="Oei Tiong Ham Park">
+    <latitude>1.3152778</latitude>
+    <longitude>103.7938889</longitude>
+  </city>
+  <city name="Old Kallang Airport Estate">
+    <latitude>1.3088889</latitude>
+    <longitude>103.9013889</longitude>
+  </city>
+  <city name="Ong Lee">
+    <latitude>1.35</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Ong Lee Village">
+    <latitude>1.35</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Opera Estate">
+    <latitude>1.3180556</latitude>
+    <longitude>103.9369444</longitude>
+  </city>
+  <city name="Outram Park">
+    <latitude>1.2825</latitude>
+    <longitude>103.8380556</longitude>
+  </city>
+  <city name="Padang Terbakar Village">
+    <latitude>1.33</latitude>
+    <longitude>103.9666667</longitude>
+  </city>
+  <city name="Pandan Valley">
+    <latitude>1.3183333</latitude>
+    <longitude>103.7758333</longitude>
+  </city>
+  <city name="Pasir Panjang">
+    <latitude>1.2927778</latitude>
+    <longitude>103.7708333</longitude>
+  </city>
+  <city name="Pasir Panjang Village">
+    <latitude>1.2927778</latitude>
+    <longitude>103.7708333</longitude>
+  </city>
+  <city name="Pasir Ris New Town">
+    <latitude>1.3722222</latitude>
+    <longitude>103.9477778</longitude>
+  </city>
+  <city name="Pasir Ris">
+    <latitude>1.3722222</latitude>
+    <longitude>103.9477778</longitude>
+  </city>
+  <city name="Pasir Ris Village">
+    <latitude>1.3722222</latitude>
+    <longitude>103.9477778</longitude>
+  </city>
+  <city name="Paya Lebar">
+    <latitude>1.3538889</latitude>
+    <longitude>103.8905556</longitude>
+  </city>
+  <city name="Peoples Garden">
+    <latitude>1.3694444</latitude>
+    <longitude>103.9047222</longitude>
+  </city>
+  <city name="People's Park">
+    <latitude>1.2844444</latitude>
+    <longitude>103.8419444</longitude>
+  </city>
+  <city name="Perseverance Estate">
+    <latitude>1.3302778</latitude>
+    <longitude>103.9113889</longitude>
+  </city>
+  <city name="Phoenix Park">
+    <latitude>1.2988889</latitude>
+    <longitude>103.8122222</longitude>
+  </city>
+  <city name="Playfair Estate">
+    <latitude>1.3333333</latitude>
+    <longitude>103.8833333</longitude>
+  </city>
+  <city name="Prince Edward Park">
+    <latitude>1.2963889</latitude>
+    <longitude>103.7736111</longitude>
+  </city>
+  <city name="Prince Edward Point">
+    <latitude>1.3</latitude>
+    <longitude>103.7666667</longitude>
+  </city>
+  <city name="Princess Elizabeth Estate">
+    <latitude>1.3622222</latitude>
+    <longitude>103.7594444</longitude>
+  </city>
+  <city name="Pulau Minyak">
+    <latitude>1.3166667</latitude>
+    <longitude>103.8666667</longitude>
+  </city>
+  <city name="Pulau Ubin">
+    <latitude>1.4033333</latitude>
+    <longitude>103.9713889</longitude>
+  </city>
+  <city name="Pulau Ubin Village">
+    <latitude>1.4033333</latitude>
+    <longitude>103.9713889</longitude>
+  </city>
+  <city name="Punggol Estate">
+    <latitude>1.3627778</latitude>
+    <longitude>103.9083333</longitude>
+  </city>
+  <city name="Punggol">
+    <latitude>1.4144444</latitude>
+    <longitude>103.9069444</longitude>
+  </city>
+  <city name="Punggol Village">
+    <latitude>1.4144444</latitude>
+    <longitude>103.9069444</longitude>
+  </city>
+  <city name="Queen Astrid Park">
+    <latitude>1.3188889</latitude>
+    <longitude>103.7908333</longitude>
+  </city>
+  <city name="Queenstown Estate">
+    <latitude>1.2941667</latitude>
+    <longitude>103.8025</longitude>
+  </city>
+  <city name="Queenstown New Town">
+    <latitude>1.2941667</latitude>
+    <longitude>103.8025</longitude>
+  </city>
+  <city name="Queenstown">
+    <latitude>1.2941667</latitude>
+    <longitude>103.8025</longitude>
+  </city>
+  <city name="Quemoy Park">
+    <latitude>1.3441667</latitude>
+    <longitude>103.8972222</longitude>
+  </city>
+  <city name="Race Course Village">
+    <latitude>1.3333333</latitude>
+    <longitude>103.8</longitude>
+  </city>
+  <city name="Radin Mas">
+    <latitude>1.2738889</latitude>
+    <longitude>103.8241667</longitude>
+  </city>
+  <city name="Raffles Park">
+    <latitude>1.3322222</latitude>
+    <longitude>103.8044444</longitude>
+  </city>
+  <city name="Raya Garden">
+    <latitude>1.3480556</latitude>
+    <longitude>103.8972222</longitude>
+  </city>
+  <city name="Rebecca Park">
+    <latitude>1.3219444</latitude>
+    <longitude>103.8008333</longitude>
+  </city>
+  <city name="Rochester Park">
+    <latitude>1.3061111</latitude>
+    <longitude>103.7866667</longitude>
+  </city>
+  <city name="Rose Garden">
+    <latitude>1.3027778</latitude>
+    <longitude>103.9147222</longitude>
+  </city>
+  <city name="Saga">
+    <latitude>1.2666667</latitude>
+    <longitude>103.8333333</longitude>
+  </city>
+  <city name="Saga Village">
+    <latitude>1.2666667</latitude>
+    <longitude>103.8333333</longitude>
+  </city>
+  <city name="Saint Michael's Estate">
+    <latitude>1.3277778</latitude>
+    <longitude>103.8608333</longitude>
+  </city>
+  <city name="Sam Heng Estate">
+    <latitude>1.4136111</latitude>
+    <longitude>103.9755556</longitude>
+  </city>
+  <city name="Sam Hin Estate">
+    <latitude>1.4136111</latitude>
+    <longitude>103.9755556</longitude>
+  </city>
+  <city name="Sarang Rimau">
+    <latitude>1.2597222</latitude>
+    <longitude>103.8088889</longitude>
+  </city>
+  <city name="Sea View Estate">
+    <latitude>1.3</latitude>
+    <longitude>103.9088889</longitude>
+  </city>
+  <city name="Seletar Hills Estate">
+    <latitude>1.3844444</latitude>
+    <longitude>103.8680556</longitude>
+  </city>
+  <city name="Seletar">
+    <latitude>1.41</latitude>
+    <longitude>103.8741667</longitude>
+  </city>
+  <city name="Sembawang Estate">
+    <latitude>1.4508333</latitude>
+    <longitude>103.8286111</longitude>
+  </city>
+  <city name="Sembawang Hills Estate">
+    <latitude>1.3727778</latitude>
+    <longitude>103.8302778</longitude>
+  </city>
+  <city name="Sembawang">
+    <latitude>1.4508333</latitude>
+    <longitude>103.8286111</longitude>
+  </city>
+  <city name="Sembawang Village">
+    <latitude>1.4508333</latitude>
+    <longitude>103.8286111</longitude>
+  </city>
+  <city name="Seminoi">
+    <latitude>1.4069444</latitude>
+    <longitude>104.0394444</longitude>
+  </city>
+  <city name="Sennett Estate">
+    <latitude>1.3319444</latitude>
+    <longitude>103.8716667</longitude>
+  </city>
+  <city name="Serangoon Garden Estate">
+    <latitude>1.3638889</latitude>
+    <longitude>103.8575</longitude>
+  </city>
+  <city name="Serangoon New Town">
+    <latitude>1.3508333</latitude>
+    <longitude>103.8708333</longitude>
+  </city>
+  <city name="Serangoon">
+    <latitude>1.3508333</latitude>
+    <longitude>103.8708333</longitude>
+  </city>
+  <city name="Serangoon Village">
+    <latitude>1.3627778</latitude>
+    <longitude>103.8975</longitude>
+  </city>
+  <city name="Shamrock Park">
+    <latitude>1.3277778</latitude>
+    <longitude>103.7969444</longitude>
+  </city>
+  <city name="Siew Lim Park">
+    <latitude>1.3280556</latitude>
+    <longitude>103.9533333</longitude>
+  </city>
+  <city name="Simei Estate">
+    <latitude>1.3411111</latitude>
+    <longitude>103.9561111</longitude>
+  </city>
+  <city name="Simei New Town">
+    <latitude>1.3411111</latitude>
+    <longitude>103.9561111</longitude>
+  </city>
+  <city name="Simei">
+    <latitude>1.3411111</latitude>
+    <longitude>103.9561111</longitude>
+  </city>
+  <city name="Simpang Bedok">
+    <latitude>1.3341667</latitude>
+    <longitude>103.9522222</longitude>
+  </city>
+  <city name="Simpang Bedok Village">
+    <latitude>1.3341667</latitude>
+    <longitude>103.9522222</longitude>
+  </city>
+  <city name="Singapore City">
+    <latitude>1.2930556</latitude>
+    <longitude>103.8558333</longitude>
+  </city>
+  <city name="Singapore">
+    <latitude>1.2930556</latitude>
+    <longitude>103.8558333</longitude>
+  </city>
+  <city name="Singapore United Plantation">
+    <latitude>1.3791667</latitude>
+    <longitude>103.8577778</longitude>
+  </city>
+  <city name="Sin Watt Estate">
+    <latitude>1.4141667</latitude>
+    <longitude>103.9505556</longitude>
+  </city>
+  <city name="Sit Estate">
+    <latitude>1.3158333</latitude>
+    <longitude>103.7647222</longitude>
+  </city>
+  <city name="Somapah Changi">
+    <latitude>1.3416667</latitude>
+    <longitude>103.9636111</longitude>
+  </city>
+  <city name="Somapah Changi Village">
+    <latitude>1.3416667</latitude>
+    <longitude>103.9636111</longitude>
+  </city>
+  <city name="Somapah Serangoon">
+    <latitude>1.3594444</latitude>
+    <longitude>103.9019444</longitude>
+  </city>
+  <city name="Somapah">
+    <latitude>1.36</latitude>
+    <longitude>103.8916667</longitude>
+  </city>
+  <city name="Sommerville Estate">
+    <latitude>1.3138889</latitude>
+    <longitude>103.8069444</longitude>
+  </city>
+  <city name="Song Hah Estate">
+    <latitude>1.3588889</latitude>
+    <longitude>103.6647222</longitude>
+  </city>
+  <city name="Soo Chow Garden">
+    <latitude>1.3533333</latitude>
+    <longitude>103.8308333</longitude>
+  </city>
+  <city name="Springleaf Park">
+    <latitude>1.3952778</latitude>
+    <longitude>103.8213889</longitude>
+  </city>
+  <city name="Spring Park Estate">
+    <latitude>1.3158333</latitude>
+    <longitude>103.9444444</longitude>
+  </city>
+  <city name="Sungai Mandai">
+    <latitude>1.4105556</latitude>
+    <longitude>103.7769444</longitude>
+  </city>
+  <city name="Sungai Mandai Village">
+    <latitude>1.4105556</latitude>
+    <longitude>103.7769444</longitude>
+  </city>
+  <city name="Sungai Simpang">
+    <latitude>1.4380556</latitude>
+    <longitude>103.8266667</longitude>
+  </city>
+  <city name="Sungai Unum Estate">
+    <latitude>1.4213889</latitude>
+    <longitude>104.0502778</longitude>
+  </city>
+  <city name="Sungei Simpang Village">
+    <latitude>1.4380556</latitude>
+    <longitude>103.8266667</longitude>
+  </city>
+  <city name="Sussex Estate">
+    <latitude>1.3088889</latitude>
+    <longitude>103.7688889</longitude>
+  </city>
+  <city name="Swiss Cottage Estate">
+    <latitude>1.32</latitude>
+    <longitude>103.8316667</longitude>
+  </city>
+  <city name="Tai Hwan Gardens">
+    <latitude>1.3552778</latitude>
+    <longitude>103.8608333</longitude>
+  </city>
+  <city name="Tai Kheng Gardens">
+    <latitude>1.3475</latitude>
+    <longitude>103.8997222</longitude>
+  </city>
+  <city name="Tai Seng">
+    <latitude>1.3361111</latitude>
+    <longitude>103.9036111</longitude>
+  </city>
+  <city name="Tampines Estate">
+    <latitude>1.3580556</latitude>
+    <longitude>103.9402778</longitude>
+  </city>
+  <city name="Tampines New Town">
+    <latitude>1.3491667</latitude>
+    <longitude>103.9497222</longitude>
+  </city>
+  <city name="Tampines">
+    <latitude>1.3491667</latitude>
+    <longitude>103.9497222</longitude>
+  </city>
+  <city name="Tanglin Halt">
+    <latitude>1.3013889</latitude>
+    <longitude>103.7975</longitude>
+  </city>
+  <city name="Tanglin Hill">
+    <latitude>1.3022222</latitude>
+    <longitude>103.8147222</longitude>
+  </city>
+  <city name="Tanglin">
+    <latitude>1.3166667</latitude>
+    <longitude>103.8166667</longitude>
+  </city>
+  <city name="Tan Hua Gek Estate">
+    <latitude>1.4091667</latitude>
+    <longitude>103.6958333</longitude>
+  </city>
+  <city name="Tanjong Pagar">
+    <latitude>1.2833333</latitude>
+    <longitude>103.8333333</longitude>
+  </city>
+  <city name="Tay Keng Loon Estate">
+    <latitude>1.4533333</latitude>
+    <longitude>103.7988889</longitude>
+  </city>
+  <city name="Teacher's Housing Estate">
+    <latitude>1.3833333</latitude>
+    <longitude>103.8286111</longitude>
+  </city>
+  <city name="Teck Chong Estate">
+    <latitude>1.4155556</latitude>
+    <longitude>103.7616667</longitude>
+  </city>
+  <city name="Teck Hock">
+    <latitude>1.3675</latitude>
+    <longitude>103.9161111</longitude>
+  </city>
+  <city name="Teck Hock Village">
+    <latitude>1.3675</latitude>
+    <longitude>103.9161111</longitude>
+  </city>
+  <city name="Telok Blangah Estate">
+    <latitude>1.2747222</latitude>
+    <longitude>103.8116667</longitude>
+  </city>
+  <city name="Telok Blangah New Town">
+    <latitude>1.2747222</latitude>
+    <longitude>103.8116667</longitude>
+  </city>
+  <city name="Telok Blanga">
+    <latitude>1.2747222</latitude>
+    <longitude>103.8116667</longitude>
+  </city>
+  <city name="Tengah">
+    <latitude>1.3719444</latitude>
+    <longitude>103.7038889</longitude>
+  </city>
+  <city name="Thomson Garden Estate">
+    <latitude>1.3536111</latitude>
+    <longitude>103.8386111</longitude>
+  </city>
+  <city name="Thomson Park">
+    <latitude>1.3572222</latitude>
+    <longitude>103.8363889</longitude>
+  </city>
+  <city name="Thomson Ridge Estate">
+    <latitude>1.3513889</latitude>
+    <longitude>103.8327778</longitude>
+  </city>
+  <city name="Thomson Rise Estate">
+    <latitude>1.3491667</latitude>
+    <longitude>103.8436111</longitude>
+  </city>
+  <city name="Thomson">
+    <latitude>1.3491667</latitude>
+    <longitude>103.8436111</longitude>
+  </city>
+  <city name="Thomson Village">
+    <latitude>1.3491667</latitude>
+    <longitude>103.8436111</longitude>
+  </city>
+  <city name="Thong Hoe">
+    <latitude>1.4180556</latitude>
+    <longitude>103.7019444</longitude>
+  </city>
+  <city name="Thong Hoe Village">
+    <latitude>1.4180556</latitude>
+    <longitude>103.7019444</longitude>
+  </city>
+  <city name="Tian Guan Estate">
+    <latitude>1.3597222</latitude>
+    <longitude>103.8261111</longitude>
+  </city>
+  <city name="Tiong Baharu">
+    <latitude>1.2833333</latitude>
+    <longitude>103.8327778</longitude>
+  </city>
+  <city name="Tiong Bahru Estate">
+    <latitude>1.2833333</latitude>
+    <longitude>103.8327778</longitude>
+  </city>
+  <city name="Tiong Guan Estate">
+    <latitude>1.3561111</latitude>
+    <longitude>103.8258333</longitude>
+  </city>
+  <city name="Toa Payoh New Town">
+    <latitude>1.3361111</latitude>
+    <longitude>103.85</longitude>
+  </city>
+  <city name="Toa Payoh">
+    <latitude>1.3361111</latitude>
+    <longitude>103.85</longitude>
+  </city>
+  <city name="Tua Kang Lye">
+    <latitude>1.3141667</latitude>
+    <longitude>103.7766667</longitude>
+  </city>
+  <city name="Tuas">
+    <latitude>1.3213889</latitude>
+    <longitude>103.6566667</longitude>
+  </city>
+  <city name="Tuas Village">
+    <latitude>1.3213889</latitude>
+    <longitude>103.6566667</longitude>
+  </city>
+  <city name="Tumasik">
+    <latitude>1.2930556</latitude>
+    <longitude>103.8558333</longitude>
+  </city>
+  <city name="Tyersall Park">
+    <latitude>1.3105556</latitude>
+    <longitude>103.8136111</longitude>
+  </city>
+  <city name="Ulu Bedok">
+    <latitude>1.3333333</latitude>
+    <longitude>103.9333333</longitude>
+  </city>
+  <city name="Ulu Bedok Village">
+    <latitude>1.3333333</latitude>
+    <longitude>103.9333333</longitude>
+  </city>
+  <city name="Victoria Park">
+    <latitude>1.3202778</latitude>
+    <longitude>103.8022222</longitude>
+  </city>
+  <city name="Watten Estate">
+    <latitude>1.3266667</latitude>
+    <longitude>103.8113889</longitude>
+  </city>
+  <city name="Watten Park">
+    <latitude>1.3330556</latitude>
+    <longitude>103.81</longitude>
+  </city>
+  <city name="Wessex Estate">
+    <latitude>1.2969444</latitude>
+    <longitude>103.7952778</longitude>
+  </city>
+  <city name="West Coast Village">
+    <latitude>1.3166667</latitude>
+    <longitude>103.75</longitude>
+  </city>
+  <city name="Windsor Park Estate">
+    <latitude>1.3569444</latitude>
+    <longitude>103.8247222</longitude>
+  </city>
+  <city name="Woodlands New Town">
+    <latitude>1.4444444</latitude>
+    <longitude>103.7766667</longitude>
+  </city>
+  <city name="Woodlands">
+    <latitude>1.4444444</latitude>
+    <longitude>103.7766667</longitude>
+  </city>
+  <city name="Woodleigh Park">
+    <latitude>1.3416667</latitude>
+    <longitude>103.8677778</longitude>
+  </city>
+  <city name="Woollerton Park">
+    <latitude>1.3161111</latitude>
+    <longitude>103.8091667</longitude>
+  </city>
+  <city name="Xilin Estate">
+    <latitude>1.3322222</latitude>
+    <longitude>103.9658333</longitude>
+  </city>
+  <city name="Yan Kit Village">
+    <latitude>1.3572222</latitude>
+    <longitude>103.9719444</longitude>
+  </city>
+  <city name="Yan Kit">
+    <latitude>1.3572222</latitude>
+    <longitude>103.9719444</longitude>
+  </city>
+  <city name="Yew Tee Village">
+    <latitude>1.3944444</latitude>
+    <longitude>103.7538889</longitude>
+  </city>
+  <city name="Yew Tee">
+    <latitude>1.3944444</latitude>
+    <longitude>103.7538889</longitude>
+  </city>
+  <city name="Yio Chu Kang Estate">
+    <latitude>1.3897222</latitude>
+    <longitude>103.8538889</longitude>
+  </city>
+  <city name="Yio Chu Kang Village">
+    <latitude>1.3911111</latitude>
+    <longitude>103.8513889</longitude>
+  </city>
+  <city name="Yio Chu Kang">
+    <latitude>1.3911111</latitude>
+    <longitude>103.8513889</longitude>
+  </city>
+  <city name="Yishun New Town">
+    <latitude>1.4333333</latitude>
+    <longitude>103.8311111</longitude>
+  </city>
+  <city name="Yishun">
+    <latitude>1.4333333</latitude>
+    <longitude>103.8311111</longitude>
+  </city>
+  <city name="York Hill Estate">
+    <latitude>1.2872222</latitude>
+    <longitude>103.8375</longitude>
+  </city>
+  <city name="Yow Toe">
+    <latitude>1.3944444</latitude>
+    <longitude>103.7538889</longitude>
+  </city>
+</country>

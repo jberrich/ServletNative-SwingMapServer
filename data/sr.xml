@@ -1,0 +1,2875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="sr" name="Suriname">
+  <city name="Abanna Kondre">
+    <latitude>5.1333333</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Abenaston">
+    <latitude>4.45</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Abendanon">
+    <latitude>4.2833333</latitude>
+    <longitude>-54.5</longitude>
+  </city>
+  <city name="Abenekokondre">
+    <latitude>5.3</latitude>
+    <longitude>-54.2333333</longitude>
+  </city>
+  <city name="Abene-oton">
+    <latitude>4.45</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Abetwakondre">
+    <latitude>3.9166667</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Abontjeman">
+    <latitude>4.8666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Acote">
+    <latitude>4.3333333</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Adawai">
+    <latitude>4.5833333</latitude>
+    <longitude>-55.1833333</longitude>
+  </city>
+  <city name="Adjama">
+    <latitude>4.8166667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Adjamoe-kondre">
+    <latitude>5.6</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Adjoemakondre">
+    <latitude>5.6</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Affifisitie">
+    <latitude>4.05</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Affivisiti">
+    <latitude>4.05</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Affivisitie">
+    <latitude>4.05</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Affobakka">
+    <latitude>5.0</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Afobaka">
+    <latitude>5.0</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Agama Kreek">
+    <latitude>5.5</latitude>
+    <longitude>-54.7</longitude>
+  </city>
+  <city name="Agamakriki">
+    <latitude>5.5</latitude>
+    <longitude>-54.7</longitude>
+  </city>
+  <city name="Agila">
+    <latitude>5.3666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Agitiondro">
+    <latitude>5.7833333</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="Agitriondre">
+    <latitude>5.7833333</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="Agossa">
+    <latitude>3.5</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Ajokojokondre">
+    <latitude>3.9166667</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Akalikondre">
+    <latitude>5.6</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Akalli Kondre">
+    <latitude>5.6</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Akoelitatajeprati">
+    <latitude>4.15</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Akoelitatojeprati">
+    <latitude>4.15</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Akote">
+    <latitude>4.3333333</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Akroikondre">
+    <latitude>5.4666667</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Alalapadu">
+    <latitude>2.5333333</latitude>
+    <longitude>-56.3333333</longitude>
+  </city>
+  <city name="Albina">
+    <latitude>5.5</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Aliance">
+    <latitude>5.9</latitude>
+    <longitude>-54.9</longitude>
+  </city>
+  <city name="Alkmaar">
+    <latitude>5.85</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Alliance">
+    <latitude>5.9</latitude>
+    <longitude>-54.9</longitude>
+  </city>
+  <city name="Aloepi 1">
+    <latitude>2.8166667</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Aloepi 2">
+    <latitude>2.8</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Aloepi">
+    <latitude>2.8166667</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Aloepi Een">
+    <latitude>2.8166667</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Aloepi Twee">
+    <latitude>2.8</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Alopi">
+    <latitude>3.25</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Alopidorp">
+    <latitude>3.25</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Americankondre">
+    <latitude>4.8333333</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="Anapaike">
+    <latitude>3.4166667</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Anapi">
+    <latitude>2.35</latitude>
+    <longitude>-56.2833333</longitude>
+  </city>
+  <city name="Aneewakampoe">
+    <latitude>3.9666667</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Aneewakondre">
+    <latitude>3.9666667</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Anna Maria">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Antongron">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Antonigron">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Apetina">
+    <latitude>3.5</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Apikalo">
+    <latitude>2.1166667</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Apikollo">
+    <latitude>2.1166667</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Apikolo">
+    <latitude>2.1166667</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Apikotto">
+    <latitude>2.1166667</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Apoekakondre">
+    <latitude>3.9</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Apoera">
+    <latitude>5.2</latitude>
+    <longitude>-57.1666667</longitude>
+  </city>
+  <city name="Apoteki">
+    <latitude>2.8833333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Apotheki">
+    <latitude>2.8833333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Apothekidorp">
+    <latitude>2.8833333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Appera">
+    <latitude>5.2</latitude>
+    <longitude>-57.1666667</longitude>
+  </city>
+  <city name="Appikalo">
+    <latitude>2.1166667</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Apura">
+    <latitude>5.2</latitude>
+    <longitude>-57.1666667</longitude>
+  </city>
+  <city name="Arakoniekondre">
+    <latitude>5.3333333</latitude>
+    <longitude>-56.4833333</longitude>
+  </city>
+  <city name="Arokonie Kondre">
+    <latitude>5.3333333</latitude>
+    <longitude>-56.4833333</longitude>
+  </city>
+  <city name="Asafiri Kondre">
+    <latitude>5.5</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Asidonhopo">
+    <latitude>4.0</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Asidonhoppo">
+    <latitude>4.0</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Asidonkondre">
+    <latitude>3.8333333</latitude>
+    <longitude>-54.85</longitude>
+  </city>
+  <city name="Asindonhopo">
+    <latitude>4.0</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Asoenoebo">
+    <latitude>4.6166667</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Asognekondre">
+    <latitude>4.2166667</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="Assidonhoppo">
+    <latitude>4.0</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Atereboto">
+    <latitude>4.45</latitude>
+    <longitude>-55.7666667</longitude>
+  </city>
+  <city name="Atipakondre">
+    <latitude>3.95</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Auca">
+    <latitude>5.35</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Aucaners">
+    <latitude>3.8</latitude>
+    <longitude>-54.85</longitude>
+  </city>
+  <city name="Aurora">
+    <latitude>4.3833333</latitude>
+    <longitude>-55.4</longitude>
+  </city>
+  <city name="Awadam">
+    <latitude>3.8333333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Awa-damkondre">
+    <latitude>3.8333333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Baikoetoe">
+    <latitude>4.5666667</latitude>
+    <longitude>-55.3</longitude>
+  </city>
+  <city name="Bajkoetoe">
+    <latitude>4.5666667</latitude>
+    <longitude>-55.3</longitude>
+  </city>
+  <city name="Bakrakondre">
+    <latitude>3.8</latitude>
+    <longitude>-55.7</longitude>
+  </city>
+  <city name="Bakra Oppestan">
+    <latitude>4.7333333</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Bakra-oppeston">
+    <latitude>4.7333333</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Bakra Opposton">
+    <latitude>4.7333333</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Bakrapranas">
+    <latitude>3.8</latitude>
+    <longitude>-55.7</longitude>
+  </city>
+  <city name="Balin">
+    <latitude>4.9333333</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Baloemadam">
+    <latitude>3.9833333</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Bamboesi">
+    <latitude>5.5333333</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Bamboesie">
+    <latitude>5.5333333</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Basiakampoe">
+    <latitude>5.65</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Batavia">
+    <latitude>5.7</latitude>
+    <longitude>-55.8666667</longitude>
+  </city>
+  <city name="Beerdoti">
+    <latitude>4.7833333</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Beerdotti">
+    <latitude>4.7833333</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Begoeba">
+    <latitude>4.3166667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Belwaarde">
+    <latitude>5.85</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Bendorp">
+    <latitude>3.6833333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Bensdorp">
+    <latitude>3.6833333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Benzdorf">
+    <latitude>3.6833333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Benzdorp">
+    <latitude>3.6833333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Berceba">
+    <latitude>5.5166667</latitude>
+    <longitude>-55.2166667</longitude>
+  </city>
+  <city name="Berendslust">
+    <latitude>5.6</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Bergendaal">
+    <latitude>5.15</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Berg en Dal">
+    <latitude>5.15</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Bergen op Zoom">
+    <latitude>5.55</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Berlijn">
+    <latitude>5.4</latitude>
+    <longitude>-55.2166667</longitude>
+  </city>
+  <city name="Bersaba">
+    <latitude>5.5166667</latitude>
+    <longitude>-55.2166667</longitude>
+  </city>
+  <city name="Bethania">
+    <latitude>5.85</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Bethesda">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Bethsebs">
+    <latitude>5.5166667</latitude>
+    <longitude>-55.2166667</longitude>
+  </city>
+  <city name="Biakronie">
+    <latitude>3.8333333</latitude>
+    <longitude>-54.85</longitude>
+  </city>
+  <city name="Bigi Poika">
+    <latitude>5.4166667</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Bigiston">
+    <latitude>5.4</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Bilawatra">
+    <latitude>4.9333333</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Bilo Langa Hoekoe">
+    <latitude>5.7666667</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Birihoedoematoe">
+    <latitude>4.9</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Birthoedoematoe">
+    <latitude>4.9</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Bitagron">
+    <latitude>5.1666667</latitude>
+    <longitude>-56.1</longitude>
+  </city>
+  <city name="Blakawabra">
+    <latitude>5.3833333</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Blakawatra">
+    <latitude>5.3833333</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Bloferie">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Bofe">
+    <latitude>5.0</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Bombay">
+    <latitude>5.8333333</latitude>
+    <longitude>-56.8166667</longitude>
+  </city>
+  <city name="Boom Jachtlust">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Boschland">
+    <latitude>5.1</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Boskamp">
+    <latitude>5.7833333</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Bosland">
+    <latitude>5.1</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Boslanti">
+    <latitude>4.3333333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Boston">
+    <latitude>5.7166667</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Botopasi">
+    <latitude>4.2333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Botopasie">
+    <latitude>4.2333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Botopassi">
+    <latitude>4.2333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Bottopass">
+    <latitude>4.2333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Bottopassi">
+    <latitude>4.2333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Bottriekoe Santi">
+    <latitude>5.0666667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Boxel">
+    <latitude>5.7166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Broederschap">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Brokolonko">
+    <latitude>5.0333333</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Brokolonko Placer">
+    <latitude>5.0333333</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Brokopondo">
+    <latitude>5.0666667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Bronsweg">
+    <latitude>5.0166667</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Brownsweg">
+    <latitude>5.0166667</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Burnside">
+    <latitude>5.9166667</latitude>
+    <longitude>-56.4</longitude>
+  </city>
+  <city name="Cajana">
+    <latitude>3.9</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Calbo">
+    <latitude>5.8</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Calcutta">
+    <latitude>5.85</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Caledonia">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.8166667</longitude>
+  </city>
+  <city name="Carel François">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.7666667</longitude>
+  </city>
+  <city name="Carl François">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.7666667</longitude>
+  </city>
+  <city name="Carolina">
+    <latitude>5.4</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Casipora">
+    <latitude>5.4</latitude>
+    <longitude>-54.9333333</longitude>
+  </city>
+  <city name="Cassabaondro">
+    <latitude>5.4833333</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Cassabeondre">
+    <latitude>5.4833333</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Cassipora">
+    <latitude>5.4</latitude>
+    <longitude>-54.9333333</longitude>
+  </city>
+  <city name="Catharina Sofia">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Catharina Sophia">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Charlotteburg">
+    <latitude>5.8666667</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Charlottenburg">
+    <latitude>5.8666667</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Chatillon">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Christiaankondre">
+    <latitude>5.7</latitude>
+    <longitude>-54.0</longitude>
+  </city>
+  <city name="Christiankondre">
+    <latitude>5.7</latitude>
+    <longitude>-54.0</longitude>
+  </city>
+  <city name="Clementi">
+    <latitude>4.1833333</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Clementie">
+    <latitude>4.1833333</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Clevia">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Commissaris Kondre">
+    <latitude>5.25</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Compagnie des Mines d'Or">
+    <latitude>3.6833333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Compagnieloo">
+    <latitude>4.1833333</latitude>
+    <longitude>-54.6</longitude>
+  </city>
+  <city name="Constancia">
+    <latitude>5.9166667</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Constantia">
+    <latitude>5.9166667</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Constantin">
+    <latitude>5.9166667</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Copaivagogo">
+    <latitude>4.6</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Copie">
+    <latitude>5.5333333</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Coppenamepunt">
+    <latitude>5.7833333</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Corneles Kondre">
+    <latitude>5.35</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Cornelis-kondre">
+    <latitude>5.35</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Corneliskondre">
+    <latitude>5.35</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Cornelius Kondre">
+    <latitude>5.35</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Corome">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.3166667</longitude>
+  </city>
+  <city name="Coronie">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.3166667</longitude>
+  </city>
+  <city name="Cottica">
+    <latitude>3.85</latitude>
+    <longitude>-54.2333333</longitude>
+  </city>
+  <city name="Cotticadorp">
+    <latitude>3.85</latitude>
+    <longitude>-54.2333333</longitude>
+  </city>
+  <city name="Crappahoek">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Cupido">
+    <latitude>5.6666667</latitude>
+    <longitude>-56.6833333</longitude>
+  </city>
+  <city name="Dablasiekondre">
+    <latitude>3.9</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Dahome">
+    <latitude>4.0333333</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Dahomey">
+    <latitude>4.0333333</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Dam">
+    <latitude>4.6666667</latitude>
+    <longitude>-54.95</longitude>
+  </city>
+  <city name="Dam Parra">
+    <latitude>5.65</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Dampoentoeng">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Dampoentong">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Dang">
+    <latitude>4.2</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Dankbaarheid">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Deboe">
+    <latitude>3.9</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Deboekondre">
+    <latitude>3.9</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="De Drie Gebroeders">
+    <latitude>5.6</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="De Goede Hoop">
+    <latitude>5.5333333</latitude>
+    <longitude>-55.95</longitude>
+  </city>
+  <city name="Dehan">
+    <latitude>3.9</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Dehankondre">
+    <latitude>3.9</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Dehau">
+    <latitude>3.9</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="De Jong Noord">
+    <latitude>5.1166667</latitude>
+    <longitude>-55.25</longitude>
+  </city>
+  <city name="De Jong Zuid">
+    <latitude>5.0833333</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Dekweh">
+    <latitude>3.9333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Dekwekondre">
+    <latitude>3.9333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Destombesburg">
+    <latitude>5.7</latitude>
+    <longitude>-54.7166667</longitude>
+  </city>
+  <city name="De Vier Hendrikken">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="De Vrede">
+    <latitude>5.45</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Dirkshoop">
+    <latitude>5.7833333</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Dissiong">
+    <latitude>4.6666667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Djoemoe">
+    <latitude>4.0166667</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Doewatta">
+    <latitude>4.55</latitude>
+    <longitude>-55.3</longitude>
+  </city>
+  <city name="Dombaai">
+    <latitude>3.9166667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Dombaaikondre">
+    <latitude>3.9166667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Domburg">
+    <latitude>5.7</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Donderkamp">
+    <latitude>5.35</latitude>
+    <longitude>-56.3666667</longitude>
+  </city>
+  <city name="Dorp Cottica">
+    <latitude>3.85</latitude>
+    <longitude>-54.2333333</longitude>
+  </city>
+  <city name="Dotti Bergi">
+    <latitude>5.05</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Draai">
+    <latitude>4.1833333</latitude>
+    <longitude>-54.5666667</longitude>
+  </city>
+  <city name="Draij">
+    <latitude>4.1833333</latitude>
+    <longitude>-54.5666667</longitude>
+  </city>
+  <city name="Drietabbetje">
+    <latitude>4.1166667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Eduardkondre">
+    <latitude>5.4666667</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Einde Rust">
+    <latitude>5.9166667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Elisabeth's Hoop">
+    <latitude>5.9</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Ephrata">
+    <latitude>5.8166667</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Ephratha">
+    <latitude>5.8166667</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Esterslust">
+    <latitude>5.5166667</latitude>
+    <longitude>-55.0166667</longitude>
+  </city>
+  <city name="Esthers Lust">
+    <latitude>5.5166667</latitude>
+    <longitude>-55.0166667</longitude>
+  </city>
+  <city name="Fijetti">
+    <latitude>4.3833333</latitude>
+    <longitude>-55.8</longitude>
+  </city>
+  <city name="Flora">
+    <latitude>5.8</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Fort Amsterdam">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Fort Neu-Amsterdam">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Fort New Amsterdam">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Fossi Bergi">
+    <latitude>5.2166667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Fossiebergi">
+    <latitude>5.2166667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Fransman Landing">
+    <latitude>5.2</latitude>
+    <longitude>-57.0666667</longitude>
+  </city>
+  <city name="Friendship">
+    <latitude>5.9</latitude>
+    <longitude>-56.3333333</longitude>
+  </city>
+  <city name="Gakaba">
+    <latitude>4.4666667</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Galibi">
+    <latitude>5.75</latitude>
+    <longitude>-54.0</longitude>
+  </city>
+  <city name="Ganiakondre">
+    <latitude>4.8333333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Gansee">
+    <latitude>4.8166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Gansé">
+    <latitude>4.8166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Geertruidenberg">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Gege">
+    <latitude>4.7</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Gelderland">
+    <latitude>5.4333333</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="George Kondre">
+    <latitude>5.6333333</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Glasgow">
+    <latitude>5.9166667</latitude>
+    <longitude>-56.9166667</longitude>
+  </city>
+  <city name="Gloria">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Godawatra">
+    <latitude>3.8833333</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Goddodrai">
+    <latitude>5.4666667</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="Goddo">
+    <latitude>4.0166667</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Goddo Watra">
+    <latitude>3.8833333</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Gododrai">
+    <latitude>5.4666667</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="Godo">
+    <latitude>4.0166667</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Godo-watradorp">
+    <latitude>3.8833333</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Godowatra">
+    <latitude>3.8833333</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Goejaba">
+    <latitude>4.3166667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Gonoe">
+    <latitude>5.1</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Granboridorp">
+    <latitude>3.8</latitude>
+    <longitude>-54.85</longitude>
+  </city>
+  <city name="Granbori">
+    <latitude>3.8</latitude>
+    <longitude>-54.85</longitude>
+  </city>
+  <city name="Gran Dahomeij">
+    <latitude>4.0333333</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Grandam">
+    <latitude>3.9666667</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Grankopie">
+    <latitude>5.3666667</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Grankopi">
+    <latitude>5.3666667</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Granmankondre">
+    <latitude>4.0</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Granpakkapakka">
+    <latitude>4.6333333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Gran Poika">
+    <latitude>5.4166667</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Gran Slee">
+    <latitude>4.0333333</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Groenkreek">
+    <latitude>5.4</latitude>
+    <longitude>-54.7333333</longitude>
+  </city>
+  <city name="Groenkr">
+    <latitude>5.4</latitude>
+    <longitude>-54.7333333</longitude>
+  </city>
+  <city name="Groningen">
+    <latitude>5.8</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Groot Chatillon en Bethesda">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Groot Chatillon">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Groot Henar">
+    <latitude>5.8666667</latitude>
+    <longitude>-56.8666667</longitude>
+  </city>
+  <city name="Groot Henarpolder">
+    <latitude>5.8666667</latitude>
+    <longitude>-56.8666667</longitude>
+  </city>
+  <city name="Groot Poika">
+    <latitude>5.4166667</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Gros">
+    <latitude>5.1</latitude>
+    <longitude>-55.25</longitude>
+  </city>
+  <city name="Gros Placer">
+    <latitude>5.1</latitude>
+    <longitude>-55.25</longitude>
+  </city>
+  <city name="Gross Placer">
+    <latitude>5.1</latitude>
+    <longitude>-55.25</longitude>
+  </city>
+  <city name="Guiana Goldplacer">
+    <latitude>5.15</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Guyanagoudplacer">
+    <latitude>5.15</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Gwegwefoetoe">
+    <latitude>5.3</latitude>
+    <longitude>-54.2333333</longitude>
+  </city>
+  <city name="Haarlem">
+    <latitude>5.65</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Hamburg">
+    <latitude>5.7833333</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Hamilton">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Hampton Court">
+    <latitude>5.9</latitude>
+    <longitude>-56.9166667</longitude>
+  </city>
+  <city name="Hannover">
+    <latitude>5.5</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Hanover">
+    <latitude>5.5</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Hecht en Sterk">
+    <latitude>5.8833333</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Hédoti">
+    <latitude>5.2333333</latitude>
+    <longitude>-56.0666667</longitude>
+  </city>
+  <city name="Heidoti">
+    <latitude>4.8666667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Hekoenoe">
+    <latitude>4.1333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Herminadorp">
+    <latitude>5.1666667</latitude>
+    <longitude>-54.35</longitude>
+  </city>
+  <city name="Herstelling">
+    <latitude>5.6166667</latitude>
+    <longitude>-54.7333333</longitude>
+  </city>
+  <city name="Hildesheim">
+    <latitude>5.85</latitude>
+    <longitude>-55.7666667</longitude>
+  </city>
+  <city name="Hoofdkamp">
+    <latitude>2.9666667</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Huwalijkszorg">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Huwelijkszorg">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Ingiekondre">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Ingikondre">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Ingipoe">
+    <latitude>5.1</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Intelewa">
+    <latitude>3.3666667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Intelwakondre">
+    <latitude>3.3666667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Jachtlust">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Jacklust">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Jacktlust">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Jacobkondre">
+    <latitude>4.95</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Jacob Kondre">
+    <latitude>4.95</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Jagtlust">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Jaimeskondre">
+    <latitude>5.35</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="James Kondre">
+    <latitude>5.35</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Janemale">
+    <latitude>3.2166667</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Java">
+    <latitude>5.4</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Jenny">
+    <latitude>5.7666667</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Joden Savanna">
+    <latitude>5.4166667</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Jodensavanne">
+    <latitude>5.4166667</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Johan en Margaretha Buitenrust">
+    <latitude>5.9</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Johan Margaretha en Buitenrust">
+    <latitude>5.9</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Johan Margaretta Buitenrust">
+    <latitude>5.9</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Johan Margaretta en Buitenrust">
+    <latitude>5.9</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Johanna-Margaretha">
+    <latitude>5.9</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Johannesburg">
+    <latitude>5.9</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Jonan en Margaretha">
+    <latitude>5.9</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Kaaimanstone">
+    <latitude>5.1</latitude>
+    <longitude>-56.0833333</longitude>
+  </city>
+  <city name="Kaaimanston">
+    <latitude>5.1</latitude>
+    <longitude>-56.0833333</longitude>
+  </city>
+  <city name="Kabelpont">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Kabelstation">
+    <latitude>4.9166667</latitude>
+    <longitude>-55.1333333</longitude>
+  </city>
+  <city name="Kadjoe">
+    <latitude>4.9166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Kalebas Kreek">
+    <latitude>5.6666667</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Kalfoekondre">
+    <latitude>5.1166667</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Kamaloea">
+    <latitude>4.2166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Kamaroa">
+    <latitude>4.2166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Kampong Baroe">
+    <latitude>5.75</latitude>
+    <longitude>-55.4</longitude>
+  </city>
+  <city name="Kapasie Kree">
+    <latitude>4.8833333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Kapasi-kondre">
+    <latitude>5.6666667</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Kapoa">
+    <latitude>4.5833333</latitude>
+    <longitude>-55.1833333</longitude>
+  </city>
+  <city name="Kapoesanti">
+    <latitude>4.4666667</latitude>
+    <longitude>-56.0666667</longitude>
+  </city>
+  <city name="Katwijk">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Kiokondre">
+    <latitude>4.2333333</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="Klaverblad">
+    <latitude>5.6666667</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Klein Chatillon">
+    <latitude>5.65</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Klein Poika (1)">
+    <latitude>5.7</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Klein Poika">
+    <latitude>5.7</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Klokondre">
+    <latitude>4.2333333</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="Koemboe">
+    <latitude>4.1333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Koembre">
+    <latitude>4.1333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Koffiekamp">
+    <latitude>4.9666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Koffikamp">
+    <latitude>4.9666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Konenburg">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Kontina">
+    <latitude>3.3833333</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Kontina Trio">
+    <latitude>3.3833333</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Kopi Ondro">
+    <latitude>5.35</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="Kopi Ondroo">
+    <latitude>5.35</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="Kraka">
+    <latitude>5.3666667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Krijorokampoe">
+    <latitude>4.2333333</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="Krikie">
+    <latitude>4.95</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Kronenburg">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Kroonenburg">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Kryoro Kampoe">
+    <latitude>4.2333333</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="Kwakoegrob">
+    <latitude>5.25</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Kwakoegron">
+    <latitude>5.25</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Kwamalasamutu">
+    <latitude>2.3333333</latitude>
+    <longitude>-56.7833333</longitude>
+  </city>
+  <city name="Kwatahede">
+    <latitude>4.8166667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Kwattahede">
+    <latitude>4.8166667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Laarwijk">
+    <latitude>5.7166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Ladoewanie">
+    <latitude>4.3833333</latitude>
+    <longitude>-55.4</longitude>
+  </city>
+  <city name="Laduani">
+    <latitude>4.3833333</latitude>
+    <longitude>-55.4</longitude>
+  </city>
+  <city name="Landsboerderij">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.2166667</longitude>
+  </city>
+  <city name="Langa Hoekoe">
+    <latitude>5.7666667</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Langamankondre">
+    <latitude>5.7166667</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="Langatabbetje">
+    <latitude>5.0</latitude>
+    <longitude>-54.5166667</longitude>
+  </city>
+  <city name="Lantiwei">
+    <latitude>5.8</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="La Poule">
+    <latitude>5.7833333</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="La Providence">
+    <latitude>5.2833333</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="La Ressource">
+    <latitude>5.9166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="La Simplicité">
+    <latitude>5.5666667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="La Siplicite">
+    <latitude>5.5666667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Leasowes">
+    <latitude>5.9166667</latitude>
+    <longitude>-56.3833333</longitude>
+  </city>
+  <city name="Leiden">
+    <latitude>5.9</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Leijden">
+    <latitude>5.9</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Leliëndaal">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Lelydorp">
+    <latitude>5.7</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Lembe">
+    <latitude>4.3666667</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Lemmiki">
+    <latitude>4.9166667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Leonsberg">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.1166667</longitude>
+  </city>
+  <city name="Levant">
+    <latitude>4.1833333</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Loksi-ati">
+    <latitude>5.15</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Loksie Hatti">
+    <latitude>5.15</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Lombee">
+    <latitude>4.8333333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Lombé">
+    <latitude>4.8333333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Maasstroom">
+    <latitude>5.9333333</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Mabo (1)">
+    <latitude>5.7333333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Mabo B">
+    <latitude>5.7166667</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Mabo Een">
+    <latitude>5.7333333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Maboga Kondre">
+    <latitude>3.4833333</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Maboga">
+    <latitude>3.4833333</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Magali">
+    <latitude>2.65</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Magdafien">
+    <latitude>3.7666667</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Magdatien">
+    <latitude>3.7666667</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Maho (1)">
+    <latitude>5.7333333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Maho B">
+    <latitude>5.7166667</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Maho">
+    <latitude>5.7333333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Mainsi">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Majoli 2">
+    <latitude>2.65</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Majoli">
+    <latitude>2.65</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Majoli Twee">
+    <latitude>2.65</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Makajapiengo">
+    <latitude>4.7166667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Makajapinggo">
+    <latitude>4.7166667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Makajapingo">
+    <latitude>4.7166667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Makami">
+    <latitude>4.9166667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Makampedorp">
+    <latitude>2.8333333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Makampee">
+    <latitude>2.8333333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Makampe">
+    <latitude>2.8333333</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Makka Krieki">
+    <latitude>5.2333333</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Makkakriki">
+    <latitude>5.2333333</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Malaitawa">
+    <latitude>3.1333333</latitude>
+    <longitude>-54.2166667</longitude>
+  </city>
+  <city name="Malobbi">
+    <latitude>4.1666667</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Malobi">
+    <latitude>4.2666667</latitude>
+    <longitude>-54.5333333</longitude>
+  </city>
+  <city name="Malrosee-Kondre">
+    <latitude>4.4166667</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Mambabasoe">
+    <latitude>4.3333333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Manchester">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Manillakondre">
+    <latitude>5.15</latitude>
+    <longitude>-54.3666667</longitude>
+  </city>
+  <city name="Manjaboomkondre">
+    <latitude>5.4833333</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Manlobbi">
+    <latitude>4.2666667</latitude>
+    <longitude>-54.5333333</longitude>
+  </city>
+  <city name="Manlobi">
+    <latitude>4.1666667</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Mansi">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Mantsjillo">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Ma Omba-kondre">
+    <latitude>5.2333333</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Maréchalkriki">
+    <latitude>4.15</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Maréchalskondre">
+    <latitude>5.2666667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Maréchalskriki">
+    <latitude>4.15</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Margrita">
+    <latitude>5.9</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Mariashoop">
+    <latitude>5.3</latitude>
+    <longitude>-54.2333333</longitude>
+  </city>
+  <city name="Marias Lust">
+    <latitude>5.6666667</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Mariënburg">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Maripaondre">
+    <latitude>4.9666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Mary's Hope">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.3</longitude>
+  </city>
+  <city name="Mason Kondre">
+    <latitude>5.5666667</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Mata">
+    <latitude>5.4666667</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Matapi">
+    <latitude>5.0</latitude>
+    <longitude>-57.2833333</longitude>
+  </city>
+  <city name="Matappi">
+    <latitude>5.0</latitude>
+    <longitude>-57.2833333</longitude>
+  </city>
+  <city name="Matawaribo">
+    <latitude>5.5333333</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Matrosee-kondree">
+    <latitude>4.4166667</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Matta">
+    <latitude>5.4666667</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Mattawaribo">
+    <latitude>5.5333333</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Mattewaribo">
+    <latitude>5.5333333</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Meerzorg">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Miranda">
+    <latitude>4.0833333</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Misalibiekondre">
+    <latitude>4.95</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Misalibi">
+    <latitude>4.95</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Moederzorg">
+    <latitude>5.25</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Moelakondre">
+    <latitude>5.5666667</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Moengoe Tapoe">
+    <latitude>5.5833333</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Moengo">
+    <latitude>5.6166667</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Moengotapoe">
+    <latitude>5.5833333</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Moetoetoetabriki">
+    <latitude>4.8333333</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Mofina">
+    <latitude>4.6666667</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Moisimoisikondre">
+    <latitude>5.3666667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Moismois Kondre">
+    <latitude>5.3666667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Mombabasoe">
+    <latitude>4.3333333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Monbabasoe">
+    <latitude>4.3333333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Monbobasoe">
+    <latitude>4.3333333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Mongotapoe">
+    <latitude>5.5833333</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Mon Plaisir">
+    <latitude>5.85</latitude>
+    <longitude>-55.1333333</longitude>
+  </city>
+  <city name="Mon Souci">
+    <latitude>5.8833333</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Mon Trésor">
+    <latitude>5.85</latitude>
+    <longitude>-55.0166667</longitude>
+  </city>
+  <city name="Mooitakie">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Mooitaki">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Moy">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.2833333</longitude>
+  </city>
+  <city name="Mungo">
+    <latitude>5.6166667</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Nason">
+    <latitude>4.8333333</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="New Nickerie">
+    <latitude>5.95</latitude>
+    <longitude>-56.9833333</longitude>
+  </city>
+  <city name="Nickerie">
+    <latitude>5.95</latitude>
+    <longitude>-56.9833333</longitude>
+  </city>
+  <city name="Nieuw Amsterdam">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Nieuw Bambeij">
+    <latitude>4.3166667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Nieuw Lombé">
+    <latitude>5.0833333</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Nieuw Meerzorg">
+    <latitude>5.9166667</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Nieuw Mocha">
+    <latitude>5.9</latitude>
+    <longitude>-54.85</longitude>
+  </city>
+  <city name="Nieuw Nickerie">
+    <latitude>5.95</latitude>
+    <longitude>-56.9833333</longitude>
+  </city>
+  <city name="Nioe-konare">
+    <latitude>4.95</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Nioe Kondre">
+    <latitude>4.95</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Njoeng Jacobkondre">
+    <latitude>4.95</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Njoeng Pelgrimkondre">
+    <latitude>5.5666667</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Njoen Jacob Kondre">
+    <latitude>4.95</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Nooitgedacht">
+    <latitude>5.85</latitude>
+    <longitude>-56.85</longitude>
+  </city>
+  <city name="Oemakondre">
+    <latitude>4.9333333</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Oeman Santie">
+    <latitude>4.1666667</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Oemansanti">
+    <latitude>4.1666667</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Onikaikondre">
+    <latitude>5.45</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Onoribo">
+    <latitude>5.5833333</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Onverdacht">
+    <latitude>5.6</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Onverwacht">
+    <latitude>5.5833333</latitude>
+    <longitude>-55.1833333</longitude>
+  </city>
+  <city name="Oplanie">
+    <latitude>5.6833333</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Oposeilangahoekoe">
+    <latitude>5.75</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Overtoom">
+    <latitude>5.5833333</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Overtoon">
+    <latitude>5.5833333</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Ovillanhollo">
+    <latitude>5.5166667</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Ovilonholloi">
+    <latitude>5.5166667</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Ovilon Hollo">
+    <latitude>5.5166667</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Oxford">
+    <latitude>5.9</latitude>
+    <longitude>-56.4166667</longitude>
+  </city>
+  <city name="Pada">
+    <latitude>4.5666667</latitude>
+    <longitude>-55.3</longitude>
+  </city>
+  <city name="Paka-Paka">
+    <latitude>4.6333333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Pakira Kondre">
+    <latitude>5.2333333</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Pakka-Pakka">
+    <latitude>4.6333333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Pananam">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Panapi">
+    <latitude>2.9666667</latitude>
+    <longitude>-54.1833333</longitude>
+  </city>
+  <city name="Papatam Kondre">
+    <latitude>5.4833333</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Paradijs">
+    <latitude>5.8</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Paradise">
+    <latitude>5.9166667</latitude>
+    <longitude>-56.9333333</longitude>
+  </city>
+  <city name="Paramaribo">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Paranam">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Passaloango">
+    <latitude>4.2166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Passaloa">
+    <latitude>4.2166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Passikondre">
+    <latitude>5.6666667</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Paubasoe">
+    <latitude>4.95</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Pauwie">
+    <latitude>4.1833333</latitude>
+    <longitude>-54.6</longitude>
+  </city>
+  <city name="Pawakka">
+    <latitude>5.45</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Pempe">
+    <latitude>4.0333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Pepejoe Dorp">
+    <latitude>3.35</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Pepejoe">
+    <latitude>3.35</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Phaedra">
+    <latitude>5.3333333</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Pheadra">
+    <latitude>5.3333333</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Phedra">
+    <latitude>5.3333333</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Pieterszorg">
+    <latitude>5.9166667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Piketie">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.6166667</longitude>
+  </city>
+  <city name="Piketi">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.6166667</longitude>
+  </city>
+  <city name="Pikienkondre">
+    <latitude>4.0833333</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Pikien Pada">
+    <latitude>4.1833333</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Pikien Santie">
+    <latitude>5.7833333</latitude>
+    <longitude>-54.3666667</longitude>
+  </city>
+  <city name="Pikien Santi">
+    <latitude>5.7833333</latitude>
+    <longitude>-54.3666667</longitude>
+  </city>
+  <city name="Pikien Slee">
+    <latitude>4.25</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Pikinkondre">
+    <latitude>4.0833333</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Pikumi">
+    <latitude>3.3833333</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Pikuni">
+    <latitude>3.3833333</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Pilgrimkondre">
+    <latitude>5.5666667</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Pinatjarimi">
+    <latitude>5.8</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Pisari">
+    <latitude>3.3166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Pisiemoengo">
+    <latitude>5.3333333</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Pisjang">
+    <latitude>4.95</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Pisoridorp">
+    <latitude>3.3166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Pisori">
+    <latitude>3.3166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Placer De Jong">
+    <latitude>5.1166667</latitude>
+    <longitude>-55.25</longitude>
+  </city>
+  <city name="Pleiké">
+    <latitude>3.1</latitude>
+    <longitude>-54.1833333</longitude>
+  </city>
+  <city name="Poeketi">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.6166667</longitude>
+  </city>
+  <city name="Poeloegoedoe">
+    <latitude>4.35</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Poelwijk">
+    <latitude>5.7833333</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Poesoegroenoe">
+    <latitude>4.3666667</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Poigrondorp">
+    <latitude>3.9</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Poigron">
+    <latitude>3.9</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Poitehede">
+    <latitude>5.4333333</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Poitehedo">
+    <latitude>5.4333333</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Poiti Hede">
+    <latitude>5.4333333</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Pokigron">
+    <latitude>4.5</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Poligoudou">
+    <latitude>4.35</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Pomona">
+    <latitude>5.9333333</latitude>
+    <longitude>-55.1333333</longitude>
+  </city>
+  <city name="Pontoetoedorp">
+    <latitude>3.2666667</latitude>
+    <longitude>-55.4</longitude>
+  </city>
+  <city name="Pontoetoe">
+    <latitude>3.2666667</latitude>
+    <longitude>-55.4</longitude>
+  </city>
+  <city name="Popakai">
+    <latitude>3.3666667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Popokai">
+    <latitude>3.3666667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Portorico">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Posoegroenoe">
+    <latitude>4.3666667</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Post Coronie">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.3166667</longitude>
+  </city>
+  <city name="Post Leiden">
+    <latitude>5.9</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Post Leijden">
+    <latitude>5.9</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Post Leyden">
+    <latitude>5.9</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Post Lookout">
+    <latitude>5.7666667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Post Mindrineti">
+    <latitude>5.25</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Post Uitkijk">
+    <latitude>5.7666667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Potribo Eb">
+    <latitude>5.75</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Potribo">
+    <latitude>5.75</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Powaka">
+    <latitude>5.45</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Powakka">
+    <latitude>5.45</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Prassara Kondre">
+    <latitude>5.6333333</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Prodobaka">
+    <latitude>4.1166667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Prodokaba">
+    <latitude>4.1166667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Rainville">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Rama">
+    <latitude>5.3166667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Reijns-dorp">
+    <latitude>5.9333333</latitude>
+    <longitude>-54.9</longitude>
+  </city>
+  <city name="Reinsdorp">
+    <latitude>5.2</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Rémontcourt">
+    <latitude>5.1666667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Replubliek">
+    <latitude>5.5</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Republiek">
+    <latitude>5.5</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Reynsdorp">
+    <latitude>5.9333333</latitude>
+    <longitude>-54.9</longitude>
+  </city>
+  <city name="Ricanau Moffo">
+    <latitude>5.6833333</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Ricanau">
+    <latitude>5.6166667</latitude>
+    <longitude>-54.3666667</longitude>
+  </city>
+  <city name="Rikanaumoffo">
+    <latitude>5.6833333</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Rikanau">
+    <latitude>5.6166667</latitude>
+    <longitude>-54.3666667</longitude>
+  </city>
+  <city name="Rorac">
+    <latitude>5.65</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Rosebel">
+    <latitude>5.0833333</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Rust en Werk">
+    <latitude>5.9166667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Sabakoe">
+    <latitude>5.4166667</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Sabana">
+    <latitude>5.4</latitude>
+    <longitude>-55.9166667</longitude>
+  </city>
+  <city name="Sabanpassie">
+    <latitude>5.2166667</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Saban Passi">
+    <latitude>5.2166667</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Sabaroe">
+    <latitude>5.25</latitude>
+    <longitude>-56.0833333</longitude>
+  </city>
+  <city name="Saje">
+    <latitude>4.1833333</latitude>
+    <longitude>-54.5666667</longitude>
+  </city>
+  <city name="Salinkondre">
+    <latitude>3.8333333</latitude>
+    <longitude>-54.8333333</longitude>
+  </city>
+  <city name="Samargini">
+    <latitude>4.7166667</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Sanbendoemie">
+    <latitude>4.1</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="Sanbindoni">
+    <latitude>4.1</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="Sangamansoesa">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.6166667</longitude>
+  </city>
+  <city name="Sangsimasoesa">
+    <latitude>4.1333333</latitude>
+    <longitude>-54.6166667</longitude>
+  </city>
+  <city name="Saniki">
+    <latitude>4.0666667</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Santigron">
+    <latitude>5.6833333</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Sapenda">
+    <latitude>5.5166667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Sapende">
+    <latitude>5.5166667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Sarah Maria">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.5166667</longitude>
+  </city>
+  <city name="Sarah">
+    <latitude>5.9</latitude>
+    <longitude>-56.3833333</longitude>
+  </city>
+  <city name="Sara Maria">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.5166667</longitude>
+  </city>
+  <city name="Saye">
+    <latitude>4.1666667</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="Seboewatra">
+    <latitude>4.1166667</latitude>
+    <longitude>-54.6333333</longitude>
+  </city>
+  <city name="Sectie Oeëst">
+    <latitude>5.3166667</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Sectie Oost">
+    <latitude>5.3166667</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Sectie O">
+    <latitude>5.3166667</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Sectie">
+    <latitude>5.3166667</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Semoisi">
+    <latitude>4.05</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Sesebiase">
+    <latitude>5.1666667</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Sidiredjo">
+    <latitude>5.85</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Sidodadi">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Sidoredjo">
+    <latitude>5.85</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Sikakamp">
+    <latitude>4.75</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Slee">
+    <latitude>4.25</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Slootwijk">
+    <latitude>5.8333333</latitude>
+    <longitude>-54.8666667</longitude>
+  </city>
+  <city name="Smalkalden">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Smithfield">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Soekibaka">
+    <latitude>4.3833333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Soekroewatra">
+    <latitude>4.75</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Solan">
+    <latitude>4.0166667</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Sola">
+    <latitude>4.0166667</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Sonnakampoe">
+    <latitude>3.9333333</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Speeringhoek">
+    <latitude>5.8666667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Spieringshoek">
+    <latitude>5.8666667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Spierinshoek">
+    <latitude>5.8666667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Stoelmanseiland">
+    <latitude>4.35</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Stoepenveer">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Stonehoekoedorp">
+    <latitude>3.8833333</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Stonehoekoe">
+    <latitude>3.8833333</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Stonhoekoe">
+    <latitude>3.8833333</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Stonkampoe">
+    <latitude>5.35</latitude>
+    <longitude>-54.6333333</longitude>
+  </city>
+  <city name="Stonkoe">
+    <latitude>4.6666667</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Storkoe">
+    <latitude>5.8833333</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Suhoza">
+    <latitude>5.3666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Suzannasdaal">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Swampoekondre">
+    <latitude>5.3333333</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Tabbetje">
+    <latitude>4.2833333</latitude>
+    <longitude>-54.5</longitude>
+  </city>
+  <city name="Tabrikiekondre">
+    <latitude>4.7666667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Tamanredjo">
+    <latitude>5.7666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Tamanridjo">
+    <latitude>5.7666667</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Tamarin">
+    <latitude>5.7833333</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Tambaredjo">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Tamparedjo">
+    <latitude>5.8333333</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Tapahoekoe">
+    <latitude>5.5333333</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Tapoeripa">
+    <latitude>5.3833333</latitude>
+    <longitude>-56.5666667</longitude>
+  </city>
+  <city name="Tapontekampoe">
+    <latitude>3.9333333</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Teomaripa">
+    <latitude>4.1166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Tiobato">
+    <latitude>4.0833333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Tioboto">
+    <latitude>4.0833333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Tipo">
+    <latitude>2.8</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Tjakkatjakka Ston">
+    <latitude>5.2</latitude>
+    <longitude>-56.1</longitude>
+  </city>
+  <city name="Toanke">
+    <latitude>3.3833333</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Todness">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.3166667</longitude>
+  </city>
+  <city name="Toeboeka">
+    <latitude>5.0</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Toekoppie">
+    <latitude>5.6333333</latitude>
+    <longitude>-54.3</longitude>
+  </city>
+  <city name="Toemaripa">
+    <latitude>4.1166667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Tojakondre">
+    <latitude>5.7666667</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Tomemoené">
+    <latitude>5.2</latitude>
+    <longitude>-55.9333333</longitude>
+  </city>
+  <city name="Tonpaikampoe">
+    <latitude>3.9333333</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Topibo">
+    <latitude>5.5666667</latitude>
+    <longitude>-55.1333333</longitude>
+  </city>
+  <city name="Totikamp">
+    <latitude>5.5666667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Totness">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.3166667</longitude>
+  </city>
+  <city name="Tottiekamp">
+    <latitude>5.5666667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Tottikamp">
+    <latitude>5.5666667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Touanke">
+    <latitude>3.3833333</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Trio">
+    <latitude>3.25</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Tulpenburg">
+    <latitude>5.5666667</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Uitkijk">
+    <latitude>5.7666667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Unverwacht">
+    <latitude>5.5833333</latitude>
+    <longitude>-55.1833333</longitude>
+  </city>
+  <city name="Utrecht">
+    <latitude>5.75</latitude>
+    <longitude>-56.6666667</longitude>
+  </city>
+  <city name="Vanderhaak">
+    <latitude>4.05</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Veer">
+    <latitude>5.8666667</latitude>
+    <longitude>-56.85</longitude>
+  </city>
+  <city name="Vertrouwen">
+    <latitude>5.8833333</latitude>
+    <longitude>-56.8833333</longitude>
+  </city>
+  <city name="Vertrouw">
+    <latitude>4.3333333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Vier Hendrikken">
+    <latitude>5.6166667</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Vier Kinderen">
+    <latitude>5.5166667</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Visiti">
+    <latitude>4.05</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Visserszorg">
+    <latitude>5.8666667</latitude>
+    <longitude>-55.0166667</longitude>
+  </city>
+  <city name="Vliet Zorg">
+    <latitude>5.85</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Voetoekaba">
+    <latitude>4.2333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Wageningen">
+    <latitude>5.7666667</latitude>
+    <longitude>-56.6833333</longitude>
+  </city>
+  <city name="Wajana's">
+    <latitude>3.5</latitude>
+    <longitude>-55.1</longitude>
+  </city>
+  <city name="Wakibassoe">
+    <latitude>4.9</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Waktibasoe">
+    <latitude>4.9</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Wan-ati">
+    <latitude>5.8</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Wanemoffe">
+    <latitude>5.5833333</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Wanhati">
+    <latitude>5.8</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Wanhatti">
+    <latitude>5.8</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Warnakomoponafaja">
+    <latitude>4.6833333</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Warnakomopponafaja">
+    <latitude>4.6833333</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Washabo">
+    <latitude>5.2166667</latitude>
+    <longitude>-57.1833333</longitude>
+  </city>
+  <city name="Wasjabo">
+    <latitude>5.2166667</latitude>
+    <longitude>-57.1833333</longitude>
+  </city>
+  <city name="Waterland">
+    <latitude>5.6833333</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Waterloo">
+    <latitude>5.9333333</latitude>
+    <longitude>-56.9833333</longitude>
+  </city>
+  <city name="Watervliet">
+    <latitude>5.5333333</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Wiesawinie">
+    <latitude>5.45</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Wijngaardekondre">
+    <latitude>5.45</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Witagron">
+    <latitude>5.1666667</latitude>
+    <longitude>-56.1</longitude>
+  </city>
+  <city name="Witkijk">
+    <latitude>5.7666667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Wittiehede Ston">
+    <latitude>4.5833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Wittikamba">
+    <latitude>4.5166667</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Wonoredjo">
+    <latitude>5.6333333</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Zanderij II">
+    <latitude>5.3333333</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Zanderij I">
+    <latitude>5.45</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Zanderij">
+    <latitude>5.3333333</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Zandery">
+    <latitude>5.45</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Zoelen">
+    <latitude>5.8833333</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Zoewatta">
+    <latitude>4.55</latitude>
+    <longitude>-55.3</longitude>
+  </city>
+  <city name="Zorg en Hoop">
+    <latitude>5.8166667</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Zorgvliet">
+    <latitude>5.85</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Zwampoekondre">
+    <latitude>5.3333333</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+</country>

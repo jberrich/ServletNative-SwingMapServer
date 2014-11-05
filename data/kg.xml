@@ -1,0 +1,5863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="kg" name="Kirghizistan">
+  <city name="Abdykalyk">
+    <latitude>41.7666667</latitude>
+    <longitude>72.05</longitude>
+  </city>
+  <city name="Acha-Kaindy">
+    <latitude>41.1422222</latitude>
+    <longitude>75.8111111</longitude>
+  </city>
+  <city name="Acha-Kayyngdy">
+    <latitude>41.1422222</latitude>
+    <longitude>75.8111111</longitude>
+  </city>
+  <city name="Achi">
+    <latitude>41.1</latitude>
+    <longitude>73.0833333</longitude>
+  </city>
+  <city name="Achiksu">
+    <latitude>39.4833333</latitude>
+    <longitude>72.4833333</longitude>
+  </city>
+  <city name="Aflatun">
+    <latitude>41.6333333</latitude>
+    <longitude>71.9333333</longitude>
+  </city>
+  <city name="Ail Batal">
+    <latitude>41.9</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Ail-Batalkan">
+    <latitude>41.9</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Ail-Batalken">
+    <latitude>41.9</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Ail-Torken">
+    <latitude>41.8833333</latitude>
+    <longitude>73.1833333</longitude>
+  </city>
+  <city name="Akarp">
+    <latitude>40.05</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Ak-Art">
+    <latitude>40.05</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Akbash">
+    <latitude>40.9833333</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Akbashim">
+    <latitude>41.4</latitude>
+    <longitude>75.4</longitude>
+  </city>
+  <city name="Ak-Bashin">
+    <latitude>42.8</latitude>
+    <longitude>75.2666667</longitude>
+  </city>
+  <city name="Akbeit">
+    <latitude>40.9</latitude>
+    <longitude>75.1333333</longitude>
+  </city>
+  <city name="Akbeshi">
+    <latitude>42.8</latitude>
+    <longitude>75.2666667</longitude>
+  </city>
+  <city name="Akbosaga">
+    <latitude>39.8</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Ak-Bosyaga">
+    <latitude>39.8</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Akbulak">
+    <latitude>41.3333333</latitude>
+    <longitude>75.35</longitude>
+  </city>
+  <city name="Ak-Bulak">
+    <latitude>40.3</latitude>
+    <longitude>72.1333333</longitude>
+  </city>
+  <city name="Ak-Bulun">
+    <latitude>41.4508333</latitude>
+    <longitude>76.2908333</longitude>
+  </city>
+  <city name="Ak-Chal">
+    <latitude>40.25</latitude>
+    <longitude>72.2833333</longitude>
+  </city>
+  <city name="Ak-Chaya">
+    <latitude>40.2333333</latitude>
+    <longitude>72.3</longitude>
+  </city>
+  <city name="Akchikarasu">
+    <latitude>41.8166667</latitude>
+    <longitude>72.9</longitude>
+  </city>
+  <city name="Akchi-Karasu">
+    <latitude>41.8294444</latitude>
+    <longitude>72.8547222</longitude>
+  </city>
+  <city name="Akchiy">
+    <latitude>41.2</latitude>
+    <longitude>74.8333333</longitude>
+  </city>
+  <city name="Ak-Chiy-Karasu">
+    <latitude>41.8166667</latitude>
+    <longitude>72.9</longitude>
+  </city>
+  <city name="Akchiy-Karasu">
+    <latitude>41.8294444</latitude>
+    <longitude>72.8547222</longitude>
+  </city>
+  <city name="Ak-Dyube">
+    <latitude>42.4666667</latitude>
+    <longitude>78.1</longitude>
+  </city>
+  <city name="Akdzhar">
+    <latitude>41.6333333</latitude>
+    <longitude>73.3166667</longitude>
+  </city>
+  <city name="Ak-Dzhar">
+    <latitude>40.8</latitude>
+    <longitude>73.45</longitude>
+  </city>
+  <city name="Ak-Dzhol">
+    <latitude>42.9383333</latitude>
+    <longitude>74.4886111</longitude>
+  </city>
+  <city name="Akelëng">
+    <latitude>42.3475</latitude>
+    <longitude>76.1625</longitude>
+  </city>
+  <city name="Akghi-Karasu">
+    <latitude>41.8294444</latitude>
+    <longitude>72.8547222</longitude>
+  </city>
+  <city name="Akhchi-Karasu">
+    <latitude>41.8294444</latitude>
+    <longitude>72.8547222</longitude>
+  </city>
+  <city name="Akhman">
+    <latitude>41.0</latitude>
+    <longitude>72.8</longitude>
+  </city>
+  <city name="Ak-Ityk">
+    <latitude>40.3166667</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Ak-Kochkor">
+    <latitude>42.4333333</latitude>
+    <longitude>78.1833333</longitude>
+  </city>
+  <city name="Ak-Kuduk">
+    <latitude>41.5</latitude>
+    <longitude>75.3333333</longitude>
+  </city>
+  <city name="Ak-Kul'">
+    <latitude>41.6833333</latitude>
+    <longitude>74.1666667</longitude>
+  </city>
+  <city name="Akkyungey">
+    <latitude>40.4833333</latitude>
+    <longitude>73.7833333</longitude>
+  </city>
+  <city name="Akkyya">
+    <latitude>41.4333333</latitude>
+    <longitude>74.8333333</longitude>
+  </city>
+  <city name="Akkzu">
+    <latitude>41.2505556</latitude>
+    <longitude>76.1355556</longitude>
+  </city>
+  <city name="Ak-Mechet'-Aral">
+    <latitude>40.8666667</latitude>
+    <longitude>72.65</longitude>
+  </city>
+  <city name="Ak-Moyun">
+    <latitude>41.2166667</latitude>
+    <longitude>76.0513889</longitude>
+  </city>
+  <city name="Ak-Muz">
+    <latitude>41.2505556</latitude>
+    <longitude>76.1355556</longitude>
+  </city>
+  <city name="Ak-Olën">
+    <latitude>42.3475</latitude>
+    <longitude>76.1625</longitude>
+  </city>
+  <city name="Ak-Ölöng">
+    <latitude>42.3475</latitude>
+    <longitude>76.1625</longitude>
+  </city>
+  <city name="Ak-Osten">
+    <latitude>42.45</latitude>
+    <longitude>78.1666667</longitude>
+  </city>
+  <city name="Ak-Say">
+    <latitude>42.1313889</latitude>
+    <longitude>76.8313889</longitude>
+  </city>
+  <city name="Ak-Shirak">
+    <latitude>42.4666667</latitude>
+    <longitude>78.2</longitude>
+  </city>
+  <city name="Akshiyrak">
+    <latitude>41.8169444</latitude>
+    <longitude>78.7147222</longitude>
+  </city>
+  <city name="Akshor">
+    <latitude>40.4666667</latitude>
+    <longitude>72.2166667</longitude>
+  </city>
+  <city name="Ak-Shyyrak">
+    <latitude>41.8169444</latitude>
+    <longitude>78.7147222</longitude>
+  </city>
+  <city name="Ak-Su">
+    <latitude>43.0166667</latitude>
+    <longitude>74.1666667</longitude>
+  </city>
+  <city name="Aksu">
+    <latitude>41.4666667</latitude>
+    <longitude>72.05</longitude>
+  </city>
+  <city name="Ak-Suu">
+    <latitude>42.8166667</latitude>
+    <longitude>74.0666667</longitude>
+  </city>
+  <city name="Aktala">
+    <latitude>41.0833333</latitude>
+    <longitude>75.6666667</longitude>
+  </city>
+  <city name="Ak-Tala">
+    <latitude>41.4094444</latitude>
+    <longitude>75.0597222</longitude>
+  </city>
+  <city name="Ak-Tal">
+    <latitude>41.4094444</latitude>
+    <longitude>75.0597222</longitude>
+  </city>
+  <city name="Aktam">
+    <latitude>41.5</latitude>
+    <longitude>71.1166667</longitude>
+  </city>
+  <city name="Ak-Tam">
+    <latitude>41.8333333</latitude>
+    <longitude>71.2</longitude>
+  </city>
+  <city name="Aktash">
+    <latitude>40.05</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Aktauk">
+    <latitude>41.2166667</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Aktëbë">
+    <latitude>42.4666667</latitude>
+    <longitude>78.1</longitude>
+  </city>
+  <city name="Ak-Terek">
+    <latitude>40.9666667</latitude>
+    <longitude>73.1666667</longitude>
+  </city>
+  <city name="Akterek">
+    <latitude>40.4</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Ak-Terek-Gave">
+    <latitude>40.4</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Aktersk">
+    <latitude>42.25</latitude>
+    <longitude>76.7166667</longitude>
+  </city>
+  <city name="Aktobe">
+    <latitude>42.4666667</latitude>
+    <longitude>78.1</longitude>
+  </city>
+  <city name="Aktuidu">
+    <latitude>41.65</latitude>
+    <longitude>72.0666667</longitude>
+  </city>
+  <city name="Ak-Turpak">
+    <latitude>40.1863889</latitude>
+    <longitude>71.0552778</longitude>
+  </city>
+  <city name="Ak-Tüz">
+    <latitude>42.8783333</latitude>
+    <longitude>76.1375</longitude>
+  </city>
+  <city name="Ak-Tyube">
+    <latitude>42.4666667</latitude>
+    <longitude>78.1</longitude>
+  </city>
+  <city name="Ak-Tyuz">
+    <latitude>42.8783333</latitude>
+    <longitude>76.1375</longitude>
+  </city>
+  <city name="Akulen">
+    <latitude>42.3475</latitude>
+    <longitude>76.1625</longitude>
+  </city>
+  <city name="Akusten">
+    <latitude>42.45</latitude>
+    <longitude>78.1666667</longitude>
+  </city>
+  <city name="Ala-Bash">
+    <latitude>42.1127778</latitude>
+    <longitude>76.4794444</longitude>
+  </city>
+  <city name="Ala-Buka">
+    <latitude>41.3833333</latitude>
+    <longitude>71.5</longitude>
+  </city>
+  <city name="Ala-Dzhida">
+    <latitude>41.8</latitude>
+    <longitude>73.1333333</longitude>
+  </city>
+  <city name="Alamedin">
+    <latitude>42.6333333</latitude>
+    <longitude>74.6166667</longitude>
+  </city>
+  <city name="Alamüdün">
+    <latitude>42.8969444</latitude>
+    <longitude>74.6347222</longitude>
+  </city>
+  <city name="Alash">
+    <latitude>41.2666667</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Alashan">
+    <latitude>40.3333333</latitude>
+    <longitude>72.35</longitude>
+  </city>
+  <city name="Alashay">
+    <latitude>40.3333333</latitude>
+    <longitude>72.35</longitude>
+  </city>
+  <city name="Alatay">
+    <latitude>41.95</latitude>
+    <longitude>72.2833333</longitude>
+  </city>
+  <city name="Aleksandrovka">
+    <latitude>42.6294444</latitude>
+    <longitude>71.5905556</longitude>
+  </city>
+  <city name="Aleksandrovskiy">
+    <latitude>42.6294444</latitude>
+    <longitude>71.5905556</longitude>
+  </city>
+  <city name="Aleksandrovskoye">
+    <latitude>42.6294444</latitude>
+    <longitude>71.5905556</longitude>
+  </city>
+  <city name="Alekseyevka">
+    <latitude>41.8</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Alekseyevskiy">
+    <latitude>41.8013889</latitude>
+    <longitude>72.8088889</longitude>
+  </city>
+  <city name="Alekseyvka">
+    <latitude>42.75</latitude>
+    <longitude>78.0</longitude>
+  </city>
+  <city name="Alga">
+    <latitude>41.6666667</latitude>
+    <longitude>72.0666667</longitude>
+  </city>
+  <city name="Alike">
+    <latitude>40.2333333</latitude>
+    <longitude>72.7833333</longitude>
+  </city>
+  <city name="Alim-Tepe">
+    <latitude>40.6158333</latitude>
+    <longitude>72.7683333</longitude>
+  </city>
+  <city name="Alkym">
+    <latitude>42.4666667</latitude>
+    <longitude>78.25</longitude>
+  </city>
+  <city name="Almalu">
+    <latitude>42.7238889</latitude>
+    <longitude>75.5113889</longitude>
+  </city>
+  <city name="Almaluu">
+    <latitude>42.7238889</latitude>
+    <longitude>75.5113889</longitude>
+  </city>
+  <city name="Altayskoye">
+    <latitude>41.3666667</latitude>
+    <longitude>73.9</longitude>
+  </city>
+  <city name="Altynarasan">
+    <latitude>42.3666667</latitude>
+    <longitude>78.6</longitude>
+  </city>
+  <city name="Altynmazar">
+    <latitude>39.1833333</latitude>
+    <longitude>72.2333333</longitude>
+  </city>
+  <city name="Alysh">
+    <latitude>41.4447222</latitude>
+    <longitude>76.1994444</longitude>
+  </city>
+  <city name="Aman-Ail">
+    <latitude>41.0333333</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Amanbayevo">
+    <latitude>42.6</latitude>
+    <longitude>71.2</longitude>
+  </city>
+  <city name="Anan'evo">
+    <latitude>42.7363889</latitude>
+    <longitude>77.6641667</longitude>
+  </city>
+  <city name="Anan'yevo">
+    <latitude>42.7363889</latitude>
+    <longitude>77.6641667</longitude>
+  </city>
+  <city name="Andarak">
+    <latitude>39.75</latitude>
+    <longitude>69.4666667</longitude>
+  </city>
+  <city name="Andarkhan">
+    <latitude>40.0</latitude>
+    <longitude>69.85</longitude>
+  </city>
+  <city name="Arab">
+    <latitude>41.5833333</latitude>
+    <longitude>70.3166667</longitude>
+  </city>
+  <city name="Aral">
+    <latitude>42.9</latitude>
+    <longitude>74.2666667</longitude>
+  </city>
+  <city name="Aral-Vakhym">
+    <latitude>41.0166667</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Aravan">
+    <latitude>40.515</latitude>
+    <longitude>72.4991667</longitude>
+  </city>
+  <city name="Arek">
+    <latitude>40.4916667</latitude>
+    <longitude>72.7372222</longitude>
+  </city>
+  <city name="Arimdzhan">
+    <latitude>41.0333333</latitude>
+    <longitude>72.5666667</longitude>
+  </city>
+  <city name="Arkhangel'skiy">
+    <latitude>41.1666667</latitude>
+    <longitude>73.3333333</longitude>
+  </city>
+  <city name="Arkhangel'skoye">
+    <latitude>41.1666667</latitude>
+    <longitude>73.3333333</longitude>
+  </city>
+  <city name="Arkit">
+    <latitude>41.8</latitude>
+    <longitude>71.95</longitude>
+  </city>
+  <city name="Arpa">
+    <latitude>40.75</latitude>
+    <longitude>74.75</longitude>
+  </city>
+  <city name="Arpatektir">
+    <latitude>40.3666667</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Arslanbab">
+    <latitude>41.3333333</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Arslanbob">
+    <latitude>41.3333333</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Aryslanbob">
+    <latitude>41.3333333</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Askaly">
+    <latitude>40.0833333</latitude>
+    <longitude>73.5833333</longitude>
+  </city>
+  <city name="Aslam">
+    <latitude>41.4333333</latitude>
+    <longitude>74.15</longitude>
+  </city>
+  <city name="Atay">
+    <latitude>41.3666667</latitude>
+    <longitude>73.9</longitude>
+  </city>
+  <city name="At-Bashi">
+    <latitude>41.1697222</latitude>
+    <longitude>75.8102778</longitude>
+  </city>
+  <city name="At-Bashy">
+    <latitude>41.1697222</latitude>
+    <longitude>75.8102778</longitude>
+  </city>
+  <city name="Augul">
+    <latitude>39.8</latitude>
+    <longitude>71.0333333</longitude>
+  </city>
+  <city name="Auliye">
+    <latitude>40.2</latitude>
+    <longitude>72.2166667</longitude>
+  </city>
+  <city name="Aul Pyatyy">
+    <latitude>42.4166667</latitude>
+    <longitude>73.0</longitude>
+  </city>
+  <city name="Austan">
+    <latitude>40.0166667</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Avgandala">
+    <latitude>41.2833333</latitude>
+    <longitude>73.0333333</longitude>
+  </city>
+  <city name="Aygyr-Dzhal">
+    <latitude>41.7333333</latitude>
+    <longitude>70.9833333</longitude>
+  </city>
+  <city name="Ayratam">
+    <latitude>41.1166667</latitude>
+    <longitude>71.4166667</longitude>
+  </city>
+  <city name="Ayrytam">
+    <latitude>41.1166667</latitude>
+    <longitude>71.4166667</longitude>
+  </city>
+  <city name="Baetov">
+    <latitude>41.2166667</latitude>
+    <longitude>74.9</longitude>
+  </city>
+  <city name="Baglan">
+    <latitude>40.2333333</latitude>
+    <longitude>72.2</longitude>
+  </city>
+  <city name="Bagösh">
+    <latitude>41.9833333</latitude>
+    <longitude>74.9666667</longitude>
+  </city>
+  <city name="Bagysh">
+    <latitude>41.0166667</latitude>
+    <longitude>73.0833333</longitude>
+  </city>
+  <city name="Balykchy">
+    <latitude>42.4611111</latitude>
+    <longitude>76.1802778</longitude>
+  </city>
+  <city name="Balykty">
+    <latitude>41.9833333</latitude>
+    <longitude>72.5833333</longitude>
+  </city>
+  <city name="Bar-Bulak">
+    <latitude>42.2455556</latitude>
+    <longitude>76.575</longitude>
+  </city>
+  <city name="Bardu">
+    <latitude>40.3833333</latitude>
+    <longitude>73.25</longitude>
+  </city>
+  <city name="Barskaun">
+    <latitude>42.1561111</latitude>
+    <longitude>77.6038889</longitude>
+  </city>
+  <city name="Barskon">
+    <latitude>42.1561111</latitude>
+    <longitude>77.6038889</longitude>
+  </city>
+  <city name="Barskoon">
+    <latitude>42.1561111</latitude>
+    <longitude>77.6038889</longitude>
+  </city>
+  <city name="Basbeshik">
+    <latitude>42.4333333</latitude>
+    <longitude>77.9472222</longitude>
+  </city>
+  <city name="Bash-Bulak">
+    <latitude>40.5122222</latitude>
+    <longitude>72.9658333</longitude>
+  </city>
+  <city name="Bash-Kaindy">
+    <latitude>41.1536111</latitude>
+    <longitude>75.9025</longitude>
+  </city>
+  <city name="Bash-Karakain">
+    <latitude>41.0166667</latitude>
+    <longitude>75.4833333</longitude>
+  </city>
+  <city name="Bash-Kayyngdy">
+    <latitude>41.1536111</latitude>
+    <longitude>75.9025</longitude>
+  </city>
+  <city name="Bashkugandy">
+    <latitude>42.0166667</latitude>
+    <longitude>74.15</longitude>
+  </city>
+  <city name="Baskyya">
+    <latitude>41.5</latitude>
+    <longitude>75.8166667</longitude>
+  </city>
+  <city name="Basteri">
+    <latitude>42.6530556</latitude>
+    <longitude>77.185</longitude>
+  </city>
+  <city name="Basterinovka">
+    <latitude>42.6530556</latitude>
+    <longitude>77.185</longitude>
+  </city>
+  <city name="Batkan-Buzhum">
+    <latitude>40.0166667</latitude>
+    <longitude>70.8333333</longitude>
+  </city>
+  <city name="Batken">
+    <latitude>40.05</latitude>
+    <longitude>70.8333333</longitude>
+  </city>
+  <city name="Bayastan">
+    <latitude>41.3333333</latitude>
+    <longitude>71.6</longitude>
+  </city>
+  <city name="Baybiche">
+    <latitude>41.4333333</latitude>
+    <longitude>75.0333333</longitude>
+  </city>
+  <city name="Baybini">
+    <latitude>40.8333333</latitude>
+    <longitude>73.9666667</longitude>
+  </city>
+  <city name="Bayetovo">
+    <latitude>41.2166667</latitude>
+    <longitude>74.9</longitude>
+  </city>
+  <city name="Baygonchak">
+    <latitude>41.3666667</latitude>
+    <longitude>74.9166667</longitude>
+  </city>
+  <city name="Baygonchok">
+    <latitude>41.3666667</latitude>
+    <longitude>74.9166667</longitude>
+  </city>
+  <city name="Baymam-Bet">
+    <latitude>40.8833333</latitude>
+    <longitude>73.6666667</longitude>
+  </city>
+  <city name="Bayman-Bet">
+    <latitude>40.8833333</latitude>
+    <longitude>73.6666667</longitude>
+  </city>
+  <city name="Baytant">
+    <latitude>40.3</latitude>
+    <longitude>72.1333333</longitude>
+  </city>
+  <city name="Baytyk">
+    <latitude>42.7333333</latitude>
+    <longitude>74.5</longitude>
+  </city>
+  <city name="Bazar">
+    <latitude>41.0333333</latitude>
+    <longitude>72.75</longitude>
+  </city>
+  <city name="Bazar-Kurgan">
+    <latitude>41.0333333</latitude>
+    <longitude>72.75</longitude>
+  </city>
+  <city name="Bedachi">
+    <latitude>42.8166667</latitude>
+    <longitude>74.0666667</longitude>
+  </city>
+  <city name="Begovat">
+    <latitude>40.8666667</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Bek-Dzhar">
+    <latitude>40.3666667</latitude>
+    <longitude>73.0666667</longitude>
+  </city>
+  <city name="Bel'aldy">
+    <latitude>41.9166667</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Bel'">
+    <latitude>40.2833333</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Bel'- Kyshtak">
+    <latitude>40.5602778</latitude>
+    <longitude>72.6811111</longitude>
+  </city>
+  <city name="Belogorka">
+    <latitude>42.6833333</latitude>
+    <longitude>74.2333333</longitude>
+  </city>
+  <city name="Belogorskoye">
+    <latitude>42.6833333</latitude>
+    <longitude>74.2333333</longitude>
+  </city>
+  <city name="Belovodskoye">
+    <latitude>42.8333333</latitude>
+    <longitude>74.1</longitude>
+  </city>
+  <city name="Bel'uryuk">
+    <latitude>40.2833333</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Belyy Piket">
+    <latitude>42.8166667</latitude>
+    <longitude>75.6333333</longitude>
+  </city>
+  <city name="Bereynok">
+    <latitude>41.9666667</latitude>
+    <longitude>72.2833333</longitude>
+  </city>
+  <city name="Bëryu">
+    <latitude>40.3391667</latitude>
+    <longitude>72.9705556</longitude>
+  </city>
+  <city name="Besharal">
+    <latitude>41.7</latitude>
+    <longitude>70.5166667</longitude>
+  </city>
+  <city name="Besh-Aryk">
+    <latitude>41.4666667</latitude>
+    <longitude>72.1333333</longitude>
+  </city>
+  <city name="Beshbadam">
+    <latitude>41.15</latitude>
+    <longitude>72.8666667</longitude>
+  </city>
+  <city name="Beshbadom">
+    <latitude>41.2166667</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Beshburkhan">
+    <latitude>40.1833333</latitude>
+    <longitude>72.2666667</longitude>
+  </city>
+  <city name="Besheke">
+    <latitude>42.6166667</latitude>
+    <longitude>71.65</longitude>
+  </city>
+  <city name="Beshkaram">
+    <latitude>40.7166667</latitude>
+    <longitude>72.35</longitude>
+  </city>
+  <city name="Beshkent">
+    <latitude>40.0308333</latitude>
+    <longitude>69.8186111</longitude>
+  </city>
+  <city name="Beshtash">
+    <latitude>41.9833333</latitude>
+    <longitude>72.4833333</longitude>
+  </city>
+  <city name="Birikken">
+    <latitude>42.7166667</latitude>
+    <longitude>75.1666667</longitude>
+  </city>
+  <city name="Birinchi May">
+    <latitude>41.1761111</latitude>
+    <longitude>76.0538889</longitude>
+  </city>
+  <city name="Birlik">
+    <latitude>41.2075</latitude>
+    <longitude>75.9413889</longitude>
+  </city>
+  <city name="Bish-Agach">
+    <latitude>41.05</latitude>
+    <longitude>72.6166667</longitude>
+  </city>
+  <city name="Bishkek">
+    <latitude>42.8730556</latitude>
+    <longitude>74.6002778</longitude>
+  </city>
+  <city name="Blagoveshchenka">
+    <latitude>40.9833333</latitude>
+    <longitude>72.95</longitude>
+  </city>
+  <city name="Blagoveshchenskoye">
+    <latitude>40.9833333</latitude>
+    <longitude>72.95</longitude>
+  </city>
+  <city name="Bodzhoy">
+    <latitude>40.0166667</latitude>
+    <longitude>71.2166667</longitude>
+  </city>
+  <city name="Bogatörovka">
+    <latitude>42.5333333</latitude>
+    <longitude>78.1333333</longitude>
+  </city>
+  <city name="Bogatyrevka">
+    <latitude>42.5333333</latitude>
+    <longitude>78.1333333</longitude>
+  </city>
+  <city name="Bogatyrovka">
+    <latitude>42.5333333</latitude>
+    <longitude>78.1333333</longitude>
+  </city>
+  <city name="Bokombayevskoye">
+    <latitude>42.1152778</latitude>
+    <longitude>76.9933333</longitude>
+  </city>
+  <city name="Bökönbaev">
+    <latitude>42.1152778</latitude>
+    <longitude>76.9933333</longitude>
+  </city>
+  <city name="Bokonbayevo">
+    <latitude>42.1152778</latitude>
+    <longitude>76.9933333</longitude>
+  </city>
+  <city name="Bokonbayevskoye">
+    <latitude>42.1152778</latitude>
+    <longitude>76.9933333</longitude>
+  </city>
+  <city name="Bol'shevik">
+    <latitude>42.1769444</latitude>
+    <longitude>75.7727778</longitude>
+  </city>
+  <city name="Bordaba">
+    <latitude>39.5166667</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Bor-Doba">
+    <latitude>39.5166667</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Bordunskiy">
+    <latitude>42.65</latitude>
+    <longitude>75.6166667</longitude>
+  </city>
+  <city name="Boroldoy">
+    <latitude>42.79</latitude>
+    <longitude>75.8580556</longitude>
+  </city>
+  <city name="Börü">
+    <latitude>40.3391667</latitude>
+    <longitude>72.9705556</longitude>
+  </city>
+  <city name="Bos-Beshik">
+    <latitude>42.4333333</latitude>
+    <longitude>77.9472222</longitude>
+  </city>
+  <city name="Boskorgon">
+    <latitude>40.3333333</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Bosteri">
+    <latitude>42.6530556</latitude>
+    <longitude>77.185</longitude>
+  </city>
+  <city name="Bosterinovka">
+    <latitude>42.6530556</latitude>
+    <longitude>77.185</longitude>
+  </city>
+  <city name="Bostrorechenskoye">
+    <latitude>42.7852778</latitude>
+    <longitude>75.6911111</longitude>
+  </city>
+  <city name="Boz-Beshik">
+    <latitude>42.4333333</latitude>
+    <longitude>77.9472222</longitude>
+  </city>
+  <city name="Bozterinovka">
+    <latitude>42.6530556</latitude>
+    <longitude>77.185</longitude>
+  </city>
+  <city name="Budënnyy">
+    <latitude>42.5</latitude>
+    <longitude>72.5833333</longitude>
+  </city>
+  <city name="Budyonnöy">
+    <latitude>42.5</latitude>
+    <longitude>72.5833333</longitude>
+  </city>
+  <city name="Bulakbashi">
+    <latitude>39.8833333</latitude>
+    <longitude>70.75</longitude>
+  </city>
+  <city name="Bulak">
+    <latitude>40.6666667</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Bulat">
+    <latitude>40.6666667</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Buma">
+    <latitude>41.6166667</latitude>
+    <longitude>71.8</longitude>
+  </city>
+  <city name="Bura-chatö">
+    <latitude>40.3666667</latitude>
+    <longitude>74.2</longitude>
+  </city>
+  <city name="Bura-Chaty">
+    <latitude>40.3666667</latitude>
+    <longitude>74.2</longitude>
+  </city>
+  <city name="Burana">
+    <latitude>42.7333333</latitude>
+    <longitude>75.3333333</longitude>
+  </city>
+  <city name="Burbash">
+    <latitude>40.2666667</latitude>
+    <longitude>72.3666667</longitude>
+  </city>
+  <city name="Burdalyk">
+    <latitude>40.3</latitude>
+    <longitude>73.55</longitude>
+  </city>
+  <city name="Burgandy">
+    <latitude>41.25</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Burlykiya">
+    <latitude>41.9333333</latitude>
+    <longitude>73.3666667</longitude>
+  </city>
+  <city name="Burlyu-Bash">
+    <latitude>42.5333333</latitude>
+    <longitude>78.3333333</longitude>
+  </city>
+  <city name="Burulday">
+    <latitude>42.79</latitude>
+    <longitude>75.8580556</longitude>
+  </city>
+  <city name="Buzhum">
+    <latitude>40.0166667</latitude>
+    <longitude>70.8333333</longitude>
+  </city>
+  <city name="Bystrorechenskoye">
+    <latitude>42.7852778</latitude>
+    <longitude>75.6911111</longitude>
+  </city>
+  <city name="Bystrovka">
+    <latitude>42.7852778</latitude>
+    <longitude>75.6911111</longitude>
+  </city>
+  <city name="Byul'kul'dek">
+    <latitude>42.45</latitude>
+    <longitude>72.2666667</longitude>
+  </city>
+  <city name="Camp Snerif">
+    <latitude>40.55</latitude>
+    <longitude>74.4166667</longitude>
+  </city>
+  <city name="Chaek">
+    <latitude>41.9338889</latitude>
+    <longitude>74.5183333</longitude>
+  </city>
+  <city name="Chagym">
+    <latitude>41.0666667</latitude>
+    <longitude>72.5833333</longitude>
+  </city>
+  <city name="Chagyr">
+    <latitude>39.8666667</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Chakan">
+    <latitude>40.9833333</latitude>
+    <longitude>72.75</longitude>
+  </city>
+  <city name="Chak">
+    <latitude>39.5666667</latitude>
+    <longitude>72.1166667</longitude>
+  </city>
+  <city name="Chakir">
+    <latitude>40.2</latitude>
+    <longitude>74.3833333</longitude>
+  </city>
+  <city name="Chalakazaki">
+    <latitude>42.8333333</latitude>
+    <longitude>74.5</longitude>
+  </city>
+  <city name="Chaldavar">
+    <latitude>42.8333333</latitude>
+    <longitude>73.5333333</longitude>
+  </city>
+  <city name="Chaldovar">
+    <latitude>42.8333333</latitude>
+    <longitude>73.5333333</longitude>
+  </city>
+  <city name="Chaldövar">
+    <latitude>41.7666667</latitude>
+    <longitude>72.0333333</longitude>
+  </city>
+  <city name="Chaldyrar">
+    <latitude>41.7666667</latitude>
+    <longitude>72.0333333</longitude>
+  </city>
+  <city name="Chaldyvar">
+    <latitude>42.8333333</latitude>
+    <longitude>73.5333333</longitude>
+  </city>
+  <city name="Chalkaydy">
+    <latitude>40.7333333</latitude>
+    <longitude>73.65</longitude>
+  </city>
+  <city name="Chalkayudö">
+    <latitude>40.7333333</latitude>
+    <longitude>73.65</longitude>
+  </city>
+  <city name="Chalkayudy">
+    <latitude>40.7333333</latitude>
+    <longitude>73.65</longitude>
+  </city>
+  <city name="Chalkoydy">
+    <latitude>40.7333333</latitude>
+    <longitude>73.65</longitude>
+  </city>
+  <city name="Chalkuyruk">
+    <latitude>39.9833333</latitude>
+    <longitude>73.0166667</longitude>
+  </city>
+  <city name="Chalpan-Ata">
+    <latitude>42.6563889</latitude>
+    <longitude>77.0822222</longitude>
+  </city>
+  <city name="Chamyndy">
+    <latitude>41.6166667</latitude>
+    <longitude>74.3333333</longitude>
+  </city>
+  <city name="Chanach">
+    <latitude>41.8666667</latitude>
+    <longitude>71.2333333</longitude>
+  </city>
+  <city name="Changörtash">
+    <latitude>40.8666667</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Changyr-Tash">
+    <latitude>40.8666667</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Chapkul'">
+    <latitude>40.9833333</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Charbak">
+    <latitude>41.25</latitude>
+    <longitude>72.9833333</longitude>
+  </city>
+  <city name="Charku">
+    <latitude>39.9666667</latitude>
+    <longitude>70.55</longitude>
+  </city>
+  <city name="Charvak">
+    <latitude>41.25</latitude>
+    <longitude>72.9833333</longitude>
+  </city>
+  <city name="Chashma">
+    <latitude>39.9666667</latitude>
+    <longitude>71.2666667</longitude>
+  </city>
+  <city name="Chatbazar">
+    <latitude>42.5</latitude>
+    <longitude>72.5833333</longitude>
+  </city>
+  <city name="Chat">
+    <latitude>41.5333333</latitude>
+    <longitude>72.1666667</longitude>
+  </city>
+  <city name="Chatkël'">
+    <latitude>42.9333333</latitude>
+    <longitude>74.35</longitude>
+  </city>
+  <city name="Chatkul'">
+    <latitude>42.9333333</latitude>
+    <longitude>74.35</longitude>
+  </city>
+  <city name="Chatyndy">
+    <latitude>39.7333333</latitude>
+    <longitude>72.2</longitude>
+  </city>
+  <city name="Chatyr-Tash">
+    <latitude>40.8975</latitude>
+    <longitude>76.4327778</longitude>
+  </city>
+  <city name="Chaugent">
+    <latitude>42.6333333</latitude>
+    <longitude>71.5</longitude>
+  </city>
+  <city name="Chauvay">
+    <latitude>40.1333333</latitude>
+    <longitude>72.1333333</longitude>
+  </city>
+  <city name="Chayek">
+    <latitude>41.9338889</latitude>
+    <longitude>74.5183333</longitude>
+  </city>
+  <city name="Chekabad">
+    <latitude>40.5</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Chek">
+    <latitude>40.9833333</latitude>
+    <longitude>72.6833333</longitude>
+  </city>
+  <city name="Chelek">
+    <latitude>41.1833333</latitude>
+    <longitude>74.55</longitude>
+  </city>
+  <city name="Cheleke">
+    <latitude>42.4333333</latitude>
+    <longitude>72.8</longitude>
+  </city>
+  <city name="Cheleken-Koin">
+    <latitude>41.1833333</latitude>
+    <longitude>74.55</longitude>
+  </city>
+  <city name="Chelek-Koin">
+    <latitude>41.1833333</latitude>
+    <longitude>74.55</longitude>
+  </city>
+  <city name="Chel'pek">
+    <latitude>42.45</latitude>
+    <longitude>78.35</longitude>
+  </city>
+  <city name="Chemandy">
+    <latitude>41.6166667</latitude>
+    <longitude>74.3333333</longitude>
+  </city>
+  <city name="Chemyndy">
+    <latitude>41.6166667</latitude>
+    <longitude>74.3333333</longitude>
+  </city>
+  <city name="Cherik">
+    <latitude>41.6166667</latitude>
+    <longitude>71.7666667</longitude>
+  </city>
+  <city name="Cherpöktö">
+    <latitude>42.5155556</latitude>
+    <longitude>76.5819444</longitude>
+  </city>
+  <city name="Cherpykty">
+    <latitude>42.5155556</latitude>
+    <longitude>76.5819444</longitude>
+  </city>
+  <city name="Chetbulak">
+    <latitude>41.2833333</latitude>
+    <longitude>73.9833333</longitude>
+  </city>
+  <city name="Chetkoysu">
+    <latitude>42.5833333</latitude>
+    <longitude>76.8666667</longitude>
+  </city>
+  <city name="Chet-Malay">
+    <latitude>41.05</latitude>
+    <longitude>73.2</longitude>
+  </city>
+  <city name="Chichkan">
+    <latitude>42.3</latitude>
+    <longitude>77.7666667</longitude>
+  </city>
+  <city name="Chigir">
+    <latitude>41.6166667</latitude>
+    <longitude>72.25</longitude>
+  </city>
+  <city name="Chikgent">
+    <latitude>42.6333333</latitude>
+    <longitude>71.5</longitude>
+  </city>
+  <city name="Chilandy">
+    <latitude>39.9166667</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Chil'gazi">
+    <latitude>40.1666667</latitude>
+    <longitude>70.6166667</longitude>
+  </city>
+  <city name="Chil'gazy">
+    <latitude>40.1666667</latitude>
+    <longitude>70.6166667</longitude>
+  </city>
+  <city name="Chimkorgon">
+    <latitude>42.8333333</latitude>
+    <longitude>75.45</longitude>
+  </city>
+  <city name="Chim-Kurgan">
+    <latitude>42.8333333</latitude>
+    <longitude>75.45</longitude>
+  </city>
+  <city name="Chirak">
+    <latitude>42.45</latitude>
+    <longitude>78.1666667</longitude>
+  </city>
+  <city name="Chirpykty">
+    <latitude>42.5155556</latitude>
+    <longitude>76.5819444</longitude>
+  </city>
+  <city name="Chok-Tal">
+    <latitude>42.5844444</latitude>
+    <longitude>76.7411111</longitude>
+  </city>
+  <city name="Choku-Biy-Rabat">
+    <latitude>41.1666667</latitude>
+    <longitude>73.65</longitude>
+  </city>
+  <city name="Cholok-Kain">
+    <latitude>41.1833333</latitude>
+    <longitude>74.55</longitude>
+  </city>
+  <city name="Cholpan">
+    <latitude>42.6333333</latitude>
+    <longitude>78.4833333</longitude>
+  </city>
+  <city name="Cholpon-Ata">
+    <latitude>42.6563889</latitude>
+    <longitude>77.0822222</longitude>
+  </city>
+  <city name="Cholpon">
+    <latitude>42.195</latitude>
+    <longitude>75.4755556</longitude>
+  </city>
+  <city name="Chomkamysh">
+    <latitude>41.5666667</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Chon-Ak-Dzhol">
+    <latitude>41.6</latitude>
+    <longitude>72.25</longitude>
+  </city>
+  <city name="Chon-Aryk">
+    <latitude>42.8155556</latitude>
+    <longitude>74.5855556</longitude>
+  </city>
+  <city name="Chonbleuli">
+    <latitude>40.1666667</latitude>
+    <longitude>73.65</longitude>
+  </city>
+  <city name="Chonborolbog">
+    <latitude>41.5</latitude>
+    <longitude>75.2333333</longitude>
+  </city>
+  <city name="Chonborolbos">
+    <latitude>41.5</latitude>
+    <longitude>75.2333333</longitude>
+  </city>
+  <city name="Chon-Bulak">
+    <latitude>42.1666667</latitude>
+    <longitude>75.7166667</longitude>
+  </city>
+  <city name="Chonbulolu">
+    <latitude>40.1666667</latitude>
+    <longitude>73.65</longitude>
+  </city>
+  <city name="Chon-Dzhargylchak">
+    <latitude>42.1888889</latitude>
+    <longitude>77.6505556</longitude>
+  </city>
+  <city name="Chong-Aryk">
+    <latitude>42.8155556</latitude>
+    <longitude>74.5855556</longitude>
+  </city>
+  <city name="Chongaryk">
+    <latitude>41.8833333</latitude>
+    <longitude>72.7333333</longitude>
+  </city>
+  <city name="Chongbulak">
+    <latitude>42.1666667</latitude>
+    <longitude>75.7166667</longitude>
+  </city>
+  <city name="Chong-Dzhargylchak">
+    <latitude>42.1888889</latitude>
+    <longitude>77.6505556</longitude>
+  </city>
+  <city name="Chongkarakël'">
+    <latitude>39.9333333</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Chong-Kyzylsu">
+    <latitude>42.3</latitude>
+    <longitude>78.0666667</longitude>
+  </city>
+  <city name="Chongolot">
+    <latitude>40.6666667</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Chong-Örüktü">
+    <latitude>42.7391667</latitude>
+    <longitude>77.8430556</longitude>
+  </city>
+  <city name="Chongsaray">
+    <latitude>42.61</latitude>
+    <longitude>76.9475</longitude>
+  </city>
+  <city name="Chong-Sary-Oy">
+    <latitude>42.61</latitude>
+    <longitude>76.9475</longitude>
+  </city>
+  <city name="Chongtebe">
+    <latitude>41.7333333</latitude>
+    <longitude>74.1333333</longitude>
+  </city>
+  <city name="Chong-Uryukty">
+    <latitude>42.7391667</latitude>
+    <longitude>77.8430556</longitude>
+  </city>
+  <city name="Chonkadyraly">
+    <latitude>41.5</latitude>
+    <longitude>75.3</longitude>
+  </city>
+  <city name="Chonkyzylsu">
+    <latitude>42.3</latitude>
+    <longitude>78.0666667</longitude>
+  </city>
+  <city name="Chon-Oryuktyu">
+    <latitude>42.7391667</latitude>
+    <longitude>77.8430556</longitude>
+  </city>
+  <city name="Chon-Saroy">
+    <latitude>42.61</latitude>
+    <longitude>76.9475</longitude>
+  </city>
+  <city name="Chon-Sary-Oy">
+    <latitude>42.61</latitude>
+    <longitude>76.9475</longitude>
+  </city>
+  <city name="Chon-Uryukty">
+    <latitude>42.7391667</latitude>
+    <longitude>77.8430556</longitude>
+  </city>
+  <city name="Chorku">
+    <latitude>39.9666667</latitude>
+    <longitude>70.55</longitude>
+  </city>
+  <city name="Chot-Nura">
+    <latitude>41.6</latitude>
+    <longitude>76.3166667</longitude>
+  </city>
+  <city name="Chudok">
+    <latitude>42.6166667</latitude>
+    <longitude>78.5333333</longitude>
+  </city>
+  <city name="Chuka-Tepe">
+    <latitude>40.9</latitude>
+    <longitude>73.0</longitude>
+  </city>
+  <city name="Chukurchak">
+    <latitude>41.8</latitude>
+    <longitude>71.1333333</longitude>
+  </city>
+  <city name="Chukur">
+    <latitude>40.25</latitude>
+    <longitude>72.7</longitude>
+  </city>
+  <city name="Churbek">
+    <latitude>39.9833333</latitude>
+    <longitude>69.9</longitude>
+  </city>
+  <city name="Chuy">
+    <latitude>42.8186111</latitude>
+    <longitude>75.2808333</longitude>
+  </city>
+  <city name="Chychkan">
+    <latitude>42.3</latitude>
+    <longitude>77.7666667</longitude>
+  </city>
+  <city name="Chyrpykty">
+    <latitude>42.5155556</latitude>
+    <longitude>76.5819444</longitude>
+  </city>
+  <city name="Dachnoye">
+    <latitude>42.9397222</latitude>
+    <longitude>74.7033333</longitude>
+  </city>
+  <city name="Danalysh">
+    <latitude>42.2597222</latitude>
+    <longitude>75.235</longitude>
+  </city>
+  <city name="Daraut-Korgan">
+    <latitude>39.55</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Daraut-Korgon">
+    <latitude>39.55</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Daraut-Kurgan">
+    <latitude>39.55</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Darkan">
+    <latitude>42.3113889</latitude>
+    <longitude>77.8847222</longitude>
+  </city>
+  <city name="Darkhan">
+    <latitude>42.3113889</latitude>
+    <longitude>77.8847222</longitude>
+  </city>
+  <city name="Daroot-Korgan">
+    <latitude>39.55</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Daroot-Korgon">
+    <latitude>39.55</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Dasgan">
+    <latitude>39.8666667</latitude>
+    <longitude>69.3333333</longitude>
+  </city>
+  <city name="Dazgan">
+    <latitude>39.8666667</latitude>
+    <longitude>69.3333333</longitude>
+  </city>
+  <city name="Dazgon">
+    <latitude>39.8666667</latitude>
+    <longitude>69.3333333</longitude>
+  </city>
+  <city name="Dëdëmël'">
+    <latitude>41.45</latitude>
+    <longitude>74.4</longitude>
+  </city>
+  <city name="Dën-Alysh">
+    <latitude>42.2597222</latitude>
+    <longitude>75.235</longitude>
+  </city>
+  <city name="Dën-Aryk">
+    <latitude>42.7472222</latitude>
+    <longitude>75.2188889</longitude>
+  </city>
+  <city name="Dëng-Alysh">
+    <latitude>42.2597222</latitude>
+    <longitude>75.235</longitude>
+  </city>
+  <city name="Dëngtala">
+    <latitude>42.1252778</latitude>
+    <longitude>76.5825</longitude>
+  </city>
+  <city name="Denisovka">
+    <latitude>42.9666667</latitude>
+    <longitude>74.8833333</longitude>
+  </city>
+  <city name="Dën-Talaa">
+    <latitude>42.1252778</latitude>
+    <longitude>76.5825</longitude>
+  </city>
+  <city name="Dinau">
+    <latitude>39.6833333</latitude>
+    <longitude>69.35</longitude>
+  </city>
+  <city name="Dmitriyevka">
+    <latitude>41.1333333</latitude>
+    <longitude>73.3333333</longitude>
+  </city>
+  <city name="Dmitriyevskoye">
+    <latitude>41.1333333</latitude>
+    <longitude>73.3333333</longitude>
+  </city>
+  <city name="Dodan">
+    <latitude>40.3333333</latitude>
+    <longitude>72.3</longitude>
+  </city>
+  <city name="Dolinka">
+    <latitude>42.6322222</latitude>
+    <longitude>77.0194444</longitude>
+  </city>
+  <city name="Doloko">
+    <latitude>42.7</latitude>
+    <longitude>78.45</longitude>
+  </city>
+  <city name="Dolona">
+    <latitude>42.5</latitude>
+    <longitude>72.3333333</longitude>
+  </city>
+  <city name="Dolon">
+    <latitude>42.7</latitude>
+    <longitude>78.45</longitude>
+  </city>
+  <city name="Dolono">
+    <latitude>42.7</latitude>
+    <longitude>78.45</longitude>
+  </city>
+  <city name="Donalysh">
+    <latitude>42.2597222</latitude>
+    <longitude>75.235</longitude>
+  </city>
+  <city name="Don-Aryk">
+    <latitude>42.7472222</latitude>
+    <longitude>75.2188889</longitude>
+  </city>
+  <city name="Döng-Alysh">
+    <latitude>42.2597222</latitude>
+    <longitude>75.235</longitude>
+  </city>
+  <city name="Döng-Aryk">
+    <latitude>42.7472222</latitude>
+    <longitude>75.2188889</longitude>
+  </city>
+  <city name="Döng-Talaa">
+    <latitude>42.1252778</latitude>
+    <longitude>76.5825</longitude>
+  </city>
+  <city name="Donguztau">
+    <latitude>40.8333333</latitude>
+    <longitude>73.5166667</longitude>
+  </city>
+  <city name="Donguztou">
+    <latitude>40.8333333</latitude>
+    <longitude>73.5166667</longitude>
+  </city>
+  <city name="Don-Tala">
+    <latitude>42.1252778</latitude>
+    <longitude>76.5825</longitude>
+  </city>
+  <city name="Dostuk">
+    <latitude>41.3697222</latitude>
+    <longitude>75.6366667</longitude>
+  </city>
+  <city name="Druzhba">
+    <latitude>42.9316667</latitude>
+    <longitude>74.7116667</longitude>
+  </city>
+  <city name="Dungurme">
+    <latitude>41.7</latitude>
+    <longitude>74.3</longitude>
+  </city>
+  <city name="Dupkur">
+    <latitude>41.4666667</latitude>
+    <longitude>73.95</longitude>
+  </city>
+  <city name="Durbel'jin">
+    <latitude>41.2166667</latitude>
+    <longitude>74.9</longitude>
+  </city>
+  <city name="Dushman">
+    <latitude>40.9833333</latitude>
+    <longitude>72.6833333</longitude>
+  </city>
+  <city name="Dyubeli">
+    <latitude>41.45</latitude>
+    <longitude>76.25</longitude>
+  </city>
+  <city name="Dyubell">
+    <latitude>41.45</latitude>
+    <longitude>76.25</longitude>
+  </city>
+  <city name="Dyudyumel'">
+    <latitude>41.4666667</latitude>
+    <longitude>74.2833333</longitude>
+  </city>
+  <city name="Dyurbel'dzhin">
+    <latitude>41.2166667</latitude>
+    <longitude>74.9</longitude>
+  </city>
+  <city name="Dyurbel'jin">
+    <latitude>41.2166667</latitude>
+    <longitude>74.9</longitude>
+  </city>
+  <city name="Dyuyshaly">
+    <latitude>40.3166667</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Dyykan-Kyshtak">
+    <latitude>40.5141667</latitude>
+    <longitude>72.7872222</longitude>
+  </city>
+  <city name="Dzhak">
+    <latitude>41.8833333</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Dzhalabek">
+    <latitude>40.7333333</latitude>
+    <longitude>72.3166667</longitude>
+  </city>
+  <city name="Dzhalal-Abad">
+    <latitude>40.9333333</latitude>
+    <longitude>73.0</longitude>
+  </city>
+  <city name="Dzhalgyzterek">
+    <latitude>41.4666667</latitude>
+    <longitude>75.7833333</longitude>
+  </city>
+  <city name="Dzhalimbek">
+    <latitude>40.7333333</latitude>
+    <longitude>72.3166667</longitude>
+  </city>
+  <city name="Dzhalpak-Sary">
+    <latitude>41.15</latitude>
+    <longitude>73.0833333</longitude>
+  </city>
+  <city name="Dzhaman-Kyrchin">
+    <latitude>39.6</latitude>
+    <longitude>72.5333333</longitude>
+  </city>
+  <city name="Dzham-Bulak">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Dzhanalysh">
+    <latitude>42.2597222</latitude>
+    <longitude>75.235</longitude>
+  </city>
+  <city name="Dzhan-Bulak">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Dzhanbulak">
+    <latitude>42.45</latitude>
+    <longitude>78.2333333</longitude>
+  </city>
+  <city name="Dzhanbulok">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Dzhangay-Dzhol">
+    <latitude>41.6</latitude>
+    <longitude>72.25</longitude>
+  </city>
+  <city name="Dzhangi-Aryk">
+    <latitude>41.9833333</latitude>
+    <longitude>74.9666667</longitude>
+  </city>
+  <city name="Dzhangi-Dzhol">
+    <latitude>41.6</latitude>
+    <longitude>72.25</longitude>
+  </city>
+  <city name="Dzhangyaryk">
+    <latitude>41.9833333</latitude>
+    <longitude>74.9666667</longitude>
+  </city>
+  <city name="Dzhangybulak">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Dzhangyshaar">
+    <latitude>39.4833333</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Dzhangytalap">
+    <latitude>41.4505556</latitude>
+    <longitude>75.0141667</longitude>
+  </city>
+  <city name="Dzhangyz-Uryuk">
+    <latitude>42.3166667</latitude>
+    <longitude>77.95</longitude>
+  </city>
+  <city name="Dzhany-Alysh">
+    <latitude>42.8075</latitude>
+    <longitude>75.6075</longitude>
+  </city>
+  <city name="Dzhany-Bulak">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Dzhany-Dzher">
+    <latitude>40.025</latitude>
+    <longitude>69.9430556</longitude>
+  </city>
+  <city name="Dzhany-Kyshtak">
+    <latitude>40.5369444</latitude>
+    <longitude>72.7766667</longitude>
+  </city>
+  <city name="Dzhany-Shaar">
+    <latitude>39.4833333</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Dzhany-Talap">
+    <latitude>41.4505556</latitude>
+    <longitude>75.0141667</longitude>
+  </city>
+  <city name="Dzhapalak">
+    <latitude>40.4927778</latitude>
+    <longitude>72.7641667</longitude>
+  </city>
+  <city name="Dzharbashi">
+    <latitude>39.5166667</latitude>
+    <longitude>72.1166667</longitude>
+  </city>
+  <city name="Dzhar">
+    <latitude>39.9666667</latitude>
+    <longitude>69.3666667</longitude>
+  </city>
+  <city name="Dzhargalan">
+    <latitude>42.6</latitude>
+    <longitude>79.0333333</longitude>
+  </city>
+  <city name="Dzhargychak">
+    <latitude>41.9833333</latitude>
+    <longitude>72.4833333</longitude>
+  </city>
+  <city name="Dzharkapchigay">
+    <latitude>41.6166667</latitude>
+    <longitude>71.8</longitude>
+  </city>
+  <city name="Dzhar-Kopchugay">
+    <latitude>41.6166667</latitude>
+    <longitude>71.8</longitude>
+  </city>
+  <city name="Dzhas">
+    <latitude>40.2333333</latitude>
+    <longitude>72.4333333</longitude>
+  </city>
+  <city name="Dzhele-Dyube">
+    <latitude>42.4666667</latitude>
+    <longitude>78.1833333</longitude>
+  </city>
+  <city name="Dzhem-Bulak">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Dzhenish">
+    <latitude>42.275</latitude>
+    <longitude>77.785</longitude>
+  </city>
+  <city name="Dzhenychek">
+    <latitude>42.8333333</latitude>
+    <longitude>75.3666667</longitude>
+  </city>
+  <city name="Dzhergalan">
+    <latitude>42.6</latitude>
+    <longitude>79.0333333</longitude>
+  </city>
+  <city name="Dzhergel'chak">
+    <latitude>42.2063889</latitude>
+    <longitude>77.6927778</longitude>
+  </city>
+  <city name="Dzhergel'char">
+    <latitude>42.2063889</latitude>
+    <longitude>77.6927778</longitude>
+  </city>
+  <city name="Dzherges">
+    <latitude>42.55</latitude>
+    <longitude>78.6666667</longitude>
+  </city>
+  <city name="Dzhergetal">
+    <latitude>41.1</latitude>
+    <longitude>73.2166667</longitude>
+  </city>
+  <city name="Dzhergety">
+    <latitude>41.5702778</latitude>
+    <longitude>75.7869444</longitude>
+  </city>
+  <city name="Dzher-Kazar">
+    <latitude>42.9369444</latitude>
+    <longitude>74.7288889</longitude>
+  </city>
+  <city name="Dzhetyoguz">
+    <latitude>42.3166667</latitude>
+    <longitude>78.2333333</longitude>
+  </city>
+  <city name="Dzheyek">
+    <latitude>41.8833333</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Dzhida">
+    <latitude>40.85</latitude>
+    <longitude>72.9166667</longitude>
+  </city>
+  <city name="Dzhigda">
+    <latitude>40.3</latitude>
+    <longitude>72.4333333</longitude>
+  </city>
+  <city name="Dzhigdy">
+    <latitude>40.45</latitude>
+    <longitude>73.2166667</longitude>
+  </city>
+  <city name="Dzhilanaryk">
+    <latitude>41.4333333</latitude>
+    <longitude>75.2166667</longitude>
+  </city>
+  <city name="Dzhilandy">
+    <latitude>40.8166667</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Dzhilanny">
+    <latitude>40.8166667</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Dzhilgin-Say">
+    <latitude>40.3833333</latitude>
+    <longitude>72.2</longitude>
+  </city>
+  <city name="Dzhilusu">
+    <latitude>42.2166667</latitude>
+    <longitude>78.15</longitude>
+  </city>
+  <city name="Dzhilyandy">
+    <latitude>40.8166667</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Dzhirgala">
+    <latitude>42.6</latitude>
+    <longitude>79.0333333</longitude>
+  </city>
+  <city name="Dzhirgalan">
+    <latitude>42.6</latitude>
+    <longitude>79.0333333</longitude>
+  </city>
+  <city name="Dzhirgatal">
+    <latitude>41.1</latitude>
+    <longitude>73.2166667</longitude>
+  </city>
+  <city name="Dzhirgital">
+    <latitude>41.1</latitude>
+    <longitude>73.2166667</longitude>
+  </city>
+  <city name="Dzhol-Golot">
+    <latitude>42.45</latitude>
+    <longitude>78.4333333</longitude>
+  </city>
+  <city name="Dzholkara">
+    <latitude>41.8666667</latitude>
+    <longitude>74.7166667</longitude>
+  </city>
+  <city name="Dzhonkungey">
+    <latitude>41.1833333</latitude>
+    <longitude>73.35</longitude>
+  </city>
+  <city name="Dzhusaly">
+    <latitude>40.3166667</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Ebenfel'd">
+    <latitude>42.8</latitude>
+    <longitude>75.0166667</longitude>
+  </city>
+  <city name="Egilik">
+    <latitude>42.75</latitude>
+    <longitude>77.75</longitude>
+  </city>
+  <city name="Ekachat">
+    <latitude>41.6</latitude>
+    <longitude>75.0166667</longitude>
+  </city>
+  <city name="Ekichat">
+    <latitude>41.6</latitude>
+    <longitude>75.0166667</longitude>
+  </city>
+  <city name="Elektor">
+    <latitude>42.1666667</latitude>
+    <longitude>75.9166667</longitude>
+  </city>
+  <city name="Emgekchil">
+    <latitude>41.5552778</latitude>
+    <longitude>75.9716667</longitude>
+  </city>
+  <city name="Emgek-Talaa">
+    <latitude>41.39</latitude>
+    <longitude>75.6047222</longitude>
+  </city>
+  <city name="Emgektala">
+    <latitude>41.39</latitude>
+    <longitude>75.6047222</longitude>
+  </city>
+  <city name="Emir-Kul'">
+    <latitude>40.8833333</latitude>
+    <longitude>73.7</longitude>
+  </city>
+  <city name="Engil'chek">
+    <latitude>42.0166667</latitude>
+    <longitude>79.0833333</longitude>
+  </city>
+  <city name="Enil'chek">
+    <latitude>42.0166667</latitude>
+    <longitude>79.0833333</longitude>
+  </city>
+  <city name="Entek-chil'">
+    <latitude>41.5552778</latitude>
+    <longitude>75.9716667</longitude>
+  </city>
+  <city name="Epkin">
+    <latitude>42.1666667</latitude>
+    <longitude>75.4166667</longitude>
+  </city>
+  <city name="Erke-Kashka">
+    <latitude>40.4833333</latitude>
+    <longitude>72.4833333</longitude>
+  </city>
+  <city name="Erkintoo">
+    <latitude>40.45</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Eshsay">
+    <latitude>41.6833333</latitude>
+    <longitude>72.5</longitude>
+  </city>
+  <city name="Eski-Nookat">
+    <latitude>40.2666667</latitude>
+    <longitude>72.6</longitude>
+  </city>
+  <city name="Fol'baumka">
+    <latitude>42.75</latitude>
+    <longitude>78.1166667</longitude>
+  </city>
+  <city name="Frunze">
+    <latitude>42.8730556</latitude>
+    <longitude>74.6002778</longitude>
+  </city>
+  <city name="Frunzenskoye">
+    <latitude>40.1333333</latitude>
+    <longitude>71.7166667</longitude>
+  </city>
+  <city name="Gaday-Aryk">
+    <latitude>41.0166667</latitude>
+    <longitude>73.0666667</longitude>
+  </city>
+  <city name="Galyam-alik">
+    <latitude>40.85</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Gava">
+    <latitude>41.2666667</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Gavrilovka">
+    <latitude>41.05</latitude>
+    <longitude>73.05</longitude>
+  </city>
+  <city name="Gaz">
+    <latitude>39.8666667</latitude>
+    <longitude>71.05</longitude>
+  </city>
+  <city name="Gerait">
+    <latitude>40.3</latitude>
+    <longitude>72.2333333</longitude>
+  </city>
+  <city name="Gerayt">
+    <latitude>40.3</latitude>
+    <longitude>72.2333333</longitude>
+  </city>
+  <city name="Gorno-Serafimovka">
+    <latitude>42.5833333</latitude>
+    <longitude>74.8333333</longitude>
+  </city>
+  <city name="Grigor'evka">
+    <latitude>42.7227778</latitude>
+    <longitude>77.4711111</longitude>
+  </city>
+  <city name="Grigor'yevka">
+    <latitude>42.7227778</latitude>
+    <longitude>77.4711111</longitude>
+  </city>
+  <city name="Groznoye">
+    <latitude>42.6</latitude>
+    <longitude>71.2</longitude>
+  </city>
+  <city name="Gülbaar">
+    <latitude>40.4891667</latitude>
+    <longitude>72.6586111</longitude>
+  </city>
+  <city name="Gul'cha">
+    <latitude>40.3166667</latitude>
+    <longitude>73.4333333</longitude>
+  </city>
+  <city name="Gul'ma">
+    <latitude>41.0833333</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Gultscha">
+    <latitude>40.3166667</latitude>
+    <longitude>73.4333333</longitude>
+  </city>
+  <city name="Guzar">
+    <latitude>40.5666667</latitude>
+    <longitude>73.1333333</longitude>
+  </city>
+  <city name="Gyul'bakhor">
+    <latitude>40.4891667</latitude>
+    <longitude>72.6586111</longitude>
+  </city>
+  <city name="Ichkebash">
+    <latitude>41.6166667</latitude>
+    <longitude>75.9</longitude>
+  </city>
+  <city name="Ichkedzherges">
+    <latitude>42.5666667</latitude>
+    <longitude>78.7</longitude>
+  </city>
+  <city name="Ichkesu">
+    <latitude>41.3</latitude>
+    <longitude>74.9166667</longitude>
+  </city>
+  <city name="Ikazak">
+    <latitude>39.7333333</latitude>
+    <longitude>73.7833333</longitude>
+  </city>
+  <city name="Ikazyak">
+    <latitude>39.7333333</latitude>
+    <longitude>73.7833333</longitude>
+  </city>
+  <city name="Ikizyak">
+    <latitude>39.7333333</latitude>
+    <longitude>73.7833333</longitude>
+  </city>
+  <city name="Il'chibay">
+    <latitude>42.7166667</latitude>
+    <longitude>78.55</longitude>
+  </city>
+  <city name="Imeni Budennova">
+    <latitude>40.15</latitude>
+    <longitude>73.45</longitude>
+  </city>
+  <city name="Imeni Chapayeva">
+    <latitude>40.35</latitude>
+    <longitude>72.6</longitude>
+  </city>
+  <city name="Imeni Chkalova">
+    <latitude>41.7833333</latitude>
+    <longitude>72.95</longitude>
+  </city>
+  <city name="Imeni Fëdorova">
+    <latitude>40.2</latitude>
+    <longitude>73.5333333</longitude>
+  </city>
+  <city name="Imeni Frunze">
+    <latitude>41.65</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Imeni Il'icha">
+    <latitude>42.7666667</latitude>
+    <longitude>75.9666667</longitude>
+  </city>
+  <city name="Imeni Kalinina">
+    <latitude>41.0872222</latitude>
+    <longitude>75.6772222</longitude>
+  </city>
+  <city name="Imeni Karla Marksa">
+    <latitude>42.7</latitude>
+    <longitude>74.0333333</longitude>
+  </city>
+  <city name="Imeni Kirova">
+    <latitude>41.3333333</latitude>
+    <longitude>72.1666667</longitude>
+  </city>
+  <city name="Imeni Kuybysheva">
+    <latitude>41.5105556</latitude>
+    <longitude>75.8544444</longitude>
+  </city>
+  <city name="Imeni Mikoyana">
+    <latitude>42.8261111</latitude>
+    <longitude>73.8441667</longitude>
+  </city>
+  <city name="Imeni Molotova">
+    <latitude>41.3166667</latitude>
+    <longitude>73.8333333</longitude>
+  </city>
+  <city name="Imeni Pervogo Maya">
+    <latitude>41.8333333</latitude>
+    <longitude>73.0</longitude>
+  </city>
+  <city name="Imeni Vecheki">
+    <latitude>42.7333333</latitude>
+    <longitude>78.4166667</longitude>
+  </city>
+  <city name="Imeni Voroshilova">
+    <latitude>42.0666667</latitude>
+    <longitude>76.8666667</longitude>
+  </city>
+  <city name="Internatsional">
+    <latitude>40.5541667</latitude>
+    <longitude>72.8766667</longitude>
+  </city>
+  <city name="Iradan">
+    <latitude>40.2666667</latitude>
+    <longitude>72.1</longitude>
+  </city>
+  <city name="Irdyk">
+    <latitude>42.45</latitude>
+    <longitude>78.3</longitude>
+  </city>
+  <city name="Irisu">
+    <latitude>41.0166667</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Irke-Kashka">
+    <latitude>40.4833333</latitude>
+    <longitude>72.4833333</longitude>
+  </city>
+  <city name="Irkeshtam">
+    <latitude>39.6833333</latitude>
+    <longitude>73.9166667</longitude>
+  </city>
+  <city name="Irkishtam">
+    <latitude>39.6833333</latitude>
+    <longitude>73.9166667</longitude>
+  </city>
+  <city name="Isfana">
+    <latitude>39.8333333</latitude>
+    <longitude>69.5166667</longitude>
+  </city>
+  <city name="Isfina">
+    <latitude>39.8333333</latitude>
+    <longitude>69.5166667</longitude>
+  </city>
+  <city name="Ishma">
+    <latitude>40.5833333</latitude>
+    <longitude>73.0166667</longitude>
+  </city>
+  <city name="Ishtyk">
+    <latitude>41.6016667</latitude>
+    <longitude>78.2852778</longitude>
+  </city>
+  <city name="Iski-Naukat">
+    <latitude>40.2666667</latitude>
+    <longitude>72.6</longitude>
+  </city>
+  <city name="Issyk-Kul'">
+    <latitude>42.4611111</latitude>
+    <longitude>76.1802778</longitude>
+  </city>
+  <city name="Itagar">
+    <latitude>41.6333333</latitude>
+    <longitude>71.8666667</longitude>
+  </city>
+  <city name="Itsay">
+    <latitude>41.6833333</latitude>
+    <longitude>72.5</longitude>
+  </city>
+  <city name="Ivano-Alekseyevka">
+    <latitude>42.5166667</latitude>
+    <longitude>72.2333333</longitude>
+  </city>
+  <city name="Ivanovka">
+    <latitude>42.8877778</latitude>
+    <longitude>75.0838889</longitude>
+  </city>
+  <city name="Ivanovna">
+    <latitude>42.8877778</latitude>
+    <longitude>75.0838889</longitude>
+  </city>
+  <city name="Izym-Bay">
+    <latitude>40.9</latitude>
+    <longitude>73.7666667</longitude>
+  </city>
+  <city name="Jalal-Abad">
+    <latitude>40.9333333</latitude>
+    <longitude>73.0</longitude>
+  </city>
+  <city name="Jan-Bulak">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Jangy-Kyshtak">
+    <latitude>40.5369444</latitude>
+    <longitude>72.7766667</longitude>
+  </city>
+  <city name="Jangy-Talap">
+    <latitude>41.4505556</latitude>
+    <longitude>75.0141667</longitude>
+  </city>
+  <city name="Janö-bulak">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Jany-bulak">
+    <latitude>41.4361111</latitude>
+    <longitude>75.7336111</longitude>
+  </city>
+  <city name="Japalak">
+    <latitude>40.4927778</latitude>
+    <longitude>72.7641667</longitude>
+  </city>
+  <city name="Jar">
+    <latitude>39.9666667</latitude>
+    <longitude>69.3666667</longitude>
+  </city>
+  <city name="Jerges">
+    <latitude>42.55</latitude>
+    <longitude>78.6666667</longitude>
+  </city>
+  <city name="Jergetal">
+    <latitude>41.5702778</latitude>
+    <longitude>75.7869444</longitude>
+  </city>
+  <city name="Jergetö">
+    <latitude>41.5702778</latitude>
+    <longitude>75.7869444</longitude>
+  </city>
+  <city name="Jergety">
+    <latitude>41.5702778</latitude>
+    <longitude>75.7869444</longitude>
+  </city>
+  <city name="Jetö-Oguz">
+    <latitude>42.4333333</latitude>
+    <longitude>78.2</longitude>
+  </city>
+  <city name="Jida">
+    <latitude>40.3</latitude>
+    <longitude>72.4333333</longitude>
+  </city>
+  <city name="Jirgital">
+    <latitude>41.1</latitude>
+    <longitude>73.2166667</longitude>
+  </city>
+  <city name="Kadamdzhai">
+    <latitude>40.1166667</latitude>
+    <longitude>71.7333333</longitude>
+  </city>
+  <city name="Kadamdzhay">
+    <latitude>40.1166667</latitude>
+    <longitude>71.7333333</longitude>
+  </city>
+  <city name="Kadamjay">
+    <latitude>40.1166667</latitude>
+    <longitude>71.7333333</longitude>
+  </city>
+  <city name="Kadzhi-Say">
+    <latitude>42.1391667</latitude>
+    <longitude>77.1783333</longitude>
+  </city>
+  <city name="Kaganovich">
+    <latitude>42.8666667</latitude>
+    <longitude>74.3</longitude>
+  </city>
+  <city name="Kagoy">
+    <latitude>41.4833333</latitude>
+    <longitude>75.1166667</longitude>
+  </city>
+  <city name="Kainda">
+    <latitude>42.8166667</latitude>
+    <longitude>73.6833333</longitude>
+  </city>
+  <city name="Kaindy">
+    <latitude>42.8166667</latitude>
+    <longitude>73.6833333</longitude>
+  </city>
+  <city name="Kaindyn">
+    <latitude>41.6166667</latitude>
+    <longitude>75.1666667</longitude>
+  </city>
+  <city name="Kairagach">
+    <latitude>40.05</latitude>
+    <longitude>69.75</longitude>
+  </city>
+  <city name="Kairma">
+    <latitude>41.9833333</latitude>
+    <longitude>74.65</longitude>
+  </city>
+  <city name="Kaji-Say">
+    <latitude>42.1391667</latitude>
+    <longitude>77.1783333</longitude>
+  </city>
+  <city name="Kala">
+    <latitude>41.45</latitude>
+    <longitude>72.2</longitude>
+  </city>
+  <city name="Kalday">
+    <latitude>40.0666667</latitude>
+    <longitude>72.5833333</longitude>
+  </city>
+  <city name="Kalinin Atyndagy">
+    <latitude>41.0872222</latitude>
+    <longitude>75.6772222</longitude>
+  </city>
+  <city name="Kalinino">
+    <latitude>42.4166667</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Kalininsk">
+    <latitude>42.4166667</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Kalininskoje">
+    <latitude>42.8333333</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Kalininskoye">
+    <latitude>42.8333333</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Kalinovka">
+    <latitude>42.6880556</latitude>
+    <longitude>75.3555556</longitude>
+  </city>
+  <city name="Kalmion">
+    <latitude>40.2130556</latitude>
+    <longitude>71.6413889</longitude>
+  </city>
+  <city name="Kal'tak">
+    <latitude>40.1</latitude>
+    <longitude>71.4833333</longitude>
+  </city>
+  <city name="Kamancha">
+    <latitude>40.6</latitude>
+    <longitude>73.5833333</longitude>
+  </city>
+  <city name="Kamenka">
+    <latitude>42.75</latitude>
+    <longitude>77.75</longitude>
+  </city>
+  <city name="Kampyr-Ravat">
+    <latitude>40.7833333</latitude>
+    <longitude>73.1333333</longitude>
+  </city>
+  <city name="Kanduga">
+    <latitude>40.7166667</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Kan">
+    <latitude>40.1833333</latitude>
+    <longitude>71.3333333</longitude>
+  </city>
+  <city name="(( Kansalyk ))">
+    <latitude>41.7794444</latitude>
+    <longitude>72.925</longitude>
+  </city>
+  <city name="Kant">
+    <latitude>42.8875</latitude>
+    <longitude>74.8472222</longitude>
+  </city>
+  <city name="Kantsin">
+    <latitude>40.0833333</latitude>
+    <longitude>70.8</longitude>
+  </city>
+  <city name="Kanysh-Kiya">
+    <latitude>41.75</latitude>
+    <longitude>71.0833333</longitude>
+  </city>
+  <city name="Kanyshkyya">
+    <latitude>41.75</latitude>
+    <longitude>71.0833333</longitude>
+  </city>
+  <city name="Kara-Agach">
+    <latitude>41.5833333</latitude>
+    <longitude>71.7333333</longitude>
+  </city>
+  <city name="Karaalma">
+    <latitude>41.1833333</latitude>
+    <longitude>73.3166667</longitude>
+  </city>
+  <city name="Kara-Balta">
+    <latitude>42.8261111</latitude>
+    <longitude>73.8441667</longitude>
+  </city>
+  <city name="Karabaltö">
+    <latitude>42.8261111</latitude>
+    <longitude>73.8441667</longitude>
+  </city>
+  <city name="Kara-Balty">
+    <latitude>42.8261111</latitude>
+    <longitude>73.8441667</longitude>
+  </city>
+  <city name="Karabalty">
+    <latitude>42.8333333</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Karabshin">
+    <latitude>39.6666667</latitude>
+    <longitude>70.3333333</longitude>
+  </city>
+  <city name="Karabulak">
+    <latitude>42.8333333</latitude>
+    <longitude>75.6</longitude>
+  </city>
+  <city name="Karabulun">
+    <latitude>41.3666667</latitude>
+    <longitude>74.2</longitude>
+  </city>
+  <city name="Kara-Burga">
+    <latitude>41.3</latitude>
+    <longitude>74.7</longitude>
+  </city>
+  <city name="Kara-Burgen">
+    <latitude>41.3</latitude>
+    <longitude>74.7</longitude>
+  </city>
+  <city name="Karacha">
+    <latitude>41.1</latitude>
+    <longitude>72.8</longitude>
+  </city>
+  <city name="Karachi">
+    <latitude>41.4166667</latitude>
+    <longitude>74.1</longitude>
+  </city>
+  <city name="Karachiy">
+    <latitude>41.4166667</latitude>
+    <longitude>74.1</longitude>
+  </city>
+  <city name="Kara-Dëbë">
+    <latitude>42.7827778</latitude>
+    <longitude>75.4463889</longitude>
+  </city>
+  <city name="Kara-Dekhkan">
+    <latitude>40.7666667</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Kara-Döbö">
+    <latitude>42.7827778</latitude>
+    <longitude>75.4463889</longitude>
+  </city>
+  <city name="Kara-Dzhar">
+    <latitude>42.5833333</latitude>
+    <longitude>78.4333333</longitude>
+  </city>
+  <city name="Kara-Dzhegach">
+    <latitude>40.1333333</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Karadzhigach">
+    <latitude>41.1333333</latitude>
+    <longitude>72.3833333</longitude>
+  </city>
+  <city name="Karadzhilga">
+    <latitude>40.5833333</latitude>
+    <longitude>73.65</longitude>
+  </city>
+  <city name="Kara-Dzhygach">
+    <latitude>42.8072222</latitude>
+    <longitude>74.7063889</longitude>
+  </city>
+  <city name="Karagandy">
+    <latitude>39.9666667</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Karagansay">
+    <latitude>41.3166667</latitude>
+    <longitude>72.2</longitude>
+  </city>
+  <city name="Karagayna">
+    <latitude>42.3666667</latitude>
+    <longitude>72.1333333</longitude>
+  </city>
+  <city name="Kara-Gonush">
+    <latitude>40.4333333</latitude>
+    <longitude>73.85</longitude>
+  </city>
+  <city name="Kara-Kashkar">
+    <latitude>40.6833333</latitude>
+    <longitude>73.4666667</longitude>
+  </city>
+  <city name="Kara-Kavak">
+    <latitude>39.65</latitude>
+    <longitude>72.7</longitude>
+  </city>
+  <city name="Karakeche">
+    <latitude>41.7166667</latitude>
+    <longitude>74.7666667</longitude>
+  </city>
+  <city name="Kara-Kël'">
+    <latitude>41.6302778</latitude>
+    <longitude>72.6727778</longitude>
+  </city>
+  <city name="Kara-Kesmak">
+    <latitude>41.3</latitude>
+    <longitude>71.2333333</longitude>
+  </city>
+  <city name="Karakichi">
+    <latitude>41.7166667</latitude>
+    <longitude>74.7666667</longitude>
+  </city>
+  <city name="Karakin">
+    <latitude>41.4166667</latitude>
+    <longitude>74.3166667</longitude>
+  </city>
+  <city name="Karako">
+    <latitude>42.2105556</latitude>
+    <longitude>76.6266667</longitude>
+  </city>
+  <city name="Kara-Kokty">
+    <latitude>40.35</latitude>
+    <longitude>72.6166667</longitude>
+  </city>
+  <city name="Karakol">
+    <latitude>41.2333333</latitude>
+    <longitude>73.0666667</longitude>
+  </city>
+  <city name="Kara-Köl">
+    <latitude>41.6302778</latitude>
+    <longitude>72.6727778</longitude>
+  </city>
+  <city name="Karakol'">
+    <latitude>41.6666667</latitude>
+    <longitude>72.7166667</longitude>
+  </city>
+  <city name="Kara-Koo">
+    <latitude>42.2105556</latitude>
+    <longitude>76.6266667</longitude>
+  </city>
+  <city name="Kara-Kshtak">
+    <latitude>40.1166667</latitude>
+    <longitude>72.1</longitude>
+  </city>
+  <city name="Kara-Kuchkan">
+    <latitude>40.4544444</latitude>
+    <longitude>72.57</longitude>
+  </city>
+  <city name="Kara-Kul'dzha">
+    <latitude>40.6833333</latitude>
+    <longitude>73.45</longitude>
+  </city>
+  <city name="Kara-Kul'ja">
+    <latitude>40.6833333</latitude>
+    <longitude>73.45</longitude>
+  </city>
+  <city name="Kara-Kul'">
+    <latitude>41.6302778</latitude>
+    <longitude>72.6727778</longitude>
+  </city>
+  <city name="Karakul">
+    <latitude>40.75</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Karakungey">
+    <latitude>42.2033333</latitude>
+    <longitude>75.9169444</longitude>
+  </city>
+  <city name="Kara-Kyungey">
+    <latitude>42.2033333</latitude>
+    <longitude>75.9169444</longitude>
+  </city>
+  <city name="Karamart">
+    <latitude>41.2166667</latitude>
+    <longitude>73.1333333</longitude>
+  </city>
+  <city name="Karamurza">
+    <latitude>41.4333333</latitude>
+    <longitude>74.05</longitude>
+  </city>
+  <city name="Karanay">
+    <latitude>40.3</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Kara-Oy">
+    <latitude>41.4527778</latitude>
+    <longitude>75.1161111</longitude>
+  </city>
+  <city name="Kara-Sadak">
+    <latitude>40.7666667</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Kara-Sadanto">
+    <latitude>40.7666667</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Kara-Sakal">
+    <latitude>41.8833333</latitude>
+    <longitude>72.7333333</longitude>
+  </city>
+  <city name="Kara-Say">
+    <latitude>41.5483333</latitude>
+    <longitude>77.9022222</longitude>
+  </city>
+  <city name="Karashar">
+    <latitude>42.3094444</latitude>
+    <longitude>76.2930556</longitude>
+  </city>
+  <city name="Kara-Shivak">
+    <latitude>39.5166667</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Karasu">
+    <latitude>41.65</latitude>
+    <longitude>73.1833333</longitude>
+  </city>
+  <city name="Kara-Su">
+    <latitude>39.55</latitude>
+    <longitude>72.2333333</longitude>
+  </city>
+  <city name="Kara-Suu">
+    <latitude>41.1305556</latitude>
+    <longitude>75.6783333</longitude>
+  </city>
+  <city name="Karatakhta">
+    <latitude>40.35</latitude>
+    <longitude>73.5833333</longitude>
+  </city>
+  <city name="Kara-Talaa">
+    <latitude>42.3144444</latitude>
+    <longitude>76.3983333</longitude>
+  </city>
+  <city name="Karatash">
+    <latitude>40.2166667</latitude>
+    <longitude>72.6</longitude>
+  </city>
+  <city name="Kara-Tash">
+    <latitude>40.4</latitude>
+    <longitude>73.4833333</longitude>
+  </city>
+  <city name="Karatay">
+    <latitude>40.5166667</latitude>
+    <longitude>73.0166667</longitude>
+  </city>
+  <city name="Karatëbë">
+    <latitude>41.8833333</latitude>
+    <longitude>74.4666667</longitude>
+  </city>
+  <city name="Karatebe">
+    <latitude>42.7475</latitude>
+    <longitude>76.1586111</longitude>
+  </city>
+  <city name="Kara-Tyube">
+    <latitude>42.7827778</latitude>
+    <longitude>75.4463889</longitude>
+  </city>
+  <city name="Karatyube">
+    <latitude>40.6047222</latitude>
+    <longitude>72.965</longitude>
+  </city>
+  <city name="Karaul'">
+    <latitude>40.75</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Karaultëbë">
+    <latitude>40.5363889</latitude>
+    <longitude>75.9641667</longitude>
+  </city>
+  <city name="Kara-Ünkür">
+    <latitude>41.7636111</latitude>
+    <longitude>75.7244444</longitude>
+  </city>
+  <city name="Kara-Unkurt">
+    <latitude>41.7333333</latitude>
+    <longitude>75.6666667</longitude>
+  </city>
+  <city name="Kara-Unkyur">
+    <latitude>41.7636111</latitude>
+    <longitude>75.7244444</longitude>
+  </city>
+  <city name="Karautok">
+    <latitude>39.9333333</latitude>
+    <longitude>72.2833333</longitude>
+  </city>
+  <city name="Karavan">
+    <latitude>41.5</latitude>
+    <longitude>71.75</longitude>
+  </city>
+  <city name="Karavshin">
+    <latitude>39.6666667</latitude>
+    <longitude>70.3333333</longitude>
+  </city>
+  <city name="Karaynkurt">
+    <latitude>41.7636111</latitude>
+    <longitude>75.7244444</longitude>
+  </city>
+  <city name="Karool-Tëbë">
+    <latitude>40.5363889</latitude>
+    <longitude>75.9641667</longitude>
+  </city>
+  <city name="Karool-Töbö">
+    <latitude>40.5363889</latitude>
+    <longitude>75.9641667</longitude>
+  </city>
+  <city name="Karyn-Kur">
+    <latitude>41.25</latitude>
+    <longitude>71.3666667</longitude>
+  </city>
+  <city name="Kashat">
+    <latitude>42.3166667</latitude>
+    <longitude>75.4333333</longitude>
+  </city>
+  <city name="Kashgar">
+    <latitude>40.6208333</latitude>
+    <longitude>72.8305556</longitude>
+  </city>
+  <city name="Kashgarkishlak">
+    <latitude>40.6208333</latitude>
+    <longitude>72.8305556</longitude>
+  </city>
+  <city name="Kashgar-Kyshtak">
+    <latitude>40.6208333</latitude>
+    <longitude>72.8305556</longitude>
+  </city>
+  <city name="Kashkaldak">
+    <latitude>40.2833333</latitude>
+    <longitude>72.65</longitude>
+  </city>
+  <city name="Kash Kanchi">
+    <latitude>41.0166667</latitude>
+    <longitude>73.05</longitude>
+  </city>
+  <city name="Kashkar-Kyshtak">
+    <latitude>40.6208333</latitude>
+    <longitude>72.8305556</longitude>
+  </city>
+  <city name="Kashkasu">
+    <latitude>41.3166667</latitude>
+    <longitude>73.2</longitude>
+  </city>
+  <city name="Kashka-Terek">
+    <latitude>41.15</latitude>
+    <longitude>73.1333333</longitude>
+  </city>
+  <city name="Kasymbek">
+    <latitude>41.3</latitude>
+    <longitude>74.95</longitude>
+  </city>
+  <city name="(( Katar ))">
+    <latitude>40.3666667</latitude>
+    <longitude>72.9166667</longitude>
+  </city>
+  <city name="Katran">
+    <latitude>39.8166667</latitude>
+    <longitude>70.0666667</longitude>
+  </city>
+  <city name="Katranke">
+    <latitude>41.2</latitude>
+    <longitude>73.3166667</longitude>
+  </city>
+  <city name="Kattagan">
+    <latitude>40.9166667</latitude>
+    <longitude>72.2666667</longitude>
+  </city>
+  <city name="Katyrantash">
+    <latitude>40.2666667</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Kavak">
+    <latitude>41.8666667</latitude>
+    <longitude>73.5166667</longitude>
+  </city>
+  <city name="Kayirma">
+    <latitude>41.85</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Kaynar">
+    <latitude>40.6</latitude>
+    <longitude>73.1166667</longitude>
+  </city>
+  <city name="Kayragach">
+    <latitude>40.05</latitude>
+    <longitude>69.75</longitude>
+  </city>
+  <city name="Kaytmas">
+    <latitude>40.4166667</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Kazarman">
+    <latitude>41.4</latitude>
+    <longitude>74.05</longitude>
+  </city>
+  <city name="Kaz">
+    <latitude>41.4166667</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Kazybek">
+    <latitude>41.0313889</latitude>
+    <longitude>75.5369444</longitude>
+  </city>
+  <city name="Kegeti">
+    <latitude>42.6913889</latitude>
+    <longitude>75.1783333</longitude>
+  </city>
+  <city name="Kegetö">
+    <latitude>42.6913889</latitude>
+    <longitude>75.1783333</longitude>
+  </city>
+  <city name="Kegety">
+    <latitude>42.6913889</latitude>
+    <longitude>75.1783333</longitude>
+  </city>
+  <city name="Keglatar">
+    <latitude>40.8666667</latitude>
+    <longitude>73.7</longitude>
+  </city>
+  <city name="Këk-Aygyr">
+    <latitude>40.7277778</latitude>
+    <longitude>75.6133333</longitude>
+  </city>
+  <city name="Këkbel'">
+    <latitude>40.25</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Këk-Dzhar">
+    <latitude>42.8030556</latitude>
+    <longitude>74.6511111</longitude>
+  </city>
+  <city name="Këkdzhar">
+    <latitude>42.1666667</latitude>
+    <longitude>75.6333333</longitude>
+  </city>
+  <city name="Këkirim">
+    <latitude>41.4166667</latitude>
+    <longitude>73.8666667</longitude>
+  </city>
+  <city name="Këkiyrim">
+    <latitude>41.4166667</latitude>
+    <longitude>73.8666667</longitude>
+  </city>
+  <city name="Këk-Moynok Pervoye">
+    <latitude>42.4555556</latitude>
+    <longitude>76.0497222</longitude>
+  </city>
+  <city name="Këk-Moynok Vtoroye">
+    <latitude>42.4819444</latitude>
+    <longitude>75.8525</longitude>
+  </city>
+  <city name="Këkoy">
+    <latitude>41.4833333</latitude>
+    <longitude>75.1166667</longitude>
+  </city>
+  <city name="Këksay">
+    <latitude>42.5</latitude>
+    <longitude>71.1166667</longitude>
+  </city>
+  <city name="Këk-Say">
+    <latitude>42.0736111</latitude>
+    <longitude>76.8086111</longitude>
+  </city>
+  <city name="Këk-Tash">
+    <latitude>41.1833333</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Këktëbe">
+    <latitude>42.7666667</latitude>
+    <longitude>77.6166667</longitude>
+  </city>
+  <city name="Kël'">
+    <latitude>41.95</latitude>
+    <longitude>72.3833333</longitude>
+  </city>
+  <city name="Kël'më">
+    <latitude>41.45</latitude>
+    <longitude>75.1</longitude>
+  </city>
+  <city name="Kel'techaty">
+    <latitude>40.3333333</latitude>
+    <longitude>74.4333333</longitude>
+  </city>
+  <city name="Kemin">
+    <latitude>42.7852778</latitude>
+    <longitude>75.6911111</longitude>
+  </city>
+  <city name="Kenbulun">
+    <latitude>42.8666667</latitude>
+    <longitude>75.1166667</longitude>
+  </city>
+  <city name="Kendzhilga">
+    <latitude>40.3833333</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Keng-Suu">
+    <latitude>41.9291667</latitude>
+    <longitude>75.6777778</longitude>
+  </city>
+  <city name="Kenjekul">
+    <latitude>40.6388889</latitude>
+    <longitude>72.8119444</longitude>
+  </city>
+  <city name="Kensu">
+    <latitude>41.75</latitude>
+    <longitude>74.0833333</longitude>
+  </city>
+  <city name="Kenzhekul">
+    <latitude>40.6388889</latitude>
+    <longitude>72.8119444</longitude>
+  </city>
+  <city name="Këpyurë">
+    <latitude>42.4666667</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Kerben">
+    <latitude>41.5</latitude>
+    <longitude>71.75</longitude>
+  </city>
+  <city name="Keregetash">
+    <latitude>42.5166667</latitude>
+    <longitude>78.5833333</longitude>
+  </city>
+  <city name="Kerki-Don">
+    <latitude>40.45</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Kesek">
+    <latitude>40.4455556</latitude>
+    <longitude>72.5813889</longitude>
+  </city>
+  <city name="Këtërme">
+    <latitude>40.3</latitude>
+    <longitude>72.3666667</longitude>
+  </city>
+  <city name="(( Ketmen'tëbë ))">
+    <latitude>41.8013889</latitude>
+    <longitude>72.8088889</longitude>
+  </city>
+  <city name="Ketmen-Tjube">
+    <latitude>41.8013889</latitude>
+    <longitude>72.8088889</longitude>
+  </city>
+  <city name="Ketmen'-Tyube">
+    <latitude>41.8013889</latitude>
+    <longitude>72.8088889</longitude>
+  </city>
+  <city name="Khadyrsha">
+    <latitude>40.8333333</latitude>
+    <longitude>73.0</longitude>
+  </city>
+  <city name="Khaidarkan">
+    <latitude>39.9413889</latitude>
+    <longitude>71.3458333</longitude>
+  </city>
+  <city name="Khalmion">
+    <latitude>40.2130556</latitude>
+    <longitude>71.6413889</longitude>
+  </city>
+  <city name="(( Khasan-Chek ))">
+    <latitude>40.5666667</latitude>
+    <longitude>72.8833333</longitude>
+  </city>
+  <city name="Khaydarkan">
+    <latitude>39.9413889</latitude>
+    <longitude>71.3458333</longitude>
+  </city>
+  <city name="Khaydarken">
+    <latitude>39.9413889</latitude>
+    <longitude>71.3458333</longitude>
+  </city>
+  <city name="Khazret-Ayub">
+    <latitude>40.95</latitude>
+    <longitude>73.0166667</longitude>
+  </city>
+  <city name="Khazret-Bau">
+    <latitude>41.35</latitude>
+    <longitude>71.4666667</longitude>
+  </city>
+  <city name="Khibinskoye">
+    <latitude>42.45</latitude>
+    <longitude>72.2666667</longitude>
+  </city>
+  <city name="Khodyrsha-Mugal'">
+    <latitude>40.7333333</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Khodzhaaryk">
+    <latitude>40.1666667</latitude>
+    <longitude>72.3666667</longitude>
+  </city>
+  <city name="Khodzha-Aryk">
+    <latitude>40.2666667</latitude>
+    <longitude>72.35</longitude>
+  </city>
+  <city name="Khodzhaata">
+    <latitude>41.6833333</latitude>
+    <longitude>72.0166667</longitude>
+  </city>
+  <city name="Khodzhanorum">
+    <latitude>40.0833333</latitude>
+    <longitude>71.3166667</longitude>
+  </city>
+  <city name="Khodzharabad">
+    <latitude>40.95</latitude>
+    <longitude>72.6166667</longitude>
+  </city>
+  <city name="Kichibulolu">
+    <latitude>40.1833333</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Kichi-Dzhargylchak">
+    <latitude>42.2063889</latitude>
+    <longitude>77.6927778</longitude>
+  </city>
+  <city name="Kichi-Dzhergylchak">
+    <latitude>42.2063889</latitude>
+    <longitude>77.6927778</longitude>
+  </city>
+  <city name="Kichi-Jargylchak">
+    <latitude>42.2063889</latitude>
+    <longitude>77.6927778</longitude>
+  </city>
+  <city name="Kichik-Alay">
+    <latitude>40.0333333</latitude>
+    <longitude>72.9166667</longitude>
+  </city>
+  <city name="Kichikarakol">
+    <latitude>39.9333333</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Kichikbleuli">
+    <latitude>40.1833333</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Kichi-Khaydarnen">
+    <latitude>39.9166667</latitude>
+    <longitude>71.45</longitude>
+  </city>
+  <city name="Kichik-Karakol">
+    <latitude>39.9333333</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Kichi-Oryuktyu">
+    <latitude>42.7397222</latitude>
+    <longitude>77.9325</longitude>
+  </city>
+  <city name="Kichitaldyk">
+    <latitude>40.35</latitude>
+    <longitude>73.1333333</longitude>
+  </city>
+  <city name="Kichi-Uryukty">
+    <latitude>42.7397222</latitude>
+    <longitude>77.9325</longitude>
+  </city>
+  <city name="Kindyn">
+    <latitude>41.6166667</latitude>
+    <longitude>75.1666667</longitude>
+  </city>
+  <city name="Kipchak">
+    <latitude>40.7</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Kirgizgava">
+    <latitude>41.2</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Kirov">
+    <latitude>41.3333333</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Kirovskoye">
+    <latitude>41.3333333</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Kisek">
+    <latitude>40.4455556</latitude>
+    <longitude>72.5813889</longitude>
+  </city>
+  <city name="Kisyk">
+    <latitude>40.0333333</latitude>
+    <longitude>71.75</longitude>
+  </city>
+  <city name="Kitay">
+    <latitude>42.4666667</latitude>
+    <longitude>78.2333333</longitude>
+  </city>
+  <city name="Kizöl-Kiva">
+    <latitude>40.2538889</latitude>
+    <longitude>72.1227778</longitude>
+  </city>
+  <city name="Kizöl-Kurgan">
+    <latitude>40.1833333</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Kizyl-Ata">
+    <latitude>41.4333333</latitude>
+    <longitude>71.55</longitude>
+  </city>
+  <city name="Kizyl-Kiya">
+    <latitude>40.2538889</latitude>
+    <longitude>72.1227778</longitude>
+  </city>
+  <city name="Kizyl-Kurgan">
+    <latitude>40.1833333</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Kizyl-Su">
+    <latitude>42.3</latitude>
+    <longitude>78.0666667</longitude>
+  </city>
+  <city name="Kizyl-Tukay">
+    <latitude>41.3833333</latitude>
+    <longitude>71.3333333</longitude>
+  </city>
+  <city name="Klozin">
+    <latitude>40.4666667</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Klyuchëvka">
+    <latitude>42.5666667</latitude>
+    <longitude>71.8</longitude>
+  </city>
+  <city name="Klyuchevoye">
+    <latitude>42.5666667</latitude>
+    <longitude>71.8</longitude>
+  </city>
+  <city name="Klyuchevoy">
+    <latitude>42.5666667</latitude>
+    <longitude>71.8</longitude>
+  </city>
+  <city name="Klyuchevskoye">
+    <latitude>42.5666667</latitude>
+    <longitude>71.8</longitude>
+  </city>
+  <city name="Kochkor-Ata">
+    <latitude>41.0166667</latitude>
+    <longitude>72.4833333</longitude>
+  </city>
+  <city name="Kochkorka">
+    <latitude>42.2127778</latitude>
+    <longitude>75.7541667</longitude>
+  </city>
+  <city name="Kochkor">
+    <latitude>42.2127778</latitude>
+    <longitude>75.7541667</longitude>
+  </city>
+  <city name="(( Kodul' ))">
+    <latitude>41.8244444</latitude>
+    <longitude>72.98</longitude>
+  </city>
+  <city name="Kodul'-Su">
+    <latitude>41.8244444</latitude>
+    <longitude>72.98</longitude>
+  </city>
+  <city name="Kodzhokël'">
+    <latitude>39.9</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Kodzhoyar">
+    <latitude>42.7294444</latitude>
+    <longitude>77.5286111</longitude>
+  </city>
+  <city name="Kogoy">
+    <latitude>41.4833333</latitude>
+    <longitude>75.1166667</longitude>
+  </city>
+  <city name="Kok-arök">
+    <latitude>42.4166667</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Kok-Aryk">
+    <latitude>42.4166667</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Kök-Aygyr">
+    <latitude>40.7277778</latitude>
+    <longitude>75.6133333</longitude>
+  </city>
+  <city name="Kok-Dzhar">
+    <latitude>42.1666667</latitude>
+    <longitude>75.6333333</longitude>
+  </city>
+  <city name="Kokdzhar">
+    <latitude>40.3</latitude>
+    <longitude>72.3666667</longitude>
+  </city>
+  <city name="Kokdzhatyk">
+    <latitude>40.4219444</latitude>
+    <longitude>72.5841667</longitude>
+  </city>
+  <city name="Kok-Dzhetyk">
+    <latitude>40.4219444</latitude>
+    <longitude>72.5841667</longitude>
+  </city>
+  <city name="Kok-Irim">
+    <latitude>41.4166667</latitude>
+    <longitude>73.8666667</longitude>
+  </city>
+  <city name="Kok-Jengak">
+    <latitude>41.0333333</latitude>
+    <longitude>73.2</longitude>
+  </city>
+  <city name="Kok-Karga">
+    <latitude>40.3333333</latitude>
+    <longitude>72.3833333</longitude>
+  </city>
+  <city name="Kok-Magday">
+    <latitude>40.2666667</latitude>
+    <longitude>74.0166667</longitude>
+  </city>
+  <city name="Kok-Makday">
+    <latitude>40.2666667</latitude>
+    <longitude>74.0166667</longitude>
+  </city>
+  <city name="Kok-Makhday">
+    <latitude>40.2666667</latitude>
+    <longitude>74.0166667</longitude>
+  </city>
+  <city name="Kok-Manday">
+    <latitude>40.2666667</latitude>
+    <longitude>74.0166667</longitude>
+  </city>
+  <city name="Kok-Maynak">
+    <latitude>42.4555556</latitude>
+    <longitude>76.0497222</longitude>
+  </city>
+  <city name="Kokmoynak">
+    <latitude>42.4555556</latitude>
+    <longitude>76.0497222</longitude>
+  </city>
+  <city name="Kök-Moynok Eki">
+    <latitude>42.4819444</latitude>
+    <longitude>75.8525</longitude>
+  </city>
+  <city name="Kok-Moynok">
+    <latitude>42.4555556</latitude>
+    <longitude>76.0497222</longitude>
+  </city>
+  <city name="Kokmoynok">
+    <latitude>42.4819444</latitude>
+    <longitude>75.8525</longitude>
+  </city>
+  <city name="Kok-Say">
+    <latitude>42.5</latitude>
+    <longitude>71.1166667</longitude>
+  </city>
+  <city name="Kök-Tash">
+    <latitude>41.1833333</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Koktash">
+    <latitude>41.3333333</latitude>
+    <longitude>71.15</longitude>
+  </city>
+  <city name="Kok-Tundy">
+    <latitude>40.8333333</latitude>
+    <longitude>73.6166667</longitude>
+  </city>
+  <city name="Kok-Yangak">
+    <latitude>41.0333333</latitude>
+    <longitude>73.2</longitude>
+  </city>
+  <city name="Kok-Yatök">
+    <latitude>40.4219444</latitude>
+    <longitude>72.5841667</longitude>
+  </city>
+  <city name="Kok-Yatyk">
+    <latitude>40.4219444</latitude>
+    <longitude>72.5841667</longitude>
+  </city>
+  <city name="Kolaryk">
+    <latitude>41.9666667</latitude>
+    <longitude>74.6666667</longitude>
+  </city>
+  <city name="Kolba">
+    <latitude>42.4166667</latitude>
+    <longitude>72.4166667</longitude>
+  </city>
+  <city name="Kolkhoz Imeni Bokonbayeva">
+    <latitude>41.8244444</latitude>
+    <longitude>72.98</longitude>
+  </city>
+  <city name="Kol'">
+    <latitude>41.95</latitude>
+    <longitude>72.3833333</longitude>
+  </city>
+  <city name="Kol'me">
+    <latitude>41.0833333</latitude>
+    <longitude>72.7</longitude>
+  </city>
+  <city name="Kol'tor">
+    <latitude>42.3166667</latitude>
+    <longitude>75.4666667</longitude>
+  </city>
+  <city name="Kol'tsovka">
+    <latitude>42.1152778</latitude>
+    <longitude>76.9933333</longitude>
+  </city>
+  <city name="Kommuna Imeni Karla Marksa">
+    <latitude>42.7</latitude>
+    <longitude>74.0333333</longitude>
+  </city>
+  <city name="Komsomol">
+    <latitude>42.2408333</latitude>
+    <longitude>75.3141667</longitude>
+  </city>
+  <city name="Komsomol'skoye">
+    <latitude>42.9444444</latitude>
+    <longitude>74.4688889</longitude>
+  </city>
+  <city name="Konduva">
+    <latitude>40.7166667</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Kongorchok">
+    <latitude>41.25</latitude>
+    <longitude>74.5333333</longitude>
+  </city>
+  <city name="Kongurat">
+    <latitude>42.5166667</latitude>
+    <longitude>78.2333333</longitude>
+  </city>
+  <city name="Kongurolëng">
+    <latitude>42.1019444</latitude>
+    <longitude>76.6161111</longitude>
+  </city>
+  <city name="Konorchok">
+    <latitude>41.25</latitude>
+    <longitude>74.5333333</longitude>
+  </city>
+  <city name="Konura">
+    <latitude>42.5166667</latitude>
+    <longitude>78.2333333</longitude>
+  </city>
+  <city name="Konur-Olën">
+    <latitude>42.1019444</latitude>
+    <longitude>76.6161111</longitude>
+  </city>
+  <city name="Konur-Ulen">
+    <latitude>42.1019444</latitude>
+    <longitude>76.6161111</longitude>
+  </city>
+  <city name="Kopurbashi">
+    <latitude>40.345</latitude>
+    <longitude>72.6144444</longitude>
+  </city>
+  <city name="Korgon">
+    <latitude>39.9</latitude>
+    <longitude>69.9166667</longitude>
+  </city>
+  <city name="Korgontëbë">
+    <latitude>41.8333333</latitude>
+    <longitude>70.9</longitude>
+  </city>
+  <city name="Korumdu">
+    <latitude>42.6858333</latitude>
+    <longitude>77.3430556</longitude>
+  </city>
+  <city name="Korumdy">
+    <latitude>42.6858333</latitude>
+    <longitude>77.3430556</longitude>
+  </city>
+  <city name="Koshbulak">
+    <latitude>41.4666667</latitude>
+    <longitude>74.4</longitude>
+  </city>
+  <city name="Kosh-Kël'">
+    <latitude>42.5361111</latitude>
+    <longitude>76.6144444</longitude>
+  </city>
+  <city name="Koshkenchi">
+    <latitude>41.0166667</latitude>
+    <longitude>73.05</longitude>
+  </city>
+  <city name="Koshkol'">
+    <latitude>42.5361111</latitude>
+    <longitude>76.6144444</longitude>
+  </city>
+  <city name="Koshmo">
+    <latitude>41.7</latitude>
+    <longitude>72.5166667</longitude>
+  </city>
+  <city name="Koshtëbë">
+    <latitude>41.0833333</latitude>
+    <longitude>74.25</longitude>
+  </city>
+  <city name="Kosh-Tegirmen">
+    <latitude>42.7952778</latitude>
+    <longitude>73.8522222</longitude>
+  </city>
+  <city name="Kotak">
+    <latitude>41.55</latitude>
+    <longitude>70.25</longitude>
+  </city>
+  <city name="Kovak">
+    <latitude>42.4833333</latitude>
+    <longitude>78.15</longitude>
+  </city>
+  <city name="Koy-Kul'">
+    <latitude>42.4833333</latitude>
+    <longitude>78.0666667</longitude>
+  </city>
+  <city name="Koysara">
+    <latitude>42.55</latitude>
+    <longitude>78.1666667</longitude>
+  </city>
+  <city name="Koysary">
+    <latitude>42.55</latitude>
+    <longitude>78.1666667</longitude>
+  </city>
+  <city name="Krasnaya Rechka">
+    <latitude>42.9</latitude>
+    <longitude>74.9666667</longitude>
+  </city>
+  <city name="Krasnooktyabr'skiy">
+    <latitude>42.8333333</latitude>
+    <longitude>74.3166667</longitude>
+  </city>
+  <city name="Krasnorechenskoye">
+    <latitude>42.9</latitude>
+    <longitude>74.9666667</longitude>
+  </city>
+  <city name="Krasnyy Most">
+    <latitude>42.6</latitude>
+    <longitude>75.8333333</longitude>
+  </city>
+  <city name="Krasnyy Oktyabr'">
+    <latitude>42.75</latitude>
+    <longitude>75.6666667</longitude>
+  </city>
+  <city name="Krasnyy Stroitel'">
+    <latitude>42.9366667</latitude>
+    <longitude>74.5941667</longitude>
+  </city>
+  <city name="Kromkol">
+    <latitude>40.3</latitude>
+    <longitude>73.0333333</longitude>
+  </city>
+  <city name="Kugart">
+    <latitude>41.1333333</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Kuk-Karga">
+    <latitude>40.3333333</latitude>
+    <longitude>72.3833333</longitude>
+  </city>
+  <city name="Kuk-Tash">
+    <latitude>41.3333333</latitude>
+    <longitude>71.15</longitude>
+  </city>
+  <city name="Kulanak">
+    <latitude>41.3577778</latitude>
+    <longitude>75.5097222</longitude>
+  </city>
+  <city name="Kulat">
+    <latitude>40.9833333</latitude>
+    <longitude>72.7666667</longitude>
+  </city>
+  <city name="Kul'chigash">
+    <latitude>41.9338889</latitude>
+    <longitude>74.5183333</longitude>
+  </city>
+  <city name="Kulyugen">
+    <latitude>41.1166667</latitude>
+    <longitude>72.7</longitude>
+  </city>
+  <city name="Kum-Bel'">
+    <latitude>41.7333333</latitude>
+    <longitude>75.6666667</longitude>
+  </city>
+  <city name="Kum-Dëbë">
+    <latitude>42.2152778</latitude>
+    <longitude>75.5491667</longitude>
+  </city>
+  <city name="Kum-Döbö">
+    <latitude>42.2152778</latitude>
+    <longitude>75.5491667</longitude>
+  </city>
+  <city name="Kum-Dyube">
+    <latitude>42.2152778</latitude>
+    <longitude>75.5491667</longitude>
+  </city>
+  <city name="Kum-Tyube">
+    <latitude>42.7666667</latitude>
+    <longitude>77.6166667</longitude>
+  </city>
+  <city name="Kunchigösh">
+    <latitude>42.1152778</latitude>
+    <longitude>76.9933333</longitude>
+  </city>
+  <city name="Kunchigysh">
+    <latitude>42.1152778</latitude>
+    <longitude>76.9933333</longitude>
+  </city>
+  <city name="Kunduy">
+    <latitude>42.5333333</latitude>
+    <longitude>78.3333333</longitude>
+  </city>
+  <city name="Kupre">
+    <latitude>42.4666667</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="(( Kurbantal-Mady ))">
+    <latitude>40.5833333</latitude>
+    <longitude>72.9166667</longitude>
+  </city>
+  <city name="Kurbu">
+    <latitude>42.6333333</latitude>
+    <longitude>78.4333333</longitude>
+  </city>
+  <city name="Kurgan-Tepe">
+    <latitude>41.8333333</latitude>
+    <longitude>70.9</longitude>
+  </city>
+  <city name="Kur-Kol">
+    <latitude>40.25</latitude>
+    <longitude>72.3333333</longitude>
+  </city>
+  <city name="Kurmentö">
+    <latitude>42.7833333</latitude>
+    <longitude>78.25</longitude>
+  </city>
+  <city name="Kurmenty">
+    <latitude>42.7833333</latitude>
+    <longitude>78.25</longitude>
+  </city>
+  <city name="Kurort Dzhety-Oguz">
+    <latitude>42.3166667</latitude>
+    <longitude>78.2333333</longitude>
+  </city>
+  <city name="Kurort Koy-Sara">
+    <latitude>42.55</latitude>
+    <longitude>78.1666667</longitude>
+  </city>
+  <city name="Kurort Koysary">
+    <latitude>42.55</latitude>
+    <longitude>78.1666667</longitude>
+  </city>
+  <city name="Kurpsay">
+    <latitude>41.4833333</latitude>
+    <longitude>72.3166667</longitude>
+  </city>
+  <city name="(( Kushchusu ))">
+    <latitude>41.8441667</latitude>
+    <longitude>72.7522222</longitude>
+  </city>
+  <city name="Kutarma">
+    <latitude>42.9</latitude>
+    <longitude>74.25</longitude>
+  </city>
+  <city name="Kutchi">
+    <latitude>40.7</latitude>
+    <longitude>72.9</longitude>
+  </city>
+  <city name="Kutchu">
+    <latitude>40.9833333</latitude>
+    <longitude>73.0333333</longitude>
+  </city>
+  <city name="Kuturga">
+    <latitude>42.75</latitude>
+    <longitude>78.1166667</longitude>
+  </city>
+  <city name="Kuturgan">
+    <latitude>40.9333333</latitude>
+    <longitude>73.4666667</longitude>
+  </city>
+  <city name="Kuybyshev Atyndagy">
+    <latitude>41.5105556</latitude>
+    <longitude>75.8544444</longitude>
+  </city>
+  <city name="Kyrchin">
+    <latitude>39.4666667</latitude>
+    <longitude>72.3333333</longitude>
+  </city>
+  <city name="Kyrgyz-Chek">
+    <latitude>40.5541667</latitude>
+    <longitude>72.8766667</longitude>
+  </city>
+  <city name="Kyrkkazyk">
+    <latitude>41.8333333</latitude>
+    <longitude>72.6833333</longitude>
+  </city>
+  <city name="Kyzart">
+    <latitude>42.0166667</latitude>
+    <longitude>74.95</longitude>
+  </city>
+  <city name="Kyzkol">
+    <latitude>41.1</latitude>
+    <longitude>73.0833333</longitude>
+  </city>
+  <city name="Kyzyl-Adyr">
+    <latitude>42.6294444</latitude>
+    <longitude>71.5905556</longitude>
+  </city>
+  <city name="Kyzyl-Asker">
+    <latitude>42.9</latitude>
+    <longitude>74.55</longitude>
+  </city>
+  <city name="Kyzylbayrak">
+    <latitude>42.75</latitude>
+    <longitude>76.0666667</longitude>
+  </city>
+  <city name="Kyzylbeyit">
+    <latitude>41.5</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Kyzyl-Bulak">
+    <latitude>40.15</latitude>
+    <longitude>73.45</longitude>
+  </city>
+  <city name="Kyzyl-Dëbë">
+    <latitude>42.2019444</latitude>
+    <longitude>75.2625</longitude>
+  </city>
+  <city name="Kyzyldezkan">
+    <latitude>41.1833333</latitude>
+    <longitude>75.7</longitude>
+  </city>
+  <city name="Kyzyl-Döbö">
+    <latitude>42.2019444</latitude>
+    <longitude>75.2625</longitude>
+  </city>
+  <city name="Kyzyl-Dzhar">
+    <latitude>41.2666667</latitude>
+    <longitude>72.0166667</longitude>
+  </city>
+  <city name="Kyzyldzhar">
+    <latitude>40.3</latitude>
+    <longitude>74.2333333</longitude>
+  </city>
+  <city name="Kyzyldzhazy">
+    <latitude>41.7833333</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Kyzyldzhildyz">
+    <latitude>42.7333333</latitude>
+    <longitude>78.0666667</longitude>
+  </city>
+  <city name="Kyzyl-Dzhyldyz">
+    <latitude>41.5636111</latitude>
+    <longitude>75.8530556</longitude>
+  </city>
+  <city name="Kyzylemgek">
+    <latitude>41.95</latitude>
+    <longitude>74.9333333</longitude>
+  </city>
+  <city name="Kyzyleshme">
+    <latitude>39.5666667</latitude>
+    <longitude>72.2666667</longitude>
+  </city>
+  <city name="Kyzylkishlak">
+    <latitude>41.5166667</latitude>
+    <longitude>72.2</longitude>
+  </city>
+  <city name="Kyzyl-Kiya">
+    <latitude>40.2538889</latitude>
+    <longitude>72.1227778</longitude>
+  </city>
+  <city name="Kyzylkiya">
+    <latitude>40.4833333</latitude>
+    <longitude>73.1666667</longitude>
+  </city>
+  <city name="Kyzylkorgon">
+    <latitude>40.1833333</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Kyzylkurgan">
+    <latitude>41.7333333</latitude>
+    <longitude>74.2</longitude>
+  </city>
+  <city name="Kyzyl-Kyshtak">
+    <latitude>40.5369444</latitude>
+    <longitude>72.7766667</longitude>
+  </city>
+  <city name="Kyzyl-Kyya">
+    <latitude>40.2538889</latitude>
+    <longitude>72.1227778</longitude>
+  </city>
+  <city name="Kyzyl-Oktyabr'">
+    <latitude>41.35</latitude>
+    <longitude>73.9</longitude>
+  </city>
+  <city name="Kyzyloy">
+    <latitude>41.9666667</latitude>
+    <longitude>74.15</longitude>
+  </city>
+  <city name="Kyzylozkërush">
+    <latitude>41.6333333</latitude>
+    <longitude>73.4166667</longitude>
+  </city>
+  <city name="Kyzylsangir">
+    <latitude>40.6333333</latitude>
+    <longitude>73.1166667</longitude>
+  </city>
+  <city name="Kyzylsu">
+    <latitude>41.15</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Kyzyl-Suu">
+    <latitude>42.3408333</latitude>
+    <longitude>77.9980556</longitude>
+  </city>
+  <city name="Kyzyl-Tala">
+    <latitude>39.9666667</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Kyzyl-Tana">
+    <latitude>40.35</latitude>
+    <longitude>73.3833333</longitude>
+  </city>
+  <city name="Kyzyltëbë">
+    <latitude>42.2019444</latitude>
+    <longitude>75.2625</longitude>
+  </city>
+  <city name="Kyzyl-Tokay">
+    <latitude>41.3833333</latitude>
+    <longitude>71.3333333</longitude>
+  </city>
+  <city name="Kyzyltokoy">
+    <latitude>41.3833333</latitude>
+    <longitude>71.3333333</longitude>
+  </city>
+  <city name="Kyzylto">
+    <latitude>39.6666667</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Kyzyltu">
+    <latitude>41.6166667</latitude>
+    <longitude>73.3333333</longitude>
+  </city>
+  <city name="Kyzyl-Tuu">
+    <latitude>41.0511111</latitude>
+    <longitude>75.5544444</longitude>
+  </city>
+  <city name="Kyzyl-Tyube">
+    <latitude>42.2019444</latitude>
+    <longitude>75.2625</longitude>
+  </city>
+  <city name="Kyzyltyube">
+    <latitude>42.0736111</latitude>
+    <longitude>76.8086111</longitude>
+  </city>
+  <city name="Kyzylungungir">
+    <latitude>41.3666667</latitude>
+    <longitude>73.0666667</longitude>
+  </city>
+  <city name="Kyzylunkyur">
+    <latitude>41.3666667</latitude>
+    <longitude>73.0666667</longitude>
+  </city>
+  <city name="Kyzyluran">
+    <latitude>41.7</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Kyzyluzgorysh">
+    <latitude>41.6333333</latitude>
+    <longitude>73.4166667</longitude>
+  </city>
+  <city name="Kyzylyak">
+    <latitude>40.2666667</latitude>
+    <longitude>72.05</longitude>
+  </city>
+  <city name="Kyzylzhildyz">
+    <latitude>41.6666667</latitude>
+    <longitude>73.4166667</longitude>
+  </city>
+  <city name="Kyzymchek-Karakash">
+    <latitude>40.35</latitude>
+    <longitude>73.4833333</longitude>
+  </city>
+  <city name="Kzyl-Kiya">
+    <latitude>40.2538889</latitude>
+    <longitude>72.1227778</longitude>
+  </city>
+  <city name="Kzyl-Kurgan">
+    <latitude>40.1833333</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Laylysu">
+    <latitude>41.4666667</latitude>
+    <longitude>75.5166667</longitude>
+  </city>
+  <city name="Lay-Tala">
+    <latitude>40.6</latitude>
+    <longitude>73.6166667</longitude>
+  </city>
+  <city name="Lebedinka">
+    <latitude>42.8802778</latitude>
+    <longitude>74.6805556</longitude>
+  </city>
+  <city name="Lebedinovka">
+    <latitude>42.8802778</latitude>
+    <longitude>74.6805556</longitude>
+  </city>
+  <city name="Lembur">
+    <latitude>40.0666667</latitude>
+    <longitude>71.1</longitude>
+  </city>
+  <city name="Lenin-Dzhol">
+    <latitude>41.0666667</latitude>
+    <longitude>72.6333333</longitude>
+  </city>
+  <city name="Leninjol">
+    <latitude>41.0666667</latitude>
+    <longitude>72.6333333</longitude>
+  </city>
+  <city name="Leninpol'">
+    <latitude>42.4833333</latitude>
+    <longitude>71.9166667</longitude>
+  </city>
+  <city name="Leninskoe">
+    <latitude>42.9602778</latitude>
+    <longitude>74.6555556</longitude>
+  </city>
+  <city name="Leninskoye">
+    <latitude>42.9602778</latitude>
+    <longitude>74.6555556</longitude>
+  </city>
+  <city name="Limbur">
+    <latitude>40.0666667</latitude>
+    <longitude>71.1</longitude>
+  </city>
+  <city name="Lipenka">
+    <latitude>42.5333333</latitude>
+    <longitude>78.2</longitude>
+  </city>
+  <city name="Lipenskoye">
+    <latitude>42.5333333</latitude>
+    <longitude>78.2</longitude>
+  </city>
+  <city name="Lizogubovka">
+    <latitude>42.6666667</latitude>
+    <longitude>78.8333333</longitude>
+  </city>
+  <city name="Lugovoye">
+    <latitude>42.7666667</latitude>
+    <longitude>78.2666667</longitude>
+  </city>
+  <city name="Lyaglan">
+    <latitude>40.3166667</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Lyaglyan">
+    <latitude>40.3166667</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Lyangar">
+    <latitude>39.8</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Lyaylyak">
+    <latitude>39.9</latitude>
+    <longitude>69.9166667</longitude>
+  </city>
+  <city name="Lyubinskiy">
+    <latitude>41.15</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Lyublino">
+    <latitude>41.15</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Maat-Murat">
+    <latitude>39.85</latitude>
+    <longitude>69.7333333</longitude>
+  </city>
+  <city name="Madaniyat">
+    <latitude>40.5902778</latitude>
+    <longitude>72.8663889</longitude>
+  </city>
+  <city name="Mady">
+    <latitude>40.5388889</latitude>
+    <longitude>72.9458333</longitude>
+  </city>
+  <city name="Maevka">
+    <latitude>42.9102778</latitude>
+    <longitude>74.5686111</longitude>
+  </city>
+  <city name="Mallisay">
+    <latitude>41.2833333</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Malovodnoye">
+    <latitude>42.8333333</latitude>
+    <longitude>74.3666667</longitude>
+  </city>
+  <city name="Maman">
+    <latitude>42.5</latitude>
+    <longitude>78.4333333</longitude>
+  </city>
+  <city name="Mama-Sadyk">
+    <latitude>41.0666667</latitude>
+    <longitude>73.05</longitude>
+  </city>
+  <city name="Mama-Sady">
+    <latitude>41.0666667</latitude>
+    <longitude>73.05</longitude>
+  </city>
+  <city name="Mamatkul">
+    <latitude>42.7333333</latitude>
+    <longitude>78.0666667</longitude>
+  </city>
+  <city name="Manduz">
+    <latitude>41.45</latitude>
+    <longitude>71.95</longitude>
+  </city>
+  <city name="Mangit">
+    <latitude>40.4544444</latitude>
+    <longitude>72.57</longitude>
+  </city>
+  <city name="Mangyt">
+    <latitude>40.4544444</latitude>
+    <longitude>72.57</longitude>
+  </city>
+  <city name="Margun">
+    <latitude>40.0333333</latitude>
+    <longitude>69.9333333</longitude>
+  </city>
+  <city name="Mariinskoye">
+    <latitude>42.4666667</latitude>
+    <longitude>78.3</longitude>
+  </city>
+  <city name="Mashan">
+    <latitude>39.4833333</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Massy">
+    <latitude>41.0666667</latitude>
+    <longitude>72.6333333</longitude>
+  </city>
+  <city name="Mast-Murat">
+    <latitude>39.85</latitude>
+    <longitude>69.7333333</longitude>
+  </city>
+  <city name="Maydan">
+    <latitude>40.05</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Mayevka">
+    <latitude>42.9102778</latitude>
+    <longitude>74.5686111</longitude>
+  </city>
+  <city name="Mayli-Say">
+    <latitude>41.2833333</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Mayli-Su">
+    <latitude>41.1833333</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Mayluu-Suu">
+    <latitude>41.2833333</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Maylysay">
+    <latitude>41.2833333</latitude>
+    <longitude>72.45</longitude>
+  </city>
+  <city name="Mayly-Suu">
+    <latitude>41.1833333</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Maymak">
+    <latitude>42.7</latitude>
+    <longitude>71.2166667</longitude>
+  </city>
+  <city name="Mazar-Bulak">
+    <latitude>41.1166667</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Mazar">
+    <latitude>41.9166667</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Mazarsu">
+    <latitude>41.9166667</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Medrese">
+    <latitude>40.3333333</latitude>
+    <longitude>72.2666667</longitude>
+  </city>
+  <city name="Mekka-Turpak">
+    <latitude>41.0833333</latitude>
+    <longitude>72.7666667</longitude>
+  </city>
+  <city name="Mikhaylovka">
+    <latitude>41.1</latitude>
+    <longitude>73.2166667</longitude>
+  </city>
+  <city name="Millyanfan">
+    <latitude>42.9666667</latitude>
+    <longitude>74.8</longitude>
+  </city>
+  <city name="Milyanfan">
+    <latitude>42.9666667</latitude>
+    <longitude>74.8</longitude>
+  </city>
+  <city name="Min-Bulak">
+    <latitude>41.4761111</latitude>
+    <longitude>75.8508333</longitude>
+  </city>
+  <city name="Mineral'nyy Istochnik Altyn-Arasan">
+    <latitude>42.3666667</latitude>
+    <longitude>78.6</longitude>
+  </city>
+  <city name="Ming-Bulak">
+    <latitude>41.4761111</latitude>
+    <longitude>75.8508333</longitude>
+  </city>
+  <city name="Mingteke">
+    <latitude>41.95</latitude>
+    <longitude>74.3833333</longitude>
+  </city>
+  <city name="Min-Kush">
+    <latitude>41.6833333</latitude>
+    <longitude>74.4666667</longitude>
+  </city>
+  <city name="Minteke">
+    <latitude>41.95</latitude>
+    <longitude>74.3833333</longitude>
+  </city>
+  <city name="Mirza-Aki">
+    <latitude>40.75</latitude>
+    <longitude>73.4166667</longitude>
+  </city>
+  <city name="Mogila Samay">
+    <latitude>42.5666667</latitude>
+    <longitude>78.7</longitude>
+  </city>
+  <city name="Mogol">
+    <latitude>41.3</latitude>
+    <longitude>73.0333333</longitude>
+  </city>
+  <city name="Molotovabad">
+    <latitude>40.2333333</latitude>
+    <longitude>72.0666667</longitude>
+  </city>
+  <city name="Molotovskiy">
+    <latitude>42.8166667</latitude>
+    <longitude>73.6833333</longitude>
+  </city>
+  <city name="Molotovsk">
+    <latitude>42.8166667</latitude>
+    <longitude>73.6833333</longitude>
+  </city>
+  <city name="Monchak-Tepe">
+    <latitude>41.3</latitude>
+    <longitude>71.3166667</longitude>
+  </city>
+  <city name="Mukur">
+    <latitude>41.5333333</latitude>
+    <longitude>71.8833333</longitude>
+  </city>
+  <city name="Munduz">
+    <latitude>42.45</latitude>
+    <longitude>78.1333333</longitude>
+  </city>
+  <city name="Murakinskoye">
+    <latitude>42.75</latitude>
+    <longitude>74.0</longitude>
+  </city>
+  <city name="Murdash">
+    <latitude>40.15</latitude>
+    <longitude>73.45</longitude>
+  </city>
+  <city name="Murkut">
+    <latitude>40.3</latitude>
+    <longitude>72.2</longitude>
+  </city>
+  <city name="Musabek">
+    <latitude>41.7166667</latitude>
+    <longitude>70.7666667</longitude>
+  </city>
+  <city name="Muvabek">
+    <latitude>41.7166667</latitude>
+    <longitude>70.7666667</longitude>
+  </city>
+  <city name="Muztor">
+    <latitude>41.8294444</latitude>
+    <longitude>72.8547222</longitude>
+  </city>
+  <city name="Mykach">
+    <latitude>42.9305556</latitude>
+    <longitude>74.6536111</longitude>
+  </city>
+  <city name="Mykan">
+    <latitude>42.9305556</latitude>
+    <longitude>74.6536111</longitude>
+  </city>
+  <city name="Naiza">
+    <latitude>41.5833333</latitude>
+    <longitude>70.3833333</longitude>
+  </city>
+  <city name="Nariman">
+    <latitude>40.5541667</latitude>
+    <longitude>72.7911111</longitude>
+  </city>
+  <city name="Naron">
+    <latitude>41.43</latitude>
+    <longitude>76.0</longitude>
+  </city>
+  <city name="Naryn">
+    <latitude>41.3458333</latitude>
+    <longitude>72.21</longitude>
+  </city>
+  <city name="Naukent">
+    <latitude>41.05</latitude>
+    <longitude>72.5666667</longitude>
+  </city>
+  <city name="Nayman">
+    <latitude>40.2833333</latitude>
+    <longitude>72.3333333</longitude>
+  </city>
+  <city name="Nayza">
+    <latitude>41.5833333</latitude>
+    <longitude>70.3833333</longitude>
+  </city>
+  <city name="Nazar-Makhram">
+    <latitude>40.6666667</latitude>
+    <longitude>72.0666667</longitude>
+  </city>
+  <city name="Nazyk">
+    <latitude>39.95</latitude>
+    <longitude>73.4666667</longitude>
+  </city>
+  <city name="Nichke">
+    <latitude>41.7166667</latitude>
+    <longitude>73.4166667</longitude>
+  </city>
+  <city name="Nikolaevskoye">
+    <latitude>42.7</latitude>
+    <longitude>78.3</longitude>
+  </city>
+  <city name="Nikolayevka">
+    <latitude>42.8</latitude>
+    <longitude>73.6833333</longitude>
+  </city>
+  <city name="Nikolayevskoye">
+    <latitude>42.7</latitude>
+    <longitude>78.3</longitude>
+  </city>
+  <city name="Niyaz">
+    <latitude>41.0166667</latitude>
+    <longitude>72.95</longitude>
+  </city>
+  <city name="Nizhniy Norus">
+    <latitude>42.9236111</latitude>
+    <longitude>74.7433333</longitude>
+  </city>
+  <city name="Nizhniy Orok">
+    <latitude>42.8083333</latitude>
+    <longitude>74.5358333</longitude>
+  </city>
+  <city name="Nizhnyaya Ala-Archa">
+    <latitude>42.9188889</latitude>
+    <longitude>74.5675</longitude>
+  </city>
+  <city name="Noruskel'">
+    <latitude>39.6166667</latitude>
+    <longitude>72.3333333</longitude>
+  </city>
+  <city name="Novokonstantinovka">
+    <latitude>42.55</latitude>
+    <longitude>78.6666667</longitude>
+  </city>
+  <city name="Novo Konstantinovka">
+    <latitude>42.6</latitude>
+    <longitude>78.7333333</longitude>
+  </city>
+  <city name="Novo-Mikhaylovka">
+    <latitude>42.8166667</latitude>
+    <longitude>75.5333333</longitude>
+  </city>
+  <city name="Novopavlovka">
+    <latitude>42.8705556</latitude>
+    <longitude>74.4866667</longitude>
+  </city>
+  <city name="Novopokrovka">
+    <latitude>42.8658333</latitude>
+    <longitude>74.7361111</longitude>
+  </city>
+  <city name="Novopokrovskoye">
+    <latitude>42.8658333</latitude>
+    <longitude>74.7361111</longitude>
+  </city>
+  <city name="Novo-Pokrovskoye">
+    <latitude>42.3408333</latitude>
+    <longitude>77.9980556</longitude>
+  </city>
+  <city name="Novorossiyka">
+    <latitude>42.735</latitude>
+    <longitude>76.0791667</longitude>
+  </city>
+  <city name="Novorssiyskoye">
+    <latitude>42.735</latitude>
+    <longitude>76.0791667</longitude>
+  </city>
+  <city name="Novo-Troitskoye">
+    <latitude>42.8333333</latitude>
+    <longitude>74.3166667</longitude>
+  </city>
+  <city name="Novovoznesenovka">
+    <latitude>42.6</latitude>
+    <longitude>78.7333333</longitude>
+  </city>
+  <city name="Novo-Voznesenskoye">
+    <latitude>42.6</latitude>
+    <longitude>78.7333333</longitude>
+  </city>
+  <city name="Novoye Pokrovskoye">
+    <latitude>42.8658333</latitude>
+    <longitude>74.7361111</longitude>
+  </city>
+  <city name="Nov Pokrovka">
+    <latitude>42.3408333</latitude>
+    <longitude>77.9980556</longitude>
+  </city>
+  <city name="Noygut">
+    <latitude>40.0166667</latitude>
+    <longitude>71.2166667</longitude>
+  </city>
+  <city name="Nura">
+    <latitude>40.9</latitude>
+    <longitude>73.1833333</longitude>
+  </city>
+  <city name="Okhna">
+    <latitude>40.05</latitude>
+    <longitude>71.7</longitude>
+  </city>
+  <city name="Oktyabr'">
+    <latitude>41.8166667</latitude>
+    <longitude>73.0333333</longitude>
+  </city>
+  <city name="Oktyabr'skiy">
+    <latitude>42.8</latitude>
+    <longitude>75.35</longitude>
+  </city>
+  <city name="Oktyabr'skoye">
+    <latitude>41.05</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="On-Archa">
+    <latitude>41.5666667</latitude>
+    <longitude>75.8666667</longitude>
+  </city>
+  <city name="Oral">
+    <latitude>41.8666667</latitude>
+    <longitude>74.3666667</longitude>
+  </city>
+  <city name="Orgochor">
+    <latitude>42.3666667</latitude>
+    <longitude>78.05</longitude>
+  </city>
+  <city name="Orgo">
+    <latitude>41.8166667</latitude>
+    <longitude>73.55</longitude>
+  </city>
+  <city name="Örgörüsh">
+    <latitude>41.21</latitude>
+    <longitude>76.2069444</longitude>
+  </city>
+  <city name="Orlevka">
+    <latitude>42.5333333</latitude>
+    <longitude>71.95</longitude>
+  </city>
+  <city name="Orlinka">
+    <latitude>42.6166667</latitude>
+    <longitude>78.5333333</longitude>
+  </city>
+  <city name="Orlinovka">
+    <latitude>42.6166667</latitude>
+    <longitude>78.5333333</longitude>
+  </city>
+  <city name="Orlinov">
+    <latitude>42.6166667</latitude>
+    <longitude>78.5333333</longitude>
+  </city>
+  <city name="Orlovka">
+    <latitude>42.7475</latitude>
+    <longitude>75.5888889</longitude>
+  </city>
+  <city name="Orlov">
+    <latitude>42.5333333</latitude>
+    <longitude>71.95</longitude>
+  </city>
+  <city name="Orlovskoye">
+    <latitude>42.7475</latitude>
+    <longitude>75.5888889</longitude>
+  </city>
+  <city name="Ormok">
+    <latitude>41.5333333</latitude>
+    <longitude>75.9166667</longitude>
+  </city>
+  <city name="Ornok">
+    <latitude>41.5333333</latitude>
+    <longitude>75.9166667</longitude>
+  </city>
+  <city name="Orta-Uryukty">
+    <latitude>42.7397222</latitude>
+    <longitude>77.9325</longitude>
+  </city>
+  <city name="Orto-Karakain">
+    <latitude>41.0333333</latitude>
+    <longitude>75.4666667</longitude>
+  </city>
+  <city name="Ortok">
+    <latitude>42.2</latitude>
+    <longitude>75.3661111</longitude>
+  </city>
+  <city name="Orto-Malay">
+    <latitude>41.05</latitude>
+    <longitude>73.2</longitude>
+  </city>
+  <city name="Orto-Nura">
+    <latitude>41.4536111</latitude>
+    <longitude>76.2161111</longitude>
+  </city>
+  <city name="Orto-Say">
+    <latitude>42.8016667</latitude>
+    <longitude>74.5955556</longitude>
+  </city>
+  <city name="Orto-Saz">
+    <latitude>41.4466667</latitude>
+    <longitude>76.0622222</longitude>
+  </city>
+  <city name="Ortoterek">
+    <latitude>41.9333333</latitude>
+    <longitude>71.35</longitude>
+  </city>
+  <city name="Orto-Tokay">
+    <latitude>42.3425</latitude>
+    <longitude>76.0205556</longitude>
+  </city>
+  <city name="Orto-Tokoy">
+    <latitude>42.3425</latitude>
+    <longitude>76.0205556</longitude>
+  </city>
+  <city name="Osaviakhim">
+    <latitude>41.2333333</latitude>
+    <longitude>74.5333333</longitude>
+  </city>
+  <city name="Osh">
+    <latitude>40.5294444</latitude>
+    <longitude>72.79</longitude>
+  </city>
+  <city name="Otdeleniye Shestoye Sovkhoza Uchterek">
+    <latitude>41.7794444</latitude>
+    <longitude>72.925</longitude>
+  </city>
+  <city name="Otradnoye">
+    <latitude>42.5833333</latitude>
+    <longitude>78.65</longitude>
+  </city>
+  <city name="Ottuk">
+    <latitude>41.6233333</latitude>
+    <longitude>75.8430556</longitude>
+  </city>
+  <city name="Otuz-Adyr">
+    <latitude>40.6047222</latitude>
+    <longitude>72.965</longitude>
+  </city>
+  <city name="Otuzul">
+    <latitude>42.55</latitude>
+    <longitude>78.4833333</longitude>
+  </city>
+  <city name="Oyalma">
+    <latitude>41.7166667</latitude>
+    <longitude>72.4833333</longitude>
+  </city>
+  <city name="Oy-Bir-Dzhilga">
+    <latitude>42.6666667</latitude>
+    <longitude>75.4666667</longitude>
+  </city>
+  <city name="Oytal">
+    <latitude>40.4</latitude>
+    <longitude>74.1</longitude>
+  </city>
+  <city name="Oytersken">
+    <latitude>41.1333333</latitude>
+    <longitude>75.8</longitude>
+  </city>
+  <city name="Ozgëryush">
+    <latitude>41.21</latitude>
+    <longitude>76.2069444</longitude>
+  </city>
+  <city name="Özgön">
+    <latitude>40.7666667</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Padak">
+    <latitude>41.3333333</latitude>
+    <longitude>71.8166667</longitude>
+  </city>
+  <city name="(( Pakyr-Abad ))">
+    <latitude>40.5833333</latitude>
+    <longitude>72.9833333</longitude>
+  </city>
+  <city name="Pamyat' Il'icha">
+    <latitude>40.7833333</latitude>
+    <longitude>73.3833333</longitude>
+  </city>
+  <city name="Panfilovskoye">
+    <latitude>42.8</latitude>
+    <longitude>73.6833333</longitude>
+  </city>
+  <city name="Papan">
+    <latitude>40.3</latitude>
+    <longitude>72.9833333</longitude>
+  </city>
+  <city name="Paul'gan">
+    <latitude>40.1333333</latitude>
+    <longitude>71.7166667</longitude>
+  </city>
+  <city name="Pavloskoye">
+    <latitude>42.7333333</latitude>
+    <longitude>74.5166667</longitude>
+  </city>
+  <city name="Pervomayskiy">
+    <latitude>42.8166667</latitude>
+    <longitude>74.0666667</longitude>
+  </city>
+  <city name="Pervomayskoye">
+    <latitude>42.8166667</latitude>
+    <longitude>74.0666667</longitude>
+  </city>
+  <city name="Pervoye Maya">
+    <latitude>41.1761111</latitude>
+    <longitude>76.0538889</longitude>
+  </city>
+  <city name="Peschanoye">
+    <latitude>42.4333333</latitude>
+    <longitude>77.9472222</longitude>
+  </city>
+  <city name="Petrovka">
+    <latitude>42.8166667</latitude>
+    <longitude>74.0166667</longitude>
+  </city>
+  <city name="Petrovskoye">
+    <latitude>42.8166667</latitude>
+    <longitude>74.0166667</longitude>
+  </city>
+  <city name="Pishkek">
+    <latitude>42.8730556</latitude>
+    <longitude>74.6002778</longitude>
+  </city>
+  <city name="Pishpek">
+    <latitude>42.8730556</latitude>
+    <longitude>74.6002778</longitude>
+  </city>
+  <city name="Podachi">
+    <latitude>40.9666667</latitude>
+    <longitude>72.65</longitude>
+  </city>
+  <city name="Pogranichnik">
+    <latitude>41.0166667</latitude>
+    <longitude>75.4666667</longitude>
+  </city>
+  <city name="Pokrovka">
+    <latitude>42.8186111</latitude>
+    <longitude>75.2808333</longitude>
+  </city>
+  <city name="Pokrovskoye">
+    <latitude>40.7</latitude>
+    <longitude>73.15</longitude>
+  </city>
+  <city name="Preobrazhenskoye">
+    <latitude>42.75</latitude>
+    <longitude>78.3333333</longitude>
+  </city>
+  <city name="Prigorodnoye">
+    <latitude>42.8936111</latitude>
+    <longitude>74.5486111</longitude>
+  </city>
+  <city name="Pristan'-Przheval'sk">
+    <latitude>42.55</latitude>
+    <longitude>78.3</longitude>
+  </city>
+  <city name="Privokzal'no-Voznesenskoye">
+    <latitude>42.8333333</latitude>
+    <longitude>74.5333333</longitude>
+  </city>
+  <city name="Privokzal'noye">
+    <latitude>42.8333333</latitude>
+    <longitude>74.5333333</longitude>
+  </city>
+  <city name="Prjeval'sk">
+    <latitude>42.4833333</latitude>
+    <longitude>78.4</longitude>
+  </city>
+  <city name="Przheval'sk">
+    <latitude>42.4833333</latitude>
+    <longitude>78.4</longitude>
+  </city>
+  <city name="Pul'gan">
+    <latitude>40.1333333</latitude>
+    <longitude>71.7166667</longitude>
+  </city>
+  <city name="Pul'gon">
+    <latitude>40.1333333</latitude>
+    <longitude>71.7166667</longitude>
+  </city>
+  <city name="Pum">
+    <latitude>40.0833333</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Pyshvyrkan">
+    <latitude>40.2</latitude>
+    <longitude>72.25</longitude>
+  </city>
+  <city name="Radinan">
+    <latitude>40.2666667</latitude>
+    <longitude>72.1</longitude>
+  </city>
+  <city name="Raut">
+    <latitude>39.75</latitude>
+    <longitude>70.9166667</longitude>
+  </city>
+  <city name="Ravat">
+    <latitude>39.9</latitude>
+    <longitude>70.2</longitude>
+  </city>
+  <city name="Razdol'noye">
+    <latitude>42.6166667</latitude>
+    <longitude>78.7333333</longitude>
+  </city>
+  <city name="Rendzhit">
+    <latitude>41.4</latitude>
+    <longitude>71.85</longitude>
+  </city>
+  <city name="Renzhit">
+    <latitude>41.4</latitude>
+    <longitude>71.85</longitude>
+  </city>
+  <city name="Romanovka">
+    <latitude>42.4666667</latitude>
+    <longitude>71.95</longitude>
+  </city>
+  <city name="Romanovskoye">
+    <latitude>42.8666667</latitude>
+    <longitude>74.3333333</longitude>
+  </city>
+  <city name="Rybach'e">
+    <latitude>42.4611111</latitude>
+    <longitude>76.1802778</longitude>
+  </city>
+  <city name="Rybach'ye">
+    <latitude>42.4333333</latitude>
+    <longitude>76.2</longitude>
+  </city>
+  <city name="Rybpunkt">
+    <latitude>42.3694444</latitude>
+    <longitude>77.8952778</longitude>
+  </city>
+  <city name="Sadovoye">
+    <latitude>42.8666667</latitude>
+    <longitude>74.2</longitude>
+  </city>
+  <city name="Safarovskoye">
+    <latitude>42.8166667</latitude>
+    <longitude>75.6</longitude>
+  </city>
+  <city name="Sagöz-Kandör">
+    <latitude>41.95</latitude>
+    <longitude>72.5166667</longitude>
+  </city>
+  <city name="Sagyz-Kandyk">
+    <latitude>41.95</latitude>
+    <longitude>72.5166667</longitude>
+  </city>
+  <city name="Sagyz-Kandyr">
+    <latitude>41.95</latitude>
+    <longitude>72.5166667</longitude>
+  </city>
+  <city name="Salamalik">
+    <latitude>40.85</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Salyam-Alik">
+    <latitude>40.85</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Salyam-Alim">
+    <latitude>40.85</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Salyam-Alyk">
+    <latitude>40.85</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Samansur">
+    <latitude>42.7833333</latitude>
+    <longitude>75.5166667</longitude>
+  </city>
+  <city name="Santash">
+    <latitude>42.75</latitude>
+    <longitude>78.7</longitude>
+  </city>
+  <city name="Sarabulak">
+    <latitude>41.1666667</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Saragata">
+    <latitude>41.7333333</latitude>
+    <longitude>73.2</longitude>
+  </city>
+  <city name="Sarbagysh">
+    <latitude>42.8166667</latitude>
+    <longitude>75.6</longitude>
+  </city>
+  <city name="Saritash">
+    <latitude>39.7333333</latitude>
+    <longitude>73.25</longitude>
+  </city>
+  <city name="Sarkisar">
+    <latitude>40.3333333</latitude>
+    <longitude>73.2</longitude>
+  </city>
+  <city name="Sarö-Tash">
+    <latitude>39.7333333</latitude>
+    <longitude>73.25</longitude>
+  </city>
+  <city name="Sarsagut">
+    <latitude>41.95</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Sar">
+    <latitude>41.6833333</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Saru">
+    <latitude>42.3236111</latitude>
+    <longitude>77.9208333</longitude>
+  </city>
+  <city name="Saruu">
+    <latitude>42.3236111</latitude>
+    <longitude>77.9208333</longitude>
+  </city>
+  <city name="Sarybiya">
+    <latitude>41.1</latitude>
+    <longitude>72.3666667</longitude>
+  </city>
+  <city name="Sarybulak">
+    <latitude>41.1666667</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Sary-Bulak">
+    <latitude>41.9647222</latitude>
+    <longitude>75.7536111</longitude>
+  </city>
+  <city name="Sarybulun">
+    <latitude>41.4333333</latitude>
+    <longitude>74.1166667</longitude>
+  </city>
+  <city name="Sary-Dzhon">
+    <latitude>42.8027778</latitude>
+    <longitude>74.7422222</longitude>
+  </city>
+  <city name="Sarykamysh">
+    <latitude>41.7</latitude>
+    <longitude>72.7</longitude>
+  </city>
+  <city name="Sary-Kamysh">
+    <latitude>42.4858333</latitude>
+    <longitude>76.2866667</longitude>
+  </city>
+  <city name="Sarykashkar">
+    <latitude>41.4</latitude>
+    <longitude>71.85</longitude>
+  </city>
+  <city name="Sary">
+    <latitude>40.8833333</latitude>
+    <longitude>73.7333333</longitude>
+  </city>
+  <city name="Sarysogat">
+    <latitude>41.95</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Sarysogot">
+    <latitude>41.95</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Sary-Tash">
+    <latitude>39.7333333</latitude>
+    <longitude>73.25</longitude>
+  </city>
+  <city name="Sarytëbë">
+    <latitude>42.75</latitude>
+    <longitude>78.4</longitude>
+  </city>
+  <city name="Sassyk">
+    <latitude>40.7833333</latitude>
+    <longitude>73.45</longitude>
+  </city>
+  <city name="Savay">
+    <latitude>40.75</latitude>
+    <longitude>72.9833333</longitude>
+  </city>
+  <city name="Saydi-Kum">
+    <latitude>40.95</latitude>
+    <longitude>72.6</longitude>
+  </city>
+  <city name="Saylyk">
+    <latitude>42.8</latitude>
+    <longitude>75.4</longitude>
+  </city>
+  <city name="Sazanovka">
+    <latitude>42.7363889</latitude>
+    <longitude>77.6641667</longitude>
+  </city>
+  <city name="Sazanovskoye">
+    <latitude>42.7363889</latitude>
+    <longitude>77.6641667</longitude>
+  </city>
+  <city name="Saz">
+    <latitude>42.7333333</latitude>
+    <longitude>74.25</longitude>
+  </city>
+  <city name="Segizinchi Mart">
+    <latitude>41.4563889</latitude>
+    <longitude>75.4044444</longitude>
+  </city>
+  <city name="Sekelek">
+    <latitude>40.65</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Selektsionnoye">
+    <latitude>42.83</latitude>
+    <longitude>74.5241667</longitude>
+  </city>
+  <city name="Seluka">
+    <latitude>39.9302778</latitude>
+    <longitude>69.5697222</longitude>
+  </city>
+  <city name="Selukta">
+    <latitude>39.9302778</latitude>
+    <longitude>69.5697222</longitude>
+  </city>
+  <city name="Semënovka">
+    <latitude>42.7222222</latitude>
+    <longitude>77.5475</longitude>
+  </city>
+  <city name="Semenovskoye">
+    <latitude>42.7222222</latitude>
+    <longitude>77.5475</longitude>
+  </city>
+  <city name="Seyde-Kum">
+    <latitude>40.95</latitude>
+    <longitude>72.6</longitude>
+  </city>
+  <city name="Shabdan">
+    <latitude>42.735</latitude>
+    <longitude>76.0791667</longitude>
+  </city>
+  <city name="Shadymyr">
+    <latitude>39.9166667</latitude>
+    <longitude>70.0666667</longitude>
+  </city>
+  <city name="Shakaptar">
+    <latitude>41.2166667</latitude>
+    <longitude>71.3166667</longitude>
+  </city>
+  <city name="Shalba">
+    <latitude>42.4333333</latitude>
+    <longitude>78.1333333</longitude>
+  </city>
+  <city name="Shaldyr">
+    <latitude>41.4666667</latitude>
+    <longitude>71.2</longitude>
+  </city>
+  <city name="Shaltak">
+    <latitude>40.5333333</latitude>
+    <longitude>73.0333333</longitude>
+  </city>
+  <city name="Shamaldy-Say">
+    <latitude>41.2</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Shamalterek">
+    <latitude>40.7833333</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Shamalyk">
+    <latitude>41.5166667</latitude>
+    <longitude>72.6833333</longitude>
+  </city>
+  <city name="Shamshaly">
+    <latitude>40.1333333</latitude>
+    <longitude>72.65</longitude>
+  </city>
+  <city name="Shamsi">
+    <latitude>42.7</latitude>
+    <longitude>75.3833333</longitude>
+  </city>
+  <city name="Shankol">
+    <latitude>40.2</latitude>
+    <longitude>72.75</longitude>
+  </city>
+  <city name="Shark">
+    <latitude>40.5541667</latitude>
+    <longitude>72.8766667</longitude>
+  </city>
+  <city name="Shaty">
+    <latitude>42.7666667</latitude>
+    <longitude>78.3666667</longitude>
+  </city>
+  <city name="Shaydan">
+    <latitude>41.0833333</latitude>
+    <longitude>72.7</longitude>
+  </city>
+  <city name="Shekaftar">
+    <latitude>41.2166667</latitude>
+    <longitude>71.3166667</longitude>
+  </city>
+  <city name="Sheker">
+    <latitude>42.5333333</latitude>
+    <longitude>71.15</longitude>
+  </city>
+  <city name="Sheltak">
+    <latitude>40.5333333</latitude>
+    <longitude>73.0333333</longitude>
+  </city>
+  <city name="Sherif">
+    <latitude>40.55</latitude>
+    <longitude>74.4166667</longitude>
+  </city>
+  <city name="Shibbe">
+    <latitude>39.9</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Shidyr">
+    <latitude>41.0833333</latitude>
+    <longitude>72.7166667</longitude>
+  </city>
+  <city name="Shigay">
+    <latitude>39.9666667</latitude>
+    <longitude>72.1</longitude>
+  </city>
+  <city name="Shirak">
+    <latitude>42.4666667</latitude>
+    <longitude>78.2</longitude>
+  </city>
+  <city name="Shirali">
+    <latitude>40.75</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Shlanauz">
+    <latitude>39.9166667</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Shopokov">
+    <latitude>42.8333333</latitude>
+    <longitude>74.3166667</longitude>
+  </city>
+  <city name="Shorkishlak">
+    <latitude>40.55</latitude>
+    <longitude>72.3333333</longitude>
+  </city>
+  <city name="Shoro">
+    <latitude>41.4833333</latitude>
+    <longitude>75.4833333</longitude>
+  </city>
+  <city name="Shor-Tube">
+    <latitude>42.8666667</latitude>
+    <longitude>75.2333333</longitude>
+  </city>
+  <city name="Shor-Tyube">
+    <latitude>42.8666667</latitude>
+    <longitude>75.2333333</longitude>
+  </city>
+  <city name="Shoshmaly">
+    <latitude>40.1333333</latitude>
+    <longitude>72.65</longitude>
+  </city>
+  <city name="Shumkar">
+    <latitude>39.8333333</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Shuran">
+    <latitude>40.1666667</latitude>
+    <longitude>71.45</longitude>
+  </city>
+  <city name="Shur-Kishlak">
+    <latitude>40.55</latitude>
+    <longitude>72.3333333</longitude>
+  </city>
+  <city name="Sofi-Kurgan">
+    <latitude>40.0333333</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Sokolovka">
+    <latitude>42.6666667</latitude>
+    <longitude>78.7833333</longitude>
+  </city>
+  <city name="Sokuluk">
+    <latitude>42.8666667</latitude>
+    <longitude>74.3</longitude>
+  </city>
+  <city name="Solu-Sassyk">
+    <latitude>40.7166667</latitude>
+    <longitude>73.6</longitude>
+  </city>
+  <city name="Soru">
+    <latitude>42.3236111</latitude>
+    <longitude>77.9208333</longitude>
+  </city>
+  <city name="Sosnovka">
+    <latitude>42.6666667</latitude>
+    <longitude>73.8333333</longitude>
+  </city>
+  <city name="Sovetskiy">
+    <latitude>40.1833333</latitude>
+    <longitude>71.3333333</longitude>
+  </city>
+  <city name="Sovetskoye">
+    <latitude>42.7405556</latitude>
+    <longitude>75.8963889</longitude>
+  </city>
+  <city name="Sovkhoz Këksay">
+    <latitude>42.5</latitude>
+    <longitude>71.1166667</longitude>
+  </city>
+  <city name="Sovkhoz Otuzadyr">
+    <latitude>40.6047222</latitude>
+    <longitude>72.965</longitude>
+  </city>
+  <city name="Sovsin'torg">
+    <latitude>42.3666667</latitude>
+    <longitude>77.9</longitude>
+  </city>
+  <city name="Spasskiy">
+    <latitude>41.0166667</latitude>
+    <longitude>72.9833333</longitude>
+  </city>
+  <city name="Spasskoye">
+    <latitude>41.0166667</latitude>
+    <longitude>72.9833333</longitude>
+  </city>
+  <city name="Sretenka">
+    <latitude>42.9333333</latitude>
+    <longitude>74.1333333</longitude>
+  </city>
+  <city name="Sretenskoye">
+    <latitude>42.9333333</latitude>
+    <longitude>74.1333333</longitude>
+  </city>
+  <city name="Stalinskoye">
+    <latitude>42.8333333</latitude>
+    <longitude>74.1</longitude>
+  </city>
+  <city name="Stambek">
+    <latitude>42.7333333</latitude>
+    <longitude>75.0833333</longitude>
+  </city>
+  <city name="Stanovishche Chalpan-Ata">
+    <latitude>42.6563889</latitude>
+    <longitude>77.0822222</longitude>
+  </city>
+  <city name="Stanovishche Choktal">
+    <latitude>42.5844444</latitude>
+    <longitude>76.7411111</longitude>
+  </city>
+  <city name="Stanovishche Tur-Aygir">
+    <latitude>42.4922222</latitude>
+    <longitude>76.4230556</longitude>
+  </city>
+  <city name="Staraya Pokrovka">
+    <latitude>42.8186111</latitude>
+    <longitude>75.2808333</longitude>
+  </city>
+  <city name="Staro-Nikolayevka">
+    <latitude>42.8</latitude>
+    <longitude>73.6833333</longitude>
+  </city>
+  <city name="Staropokrovka">
+    <latitude>42.8186111</latitude>
+    <longitude>75.2808333</longitude>
+  </city>
+  <city name="Stavropol'ka">
+    <latitude>43.0</latitude>
+    <longitude>73.8333333</longitude>
+  </city>
+  <city name="Stavropolovka">
+    <latitude>43.0</latitude>
+    <longitude>73.8333333</longitude>
+  </city>
+  <city name="Stavropol'skaya">
+    <latitude>43.0</latitude>
+    <longitude>73.8333333</longitude>
+  </city>
+  <city name="Stavropol'skiy">
+    <latitude>42.8666667</latitude>
+    <longitude>74.35</longitude>
+  </city>
+  <city name="Stepnoye">
+    <latitude>43.1833333</latitude>
+    <longitude>73.95</longitude>
+  </city>
+  <city name="Subashi">
+    <latitude>39.8833333</latitude>
+    <longitude>70.9166667</longitude>
+  </city>
+  <city name="Subash">
+    <latitude>39.8833333</latitude>
+    <longitude>70.9166667</longitude>
+  </city>
+  <city name="Sufi-Kurgan">
+    <latitude>40.0333333</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Sugut">
+    <latitude>41.5</latitude>
+    <longitude>71.6166667</longitude>
+  </city>
+  <city name="Sukhay Khrebet">
+    <latitude>42.6</latitude>
+    <longitude>78.1333333</longitude>
+  </city>
+  <city name="Sukhoy Khrebet">
+    <latitude>42.6</latitude>
+    <longitude>78.1333333</longitude>
+  </city>
+  <city name="Sülüktü">
+    <latitude>39.9302778</latitude>
+    <longitude>69.5697222</longitude>
+  </city>
+  <city name="Sulyukta">
+    <latitude>39.9302778</latitude>
+    <longitude>69.5697222</longitude>
+  </city>
+  <city name="Sumsar">
+    <latitude>41.3</latitude>
+    <longitude>71.3166667</longitude>
+  </city>
+  <city name="Sungandy">
+    <latitude>40.2166667</latitude>
+    <longitude>73.5166667</longitude>
+  </city>
+  <city name="Susamör State Farm">
+    <latitude>42.2</latitude>
+    <longitude>73.9666667</longitude>
+  </city>
+  <city name="Susamyr">
+    <latitude>42.2</latitude>
+    <longitude>73.9666667</longitude>
+  </city>
+  <city name="Suzak">
+    <latitude>40.9</latitude>
+    <longitude>72.9</longitude>
+  </city>
+  <city name="Svetlaya Dolyana">
+    <latitude>42.3333333</latitude>
+    <longitude>78.0833333</longitude>
+  </city>
+  <city name="Svetlaya Polyana">
+    <latitude>42.3333333</latitude>
+    <longitude>78.0833333</longitude>
+  </city>
+  <city name="Syn-Tash">
+    <latitude>42.7033333</latitude>
+    <longitude>75.06</longitude>
+  </city>
+  <city name="Syny">
+    <latitude>41.6333333</latitude>
+    <longitude>72.0666667</longitude>
+  </city>
+  <city name="Syuttu-Bulak">
+    <latitude>42.3333333</latitude>
+    <longitude>78.1</longitude>
+  </city>
+  <city name="Tadzhik">
+    <latitude>40.2666667</latitude>
+    <longitude>72.05</longitude>
+  </city>
+  <city name="Tagan">
+    <latitude>40.0666667</latitude>
+    <longitude>69.8166667</longitude>
+  </city>
+  <city name="Taka">
+    <latitude>39.4833333</latitude>
+    <longitude>72.4333333</longitude>
+  </city>
+  <city name="Talabulak">
+    <latitude>42.2666667</latitude>
+    <longitude>75.25</longitude>
+  </city>
+  <city name="Talass">
+    <latitude>42.5222222</latitude>
+    <longitude>72.2419444</longitude>
+  </city>
+  <city name="Talas">
+    <latitude>42.5222222</latitude>
+    <longitude>72.2419444</longitude>
+  </city>
+  <city name="(( Tala ))">
+    <latitude>40.5333333</latitude>
+    <longitude>72.75</longitude>
+  </city>
+  <city name="Taldök">
+    <latitude>40.2833333</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Taldö-su">
+    <latitude>41.1666667</latitude>
+    <longitude>76.1333333</longitude>
+  </city>
+  <city name="Taldö-Su">
+    <latitude>42.8</latitude>
+    <longitude>78.4666667</longitude>
+  </city>
+  <city name="Taldyk">
+    <latitude>40.2833333</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Taldysu">
+    <latitude>41.1666667</latitude>
+    <longitude>76.1333333</longitude>
+  </city>
+  <city name="Taldy-Su">
+    <latitude>40.55</latitude>
+    <longitude>73.9666667</longitude>
+  </city>
+  <city name="Tamaterek">
+    <latitude>41.7666667</latitude>
+    <longitude>72.7166667</longitude>
+  </city>
+  <city name="Tamazh">
+    <latitude>40.4</latitude>
+    <longitude>74.1</longitude>
+  </city>
+  <city name="Tambashat">
+    <latitude>40.2833333</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Tamchi">
+    <latitude>42.5613889</latitude>
+    <longitude>76.6563889</longitude>
+  </city>
+  <city name="Tamchy">
+    <latitude>42.5613889</latitude>
+    <longitude>76.6563889</longitude>
+  </city>
+  <city name="Tamga">
+    <latitude>42.1486111</latitude>
+    <longitude>77.5469444</longitude>
+  </city>
+  <city name="Tarakhanö">
+    <latitude>42.3113889</latitude>
+    <longitude>77.8847222</longitude>
+  </city>
+  <city name="Tarakhany">
+    <latitude>42.3113889</latitude>
+    <longitude>77.8847222</longitude>
+  </city>
+  <city name="Tarasu">
+    <latitude>42.1358333</latitude>
+    <longitude>76.3366667</longitude>
+  </city>
+  <city name="Tarkhana">
+    <latitude>42.3113889</latitude>
+    <longitude>77.8847222</longitude>
+  </city>
+  <city name="Tarkhan">
+    <latitude>42.3113889</latitude>
+    <longitude>77.8847222</longitude>
+  </city>
+  <city name="Tarsu">
+    <latitude>42.7058333</latitude>
+    <longitude>76.0563889</longitude>
+  </city>
+  <city name="Tar-Suu">
+    <latitude>42.7058333</latitude>
+    <longitude>76.0563889</longitude>
+  </city>
+  <city name="Tarykhany">
+    <latitude>42.3113889</latitude>
+    <longitude>77.8847222</longitude>
+  </city>
+  <city name="Tash-Bashat">
+    <latitude>41.4655556</latitude>
+    <longitude>76.4047222</longitude>
+  </city>
+  <city name="Tash-Bulak">
+    <latitude>41.1666667</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Tashbulak">
+    <latitude>41.4166667</latitude>
+    <longitude>75.9</longitude>
+  </city>
+  <city name="Tash-Kepe">
+    <latitude>40.9333333</latitude>
+    <longitude>73.8333333</longitude>
+  </city>
+  <city name="Tash-Kömür">
+    <latitude>41.3458333</latitude>
+    <longitude>72.21</longitude>
+  </city>
+  <city name="Tashkumör">
+    <latitude>41.3458333</latitude>
+    <longitude>72.21</longitude>
+  </city>
+  <city name="Tash-Kumyr">
+    <latitude>41.3458333</latitude>
+    <longitude>72.21</longitude>
+  </city>
+  <city name="Tash-Kurgan">
+    <latitude>39.85</latitude>
+    <longitude>70.55</longitude>
+  </city>
+  <city name="Tashposhat">
+    <latitude>41.4655556</latitude>
+    <longitude>76.4047222</longitude>
+  </city>
+  <city name="Tashtebe">
+    <latitude>41.5833333</latitude>
+    <longitude>75.95</longitude>
+  </city>
+  <city name="Tash-Tyube">
+    <latitude>42.7333333</latitude>
+    <longitude>74.5833333</longitude>
+  </city>
+  <city name="Tassor">
+    <latitude>42.1616667</latitude>
+    <longitude>77.4391667</longitude>
+  </city>
+  <city name="(( Tatar ))">
+    <latitude>40.3766667</latitude>
+    <longitude>72.895</longitude>
+  </city>
+  <city name="Taukent">
+    <latitude>40.6427778</latitude>
+    <longitude>72.9294444</longitude>
+  </city>
+  <city name="Tauke">
+    <latitude>40.6427778</latitude>
+    <longitude>72.9294444</longitude>
+  </city>
+  <city name="Tayan">
+    <latitude>39.9166667</latitude>
+    <longitude>71.1333333</longitude>
+  </city>
+  <city name="Tebykty">
+    <latitude>41.4166667</latitude>
+    <longitude>74.05</longitude>
+  </city>
+  <city name="Tegerek-Kyrchin">
+    <latitude>41.5</latitude>
+    <longitude>75.6166667</longitude>
+  </city>
+  <city name="Tegerek">
+    <latitude>40.4333333</latitude>
+    <longitude>73.6333333</longitude>
+  </city>
+  <city name="Tegermach">
+    <latitude>39.9333333</latitude>
+    <longitude>72.2666667</longitude>
+  </city>
+  <city name="Tegermen-Sai">
+    <latitude>41.7</latitude>
+    <longitude>70.6333333</longitude>
+  </city>
+  <city name="Tegermensay">
+    <latitude>41.7</latitude>
+    <longitude>70.6333333</longitude>
+  </city>
+  <city name="Tegermenti">
+    <latitude>42.7611111</latitude>
+    <longitude>76.1622222</longitude>
+  </city>
+  <city name="Tegermenty">
+    <latitude>42.7166667</latitude>
+    <longitude>77.55</longitude>
+  </city>
+  <city name="Tegirmensay">
+    <latitude>41.7</latitude>
+    <longitude>70.6333333</longitude>
+  </city>
+  <city name="Tegirmenty">
+    <latitude>42.7166667</latitude>
+    <longitude>77.55</longitude>
+  </city>
+  <city name="Tegizchil">
+    <latitude>42.5666667</latitude>
+    <longitude>78.4166667</longitude>
+  </city>
+  <city name="Tëlëyken">
+    <latitude>40.445</latitude>
+    <longitude>72.5663889</longitude>
+  </city>
+  <city name="Temir-Kanat">
+    <latitude>42.0533333</latitude>
+    <longitude>76.9163889</longitude>
+  </city>
+  <city name="Temirkent">
+    <latitude>41.8</latitude>
+    <longitude>73.45</longitude>
+  </city>
+  <city name="Temirovka">
+    <latitude>42.7013889</latitude>
+    <longitude>77.4166667</longitude>
+  </city>
+  <city name="Tengizbay">
+    <latitude>39.7833333</latitude>
+    <longitude>72.1666667</longitude>
+  </city>
+  <city name="Tepe-Guzar">
+    <latitude>40.6</latitude>
+    <longitude>72.4</longitude>
+  </city>
+  <city name="Tepke">
+    <latitude>42.6</latitude>
+    <longitude>78.4166667</longitude>
+  </city>
+  <city name="Teploklyuchenka">
+    <latitude>42.5</latitude>
+    <longitude>78.5</longitude>
+  </city>
+  <city name="Teploklyuchinka">
+    <latitude>42.5</latitude>
+    <longitude>78.5</longitude>
+  </city>
+  <city name="Teploklyuchinskoye">
+    <latitude>42.5</latitude>
+    <longitude>78.5</longitude>
+  </city>
+  <city name="Terek-Say">
+    <latitude>41.5</latitude>
+    <longitude>71.1833333</longitude>
+  </city>
+  <city name="Tereksu">
+    <latitude>41.1186111</latitude>
+    <longitude>75.7338889</longitude>
+  </city>
+  <city name="Terek-Suu">
+    <latitude>41.1186111</latitude>
+    <longitude>75.7338889</longitude>
+  </city>
+  <city name="Terek">
+    <latitude>41.2166667</latitude>
+    <longitude>74.9833333</longitude>
+  </city>
+  <city name="Terskey">
+    <latitude>39.9</latitude>
+    <longitude>71.3666667</longitude>
+  </city>
+  <city name="Tërtkël'">
+    <latitude>42.1047222</latitude>
+    <longitude>76.9422222</longitude>
+  </city>
+  <city name="Tërt-Kul'">
+    <latitude>42.1047222</latitude>
+    <longitude>76.9422222</longitude>
+  </city>
+  <city name="Tillya-Bay-Kurgan">
+    <latitude>40.1166667</latitude>
+    <longitude>71.3</longitude>
+  </city>
+  <city name="Titovka">
+    <latitude>41.4166667</latitude>
+    <longitude>73.8333333</longitude>
+  </city>
+  <city name="Tjup">
+    <latitude>42.75</latitude>
+    <longitude>78.3333333</longitude>
+  </city>
+  <city name="Togan">
+    <latitude>40.0666667</latitude>
+    <longitude>69.8166667</longitude>
+  </city>
+  <city name="Toguzbay">
+    <latitude>42.7166667</latitude>
+    <longitude>78.5666667</longitude>
+  </city>
+  <city name="Toguzbulak">
+    <latitude>41.5666667</latitude>
+    <longitude>75.8</longitude>
+  </city>
+  <city name="Toguz-Bulak">
+    <latitude>42.1833333</latitude>
+    <longitude>75.7666667</longitude>
+  </city>
+  <city name="Tokmak">
+    <latitude>42.8413889</latitude>
+    <longitude>75.2883333</longitude>
+  </city>
+  <city name="Tokmok">
+    <latitude>42.8413889</latitude>
+    <longitude>75.2883333</longitude>
+  </city>
+  <city name="Tokol'dosh">
+    <latitude>42.8666667</latitude>
+    <longitude>74.6333333</longitude>
+  </city>
+  <city name="Toktogul">
+    <latitude>41.9033333</latitude>
+    <longitude>72.9455556</longitude>
+  </city>
+  <city name="(( Toktogul ))">
+    <latitude>41.8294444</latitude>
+    <longitude>72.8547222</longitude>
+  </city>
+  <city name="Toktoyan">
+    <latitude>42.7</latitude>
+    <longitude>78.6666667</longitude>
+  </city>
+  <city name="Tolman">
+    <latitude>40.3333333</latitude>
+    <longitude>72.2</longitude>
+  </city>
+  <city name="Tölöykön">
+    <latitude>40.445</latitude>
+    <longitude>72.5663889</longitude>
+  </city>
+  <city name="Toluk">
+    <latitude>41.9333333</latitude>
+    <longitude>73.5833333</longitude>
+  </city>
+  <city name="Tong">
+    <latitude>42.1688889</latitude>
+    <longitude>77.0311111</longitude>
+  </city>
+  <city name="Ton">
+    <latitude>42.1688889</latitude>
+    <longitude>77.0311111</longitude>
+  </city>
+  <city name="Topu">
+    <latitude>40.95</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Toraygyn">
+    <latitude>42.4922222</latitude>
+    <longitude>76.4230556</longitude>
+  </city>
+  <city name="Toraygyr">
+    <latitude>42.4922222</latitude>
+    <longitude>76.4230556</longitude>
+  </city>
+  <city name="Torkent">
+    <latitude>41.8833333</latitude>
+    <longitude>73.1833333</longitude>
+  </city>
+  <city name="Tortkël'">
+    <latitude>41.75</latitude>
+    <longitude>72.8666667</longitude>
+  </city>
+  <city name="Tortkul'">
+    <latitude>40.7833333</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Toru-Aygyr">
+    <latitude>42.4922222</latitude>
+    <longitude>76.4230556</longitude>
+  </city>
+  <city name="Tosor">
+    <latitude>42.1616667</latitude>
+    <longitude>77.4391667</longitude>
+  </city>
+  <city name="Tossor">
+    <latitude>42.1616667</latitude>
+    <longitude>77.4391667</longitude>
+  </city>
+  <city name="Tubek">
+    <latitude>39.6833333</latitude>
+    <longitude>70.6666667</longitude>
+  </city>
+  <city name="Tugel'say">
+    <latitude>41.9833333</latitude>
+    <longitude>74.7833333</longitude>
+  </city>
+  <city name="Tuleykan">
+    <latitude>40.5602778</latitude>
+    <longitude>72.6811111</longitude>
+  </city>
+  <city name="Tuleyken">
+    <latitude>40.4983333</latitude>
+    <longitude>72.8033333</longitude>
+  </city>
+  <city name="Tura-Chita">
+    <latitude>39.9833333</latitude>
+    <longitude>72.8166667</longitude>
+  </city>
+  <city name="Turasu">
+    <latitude>42.0647222</latitude>
+    <longitude>76.9969444</longitude>
+  </city>
+  <city name="Tur Aygyr">
+    <latitude>42.4922222</latitude>
+    <longitude>76.4230556</longitude>
+  </city>
+  <city name="Turbek">
+    <latitude>39.6833333</latitude>
+    <longitude>70.6666667</longitude>
+  </city>
+  <city name="Turpachita">
+    <latitude>39.9833333</latitude>
+    <longitude>72.8166667</longitude>
+  </city>
+  <city name="Turra-Chita">
+    <latitude>39.9833333</latitude>
+    <longitude>72.8166667</longitude>
+  </city>
+  <city name="Turt-Kul'">
+    <latitude>40.7833333</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Tuura-Suu">
+    <latitude>42.0647222</latitude>
+    <longitude>76.9969444</longitude>
+  </city>
+  <city name="Tuya-Lyash">
+    <latitude>40.8833333</latitude>
+    <longitude>72.95</longitude>
+  </city>
+  <city name="Tuzbel'">
+    <latitude>40.5666667</latitude>
+    <longitude>73.35</longitude>
+  </city>
+  <city name="Tysh-Ashu">
+    <latitude>41.6833333</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Tyubek">
+    <latitude>39.6833333</latitude>
+    <longitude>70.6666667</longitude>
+  </city>
+  <city name="Tyugël'say">
+    <latitude>41.9833333</latitude>
+    <longitude>74.7833333</longitude>
+  </city>
+  <city name="Tyulek">
+    <latitude>41.9666667</latitude>
+    <longitude>75.6833333</longitude>
+  </city>
+  <city name="Tyundyuk">
+    <latitude>42.2152778</latitude>
+    <longitude>75.5491667</longitude>
+  </city>
+  <city name="Tyup">
+    <latitude>42.75</latitude>
+    <longitude>78.3333333</longitude>
+  </city>
+  <city name="Tyz-Ashu">
+    <latitude>41.6833333</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Uchar">
+    <latitude>40.4875</latitude>
+    <longitude>72.7913889</longitude>
+  </city>
+  <city name="Uchbay">
+    <latitude>40.3</latitude>
+    <longitude>72.7</longitude>
+  </city>
+  <city name="Uch-Emchek">
+    <latitude>42.6666667</latitude>
+    <longitude>74.75</longitude>
+  </city>
+  <city name="Uchi-Kur">
+    <latitude>40.5166667</latitude>
+    <longitude>73.2</longitude>
+  </city>
+  <city name="Uchkorgon">
+    <latitude>40.2333333</latitude>
+    <longitude>72.0666667</longitude>
+  </city>
+  <city name="Uch-Kul'">
+    <latitude>40.4</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Uchkun">
+    <latitude>41.3772222</latitude>
+    <longitude>75.3608333</longitude>
+  </city>
+  <city name="Uch-Kurgan">
+    <latitude>40.2333333</latitude>
+    <longitude>72.0666667</longitude>
+  </city>
+  <city name="Uchkurt">
+    <latitude>41.6</latitude>
+    <longitude>72.1166667</longitude>
+  </city>
+  <city name="Uch-Tapkyr">
+    <latitude>40.95</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="(( Uchterek ))">
+    <latitude>41.7833333</latitude>
+    <longitude>73.1469444</longitude>
+  </city>
+  <city name="Uch-Tyube">
+    <latitude>39.9166667</latitude>
+    <longitude>73.4333333</longitude>
+  </city>
+  <city name="Uchuruk">
+    <latitude>42.7833333</latitude>
+    <longitude>75.9333333</longitude>
+  </city>
+  <city name="Uch-Yemchek">
+    <latitude>42.6666667</latitude>
+    <longitude>74.75</longitude>
+  </city>
+  <city name="Ugut">
+    <latitude>41.4</latitude>
+    <longitude>74.85</longitude>
+  </city>
+  <city name="Ugyut">
+    <latitude>41.4</latitude>
+    <longitude>74.85</longitude>
+  </city>
+  <city name="Ukok">
+    <latitude>42.1666667</latitude>
+    <longitude>75.5833333</longitude>
+  </city>
+  <city name="Ulakhol">
+    <latitude>42.2666667</latitude>
+    <longitude>76.5333333</longitude>
+  </city>
+  <city name="Ul'gu">
+    <latitude>42.1333333</latitude>
+    <longitude>75.0833333</longitude>
+  </city>
+  <city name="Ulokhol">
+    <latitude>42.2666667</latitude>
+    <longitude>76.5333333</longitude>
+  </city>
+  <city name="Uluchat">
+    <latitude>40.8833333</latitude>
+    <longitude>73.8</longitude>
+  </city>
+  <city name="Ulukent">
+    <latitude>41.7666667</latitude>
+    <longitude>73.1833333</longitude>
+  </city>
+  <city name="Uluk">
+    <latitude>41.4166667</latitude>
+    <longitude>71.8333333</longitude>
+  </city>
+  <city name="Unkur">
+    <latitude>40.5166667</latitude>
+    <longitude>73.2833333</longitude>
+  </city>
+  <city name="Urakain">
+    <latitude>39.8333333</latitude>
+    <longitude>72.0333333</longitude>
+  </city>
+  <city name="Urgi">
+    <latitude>40.3</latitude>
+    <longitude>72.1833333</longitude>
+  </city>
+  <city name="Urnok">
+    <latitude>41.9166667</latitude>
+    <longitude>72.7333333</longitude>
+  </city>
+  <city name="Urtak">
+    <latitude>41.2166667</latitude>
+    <longitude>75.25</longitude>
+  </city>
+  <city name="Urta-Kyzyl">
+    <latitude>40.3</latitude>
+    <longitude>72.65</longitude>
+  </city>
+  <city name="Urumbash">
+    <latitude>41.2</latitude>
+    <longitude>73.4</longitude>
+  </city>
+  <city name="Uryukty">
+    <latitude>40.35</latitude>
+    <longitude>73.5666667</longitude>
+  </city>
+  <city name="Ushat">
+    <latitude>40.3333333</latitude>
+    <longitude>73.6833333</longitude>
+  </city>
+  <city name="Uspenka">
+    <latitude>41.5666667</latitude>
+    <longitude>71.8166667</longitude>
+  </city>
+  <city name="Uspenovka">
+    <latitude>41.5666667</latitude>
+    <longitude>71.8166667</longitude>
+  </city>
+  <city name="Uytal">
+    <latitude>42.75</latitude>
+    <longitude>78.0</longitude>
+  </city>
+  <city name="(( Uzak ))">
+    <latitude>40.4</latitude>
+    <longitude>72.75</longitude>
+  </city>
+  <city name="Uzbek-Gava">
+    <latitude>41.2666667</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Uzgen">
+    <latitude>40.7666667</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Uzgorysh">
+    <latitude>42.7833333</latitude>
+    <longitude>75.4833333</longitude>
+  </city>
+  <city name="Uzkend">
+    <latitude>40.7666667</latitude>
+    <longitude>73.3</longitude>
+  </city>
+  <city name="Uzunbulak">
+    <latitude>42.1333333</latitude>
+    <longitude>75.2666667</longitude>
+  </city>
+  <city name="Valerianovskoye">
+    <latitude>42.6</latitude>
+    <longitude>78.7333333</longitude>
+  </city>
+  <city name="Valyakish">
+    <latitude>40.2</latitude>
+    <longitude>72.0833333</longitude>
+  </city>
+  <city name="Verkhne-Pokrovskoye">
+    <latitude>40.7</latitude>
+    <longitude>73.15</longitude>
+  </city>
+  <city name="Verkhniy Orok">
+    <latitude>42.8011111</latitude>
+    <longitude>74.5233333</longitude>
+  </city>
+  <city name="Verkhnyaya Alaarcha">
+    <latitude>42.7333333</latitude>
+    <longitude>74.5166667</longitude>
+  </city>
+  <city name="Vidana">
+    <latitude>40.2166667</latitude>
+    <longitude>72.9833333</longitude>
+  </city>
+  <city name="Vladimirovka">
+    <latitude>42.5333333</latitude>
+    <longitude>71.9</longitude>
+  </city>
+  <city name="Vorontsovskoye">
+    <latitude>42.7166667</latitude>
+    <longitude>74.5833333</longitude>
+  </city>
+  <city name="Voroshilovskoye">
+    <latitude>42.8969444</latitude>
+    <longitude>74.6347222</longitude>
+  </city>
+  <city name="Vos'mogo Marta">
+    <latitude>41.4563889</latitude>
+    <longitude>75.4044444</longitude>
+  </city>
+  <city name="Vos'moye Marta">
+    <latitude>41.4563889</latitude>
+    <longitude>75.4044444</longitude>
+  </city>
+  <city name="Vostochnyy">
+    <latitude>39.9166667</latitude>
+    <longitude>69.65</longitude>
+  </city>
+  <city name="Vostok">
+    <latitude>42.8991667</latitude>
+    <longitude>74.6738889</longitude>
+  </city>
+  <city name="Voyenno-Antonovka">
+    <latitude>42.8666667</latitude>
+    <longitude>74.4</longitude>
+  </city>
+  <city name="Voyenno-Antonovskoye">
+    <latitude>42.8666667</latitude>
+    <longitude>74.4</longitude>
+  </city>
+  <city name="Vozhesenskoye">
+    <latitude>42.8333333</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Voznesenskoye">
+    <latitude>42.8333333</latitude>
+    <longitude>73.8166667</longitude>
+  </city>
+  <city name="Yalgiz-Alcha">
+    <latitude>40.7833333</latitude>
+    <longitude>73.6166667</longitude>
+  </city>
+  <city name="Yalgyz-Yangak">
+    <latitude>41.1</latitude>
+    <longitude>73.1833333</longitude>
+  </city>
+  <city name="Yaman-Ail'">
+    <latitude>41.0333333</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Yanabadam">
+    <latitude>41.1166667</latitude>
+    <longitude>72.7833333</longitude>
+  </city>
+  <city name="Yangi-Bazar">
+    <latitude>41.6666667</latitude>
+    <longitude>70.8833333</longitude>
+  </city>
+  <city name="Yangi-Dzhol">
+    <latitude>41.8666667</latitude>
+    <longitude>74.45</longitude>
+  </city>
+  <city name="Yangi-iol">
+    <latitude>41.8666667</latitude>
+    <longitude>74.45</longitude>
+  </city>
+  <city name="Yangi-Naukat">
+    <latitude>40.25</latitude>
+    <longitude>72.55</longitude>
+  </city>
+  <city name="Yangiturmysh">
+    <latitude>41.8441667</latitude>
+    <longitude>72.7522222</longitude>
+  </city>
+  <city name="Yangybazar">
+    <latitude>41.6666667</latitude>
+    <longitude>70.8833333</longitude>
+  </city>
+  <city name="Yapalak">
+    <latitude>40.4927778</latitude>
+    <longitude>72.7641667</longitude>
+  </city>
+  <city name="Yar-Kurgan">
+    <latitude>40.25</latitude>
+    <longitude>72.8333333</longitude>
+  </city>
+  <city name="Yartash">
+    <latitude>40.3333333</latitude>
+    <longitude>72.6666667</longitude>
+  </city>
+  <city name="Yaryktash">
+    <latitude>41.8333333</latitude>
+    <longitude>72.0666667</longitude>
+  </city>
+  <city name="Yengi-Bazar">
+    <latitude>41.6666667</latitude>
+    <longitude>70.8833333</longitude>
+  </city>
+  <city name="Yerish">
+    <latitude>41.4166667</latitude>
+    <longitude>72.3666667</longitude>
+  </city>
+  <city name="Yshtyk">
+    <latitude>41.6016667</latitude>
+    <longitude>78.2852778</longitude>
+  </city>
+  <city name="Ysyk-Köl">
+    <latitude>42.4611111</latitude>
+    <longitude>76.1802778</longitude>
+  </city>
+  <city name="Yur'evka">
+    <latitude>42.7136111</latitude>
+    <longitude>75.0361111</longitude>
+  </city>
+  <city name="Yur'yevka">
+    <latitude>42.7136111</latitude>
+    <longitude>75.0361111</longitude>
+  </city>
+  <city name="Yur'yevskoye">
+    <latitude>42.7136111</latitude>
+    <longitude>75.0361111</longitude>
+  </city>
+  <city name="Yuvash">
+    <latitude>40.6</latitude>
+    <longitude>72.9166667</longitude>
+  </city>
+  <city name="Zardale">
+    <latitude>39.65</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Zardali">
+    <latitude>39.65</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Zardalo">
+    <latitude>39.65</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Zardaly">
+    <latitude>39.65</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Zardele">
+    <latitude>39.65</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Zardulu">
+    <latitude>39.65</latitude>
+    <longitude>70.95</longitude>
+  </city>
+  <city name="Zarger">
+    <latitude>40.8166667</latitude>
+    <longitude>73.3333333</longitude>
+  </city>
+  <city name="Zar-Tash">
+    <latitude>40.2588889</latitude>
+    <longitude>71.0288889</longitude>
+  </city>
+  <city name="Zar Tosh">
+    <latitude>40.2588889</latitude>
+    <longitude>71.0288889</longitude>
+  </city>
+  <city name="Zharkynbayevo">
+    <latitude>42.7397222</latitude>
+    <longitude>77.7458333</longitude>
+  </city>
+  <city name="Zimovka Iskandera">
+    <latitude>42.7405556</latitude>
+    <longitude>75.8963889</longitude>
+  </city>
+  <city name="Zimovka Kara-Bulak">
+    <latitude>41.1666667</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Zimovka Kulyugen">
+    <latitude>41.1166667</latitude>
+    <longitude>72.7</longitude>
+  </city>
+</country>

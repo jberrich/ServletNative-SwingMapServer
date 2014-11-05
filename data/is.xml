@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="is" name="Islande">
+  <city name="Ábær">
+    <latitude>65.3</latitude>
+    <longitude>-18.866667</longitude>
+  </city>
+  <city name="Abær Kirkja">
+    <latitude>65.3</latitude>
+    <longitude>-18.866667</longitude>
+  </city>
+  <city name="Akranes">
+    <latitude>64.316667</latitude>
+    <longitude>-22.1</longitude>
+  </city>
+  <city name="Akrar">
+    <latitude>64.633333</latitude>
+    <longitude>-22.383333</longitude>
+  </city>
+  <city name="Akurey">
+    <latitude>63.666667</latitude>
+    <longitude>-20.383333</longitude>
+  </city>
+  <city name="Akureyri">
+    <latitude>65.666667</latitude>
+    <longitude>-18.1</longitude>
+  </city>
+  <city name="Álafoss">
+    <latitude>64.166667</latitude>
+    <longitude>-21.683333</longitude>
+  </city>
+  <city name="Álftamýri">
+    <latitude>65.783333</latitude>
+    <longitude>-23.716667</longitude>
+  </city>
+  <city name="Álftanes">
+    <latitude>64.466667</latitude>
+    <longitude>-22.15</longitude>
+  </city>
+  <city name="Álftártunga">
+    <latitude>64.666667</latitude>
+    <longitude>-22.016667</longitude>
+  </city>
+  <city name="Álptamýri">
+    <latitude>65.783333</latitude>
+    <longitude>-23.716667</longitude>
+  </city>
+  <city name="Alttanes">
+    <latitude>64.466667</latitude>
+    <longitude>-22.15</longitude>
+  </city>
+  <city name="Árbær">
+    <latitude>63.866667</latitude>
+    <longitude>-20.35</longitude>
+  </city>
+  <city name="Argerdareyri">
+    <latitude>65.883333</latitude>
+    <longitude>-22.383333</longitude>
+  </city>
+  <city name="Árnes">
+    <latitude>66.016667</latitude>
+    <longitude>-21.516667</longitude>
+  </city>
+  <city name="Arngerðareyri">
+    <latitude>65.883333</latitude>
+    <longitude>-22.383333</longitude>
+  </city>
+  <city name="Arngerðeyri">
+    <latitude>65.883333</latitude>
+    <longitude>-22.383333</longitude>
+  </city>
+  <city name="Ás">
+    <latitude>64.7</latitude>
+    <longitude>-21.033333</longitude>
+  </city>
+  <city name="Áshverfi">
+    <latitude>63.833333</latitude>
+    <longitude>-20.6</longitude>
+  </city>
+  <city name="Ásláksstaðir">
+    <latitude>64.016667</latitude>
+    <longitude>-22.35</longitude>
+  </city>
+  <city name="Ásólfsskáli">
+    <latitude>63.566667</latitude>
+    <longitude>-19.8</longitude>
+  </city>
+  <city name="Auðkúla">
+    <latitude>65.5</latitude>
+    <longitude>-20.033333</longitude>
+  </city>
+  <city name="Bæir">
+    <latitude>66.1</latitude>
+    <longitude>-22.55</longitude>
+  </city>
+  <city name="Bænahús">
+    <latitude>66.016667</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Baenshús">
+    <latitude>66.016667</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Bær">
+    <latitude>64.383333</latitude>
+    <longitude>-14.8</longitude>
+  </city>
+  <city name="Bakkafjörður">
+    <latitude>66.033333</latitude>
+    <longitude>-14.8</longitude>
+  </city>
+  <city name="Bakkagerði">
+    <latitude>65.516667</latitude>
+    <longitude>-13.816667</longitude>
+  </city>
+  <city name="Bakki">
+    <latitude>65.616667</latitude>
+    <longitude>-18.516667</longitude>
+  </city>
+  <city name="Barð">
+    <latitude>66.05</latitude>
+    <longitude>-19.133333</longitude>
+  </city>
+  <city name="Bergsstaðir">
+    <latitude>65.433333</latitude>
+    <longitude>-19.7</longitude>
+  </city>
+  <city name="Berjadalsá">
+    <latitude>66.15</latitude>
+    <longitude>-22.866667</longitude>
+  </city>
+  <city name="Berunes">
+    <latitude>64.7</latitude>
+    <longitude>-14.266667</longitude>
+  </city>
+  <city name="Bessastaðir">
+    <latitude>64.1</latitude>
+    <longitude>-22.0</longitude>
+  </city>
+  <city name="Bíldudalur">
+    <latitude>65.683333</latitude>
+    <longitude>-23.6</longitude>
+  </city>
+  <city name="Bjarnanes">
+    <latitude>64.316667</latitude>
+    <longitude>-15.233333</longitude>
+  </city>
+  <city name="Bjarnarhöfn">
+    <latitude>65.0</latitude>
+    <longitude>-22.966667</longitude>
+  </city>
+  <city name="Bjóluhverfi">
+    <latitude>63.8</latitude>
+    <longitude>-20.5</longitude>
+  </city>
+  <city name="Blönduós">
+    <latitude>65.666667</latitude>
+    <longitude>-20.3</longitude>
+  </city>
+  <city name="Bólstaðarhlíð">
+    <latitude>65.516667</latitude>
+    <longitude>-19.816667</longitude>
+  </city>
+  <city name="Bolungarvík">
+    <latitude>66.15</latitude>
+    <longitude>-23.25</longitude>
+  </city>
+  <city name="Bolungavík">
+    <latitude>66.15</latitude>
+    <longitude>-23.25</longitude>
+  </city>
+  <city name="Borðeyri">
+    <latitude>65.2</latitude>
+    <longitude>-21.1</longitude>
+  </city>
+  <city name="Borgarhöfn">
+    <latitude>64.183333</latitude>
+    <longitude>-15.816667</longitude>
+  </city>
+  <city name="Borgarnes">
+    <latitude>64.533333</latitude>
+    <longitude>-21.916667</longitude>
+  </city>
+  <city name="Borg">
+    <latitude>64.55</latitude>
+    <longitude>-21.916667</longitude>
+  </city>
+  <city name="Bræðratunga">
+    <latitude>64.166667</latitude>
+    <longitude>-20.383333</longitude>
+  </city>
+  <city name="Brautarholt">
+    <latitude>64.233333</latitude>
+    <longitude>-21.85</longitude>
+  </city>
+  <city name="Breiðabólsstaðir">
+    <latitude>63.733333</latitude>
+    <longitude>-20.15</longitude>
+  </city>
+  <city name="Breiðabolsstaðir">
+    <latitude>65.45</latitude>
+    <longitude>-20.716667</longitude>
+  </city>
+  <city name="Breiðabólsstaður">
+    <latitude>63.733333</latitude>
+    <longitude>-20.15</longitude>
+  </city>
+  <city name="Breiðavík">
+    <latitude>65.55</latitude>
+    <longitude>-24.35</longitude>
+  </city>
+  <city name="Breiðdalsvík">
+    <latitude>64.8</latitude>
+    <longitude>-14.0</longitude>
+  </city>
+  <city name="Breiðibólsstaður">
+    <latitude>65.45</latitude>
+    <longitude>-20.716667</longitude>
+  </city>
+  <city name="Brekka">
+    <latitude>64.1</latitude>
+    <longitude>-22.016667</longitude>
+  </city>
+  <city name="Brekkuvellir">
+    <latitude>65.483333</latitude>
+    <longitude>-23.65</longitude>
+  </city>
+  <city name="Brettingsstaðir">
+    <latitude>66.116667</latitude>
+    <longitude>-17.916667</longitude>
+  </city>
+  <city name="Brianslaekur">
+    <latitude>65.516667</latitude>
+    <longitude>-23.2</longitude>
+  </city>
+  <city name="Brimilsvellir">
+    <latitude>64.916667</latitude>
+    <longitude>-23.583333</longitude>
+  </city>
+  <city name="Brjánslækur">
+    <latitude>65.516667</latitude>
+    <longitude>-23.2</longitude>
+  </city>
+  <city name="Broðeyri">
+    <latitude>65.2</latitude>
+    <longitude>-21.1</longitude>
+  </city>
+  <city name="Brunnastaðir">
+    <latitude>64.0</latitude>
+    <longitude>-22.383333</longitude>
+  </city>
+  <city name="Brunnhólskirkja">
+    <latitude>64.283333</latitude>
+    <longitude>-15.433333</longitude>
+  </city>
+  <city name="Búðardalur">
+    <latitude>65.116667</latitude>
+    <longitude>-21.766667</longitude>
+  </city>
+  <city name="Búðareyri">
+    <latitude>65.263333</latitude>
+    <longitude>-13.995556</longitude>
+  </city>
+  <city name="Búðarhólshverfi">
+    <latitude>63.583333</latitude>
+    <longitude>-20.166667</longitude>
+  </city>
+  <city name="Búðir">
+    <latitude>64.816667</latitude>
+    <longitude>-23.383333</longitude>
+  </city>
+  <city name="Búrfell">
+    <latitude>64.083333</latitude>
+    <longitude>-20.933333</longitude>
+  </city>
+  <city name="Býjarsker">
+    <latitude>64.033333</latitude>
+    <longitude>-22.716667</longitude>
+  </city>
+  <city name="Býjasker">
+    <latitude>64.033333</latitude>
+    <longitude>-22.716667</longitude>
+  </city>
+  <city name="Dagverðarnes">
+    <latitude>65.166667</latitude>
+    <longitude>-22.533333</longitude>
+  </city>
+  <city name="Dalvík">
+    <latitude>65.966667</latitude>
+    <longitude>-18.533333</longitude>
+  </city>
+  <city name="Dísarstaðir">
+    <latitude>64.833333</latitude>
+    <longitude>-14.283333</longitude>
+  </city>
+  <city name="Disastaðir">
+    <latitude>64.833333</latitude>
+    <longitude>-14.283333</longitude>
+  </city>
+  <city name="Diupivogur">
+    <latitude>64.65</latitude>
+    <longitude>-14.283333</longitude>
+  </city>
+  <city name="Djúpidalur">
+    <latitude>63.783333</latitude>
+    <longitude>-20.283333</longitude>
+  </city>
+  <city name="Djúpivogur">
+    <latitude>64.65</latitude>
+    <longitude>-14.283333</longitude>
+  </city>
+  <city name="Draflastaðir">
+    <latitude>65.816667</latitude>
+    <longitude>-17.916667</longitude>
+  </city>
+  <city name="Drangsnes">
+    <latitude>65.683333</latitude>
+    <longitude>-21.45</longitude>
+  </city>
+  <city name="Dvergasteinn">
+    <latitude>66.0</latitude>
+    <longitude>-23.05</longitude>
+  </city>
+  <city name="Dýrafjörður">
+    <latitude>65.866667</latitude>
+    <longitude>-23.5</longitude>
+  </city>
+  <city name="Dyrhólahverfi">
+    <latitude>63.416667</latitude>
+    <longitude>-19.166667</longitude>
+  </city>
+  <city name="Efri-Núpur">
+    <latitude>65.133333</latitude>
+    <longitude>-20.75</longitude>
+  </city>
+  <city name="Eiðar">
+    <latitude>65.366667</latitude>
+    <longitude>-14.35</longitude>
+  </city>
+  <city name="Einarsstaðir">
+    <latitude>65.733333</latitude>
+    <longitude>-17.4</longitude>
+  </city>
+  <city name="Eiríksstaðir">
+    <latitude>65.116667</latitude>
+    <longitude>-15.416667</longitude>
+  </city>
+  <city name="Engidalur">
+    <latitude>66.033333</latitude>
+    <longitude>-23.166667</longitude>
+  </city>
+  <city name="Eskifjörður">
+    <latitude>65.066667</latitude>
+    <longitude>-14.016667</longitude>
+  </city>
+  <city name="Eskiforður">
+    <latitude>65.066667</latitude>
+    <longitude>-14.016667</longitude>
+  </city>
+  <city name="Evindarhólar">
+    <latitude>63.5</latitude>
+    <longitude>-19.616667</longitude>
+  </city>
+  <city name="Eyrarbakki">
+    <latitude>63.866667</latitude>
+    <longitude>-21.15</longitude>
+  </city>
+  <city name="Eyrar">
+    <latitude>65.3</latitude>
+    <longitude>-13.85</longitude>
+  </city>
+  <city name="Eyri">
+    <latitude>65.6</latitude>
+    <longitude>-22.5</longitude>
+  </city>
+  <city name="Eyvindarhólar">
+    <latitude>63.5</latitude>
+    <longitude>-19.616667</longitude>
+  </city>
+  <city name="Fáskrúðsfjörður">
+    <latitude>64.933333</latitude>
+    <longitude>-14.016667</longitude>
+  </city>
+  <city name="Fell">
+    <latitude>66.033333</latitude>
+    <longitude>-19.383333</longitude>
+  </city>
+  <city name="Fíflholt">
+    <latitude>63.666667</latitude>
+    <longitude>-20.3</longitude>
+  </city>
+  <city name="Fjörður">
+    <latitude>65.2</latitude>
+    <longitude>-14.016667</longitude>
+  </city>
+  <city name="Flatey">
+    <latitude>65.366667</latitude>
+    <longitude>-22.916667</longitude>
+  </city>
+  <city name="Flateyri">
+    <latitude>66.05</latitude>
+    <longitude>-23.516667</longitude>
+  </city>
+  <city name="Flóagaflshverfi">
+    <latitude>63.9</latitude>
+    <longitude>-21.233333</longitude>
+  </city>
+  <city name="Flugumijri">
+    <latitude>65.566667</latitude>
+    <longitude>-19.316667</longitude>
+  </city>
+  <city name="Flugumýri">
+    <latitude>65.566667</latitude>
+    <longitude>-19.316667</longitude>
+  </city>
+  <city name="Folafótur">
+    <latitude>66.033333</latitude>
+    <longitude>-22.883333</longitude>
+  </city>
+  <city name="Furufjörður">
+    <latitude>66.266667</latitude>
+    <longitude>-22.25</longitude>
+  </city>
+  <city name="Garðabær">
+    <latitude>64.083333</latitude>
+    <longitude>-21.983333</longitude>
+  </city>
+  <city name="Garðahreppur">
+    <latitude>64.083333</latitude>
+    <longitude>-21.9</longitude>
+  </city>
+  <city name="Garðakauptún">
+    <latitude>64.083333</latitude>
+    <longitude>-21.9</longitude>
+  </city>
+  <city name="Garðar">
+    <latitude>64.066667</latitude>
+    <longitude>-22.65</longitude>
+  </city>
+  <city name="Garðhur">
+    <latitude>66.066667</latitude>
+    <longitude>-16.766667</longitude>
+  </city>
+  <city name="Garðskagi">
+    <latitude>64.077778</latitude>
+    <longitude>-22.683333</longitude>
+  </city>
+  <city name="Garðsstaðir">
+    <latitude>66.033333</latitude>
+    <longitude>-22.683333</longitude>
+  </city>
+  <city name="Garður">
+    <latitude>66.066667</latitude>
+    <longitude>-16.766667</longitude>
+  </city>
+  <city name="Garpsdalur">
+    <latitude>65.45</latitude>
+    <longitude>-21.833333</longitude>
+  </city>
+  <city name="Gata">
+    <latitude>65.866667</latitude>
+    <longitude>-23.583333</longitude>
+  </city>
+  <city name="Gaulverjabær">
+    <latitude>63.833333</latitude>
+    <longitude>-20.883333</longitude>
+  </city>
+  <city name="Geirseyri">
+    <latitude>65.583333</latitude>
+    <longitude>-23.983333</longitude>
+  </city>
+  <city name="Gerðar">
+    <latitude>64.066667</latitude>
+    <longitude>-22.65</longitude>
+  </city>
+  <city name="Geysir">
+    <latitude>64.316667</latitude>
+    <longitude>-20.3</longitude>
+  </city>
+  <city name="Gilsbakki">
+    <latitude>64.716667</latitude>
+    <longitude>-20.983333</longitude>
+  </city>
+  <city name="Gjögur">
+    <latitude>65.983333</latitude>
+    <longitude>-21.35</longitude>
+  </city>
+  <city name="Glæsibær">
+    <latitude>65.75</latitude>
+    <longitude>-18.166667</longitude>
+  </city>
+  <city name="Glaumbær">
+    <latitude>65.616667</latitude>
+    <longitude>-19.516667</longitude>
+  </city>
+  <city name="Glerárþorp">
+    <latitude>65.7</latitude>
+    <longitude>-18.116667</longitude>
+  </city>
+  <city name="Goðdalir">
+    <latitude>65.333333</latitude>
+    <longitude>-19.1</longitude>
+  </city>
+  <city name="Grafarkirkja">
+    <latitude>63.716667</latitude>
+    <longitude>-18.533333</longitude>
+  </city>
+  <city name="Grafarnes">
+    <latitude>64.916667</latitude>
+    <longitude>-23.266667</longitude>
+  </city>
+  <city name="Grenivík">
+    <latitude>65.95</latitude>
+    <longitude>-18.183333</longitude>
+  </city>
+  <city name="Grenjaðarstaður">
+    <latitude>65.816667</latitude>
+    <longitude>-17.35</longitude>
+  </city>
+  <city name="Grenvik">
+    <latitude>65.95</latitude>
+    <longitude>-18.183333</longitude>
+  </city>
+  <city name="Grímsstaðaholt">
+    <latitude>64.133333</latitude>
+    <longitude>-21.966667</longitude>
+  </city>
+  <city name="Grindavík">
+    <latitude>63.833333</latitude>
+    <longitude>-22.433333</longitude>
+  </city>
+  <city name="Grundarfjörþur">
+    <latitude>64.916667</latitude>
+    <longitude>-23.266667</longitude>
+  </city>
+  <city name="Grund">
+    <latitude>65.516667</latitude>
+    <longitude>-18.15</longitude>
+  </city>
+  <city name="Guðaugsvik">
+    <latitude>65.45</latitude>
+    <longitude>-21.266667</longitude>
+  </city>
+  <city name="Guðlaugsvík">
+    <latitude>65.45</latitude>
+    <longitude>-21.266667</longitude>
+  </city>
+  <city name="Gufnas">
+    <latitude>64.15</latitude>
+    <longitude>-21.816667</longitude>
+  </city>
+  <city name="Gufnes">
+    <latitude>64.15</latitude>
+    <longitude>-21.816667</longitude>
+  </city>
+  <city name="Gufudalur">
+    <latitude>65.566667</latitude>
+    <longitude>-22.416667</longitude>
+  </city>
+  <city name="Gufunes">
+    <latitude>64.15</latitude>
+    <longitude>-21.816667</longitude>
+  </city>
+  <city name="Gunnólfsá">
+    <latitude>66.1</latitude>
+    <longitude>-18.65</longitude>
+  </city>
+  <city name="Gvendarnes">
+    <latitude>64.85</latitude>
+    <longitude>-13.766667</longitude>
+  </city>
+  <city name="Hafnarfjörður">
+    <latitude>64.066667</latitude>
+    <longitude>-21.95</longitude>
+  </city>
+  <city name="Hafnarhólmur">
+    <latitude>65.7</latitude>
+    <longitude>-21.516667</longitude>
+  </city>
+  <city name="Hafnarnes">
+    <latitude>64.866667</latitude>
+    <longitude>-13.766667</longitude>
+  </city>
+  <city name="Hafnir">
+    <latitude>63.933333</latitude>
+    <longitude>-22.683333</longitude>
+  </city>
+  <city name="Hafrafell">
+    <latitude>66.05</latitude>
+    <longitude>-23.166667</longitude>
+  </city>
+  <city name="Hafsós">
+    <latitude>65.9</latitude>
+    <longitude>-19.433333</longitude>
+  </city>
+  <city name="Háfur">
+    <latitude>63.766667</latitude>
+    <longitude>-20.7</longitude>
+  </city>
+  <city name="Haganes">
+    <latitude>66.083333</latitude>
+    <longitude>-19.166667</longitude>
+  </city>
+  <city name="Haganesvík">
+    <latitude>66.083333</latitude>
+    <longitude>-19.166667</longitude>
+  </city>
+  <city name="Hagi">
+    <latitude>63.983333</latitude>
+    <longitude>-20.45</longitude>
+  </city>
+  <city name="Halfnarfjorður">
+    <latitude>64.066667</latitude>
+    <longitude>-21.95</longitude>
+  </city>
+  <city name="Hallbjarnarstaðir">
+    <latitude>66.15</latitude>
+    <longitude>-17.25</longitude>
+  </city>
+  <city name="Hallbjarnstaðir">
+    <latitude>66.15</latitude>
+    <longitude>-17.25</longitude>
+  </city>
+  <city name="Hallormsstaðir">
+    <latitude>65.1</latitude>
+    <longitude>-14.75</longitude>
+  </city>
+  <city name="Hallormsstaður">
+    <latitude>65.1</latitude>
+    <longitude>-14.75</longitude>
+  </city>
+  <city name="Hallormstaður">
+    <latitude>65.1</latitude>
+    <longitude>-14.75</longitude>
+  </city>
+  <city name="Háls">
+    <latitude>65.733333</latitude>
+    <longitude>-17.883333</longitude>
+  </city>
+  <city name="Hámundarstaðir">
+    <latitude>65.833333</latitude>
+    <longitude>-14.783333</longitude>
+  </city>
+  <city name="Hánefsstaðir">
+    <latitude>65.286944</latitude>
+    <longitude>-13.875</longitude>
+  </city>
+  <city name="Hanhóll">
+    <latitude>66.116667</latitude>
+    <longitude>-23.266667</longitude>
+  </city>
+  <city name="Háteigur">
+    <latitude>64.845278</latitude>
+    <longitude>-13.965</longitude>
+  </city>
+  <city name="Haukadalur">
+    <latitude>64.333333</latitude>
+    <longitude>-20.283333</longitude>
+  </city>
+  <city name="Helgafell">
+    <latitude>65.033333</latitude>
+    <longitude>-22.733333</longitude>
+  </city>
+  <city name="Hella">
+    <latitude>63.833333</latitude>
+    <longitude>-20.4</longitude>
+  </city>
+  <city name="Hellgafell">
+    <latitude>65.033333</latitude>
+    <longitude>-22.733333</longitude>
+  </city>
+  <city name="Hellissandur">
+    <latitude>64.916667</latitude>
+    <longitude>-23.9</longitude>
+  </city>
+  <city name="Hellnar">
+    <latitude>64.75</latitude>
+    <longitude>-23.65</longitude>
+  </city>
+  <city name="Hesteyri">
+    <latitude>66.333333</latitude>
+    <longitude>-22.883333</longitude>
+  </city>
+  <city name="Heydalir">
+    <latitude>64.8</latitude>
+    <longitude>-14.133333</longitude>
+  </city>
+  <city name="Hjaleyri">
+    <latitude>65.85</latitude>
+    <longitude>-18.2</longitude>
+  </city>
+  <city name="Hjalli">
+    <latitude>63.933333</latitude>
+    <longitude>-21.3</longitude>
+  </city>
+  <city name="Hjaltastaður">
+    <latitude>65.5</latitude>
+    <longitude>-14.233333</longitude>
+  </city>
+  <city name="Hjalteyri">
+    <latitude>65.85</latitude>
+    <longitude>-18.2</longitude>
+  </city>
+  <city name="Hjáltstaður">
+    <latitude>65.5</latitude>
+    <longitude>-14.233333</longitude>
+  </city>
+  <city name="Hjarðarfell">
+    <latitude>64.883333</latitude>
+    <longitude>-22.75</longitude>
+  </city>
+  <city name="Hjarðarholt">
+    <latitude>65.116667</latitude>
+    <longitude>-21.7</longitude>
+  </city>
+  <city name="Hlíðarendi">
+    <latitude>63.716667</latitude>
+    <longitude>-19.95</longitude>
+  </city>
+  <city name="Hlíðarhús">
+    <latitude>66.133333</latitude>
+    <longitude>-22.7</longitude>
+  </city>
+  <city name="Hlíð">
+    <latitude>66.016667</latitude>
+    <longitude>-23.016667</longitude>
+  </city>
+  <city name="Hmifsdalur">
+    <latitude>66.116667</latitude>
+    <longitude>-23.133333</longitude>
+  </city>
+  <city name="Hnífsdalur">
+    <latitude>66.116667</latitude>
+    <longitude>-23.133333</longitude>
+  </city>
+  <city name="Hnjótur">
+    <latitude>65.566667</latitude>
+    <longitude>-24.15</longitude>
+  </city>
+  <city name="Höfðahverfi">
+    <latitude>65.933333</latitude>
+    <longitude>-18.116667</longitude>
+  </city>
+  <city name="Höfðakaupstaður">
+    <latitude>65.833333</latitude>
+    <longitude>-20.316667</longitude>
+  </city>
+  <city name="Höfðaströnd">
+    <latitude>66.25</latitude>
+    <longitude>-22.683333</longitude>
+  </city>
+  <city name="Höfði">
+    <latitude>66.233333</latitude>
+    <longitude>-22.616667</longitude>
+  </city>
+  <city name="Hof">
+    <latitude>65.9</latitude>
+    <longitude>-20.333333</longitude>
+  </city>
+  <city name="Höfn">
+    <latitude>64.25</latitude>
+    <longitude>-15.216667</longitude>
+  </city>
+  <city name="Hofsós">
+    <latitude>65.9</latitude>
+    <longitude>-19.433333</longitude>
+  </city>
+  <city name="Hofstaðir">
+    <latitude>65.7</latitude>
+    <longitude>-19.366667</longitude>
+  </city>
+  <city name="Hofteigur">
+    <latitude>65.35</latitude>
+    <longitude>-14.866667</longitude>
+  </city>
+  <city name="Hólanes">
+    <latitude>65.816667</latitude>
+    <longitude>-20.316667</longitude>
+  </city>
+  <city name="Hólar">
+    <latitude>65.366667</latitude>
+    <longitude>-18.25</longitude>
+  </city>
+  <city name="Hóll">
+    <latitude>65.6</latitude>
+    <longitude>-14.266667</longitude>
+  </city>
+  <city name="Hólmabæir">
+    <latitude>63.616667</latitude>
+    <longitude>-20.083333</longitude>
+  </city>
+  <city name="Hólmahverfi">
+    <latitude>63.566667</latitude>
+    <longitude>-20.116667</longitude>
+  </city>
+  <city name="Hólmavík">
+    <latitude>65.716667</latitude>
+    <longitude>-21.683333</longitude>
+  </city>
+  <city name="Holtastaðir">
+    <latitude>65.6</latitude>
+    <longitude>-20.1</longitude>
+  </city>
+  <city name="Holt">
+    <latitude>63.55</latitude>
+    <longitude>-19.8</longitude>
+  </city>
+  <city name="Horn">
+    <latitude>66.45</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Hoskuldsstaðhir">
+    <latitude>65.733333</latitude>
+    <longitude>-20.25</longitude>
+  </city>
+  <city name="Höskuldsstaðir">
+    <latitude>65.733333</latitude>
+    <longitude>-20.25</longitude>
+  </city>
+  <city name="Hrafnsfjarðareyri">
+    <latitude>66.25</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Hraungerði">
+    <latitude>63.95</latitude>
+    <longitude>-20.816667</longitude>
+  </city>
+  <city name="Hraun">
+    <latitude>63.833333</latitude>
+    <longitude>-22.4</longitude>
+  </city>
+  <city name="Hrepphólar">
+    <latitude>64.066667</latitude>
+    <longitude>-20.333333</longitude>
+  </city>
+  <city name="Hruni">
+    <latitude>64.133333</latitude>
+    <longitude>-20.266667</longitude>
+  </city>
+  <city name="Htarðarholt">
+    <latitude>64.7</latitude>
+    <longitude>-21.55</longitude>
+  </city>
+  <city name="Húsavík">
+    <latitude>65.4</latitude>
+    <longitude>-13.683333</longitude>
+  </city>
+  <city name="Husayik">
+    <latitude>66.05</latitude>
+    <longitude>-17.35</longitude>
+  </city>
+  <city name="Hvaleyri">
+    <latitude>64.066667</latitude>
+    <longitude>-22.0</longitude>
+  </city>
+  <city name="Hvallátr">
+    <latitude>65.533333</latitude>
+    <longitude>-24.466667</longitude>
+  </city>
+  <city name="Hvallátur">
+    <latitude>65.533333</latitude>
+    <longitude>-24.466667</longitude>
+  </city>
+  <city name="Hvalsnes">
+    <latitude>63.983333</latitude>
+    <longitude>-22.733333</longitude>
+  </city>
+  <city name="Hvammstangi">
+    <latitude>65.4</latitude>
+    <longitude>-20.95</longitude>
+  </city>
+  <city name="Hvammur">
+    <latitude>65.216667</latitude>
+    <longitude>-21.816667</longitude>
+  </city>
+  <city name="Hvanneyri">
+    <latitude>64.566667</latitude>
+    <longitude>-21.766667</longitude>
+  </city>
+  <city name="Hveragerdi">
+    <latitude>64.0</latitude>
+    <longitude>-21.2</longitude>
+  </city>
+  <city name="Hveragerði">
+    <latitude>64.0</latitude>
+    <longitude>-21.2</longitude>
+  </city>
+  <city name="Hvolsvellír">
+    <latitude>63.75</latitude>
+    <longitude>-20.233333</longitude>
+  </city>
+  <city name="Hvolsvöllur">
+    <latitude>63.75</latitude>
+    <longitude>-20.233333</longitude>
+  </city>
+  <city name="Illugastaðir">
+    <latitude>65.616667</latitude>
+    <longitude>-17.816667</longitude>
+  </city>
+  <city name="Ingjaldshóll">
+    <latitude>64.916667</latitude>
+    <longitude>-23.85</longitude>
+  </city>
+  <city name="Innrihólmur">
+    <latitude>64.3</latitude>
+    <longitude>-21.916667</longitude>
+  </city>
+  <city name="Innri Njarðvík">
+    <latitude>63.966667</latitude>
+    <longitude>-22.516667</longitude>
+  </city>
+  <city name="Isafiordr">
+    <latitude>66.083333</latitude>
+    <longitude>-23.15</longitude>
+  </city>
+  <city name="Ísafjardardjup">
+    <latitude>66.083333</latitude>
+    <longitude>-23.15</longitude>
+  </city>
+  <city name="Ísafjörður">
+    <latitude>66.083333</latitude>
+    <longitude>-23.15</longitude>
+  </city>
+  <city name="Issafjörður">
+    <latitude>66.083333</latitude>
+    <longitude>-23.15</longitude>
+  </city>
+  <city name="Kakki">
+    <latitude>65.616667</latitude>
+    <longitude>-18.516667</longitude>
+  </city>
+  <city name="Kaldrananes">
+    <latitude>65.75</latitude>
+    <longitude>-21.416667</longitude>
+  </city>
+  <city name="Kálfafell">
+    <latitude>63.95</latitude>
+    <longitude>-17.683333</longitude>
+  </city>
+  <city name="Kálfafellsstaður">
+    <latitude>64.183333</latitude>
+    <longitude>-15.883333</longitude>
+  </city>
+  <city name="Kálfajörn">
+    <latitude>64.016667</latitude>
+    <longitude>-22.3</longitude>
+  </city>
+  <city name="Kálfatjörn">
+    <latitude>64.016667</latitude>
+    <longitude>-22.3</longitude>
+  </city>
+  <city name="Kálfholt">
+    <latitude>63.9</latitude>
+    <longitude>-20.65</longitude>
+  </city>
+  <city name="Kaupangur">
+    <latitude>65.633333</latitude>
+    <longitude>-18.033333</longitude>
+  </city>
+  <city name="Kaupstaður">
+    <latitude>63.365</latitude>
+    <longitude>-20.2075</longitude>
+  </city>
+  <city name="Keflavík">
+    <latitude>64.016667</latitude>
+    <longitude>-22.566667</longitude>
+  </city>
+  <city name="Kelda">
+    <latitude>64.616667</latitude>
+    <longitude>-21.55</longitude>
+  </city>
+  <city name="Keldur">
+    <latitude>63.816667</latitude>
+    <longitude>-20.083333</longitude>
+  </city>
+  <city name="Keta">
+    <latitude>66.05</latitude>
+    <longitude>-20.033333</longitude>
+  </city>
+  <city name="Kinnarstaðir">
+    <latitude>65.55</latitude>
+    <longitude>-22.15</longitude>
+  </city>
+  <city name="Kinnarstaður">
+    <latitude>65.55</latitude>
+    <longitude>-22.15</longitude>
+  </city>
+  <city name="Kirkjubæjarklaustur">
+    <latitude>63.783333</latitude>
+    <longitude>-18.066667</longitude>
+  </city>
+  <city name="Kirkjubær">
+    <latitude>65.516667</latitude>
+    <longitude>-14.4</longitude>
+  </city>
+  <city name="Kirkjuból">
+    <latitude>65.583333</latitude>
+    <longitude>-22.883333</longitude>
+  </city>
+  <city name="Kirkjubólsþorp">
+    <latitude>64.835</latitude>
+    <longitude>-13.876667</longitude>
+  </city>
+  <city name="Kirkjuvogur">
+    <latitude>63.933333</latitude>
+    <longitude>-22.683333</longitude>
+  </city>
+  <city name="Kjós">
+    <latitude>66.233333</latitude>
+    <longitude>-22.533333</longitude>
+  </city>
+  <city name="Kleppur">
+    <latitude>64.145833</latitude>
+    <longitude>-21.85</longitude>
+  </city>
+  <city name="Kljáströnd">
+    <latitude>65.916667</latitude>
+    <longitude>-18.183333</longitude>
+  </city>
+  <city name="Klyppsstaðir">
+    <latitude>65.366667</latitude>
+    <longitude>-13.9</longitude>
+  </city>
+  <city name="Klypsstaðir">
+    <latitude>65.366667</latitude>
+    <longitude>-13.9</longitude>
+  </city>
+  <city name="Knappavellir">
+    <latitude>63.9</latitude>
+    <longitude>-16.6</longitude>
+  </city>
+  <city name="Knappstaðir">
+    <latitude>65.966667</latitude>
+    <longitude>-18.966667</longitude>
+  </city>
+  <city name="Kolbeinseyri">
+    <latitude>66.016667</latitude>
+    <longitude>-22.866667</longitude>
+  </city>
+  <city name="Kolbeinsstaðir">
+    <latitude>64.816667</latitude>
+    <longitude>-22.266667</longitude>
+  </city>
+  <city name="Kolbeinsstaður">
+    <latitude>64.816667</latitude>
+    <longitude>-22.266667</longitude>
+  </city>
+  <city name="Kolfreyjustaðir">
+    <latitude>64.916667</latitude>
+    <longitude>-13.8</longitude>
+  </city>
+  <city name="Kolfreyjustaður">
+    <latitude>64.916667</latitude>
+    <longitude>-13.8</longitude>
+  </city>
+  <city name="Kollafarðarnes">
+    <latitude>65.6</latitude>
+    <longitude>-21.4</longitude>
+  </city>
+  <city name="Kollafjarðarnes">
+    <latitude>65.6</latitude>
+    <longitude>-21.4</longitude>
+  </city>
+  <city name="Kópasker">
+    <latitude>66.3</latitude>
+    <longitude>-16.45</longitude>
+  </city>
+  <city name="Kópavogskaupstaður">
+    <latitude>64.1</latitude>
+    <longitude>-21.916667</longitude>
+  </city>
+  <city name="Kópavogur">
+    <latitude>64.1</latitude>
+    <longitude>-21.916667</longitude>
+  </city>
+  <city name="Kotströnd">
+    <latitude>63.966667</latitude>
+    <longitude>-21.15</longitude>
+  </city>
+  <city name="Kross">
+    <latitude>63.6</latitude>
+    <longitude>-20.283333</longitude>
+  </city>
+  <city name="Kuvíker">
+    <latitude>65.95</latitude>
+    <longitude>-21.483333</longitude>
+  </city>
+  <city name="Kúvíkur">
+    <latitude>65.95</latitude>
+    <longitude>-21.483333</longitude>
+  </city>
+  <city name="Kvíabekkur">
+    <latitude>66.016667</latitude>
+    <longitude>-18.766667</longitude>
+  </city>
+  <city name="Kvíabryggja">
+    <latitude>64.95</latitude>
+    <longitude>-23.333333</longitude>
+  </city>
+  <city name="Kviabryggva">
+    <latitude>64.95</latitude>
+    <longitude>-23.333333</longitude>
+  </city>
+  <city name="Lækjamót">
+    <latitude>65.416667</latitude>
+    <longitude>-20.6</longitude>
+  </city>
+  <city name="Lágafell">
+    <latitude>64.166667</latitude>
+    <longitude>-21.7</longitude>
+  </city>
+  <city name="Lambastaðir">
+    <latitude>64.15</latitude>
+    <longitude>-22.0</longitude>
+  </city>
+  <city name="Langholt">
+    <latitude>63.583333</latitude>
+    <longitude>-18.15</longitude>
+  </city>
+  <city name="Látrar">
+    <latitude>66.4</latitude>
+    <longitude>-23.033333</longitude>
+  </city>
+  <city name="Látur">
+    <latitude>65.95</latitude>
+    <longitude>-22.583333</longitude>
+  </city>
+  <city name="Laufás">
+    <latitude>65.883333</latitude>
+    <longitude>-18.066667</longitude>
+  </city>
+  <city name="Laugardælir">
+    <latitude>63.95</latitude>
+    <longitude>-20.966667</longitude>
+  </city>
+  <city name="Laugarvatn">
+    <latitude>64.216667</latitude>
+    <longitude>-20.733333</longitude>
+  </city>
+  <city name="Laxamýri">
+    <latitude>65.966667</latitude>
+    <longitude>-17.4</longitude>
+  </city>
+  <city name="Leirá">
+    <latitude>64.416667</latitude>
+    <longitude>-21.85</longitude>
+  </city>
+  <city name="Liósavatn">
+    <latitude>65.683333</latitude>
+    <longitude>-17.616667</longitude>
+  </city>
+  <city name="Litli-Árskógssandur">
+    <latitude>65.95</latitude>
+    <longitude>-18.366667</longitude>
+  </city>
+  <city name="Litlibær">
+    <latitude>65.983333</latitude>
+    <longitude>-22.833333</longitude>
+  </city>
+  <city name="Ljósavatn">
+    <latitude>65.683333</latitude>
+    <longitude>-17.616667</longitude>
+  </city>
+  <city name="Ljósvatn">
+    <latitude>65.683333</latitude>
+    <longitude>-17.616667</longitude>
+  </city>
+  <city name="Lögmannshlíð">
+    <latitude>65.683333</latitude>
+    <longitude>-18.166667</longitude>
+  </city>
+  <city name="Lönd">
+    <latitude>64.833333</latitude>
+    <longitude>-13.833333</longitude>
+  </city>
+  <city name="Lundarbrekka">
+    <latitude>65.45</latitude>
+    <longitude>-17.4</longitude>
+  </city>
+  <city name="Lundur">
+    <latitude>64.55</latitude>
+    <longitude>-21.4</longitude>
+  </city>
+  <city name="Mælifell">
+    <latitude>65.433333</latitude>
+    <longitude>-19.35</longitude>
+  </city>
+  <city name="Marteinstunga">
+    <latitude>63.916667</latitude>
+    <longitude>-20.4</longitude>
+  </city>
+  <city name="Meiribakki">
+    <latitude>66.183333</latitude>
+    <longitude>-23.483333</longitude>
+  </city>
+  <city name="Meistaður">
+    <latitude>65.316667</latitude>
+    <longitude>-20.916667</longitude>
+  </city>
+  <city name="Melgraseyri">
+    <latitude>66.016667</latitude>
+    <longitude>-22.45</longitude>
+  </city>
+  <city name="Melstadur">
+    <latitude>65.316667</latitude>
+    <longitude>-20.916667</longitude>
+  </city>
+  <city name="Melstaður">
+    <latitude>65.316667</latitude>
+    <longitude>-20.916667</longitude>
+  </city>
+  <city name="Merki">
+    <latitude>64.905556</latitude>
+    <longitude>-13.978333</longitude>
+  </city>
+  <city name="Miðdalur">
+    <latitude>64.233333</latitude>
+    <longitude>-20.666667</longitude>
+  </city>
+  <city name="Miðgarðar">
+    <latitude>66.533333</latitude>
+    <longitude>-18.0</longitude>
+  </city>
+  <city name="Miðsandur">
+    <latitude>64.398056</latitude>
+    <longitude>-21.453889</longitude>
+  </city>
+  <city name="Miklholt">
+    <latitude>64.816667</latitude>
+    <longitude>-22.583333</longitude>
+  </city>
+  <city name="Miklibær">
+    <latitude>65.516667</latitude>
+    <longitude>-19.3</longitude>
+  </city>
+  <city name="Minnibakki">
+    <latitude>66.183333</latitude>
+    <longitude>-23.483333</longitude>
+  </city>
+  <city name="Minnihlíð">
+    <latitude>66.166667</latitude>
+    <longitude>-23.283333</longitude>
+  </city>
+  <city name="Möðruvellir">
+    <latitude>65.45</latitude>
+    <longitude>-18.166667</longitude>
+  </city>
+  <city name="Moedruvellir">
+    <latitude>65.45</latitude>
+    <longitude>-18.166667</longitude>
+  </city>
+  <city name="Mosfell">
+    <latitude>64.116667</latitude>
+    <longitude>-20.6</longitude>
+  </city>
+  <city name="Múli">
+    <latitude>65.011667</latitude>
+    <longitude>-13.616111</longitude>
+  </city>
+  <city name="Munaðarnes">
+    <latitude>66.083333</latitude>
+    <longitude>-21.616667</longitude>
+  </city>
+  <city name="Munkaþverá">
+    <latitude>65.55</latitude>
+    <longitude>-18.083333</longitude>
+  </city>
+  <city name="Mýrar">
+    <latitude>65.9</latitude>
+    <longitude>-23.516667</longitude>
+  </city>
+  <city name="Nanteyri">
+    <latitude>65.916667</latitude>
+    <longitude>-22.35</longitude>
+  </city>
+  <city name="Nardhvik">
+    <latitude>65.566667</latitude>
+    <longitude>-13.9</longitude>
+  </city>
+  <city name="Narfeyri">
+    <latitude>65.016667</latitude>
+    <longitude>-22.6</longitude>
+  </city>
+  <city name="Nauteyri">
+    <latitude>65.916667</latitude>
+    <longitude>-22.35</longitude>
+  </city>
+  <city name="Nedhri Arndardalur">
+    <latitude>66.1</latitude>
+    <longitude>-23.05</longitude>
+  </city>
+  <city name="Neðri Arnardalur">
+    <latitude>66.1</latitude>
+    <longitude>-23.05</longitude>
+  </city>
+  <city name="Neskaupstadhur">
+    <latitude>65.15</latitude>
+    <longitude>-13.7</longitude>
+  </city>
+  <city name="Neskaupstaður">
+    <latitude>65.15</latitude>
+    <longitude>-13.7</longitude>
+  </city>
+  <city name="Nes">
+    <latitude>65.366667</latitude>
+    <longitude>-13.75</longitude>
+  </city>
+  <city name="Njarðvík">
+    <latitude>63.966667</latitude>
+    <longitude>-22.516667</longitude>
+  </city>
+  <city name="Njarðvíkur">
+    <latitude>63.966667</latitude>
+    <longitude>-22.516667</longitude>
+  </city>
+  <city name="Norðtunga">
+    <latitude>64.733333</latitude>
+    <longitude>-21.4</longitude>
+  </city>
+  <city name="Norðurbotn">
+    <latitude>65.6</latitude>
+    <longitude>-23.766667</longitude>
+  </city>
+  <city name="Norðurfjörður">
+    <latitude>66.05</latitude>
+    <longitude>-21.566667</longitude>
+  </city>
+  <city name="Novotunga">
+    <latitude>64.733333</latitude>
+    <longitude>-21.4</longitude>
+  </city>
+  <city name="Núp">
+    <latitude>65.933333</latitude>
+    <longitude>-23.6</longitude>
+  </city>
+  <city name="Nupu">
+    <latitude>65.933333</latitude>
+    <longitude>-23.6</longitude>
+  </city>
+  <city name="Núpur">
+    <latitude>65.933333</latitude>
+    <longitude>-23.6</longitude>
+  </city>
+  <city name="Oddi">
+    <latitude>63.766667</latitude>
+    <longitude>-20.4</longitude>
+  </city>
+  <city name="Ofanleiti">
+    <latitude>63.416667</latitude>
+    <longitude>-20.3</longitude>
+  </city>
+  <city name="Ófeigsfjörður">
+    <latitude>66.05</latitude>
+    <longitude>-21.716667</longitude>
+  </city>
+  <city name="Ögur">
+    <latitude>66.033333</latitude>
+    <longitude>-22.733333</longitude>
+  </city>
+  <city name="Olafsfjördhur">
+    <latitude>66.066667</latitude>
+    <longitude>-18.65</longitude>
+  </city>
+  <city name="Ólafsfjörður">
+    <latitude>66.066667</latitude>
+    <longitude>-18.65</longitude>
+  </city>
+  <city name="Ólafsvellir">
+    <latitude>64.016667</latitude>
+    <longitude>-20.6</longitude>
+  </city>
+  <city name="Ólafsvík">
+    <latitude>64.883333</latitude>
+    <longitude>-23.716667</longitude>
+  </city>
+  <city name="Olíustöð">
+    <latitude>64.398889</latitude>
+    <longitude>-21.458056</longitude>
+  </city>
+  <city name="Óspakseyri">
+    <latitude>65.45</latitude>
+    <longitude>-21.433333</longitude>
+  </city>
+  <city name="Patreksfjordhur">
+    <latitude>65.583333</latitude>
+    <longitude>-24.0</longitude>
+  </city>
+  <city name="Patreksfjörður">
+    <latitude>65.583333</latitude>
+    <longitude>-24.0</longitude>
+  </city>
+  <city name="Pingeyri">
+    <latitude>65.866667</latitude>
+    <longitude>-23.5</longitude>
+  </city>
+  <city name="Prestbakki">
+    <latitude>65.316667</latitude>
+    <longitude>-21.2</longitude>
+  </city>
+  <city name="Prestsbakki">
+    <latitude>63.833333</latitude>
+    <longitude>-18.016667</longitude>
+  </city>
+  <city name="Rafnseyri">
+    <latitude>65.766667</latitude>
+    <longitude>-23.45</longitude>
+  </city>
+  <city name="Rauðamelur">
+    <latitude>64.866667</latitude>
+    <longitude>-22.35</longitude>
+  </city>
+  <city name="Raudhimelur">
+    <latitude>64.866667</latitude>
+    <longitude>-22.35</longitude>
+  </city>
+  <city name="Raufarhöfn">
+    <latitude>66.45</latitude>
+    <longitude>-15.95</longitude>
+  </city>
+  <city name="Reyðarfjörður">
+    <latitude>65.033333</latitude>
+    <longitude>-14.216667</longitude>
+  </city>
+  <city name="Reykhóar">
+    <latitude>65.45</latitude>
+    <longitude>-22.2</longitude>
+  </city>
+  <city name="Reykhólar">
+    <latitude>65.45</latitude>
+    <longitude>-22.2</longitude>
+  </city>
+  <city name="Reykholt">
+    <latitude>64.666667</latitude>
+    <longitude>-21.3</longitude>
+  </city>
+  <city name="Reykir">
+    <latitude>65.466667</latitude>
+    <longitude>-19.366667</longitude>
+  </city>
+  <city name="Reykjafjörður">
+    <latitude>66.266667</latitude>
+    <longitude>-22.083333</longitude>
+  </city>
+  <city name="Reykjahlíð">
+    <latitude>65.65</latitude>
+    <longitude>-16.916667</longitude>
+  </city>
+  <city name="Reykjarfjörður">
+    <latitude>65.616667</latitude>
+    <longitude>-23.466667</longitude>
+  </city>
+  <city name="Reykjarnes">
+    <latitude>66.016667</latitude>
+    <longitude>-21.366667</longitude>
+  </city>
+  <city name="Reykjavík">
+    <latitude>64.15</latitude>
+    <longitude>-21.95</longitude>
+  </city>
+  <city name="Reynir">
+    <latitude>63.416667</latitude>
+    <longitude>-19.05</longitude>
+  </city>
+  <city name="Reynistadhir">
+    <latitude>65.65</latitude>
+    <longitude>-19.566667</longitude>
+  </city>
+  <city name="Reynistaður">
+    <latitude>65.65</latitude>
+    <longitude>-19.566667</longitude>
+  </city>
+  <city name="Reynivellir">
+    <latitude>64.333333</latitude>
+    <longitude>-21.533333</longitude>
+  </city>
+  <city name="Ríp">
+    <latitude>65.666667</latitude>
+    <longitude>-19.45</longitude>
+  </city>
+  <city name="Sæból">
+    <latitude>66.333333</latitude>
+    <longitude>-23.116667</longitude>
+  </city>
+  <city name="Sandfell">
+    <latitude>63.933333</latitude>
+    <longitude>-16.8</longitude>
+  </city>
+  <city name="Sandgerði">
+    <latitude>64.05</latitude>
+    <longitude>-22.7</longitude>
+  </city>
+  <city name="Sandhur">
+    <latitude>64.916667</latitude>
+    <longitude>-23.9</longitude>
+  </city>
+  <city name="Sandnes">
+    <latitude>65.733333</latitude>
+    <longitude>-21.633333</longitude>
+  </city>
+  <city name="Sandur">
+    <latitude>64.916667</latitude>
+    <longitude>-23.9</longitude>
+  </city>
+  <city name="Sangerdhi">
+    <latitude>64.05</latitude>
+    <longitude>-22.7</longitude>
+  </city>
+  <city name="Sauðafell">
+    <latitude>65.016667</latitude>
+    <longitude>-21.633333</longitude>
+  </city>
+  <city name="Sauðanes">
+    <latitude>66.233333</latitude>
+    <longitude>-15.266667</longitude>
+  </city>
+  <city name="Saudarkrokr">
+    <latitude>65.75</latitude>
+    <longitude>-19.65</longitude>
+  </city>
+  <city name="Sauðárkrókur">
+    <latitude>65.75</latitude>
+    <longitude>-19.65</longitude>
+  </city>
+  <city name="Saudhanes">
+    <latitude>66.233333</latitude>
+    <longitude>-15.266667</longitude>
+  </city>
+  <city name="Saudharkrokur">
+    <latitude>65.75</latitude>
+    <longitude>-19.65</longitude>
+  </city>
+  <city name="Sauðlauksdalur">
+    <latitude>65.533333</latitude>
+    <longitude>-24.0</longitude>
+  </city>
+  <city name="Saurbær">
+    <latitude>64.405278</latitude>
+    <longitude>-21.625833</longitude>
+  </city>
+  <city name="Selárdalur">
+    <latitude>65.766667</latitude>
+    <longitude>-24.0</longitude>
+  </city>
+  <city name="Selfoss">
+    <latitude>63.933333</latitude>
+    <longitude>-21.0</longitude>
+  </city>
+  <city name="Setberg">
+    <latitude>64.95</latitude>
+    <longitude>-23.2</longitude>
+  </city>
+  <city name="Seyðisfjordhur">
+    <latitude>65.266667</latitude>
+    <longitude>-14.0</longitude>
+  </city>
+  <city name="Seydisfjorður">
+    <latitude>65.266667</latitude>
+    <longitude>-14.0</longitude>
+  </city>
+  <city name="Seyðisfjörður">
+    <latitude>65.266667</latitude>
+    <longitude>-14.0</longitude>
+  </city>
+  <city name="Siðmúli">
+    <latitude>64.7</latitude>
+    <longitude>-21.383333</longitude>
+  </city>
+  <city name="Síðumúli">
+    <latitude>64.7</latitude>
+    <longitude>-21.383333</longitude>
+  </city>
+  <city name="Siglufjörður">
+    <latitude>66.15</latitude>
+    <longitude>-18.916667</longitude>
+  </city>
+  <city name="Silfrastaðir">
+    <latitude>65.433333</latitude>
+    <longitude>-19.183333</longitude>
+  </city>
+  <city name="Silfurtún">
+    <latitude>64.1</latitude>
+    <longitude>-21.916667</longitude>
+  </city>
+  <city name="Skaftafell">
+    <latitude>64.016667</latitude>
+    <longitude>-17.0</longitude>
+  </city>
+  <city name="Skagastrand">
+    <latitude>65.833333</latitude>
+    <longitude>-20.316667</longitude>
+  </city>
+  <city name="Skagaströnd">
+    <latitude>65.833333</latitude>
+    <longitude>-20.316667</longitude>
+  </city>
+  <city name="Skálanes">
+    <latitude>65.3</latitude>
+    <longitude>-13.716667</longitude>
+  </city>
+  <city name="Skálar">
+    <latitude>66.333333</latitude>
+    <longitude>-14.766667</longitude>
+  </city>
+  <city name="Skálavík">
+    <latitude>66.183333</latitude>
+    <longitude>-23.483333</longitude>
+  </city>
+  <city name="Skálholt">
+    <latitude>64.116667</latitude>
+    <longitude>-20.533333</longitude>
+  </city>
+  <city name="Skálmarnesmúli">
+    <latitude>65.516667</latitude>
+    <longitude>-22.75</longitude>
+  </city>
+  <city name="Skarð">
+    <latitude>65.283333</latitude>
+    <longitude>-22.316667</longitude>
+  </city>
+  <city name="Skeggjastaðir">
+    <latitude>66.016667</latitude>
+    <longitude>-14.9</longitude>
+  </city>
+  <city name="Skeiðflötur">
+    <latitude>63.433333</latitude>
+    <longitude>-19.183333</longitude>
+  </city>
+  <city name="Skeiðiflötur">
+    <latitude>63.433333</latitude>
+    <longitude>-19.183333</longitude>
+  </city>
+  <city name="Skelðflötur">
+    <latitude>63.433333</latitude>
+    <longitude>-19.183333</longitude>
+  </city>
+  <city name="Skinnastaðir">
+    <latitude>66.066667</latitude>
+    <longitude>-16.45</longitude>
+  </city>
+  <city name="Skinnastaður">
+    <latitude>66.066667</latitude>
+    <longitude>-16.45</longitude>
+  </city>
+  <city name="Skipaskagi">
+    <latitude>64.316667</latitude>
+    <longitude>-22.1</longitude>
+  </city>
+  <city name="Skógur">
+    <latitude>65.716667</latitude>
+    <longitude>-23.366667</longitude>
+  </city>
+  <city name="Skútustaðir">
+    <latitude>65.566667</latitude>
+    <longitude>-17.033333</longitude>
+  </city>
+  <city name="Sleðbrjótur">
+    <latitude>65.566667</latitude>
+    <longitude>-14.5</longitude>
+  </city>
+  <city name="Snæfjöll">
+    <latitude>66.166667</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Snartarstadir">
+    <latitude>66.3</latitude>
+    <longitude>-16.433333</longitude>
+  </city>
+  <city name="Snartarstaðir">
+    <latitude>66.3</latitude>
+    <longitude>-16.433333</longitude>
+  </city>
+  <city name="Snartastaðir">
+    <latitude>66.3</latitude>
+    <longitude>-16.433333</longitude>
+  </city>
+  <city name="Snóksdalur">
+    <latitude>65.016667</latitude>
+    <longitude>-21.733333</longitude>
+  </city>
+  <city name="Snóksdolur">
+    <latitude>65.016667</latitude>
+    <longitude>-21.733333</longitude>
+  </city>
+  <city name="Sólmundarhöfði">
+    <latitude>64.312778</latitude>
+    <longitude>-22.051944</longitude>
+  </city>
+  <city name="Spákonufell">
+    <latitude>65.816667</latitude>
+    <longitude>-20.283333</longitude>
+  </city>
+  <city name="Staðarbakki">
+    <latitude>65.3</latitude>
+    <longitude>-20.866667</longitude>
+  </city>
+  <city name="Stadarfell">
+    <latitude>65.116667</latitude>
+    <longitude>-22.2</longitude>
+  </city>
+  <city name="Staðarfell">
+    <latitude>65.116667</latitude>
+    <longitude>-22.2</longitude>
+  </city>
+  <city name="Staðarhólskirkja">
+    <latitude>65.383333</latitude>
+    <longitude>-21.916667</longitude>
+  </city>
+  <city name="Staðarhraun">
+    <latitude>64.75</latitude>
+    <longitude>-22.1</longitude>
+  </city>
+  <city name="Staðarstaður">
+    <latitude>64.816667</latitude>
+    <longitude>-23.016667</longitude>
+  </city>
+  <city name="Staðastaður">
+    <latitude>64.816667</latitude>
+    <longitude>-23.016667</longitude>
+  </city>
+  <city name="Staðurhraun">
+    <latitude>64.75</latitude>
+    <longitude>-22.1</longitude>
+  </city>
+  <city name="Staður">
+    <latitude>65.483333</latitude>
+    <longitude>-22.366667</longitude>
+  </city>
+  <city name="Stærri-Árskógur">
+    <latitude>65.916667</latitude>
+    <longitude>-18.35</longitude>
+  </city>
+  <city name="Stafafell">
+    <latitude>64.416667</latitude>
+    <longitude>-14.866667</longitude>
+  </city>
+  <city name="Stafholt">
+    <latitude>64.65</latitude>
+    <longitude>-21.65</longitude>
+  </city>
+  <city name="Stapi">
+    <latitude>64.766667</latitude>
+    <longitude>-23.633333</longitude>
+  </city>
+  <city name="Starmýri">
+    <latitude>64.533333</latitude>
+    <longitude>-14.55</longitude>
+  </city>
+  <city name="Stöð">
+    <latitude>64.85</latitude>
+    <longitude>-13.966667</longitude>
+  </city>
+  <city name="Stöðvarfjörður">
+    <latitude>64.835</latitude>
+    <longitude>-13.876667</longitude>
+  </city>
+  <city name="Stokkseyre">
+    <latitude>63.833333</latitude>
+    <longitude>-21.066667</longitude>
+  </city>
+  <city name="Stokkseyri">
+    <latitude>63.833333</latitude>
+    <longitude>-21.066667</longitude>
+  </city>
+  <city name="Stóra Fjarðarhorn">
+    <latitude>65.55</latitude>
+    <longitude>-21.466667</longitude>
+  </city>
+  <city name="Stóra-Vatnshorn">
+    <latitude>65.066667</latitude>
+    <longitude>-21.55</longitude>
+  </city>
+  <city name="Stóra-Vatnsléysa">
+    <latitude>64.016667</latitude>
+    <longitude>-22.216667</longitude>
+  </city>
+  <city name="Stóri-Ás">
+    <latitude>64.7</latitude>
+    <longitude>-21.033333</longitude>
+  </city>
+  <city name="Stóridalur">
+    <latitude>63.633333</latitude>
+    <longitude>-19.95</longitude>
+  </city>
+  <city name="Stóri-Dalur">
+    <latitude>63.633333</latitude>
+    <longitude>-19.95</longitude>
+  </city>
+  <city name="Stóri Laugardalur">
+    <latitude>65.65</latitude>
+    <longitude>-23.916667</longitude>
+  </city>
+  <city name="Stórinúpur">
+    <latitude>64.05</latitude>
+    <longitude>-20.166667</longitude>
+  </city>
+  <city name="Stórófshvoll">
+    <latitude>63.75</latitude>
+    <longitude>-20.216667</longitude>
+  </city>
+  <city name="Stórólfshvoll">
+    <latitude>63.75</latitude>
+    <longitude>-20.216667</longitude>
+  </city>
+  <city name="Strandakirkja">
+    <latitude>63.833333</latitude>
+    <longitude>-21.7</longitude>
+  </city>
+  <city name="Strandarkirkja">
+    <latitude>63.833333</latitude>
+    <longitude>-21.7</longitude>
+  </city>
+  <city name="Stykkishólmur">
+    <latitude>65.066667</latitude>
+    <longitude>-22.733333</longitude>
+  </city>
+  <city name="Súðavík">
+    <latitude>66.033333</latitude>
+    <longitude>-23.0</longitude>
+  </city>
+  <city name="Suðureyri">
+    <latitude>66.116667</latitude>
+    <longitude>-23.533333</longitude>
+  </city>
+  <city name="Svalbarð">
+    <latitude>66.2</latitude>
+    <longitude>-15.716667</longitude>
+  </city>
+  <city name="Sveinseyri">
+    <latitude>65.633333</latitude>
+    <longitude>-23.85</longitude>
+  </city>
+  <city name="Svínafell">
+    <latitude>63.983333</latitude>
+    <longitude>-16.85</longitude>
+  </city>
+  <city name="Svínavatn">
+    <latitude>65.516667</latitude>
+    <longitude>-19.966667</longitude>
+  </city>
+  <city name="Sydra-Holakot">
+    <latitude>63.5</latitude>
+    <longitude>-19.616667</longitude>
+  </city>
+  <city name="Syðstibær">
+    <latitude>65.966667</latitude>
+    <longitude>-18.366667</longitude>
+  </city>
+  <city name="Tannanes">
+    <latitude>65.983333</latitude>
+    <longitude>-23.416667</longitude>
+  </city>
+  <city name="Tirðilmýri">
+    <latitude>66.116667</latitude>
+    <longitude>-22.6</longitude>
+  </city>
+  <city name="Tjaldtangi">
+    <latitude>66.033333</latitude>
+    <longitude>-22.866667</longitude>
+  </city>
+  <city name="Tjörn">
+    <latitude>65.933333</latitude>
+    <longitude>-18.566667</longitude>
+  </city>
+  <city name="Torfastaðir">
+    <latitude>64.166667</latitude>
+    <longitude>-20.5</longitude>
+  </city>
+  <city name="Torfastadur">
+    <latitude>64.166667</latitude>
+    <longitude>-20.5</longitude>
+  </city>
+  <city name="Tröð">
+    <latitude>66.033333</latitude>
+    <longitude>-22.983333</longitude>
+  </city>
+  <city name="Tunga">
+    <latitude>65.583333</latitude>
+    <longitude>-24.133333</longitude>
+  </city>
+  <city name="Tungufell">
+    <latitude>64.283333</latitude>
+    <longitude>-20.166667</longitude>
+  </city>
+  <city name="Úlfljótsvatn">
+    <latitude>64.1</latitude>
+    <longitude>-21.05</longitude>
+  </city>
+  <city name="Úlfsá">
+    <latitude>66.066667</latitude>
+    <longitude>-23.166667</longitude>
+  </city>
+  <city name="Unaðsdalur">
+    <latitude>66.116667</latitude>
+    <longitude>-22.6</longitude>
+  </city>
+  <city name="Undirfell">
+    <latitude>65.383333</latitude>
+    <longitude>-20.283333</longitude>
+  </city>
+  <city name="Upsir">
+    <latitude>65.983333</latitude>
+    <longitude>-18.55</longitude>
+  </city>
+  <city name="Upsnir Church">
+    <latitude>65.983333</latitude>
+    <longitude>-18.55</longitude>
+  </city>
+  <city name="Urðir">
+    <latitude>65.866667</latitude>
+    <longitude>-18.7</longitude>
+  </city>
+  <city name="Útskálar">
+    <latitude>64.083333</latitude>
+    <longitude>-22.666667</longitude>
+  </city>
+  <city name="Útskáler Church">
+    <latitude>64.083333</latitude>
+    <longitude>-22.666667</longitude>
+  </city>
+  <city name="Úþlíð">
+    <latitude>64.266667</latitude>
+    <longitude>-20.466667</longitude>
+  </city>
+  <city name="Vaðlækir">
+    <latitude>64.033333</latitude>
+    <longitude>-20.966667</longitude>
+  </city>
+  <city name="Vaðlækur">
+    <latitude>64.033333</latitude>
+    <longitude>-20.966667</longitude>
+  </city>
+  <city name="Vaðlar">
+    <latitude>65.983333</latitude>
+    <longitude>-23.45</longitude>
+  </city>
+  <city name="Vallanes">
+    <latitude>65.2</latitude>
+    <longitude>-14.55</longitude>
+  </city>
+  <city name="Valþjofsstaðir">
+    <latitude>65.016667</latitude>
+    <longitude>-14.983333</longitude>
+  </city>
+  <city name="Valþjófsstaður">
+    <latitude>65.016667</latitude>
+    <longitude>-14.983333</longitude>
+  </city>
+  <city name="Vantsfjörður">
+    <latitude>65.933333</latitude>
+    <longitude>-22.5</longitude>
+  </city>
+  <city name="Vatneyri">
+    <latitude>65.583333</latitude>
+    <longitude>-24.0</longitude>
+  </city>
+  <city name="Vatnsefjörður">
+    <latitude>65.933333</latitude>
+    <longitude>-22.5</longitude>
+  </city>
+  <city name="Vatnsfjörður">
+    <latitude>65.933333</latitude>
+    <longitude>-22.5</longitude>
+  </city>
+  <city name="Vattannes">
+    <latitude>65.616667</latitude>
+    <longitude>-22.716667</longitude>
+  </city>
+  <city name="Vattarnes">
+    <latitude>65.616667</latitude>
+    <longitude>-22.716667</longitude>
+  </city>
+  <city name="Vaþsfjorður">
+    <latitude>65.933333</latitude>
+    <longitude>-22.5</longitude>
+  </city>
+  <city name="Vellir">
+    <latitude>65.916667</latitude>
+    <longitude>-18.55</longitude>
+  </city>
+  <city name="Verzlunarstaður">
+    <latitude>65.45</latitude>
+    <longitude>-21.933333</longitude>
+  </city>
+  <city name="Vestdalseyri">
+    <latitude>65.283333</latitude>
+    <longitude>-13.983333</longitude>
+  </city>
+  <city name="Vestmannaeyjar">
+    <latitude>63.365</latitude>
+    <longitude>-20.2075</longitude>
+  </city>
+  <city name="Vesturhópshólar">
+    <latitude>65.533333</latitude>
+    <longitude>-20.666667</longitude>
+  </city>
+  <city name="Vetleifsholtshverfi">
+    <latitude>63.816667</latitude>
+    <longitude>-20.5</longitude>
+  </city>
+  <city name="Víðidalstunga">
+    <latitude>65.35</latitude>
+    <longitude>-20.6</longitude>
+  </city>
+  <city name="Víðimýri">
+    <latitude>65.533333</latitude>
+    <longitude>-19.466667</longitude>
+  </city>
+  <city name="Vidirholl">
+    <latitude>65.733333</latitude>
+    <longitude>-16.033333</longitude>
+  </city>
+  <city name="Víðirhóll">
+    <latitude>65.733333</latitude>
+    <longitude>-16.033333</longitude>
+  </city>
+  <city name="Viðvík">
+    <latitude>65.766667</latitude>
+    <longitude>-19.283333</longitude>
+  </city>
+  <city name="Vík-Handelssted">
+    <latitude>63.416667</latitude>
+    <longitude>-19.016667</longitude>
+  </city>
+  <city name="Vík">
+    <latitude>66.133333</latitude>
+    <longitude>-18.766667</longitude>
+  </city>
+  <city name="Villingaholt">
+    <latitude>63.883333</latitude>
+    <longitude>-20.766667</longitude>
+  </city>
+  <city name="Vogar">
+    <latitude>63.966667</latitude>
+    <longitude>-22.366667</longitude>
+  </city>
+  <city name="Vomúlastaðahverfi">
+    <latitude>63.633333</latitude>
+    <longitude>-20.2</longitude>
+  </city>
+  <city name="Vopnafjordur">
+    <latitude>65.75</latitude>
+    <longitude>-14.833333</longitude>
+  </city>
+  <city name="Vopnafjörður">
+    <latitude>65.75</latitude>
+    <longitude>-14.833333</longitude>
+  </city>
+  <city name="Vopnatjorður">
+    <latitude>65.75</latitude>
+    <longitude>-14.833333</longitude>
+  </city>
+  <city name="Ytri-Bægisá">
+    <latitude>65.666667</latitude>
+    <longitude>-18.4</longitude>
+  </city>
+  <city name="Ytri-Njarðvík">
+    <latitude>63.983333</latitude>
+    <longitude>-22.55</longitude>
+  </city>
+  <city name="Ytri-Rauðamelur">
+    <latitude>64.866667</latitude>
+    <longitude>-22.35</longitude>
+  </city>
+  <city name="Þaralátursfjörður">
+    <latitude>66.25</latitude>
+    <longitude>-22.15</longitude>
+  </city>
+  <city name="Þingeri">
+    <latitude>65.866667</latitude>
+    <longitude>-23.5</longitude>
+  </city>
+  <city name="Þingeyrar">
+    <latitude>65.55</latitude>
+    <longitude>-20.416667</longitude>
+  </city>
+  <city name="Þingeyri">
+    <latitude>65.866667</latitude>
+    <longitude>-23.5</longitude>
+  </city>
+  <city name="Þingmúli">
+    <latitude>65.033333</latitude>
+    <longitude>-14.616667</longitude>
+  </city>
+  <city name="Þingvellir">
+    <latitude>64.25</latitude>
+    <longitude>-21.116667</longitude>
+  </city>
+  <city name="Þjórsárbrú">
+    <latitude>63.933333</latitude>
+    <longitude>-20.666667</longitude>
+  </city>
+  <city name="Þönglabakki">
+    <latitude>66.15</latitude>
+    <longitude>-18.133333</longitude>
+  </city>
+  <city name="Þorkötlustaðir">
+    <latitude>63.833333</latitude>
+    <longitude>-22.4</longitude>
+  </city>
+  <city name="Þorlákshöfn">
+    <latitude>63.85</latitude>
+    <longitude>-21.366667</longitude>
+  </city>
+  <city name="Þóroddsstaður">
+    <latitude>65.85</latitude>
+    <longitude>-17.55</longitude>
+  </city>
+  <city name="Þórshöfn">
+    <latitude>66.2</latitude>
+    <longitude>-15.333333</longitude>
+  </city>
+  <city name="Þrestbakki">
+    <latitude>65.316667</latitude>
+    <longitude>-21.2</longitude>
+  </city>
+  <city name="Þverá">
+    <latitude>65.733333</latitude>
+    <longitude>-17.25</longitude>
+  </city>
+  <city name="Þykkvabæjarklaustur">
+    <latitude>63.5</latitude>
+    <longitude>-18.366667</longitude>
+  </city>
+  <city name="Þykkvabejarklaustur">
+    <latitude>63.5</latitude>
+    <longitude>-18.366667</longitude>
+  </city>
+  <city name="Þykkvibær">
+    <latitude>63.75</latitude>
+    <longitude>-20.616667</longitude>
+  </city>
+</country>

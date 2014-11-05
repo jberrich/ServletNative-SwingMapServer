@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="vc" name="Saint Vincent et les Grenadines">
+  <city name="Adelphi">
+    <latitude>13.1833333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Arnos Vale">
+    <latitude>13.1333333</latitude>
+    <longitude>-61.2</longitude>
+  </city>
+  <city name="Ashton">
+    <latitude>12.5833333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Baiabu">
+    <latitude>13.2</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Barawally">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Barroualie">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Barrouallie">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Barrualli">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Bednoe">
+    <latitude>12.95</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Belle Vue">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Belmont">
+    <latitude>13.15</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Bequia">
+    <latitude>13.2833333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Biabou">
+    <latitude>13.2</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Brighton">
+    <latitude>13.1333333</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Brighton Village">
+    <latitude>13.1333333</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Byera Village">
+    <latitude>13.25</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Caliaqua">
+    <latitude>13.1166667</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Calliagda">
+    <latitude>13.1166667</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Calliaqua">
+    <latitude>13.1166667</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Camden Park">
+    <latitude>13.1666667</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Chapmans">
+    <latitude>13.2833333</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Charlestown">
+    <latitude>12.6833333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Chateaubelair">
+    <latitude>13.2833333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Chauncey">
+    <latitude>13.1666667</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Cheltenham">
+    <latitude>12.8833333</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Clare Valley">
+    <latitude>13.1666667</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Clifton">
+    <latitude>12.5833333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Cliftons">
+    <latitude>12.5833333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Colonarie">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Derrick">
+    <latitude>12.9833333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Dovers">
+    <latitude>12.8833333</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Dubois">
+    <latitude>13.1833333</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Edinboro">
+    <latitude>13.1575</latitude>
+    <longitude>-61.2444444</longitude>
+  </city>
+  <city name="Fancy">
+    <latitude>13.3666667</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Francois">
+    <latitude>13.2</latitude>
+    <longitude>-61.2166667</longitude>
+  </city>
+  <city name="Friendly">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Friendship">
+    <latitude>12.9833333</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Georgetown">
+    <latitude>13.2666667</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Greathead">
+    <latitude>13.1441667</latitude>
+    <longitude>-61.2208333</longitude>
+  </city>
+  <city name="Greiggs">
+    <latitude>13.2</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Hermitage">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.2166667</longitude>
+  </city>
+  <city name="Kingstown">
+    <latitude>13.1333333</latitude>
+    <longitude>-61.2166667</longitude>
+  </city>
+  <city name="Kingstown Park">
+    <latitude>13.1583333</latitude>
+    <longitude>-61.235</longitude>
+  </city>
+  <city name="Layou">
+    <latitude>13.2</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Liberty Lodge">
+    <latitude>13.1658333</latitude>
+    <longitude>-61.2316667</longitude>
+  </city>
+  <city name="Lovell Village">
+    <latitude>12.8833333</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Mesopatamia">
+    <latitude>13.1666667</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Mesopotamia">
+    <latitude>13.1666667</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Montrose">
+    <latitude>13.1666667</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="New Sandy Bay Village">
+    <latitude>13.35</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="North Union">
+    <latitude>13.2166667</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="O'Briens">
+    <latitude>13.2833333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Old Wall">
+    <latitude>12.6333333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Orange Hill">
+    <latitude>13.3166667</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Paget Farm">
+    <latitude>12.9833333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Pembroke">
+    <latitude>13.1833333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Peruvian Vale">
+    <latitude>13.1666667</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Port-Elisabeth">
+    <latitude>13.0166667</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Port Elizabeth">
+    <latitude>13.0166667</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Princes Town">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Questelles">
+    <latitude>13.1666667</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Rabaca">
+    <latitude>13.3</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Rabacca">
+    <latitude>13.3</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Rabaka">
+    <latitude>13.3</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Redemption">
+    <latitude>13.1644444</latitude>
+    <longitude>-61.2294444</longitude>
+  </city>
+  <city name="Ribishi">
+    <latitude>13.1333333</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Richland Park">
+    <latitude>13.2</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Richmond">
+    <latitude>13.2833333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Richmond Town">
+    <latitude>13.2833333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Richmond Vale">
+    <latitude>13.2833333</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Rosehall">
+    <latitude>13.2666667</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Rutland Vale">
+    <latitude>13.2</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Rutland Vale Village">
+    <latitude>13.2</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Sans Souci">
+    <latitude>13.2166667</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="South Rivers">
+    <latitude>13.2333333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Spring Village">
+    <latitude>13.25</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Stubbs">
+    <latitude>13.1333333</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Tourama">
+    <latitude>13.3333333</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Troumaka">
+    <latitude>13.2666667</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Turema">
+    <latitude>13.3333333</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Union">
+    <latitude>13.0</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Vermont">
+    <latitude>13.2</latitude>
+    <longitude>-61.2166667</longitude>
+  </city>
+  <city name="Wallibou">
+    <latitude>13.3166667</latitude>
+    <longitude>-61.2166667</longitude>
+  </city>
+  <city name="Wallibu">
+    <latitude>13.3166667</latitude>
+    <longitude>-61.2166667</longitude>
+  </city>
+  <city name="Waterloo">
+    <latitude>13.3</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+</country>

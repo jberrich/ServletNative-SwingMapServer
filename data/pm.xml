@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="pm" name="Saint Pierre et Miquelon">
+  <city name="Miquelon">
+    <latitude>47.0975</latitude>
+    <longitude>-56.3813889</longitude>
+  </city>
+  <city name="Petit Barachois">
+    <latitude>46.8602778</latitude>
+    <longitude>-56.3638889</longitude>
+  </city>
+  <city name="Saint-Pierre">
+    <latitude>46.7666667</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+</country>

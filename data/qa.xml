@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="qa" name="Qatar">
+  <city name="Aba Zuluf">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="`Abd al `Aziz">
+    <latitude>25.278333</latitude>
+    <longitude>51.525556</longitude>
+  </city>
+  <city name="Abu az Zuluf">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="Abu Daluf">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="Abu Dhaluf">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="Abu Dhuluf">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="Abu Hamur">
+    <latitude>25.235556</latitude>
+    <longitude>51.495556</longitude>
+  </city>
+  <city name="Abu Husayyah">
+    <latitude>25.459167</latitude>
+    <longitude>51.316667</longitude>
+  </city>
+  <city name="Abu Kharab">
+    <latitude>25.708333</latitude>
+    <longitude>51.591667</longitude>
+  </city>
+  <city name="Abu Qarn">
+    <latitude>25.298611</latitude>
+    <longitude>51.001667</longitude>
+  </city>
+  <city name="Abu Samrah">
+    <latitude>24.748333</latitude>
+    <longitude>50.84</longitude>
+  </city>
+  <city name="Abu Sidrah">
+    <latitude>25.723056</latitude>
+    <longitude>51.004167</longitude>
+  </city>
+  <city name="Abu Sudayrah">
+    <latitude>25.281389</latitude>
+    <longitude>51.5125</longitude>
+  </city>
+  <city name="Abu Suwayy">
+    <latitude>25.696111</latitude>
+    <longitude>51.260833</longitude>
+  </city>
+  <city name="Abu Thaylah">
+    <latitude>25.531944</latitude>
+    <longitude>51.304444</longitude>
+  </city>
+  <city name="Abu Zahif">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="Abu Zuluf">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="Ad Da`ayin">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="Ad Darb">
+    <latitude>25.451389</latitude>
+    <longitude>50.925</longitude>
+  </city>
+  <city name="Ad Da`udiyah">
+    <latitude>25.8575</latitude>
+    <longitude>51.298889</longitude>
+  </city>
+  <city name="Ad Dawha">
+    <latitude>25.286667</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Ad Dawhah">
+    <latitude>25.286667</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Ad Dawhah al Jadidah">
+    <latitude>25.275833</latitude>
+    <longitude>51.533611</longitude>
+  </city>
+  <city name="Ad Dhakhirah">
+    <latitude>25.734722</latitude>
+    <longitude>51.5475</longitude>
+  </city>
+  <city name="Ad Doha">
+    <latitude>25.286667</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Ad Dowhah">
+    <latitude>25.286667</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Adhbah">
+    <latitude>26.055</latitude>
+    <longitude>51.316111</longitude>
+  </city>
+  <city name="Adh Dhakhira">
+    <latitude>25.734722</latitude>
+    <longitude>51.5475</longitude>
+  </city>
+  <city name="Adh Dhakhirah">
+    <latitude>25.734722</latitude>
+    <longitude>51.5475</longitude>
+  </city>
+  <city name="Adh Dhukhayr">
+    <latitude>25.734722</latitude>
+    <longitude>51.5475</longitude>
+  </city>
+  <city name="Al `Adhbah">
+    <latitude>26.055</latitude>
+    <longitude>51.316111</longitude>
+  </city>
+  <city name="Al `Arish">
+    <latitude>26.048889</latitude>
+    <longitude>51.056944</longitude>
+  </city>
+  <city name="Al Bida` al Gharbiyah">
+    <latitude>25.2925</latitude>
+    <longitude>51.520833</longitude>
+  </city>
+  <city name="Al Bida` ash Sharqiyah">
+    <latitude>25.290833</latitude>
+    <longitude>51.528333</longitude>
+  </city>
+  <city name="Al Busayyir">
+    <latitude>25.7175</latitude>
+    <longitude>51.057778</longitude>
+  </city>
+  <city name="Al Da`ain">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="Al Dakhirah">
+    <latitude>25.734722</latitude>
+    <longitude>51.5475</longitude>
+  </city>
+  <city name="Al Dhakhirah">
+    <latitude>25.734722</latitude>
+    <longitude>51.5475</longitude>
+  </city>
+  <city name="Al Dha'Sin">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="Al Ghafah">
+    <latitude>25.775833</latitude>
+    <longitude>51.023056</longitude>
+  </city>
+  <city name="Al Ghaf">
+    <latitude>25.6225</latitude>
+    <longitude>51.454444</longitude>
+  </city>
+  <city name="Al Ghanim">
+    <latitude>25.278333</latitude>
+    <longitude>51.541389</longitude>
+  </city>
+  <city name="Al Gharafah">
+    <latitude>25.3375</latitude>
+    <longitude>51.425</longitude>
+  </city>
+  <city name="Al Ghariyah">
+    <latitude>26.078056</latitude>
+    <longitude>51.361667</longitude>
+  </city>
+  <city name="Al Ghariyeh">
+    <latitude>26.078056</latitude>
+    <longitude>51.361667</longitude>
+  </city>
+  <city name="Al Gharrafah">
+    <latitude>25.315278</latitude>
+    <longitude>51.438611</longitude>
+  </city>
+  <city name="Al Gharrafah al Jadidah">
+    <latitude>25.3375</latitude>
+    <longitude>51.425</longitude>
+  </city>
+  <city name="Al Ghashamiya">
+    <latitude>25.983333</latitude>
+    <longitude>51.4</longitude>
+  </city>
+  <city name="Al Ghashamiyah">
+    <latitude>25.983333</latitude>
+    <longitude>51.4</longitude>
+  </city>
+  <city name="Al Ghashshamiyah">
+    <latitude>25.983333</latitude>
+    <longitude>51.4</longitude>
+  </city>
+  <city name="Al Ghuwairiya">
+    <latitude>25.829722</latitude>
+    <longitude>51.245278</longitude>
+  </city>
+  <city name="Al Ghuwairiyah">
+    <latitude>25.829722</latitude>
+    <longitude>51.245278</longitude>
+  </city>
+  <city name="Al Ghuwayriyah">
+    <latitude>25.829722</latitude>
+    <longitude>51.245278</longitude>
+  </city>
+  <city name="Al Hilal al Gharbiyah">
+    <latitude>25.253889</latitude>
+    <longitude>51.535278</longitude>
+  </city>
+  <city name="Al Hilal ash Sharqiyah">
+    <latitude>25.253889</latitude>
+    <longitude>51.549722</longitude>
+  </city>
+  <city name="Al Hitmi">
+    <latitude>25.283611</latitude>
+    <longitude>51.546667</longitude>
+  </city>
+  <city name="Al Husayniyah">
+    <latitude>25.340556</latitude>
+    <longitude>51.293611</longitude>
+  </city>
+  <city name="Al Hussainiyah">
+    <latitude>25.340556</latitude>
+    <longitude>51.293611</longitude>
+  </city>
+  <city name="Al Huwaylah">
+    <latitude>25.944722</latitude>
+    <longitude>51.456389</longitude>
+  </city>
+  <city name="Al Jabar">
+    <latitude>25.270833</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Al Jadhi">
+    <latitude>25.951667</latitude>
+    <longitude>51.349722</longitude>
+  </city>
+  <city name="Al Jamaliya">
+    <latitude>25.609444</latitude>
+    <longitude>51.092222</longitude>
+  </city>
+  <city name="Al-Jamil">
+    <latitude>26.099722</latitude>
+    <longitude>51.161111</longitude>
+  </city>
+  <city name="Al Jamliyah">
+    <latitude>25.609444</latitude>
+    <longitude>51.092222</longitude>
+  </city>
+  <city name="Al Jasrah">
+    <latitude>25.286111</latitude>
+    <longitude>51.534167</longitude>
+  </city>
+  <city name="Al Jubayl">
+    <latitude>25.700833</latitude>
+    <longitude>51.584722</longitude>
+  </city>
+  <city name="Al Judhay`">
+    <latitude>25.951667</latitude>
+    <longitude>51.349722</longitude>
+  </city>
+  <city name="Al Jumail">
+    <latitude>26.099722</latitude>
+    <longitude>51.161111</longitude>
+  </city>
+  <city name="Al Jumaliyah">
+    <latitude>25.609444</latitude>
+    <longitude>51.092222</longitude>
+  </city>
+  <city name="Al Jumayl">
+    <latitude>26.099722</latitude>
+    <longitude>51.161111</longitude>
+  </city>
+  <city name="Al Jumayliyah">
+    <latitude>25.609444</latitude>
+    <longitude>51.092222</longitude>
+  </city>
+  <city name="Al Ka`aban">
+    <latitude>25.966667</latitude>
+    <longitude>51.283333</longitude>
+  </city>
+  <city name="Al Ka`ban">
+    <latitude>25.966667</latitude>
+    <longitude>51.283333</longitude>
+  </city>
+  <city name="Al Ka`biyah">
+    <latitude>26.05</latitude>
+    <longitude>51.25</longitude>
+  </city>
+  <city name="Al Khalifat">
+    <latitude>25.284722</latitude>
+    <longitude>51.555278</longitude>
+  </city>
+  <city name="Al Kharitiyat">
+    <latitude>25.4</latitude>
+    <longitude>51.425</longitude>
+  </city>
+  <city name="Al Kharrarah">
+    <latitude>24.904444</latitude>
+    <longitude>51.175</longitude>
+  </city>
+  <city name="Al Khathiyah">
+    <latitude>25.429722</latitude>
+    <longitude>50.785833</longitude>
+  </city>
+  <city name="Al Khatiyah">
+    <latitude>25.419444</latitude>
+    <longitude>50.793611</longitude>
+  </city>
+  <city name="Al Khattiyah">
+    <latitude>25.419444</latitude>
+    <longitude>50.793611</longitude>
+  </city>
+  <city name="Al-Khaur">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Al Khawr">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Al Khisa">
+    <latitude>25.928333</latitude>
+    <longitude>51.3375</longitude>
+  </city>
+  <city name="Al Khisah">
+    <latitude>25.928333</latitude>
+    <longitude>51.3375</longitude>
+  </city>
+  <city name="Al Khiseh">
+    <latitude>25.928333</latitude>
+    <longitude>51.3375</longitude>
+  </city>
+  <city name="Al Khurayb">
+    <latitude>25.433333</latitude>
+    <longitude>51.22</longitude>
+  </city>
+  <city name="Al Khurays">
+    <latitude>25.8575</latitude>
+    <longitude>51.441389</longitude>
+  </city>
+  <city name="Al Khuraytiyat">
+    <latitude>25.396944</latitude>
+    <longitude>51.4225</longitude>
+  </city>
+  <city name="Al Khursa`ah">
+    <latitude>25.266667</latitude>
+    <longitude>50.969167</longitude>
+  </city>
+  <city name="Al Khuwair">
+    <latitude>26.074722</latitude>
+    <longitude>51.083611</longitude>
+  </city>
+  <city name="Al Khuwayr">
+    <latitude>26.074722</latitude>
+    <longitude>51.083611</longitude>
+  </city>
+  <city name="Al Kir`anah">
+    <latitude>25.01</latitude>
+    <longitude>51.039444</longitude>
+  </city>
+  <city name="Al Kuhwayr">
+    <latitude>26.074722</latitude>
+    <longitude>51.083611</longitude>
+  </city>
+  <city name="Al Mafier">
+    <latitude>26.133333</latitude>
+    <longitude>51.3</longitude>
+  </city>
+  <city name="Al Mafijar">
+    <latitude>26.133333</latitude>
+    <longitude>51.3</longitude>
+  </city>
+  <city name="Al Mafjar">
+    <latitude>26.133333</latitude>
+    <longitude>51.3</longitude>
+  </city>
+  <city name="Al Majidah">
+    <latitude>25.8725</latitude>
+    <longitude>51.258333</longitude>
+  </city>
+  <city name="Al Mansurah">
+    <latitude>25.270556</latitude>
+    <longitude>51.532778</longitude>
+  </city>
+  <city name="Al Maqran">
+    <latitude>25.233333</latitude>
+    <longitude>51.333333</longitude>
+  </city>
+  <city name="Al Markhiyah">
+    <latitude>25.320556</latitude>
+    <longitude>51.495556</longitude>
+  </city>
+  <city name="Al Markiyah">
+    <latitude>25.320556</latitude>
+    <longitude>51.495556</longitude>
+  </city>
+  <city name="Al Mashrab">
+    <latitude>25.888056</latitude>
+    <longitude>51.386389</longitude>
+  </city>
+  <city name="Al Muntazah">
+    <latitude>25.270833</latitude>
+    <longitude>51.523056</longitude>
+  </city>
+  <city name="Al Muraydah">
+    <latitude>25.9375</latitude>
+    <longitude>51.313333</longitude>
+  </city>
+  <city name="Al Murqab">
+    <latitude>25.281111</latitude>
+    <longitude>51.535</longitude>
+  </city>
+  <city name="Al Na'man">
+    <latitude>25.856667</latitude>
+    <longitude>51.083333</longitude>
+  </city>
+  <city name="Al Qa`abiyah">
+    <latitude>26.067222</latitude>
+    <longitude>51.258611</longitude>
+  </city>
+  <city name="Al Qa`iyah">
+    <latitude>25.666944</latitude>
+    <longitude>51.174444</longitude>
+  </city>
+  <city name="Al Raiyan">
+    <latitude>25.291944</latitude>
+    <longitude>51.424444</longitude>
+  </city>
+  <city name="Al Rayyan">
+    <latitude>25.291944</latitude>
+    <longitude>51.424444</longitude>
+  </city>
+  <city name="Al Shahaniyah">
+    <latitude>25.368611</latitude>
+    <longitude>51.226389</longitude>
+  </city>
+  <city name="Al Suwaihiliya">
+    <latitude>25.765278</latitude>
+    <longitude>51.019722</longitude>
+  </city>
+  <city name="Al Suwaihiliyah">
+    <latitude>25.765278</latitude>
+    <longitude>51.019722</longitude>
+  </city>
+  <city name="Al Thagab">
+    <latitude>26.033333</latitude>
+    <longitude>51.116667</longitude>
+  </city>
+  <city name="Al Thaqab">
+    <latitude>26.033333</latitude>
+    <longitude>51.116667</longitude>
+  </city>
+  <city name="Al `Uqdah">
+    <latitude>25.686389</latitude>
+    <longitude>51.468889</longitude>
+  </city>
+  <city name="Al `Uraysh">
+    <latitude>26.048889</latitude>
+    <longitude>51.056944</longitude>
+  </city>
+  <city name="Al `Uwaynah">
+    <latitude>25.444444</latitude>
+    <longitude>50.958333</longitude>
+  </city>
+  <city name="Al Wa`b">
+    <latitude>25.839167</latitude>
+    <longitude>51.465278</longitude>
+  </city>
+  <city name="Al Wabrah">
+    <latitude>25.339167</latitude>
+    <longitude>51.173333</longitude>
+  </city>
+  <city name="Al Wagbah">
+    <latitude>25.300833</latitude>
+    <longitude>51.394444</longitude>
+  </city>
+  <city name="Al Wajba">
+    <latitude>25.300833</latitude>
+    <longitude>51.394444</longitude>
+  </city>
+  <city name="Al Wajbah">
+    <latitude>25.300833</latitude>
+    <longitude>51.394444</longitude>
+  </city>
+  <city name="Al Wakrah">
+    <latitude>25.171511</latitude>
+    <longitude>51.603371</longitude>
+  </city>
+  <city name="Al Waqbah">
+    <latitude>25.300833</latitude>
+    <longitude>51.394444</longitude>
+  </city>
+  <city name="Al Waqra">
+    <latitude>25.171511</latitude>
+    <longitude>51.603371</longitude>
+  </city>
+  <city name="Al Waqrah">
+    <latitude>25.171511</latitude>
+    <longitude>51.603371</longitude>
+  </city>
+  <city name="Al Wasait">
+    <latitude>25.4975</latitude>
+    <longitude>51.485278</longitude>
+  </city>
+  <city name="Al Wukair">
+    <latitude>25.150833</latitude>
+    <longitude>51.537778</longitude>
+  </city>
+  <city name="Al Wukayr">
+    <latitude>25.150833</latitude>
+    <longitude>51.537778</longitude>
+  </city>
+  <city name="Al Wusail">
+    <latitude>25.4975</latitude>
+    <longitude>51.485278</longitude>
+  </city>
+  <city name="Al Wusayl">
+    <latitude>25.4975</latitude>
+    <longitude>51.485278</longitude>
+  </city>
+  <city name="Anaiza">
+    <latitude>25.341944</latitude>
+    <longitude>51.5075</longitude>
+  </city>
+  <city name="Aneiza">
+    <latitude>25.341944</latitude>
+    <longitude>51.5075</longitude>
+  </city>
+  <city name="An Najmah">
+    <latitude>25.265833</latitude>
+    <longitude>51.545278</longitude>
+  </city>
+  <city name="An Nasraniyah">
+    <latitude>25.404722</latitude>
+    <longitude>51.073056</longitude>
+  </city>
+  <city name="An Nu`ayiah">
+    <latitude>25.2525</latitude>
+    <longitude>51.559167</longitude>
+  </city>
+  <city name="An Nu`man">
+    <latitude>25.856667</latitude>
+    <longitude>51.083333</longitude>
+  </city>
+  <city name="An Nuqay`ah">
+    <latitude>25.751944</latitude>
+    <longitude>50.920833</longitude>
+  </city>
+  <city name="`Araish">
+    <latitude>26.048889</latitude>
+    <longitude>51.056944</longitude>
+  </city>
+  <city name="Ar Rakiyat">
+    <latitude>26.050556</latitude>
+    <longitude>51.135833</longitude>
+  </city>
+  <city name="Ar Rayyan">
+    <latitude>25.291944</latitude>
+    <longitude>51.424444</longitude>
+  </city>
+  <city name="Ar Ru'ays">
+    <latitude>26.133333</latitude>
+    <longitude>51.216667</longitude>
+  </city>
+  <city name="Ar Rufayq">
+    <latitude>25.533333</latitude>
+    <longitude>50.977222</longitude>
+  </city>
+  <city name="Ar Rumaylah">
+    <latitude>25.283333</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Ar Ruwais">
+    <latitude>26.133333</latitude>
+    <longitude>51.216667</longitude>
+  </city>
+  <city name="Ar Ruwaydah">
+    <latitude>26.083611</latitude>
+    <longitude>51.147222</longitude>
+  </city>
+  <city name="Ar Ruways">
+    <latitude>26.133333</latitude>
+    <longitude>51.216667</longitude>
+  </city>
+  <city name="Ash Shafallahiyah">
+    <latitude>25.65</latitude>
+    <longitude>51.372222</longitude>
+  </city>
+  <city name="Ash Shahaniyah">
+    <latitude>25.368611</latitude>
+    <longitude>51.226389</longitude>
+  </city>
+  <city name="Ash Shaqra'">
+    <latitude>24.827222</latitude>
+    <longitude>51.394722</longitude>
+  </city>
+  <city name="`Asmiyah">
+    <latitude>26.076667</latitude>
+    <longitude>51.166944</longitude>
+  </city>
+  <city name="As Sadd">
+    <latitude>25.286111</latitude>
+    <longitude>51.504167</longitude>
+  </city>
+  <city name="As Sahlah">
+    <latitude>25.158333</latitude>
+    <longitude>51.163611</longitude>
+  </city>
+  <city name="As Salatah al Jadidah">
+    <latitude>25.263611</latitude>
+    <longitude>51.516389</longitude>
+  </city>
+  <city name="As Salatah">
+    <latitude>25.288056</latitude>
+    <longitude>51.546667</longitude>
+  </city>
+  <city name="As Samiriyah">
+    <latitude>25.363611</latitude>
+    <longitude>51.281111</longitude>
+  </city>
+  <city name="As Sani`">
+    <latitude>25.538889</latitude>
+    <longitude>51.408333</longitude>
+  </city>
+  <city name="As Sawq">
+    <latitude>25.2875</latitude>
+    <longitude>51.537778</longitude>
+  </city>
+  <city name="As Sayliyah">
+    <latitude>25.214444</latitude>
+    <longitude>51.378889</longitude>
+  </city>
+  <city name="As Sidrah">
+    <latitude>25.242778</latitude>
+    <longitude>51.428889</longitude>
+  </city>
+  <city name="As Sidriyah">
+    <latitude>26.033333</latitude>
+    <longitude>51.166667</longitude>
+  </city>
+  <city name="As Sulaymi `Abd al Aziz Bin Khalifah">
+    <latitude>25.847778</latitude>
+    <longitude>51.205833</longitude>
+  </city>
+  <city name="As Sulaymi Fahd Bin `Abd Allah">
+    <latitude>25.904167</latitude>
+    <longitude>51.201667</longitude>
+  </city>
+  <city name="As Sulaymi Khalifah Bin Hamad">
+    <latitude>25.867778</latitude>
+    <longitude>51.205556</longitude>
+  </city>
+  <city name="As Sulaymi Qasim Bin Hamad">
+    <latitude>25.880833</latitude>
+    <longitude>51.221389</longitude>
+  </city>
+  <city name="As Sulaymi Suhaym Bin Hamad">
+    <latitude>25.883056</latitude>
+    <longitude>51.185278</longitude>
+  </city>
+  <city name="As Su`lukiyah">
+    <latitude>25.826667</latitude>
+    <longitude>51.043889</longitude>
+  </city>
+  <city name="As Sumaisma">
+    <latitude>25.574722</latitude>
+    <longitude>51.486389</longitude>
+  </city>
+  <city name="As Sun`">
+    <latitude>25.560278</latitude>
+    <longitude>51.158611</longitude>
+  </city>
+  <city name="As Sunu`">
+    <latitude>25.560278</latitude>
+    <longitude>51.158611</longitude>
+  </city>
+  <city name="As Suwayhiliyah">
+    <latitude>25.765278</latitude>
+    <longitude>51.019722</longitude>
+  </city>
+  <city name="Ath Thagab Oasis">
+    <latitude>26.033333</latitude>
+    <longitude>51.116667</longitude>
+  </city>
+  <city name="Ath Thaghab">
+    <latitude>26.033333</latitude>
+    <longitude>51.116667</longitude>
+  </city>
+  <city name="Ath Thaqab">
+    <latitude>26.033333</latitude>
+    <longitude>51.116667</longitude>
+  </city>
+  <city name="`Ayn Khalid">
+    <latitude>25.223333</latitude>
+    <longitude>51.451667</longitude>
+  </city>
+  <city name="`Ayn Sinan">
+    <latitude>26.016667</latitude>
+    <longitude>51.333333</longitude>
+  </city>
+  <city name="Az Za`a'in">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="Az Za`ayim">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="Az Za`ayin">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="Bi'r al Husayn">
+    <latitude>25.5675</latitude>
+    <longitude>50.958889</longitude>
+  </city>
+  <city name="Bi'r Zikrit">
+    <latitude>25.495</latitude>
+    <longitude>50.846667</longitude>
+  </city>
+  <city name="Bu Sidrah">
+    <latitude>25.716667</latitude>
+    <longitude>51.05</longitude>
+  </city>
+  <city name="Busidreh">
+    <latitude>25.716667</latitude>
+    <longitude>51.05</longitude>
+  </city>
+  <city name="Dakhira">
+    <latitude>25.734722</latitude>
+    <longitude>51.5475</longitude>
+  </city>
+  <city name="Dawhat al Qatar">
+    <latitude>25.286667</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Dha`ain">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="Dha`an">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="Dhakhirah">
+    <latitude>25.734722</latitude>
+    <longitude>51.5475</longitude>
+  </city>
+  <city name="Dhaluf">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="Dhuluf">
+    <latitude>26.123611</latitude>
+    <longitude>51.169167</longitude>
+  </city>
+  <city name="Doha">
+    <latitude>25.286667</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Dukhan">
+    <latitude>25.429722</latitude>
+    <longitude>50.785833</longitude>
+  </city>
+  <city name="Edh Dha'ain">
+    <latitude>25.577442</latitude>
+    <longitude>51.483063</longitude>
+  </city>
+  <city name="El Mafier">
+    <latitude>26.133333</latitude>
+    <longitude>51.3</longitude>
+  </city>
+  <city name="Fâhahîl">
+    <latitude>25.9</latitude>
+    <longitude>51.0</longitude>
+  </city>
+  <city name="Fariq al Ghanim al Jadid">
+    <latitude>25.243056</latitude>
+    <longitude>51.4525</longitude>
+  </city>
+  <city name="Fuhayhil">
+    <latitude>25.9</latitude>
+    <longitude>51.0</longitude>
+  </city>
+  <city name="Fuwayrit">
+    <latitude>26.021667</latitude>
+    <longitude>51.366944</longitude>
+  </city>
+  <city name="Ghaf Makin">
+    <latitude>26.441111</latitude>
+    <longitude>51.188889</longitude>
+  </city>
+  <city name="Ghariyah">
+    <latitude>26.078056</latitude>
+    <longitude>51.361667</longitude>
+  </city>
+  <city name="Ghariyat Adkhan">
+    <latitude>25.429722</latitude>
+    <longitude>50.785833</longitude>
+  </city>
+  <city name="Ghariyat Dukhan">
+    <latitude>25.429722</latitude>
+    <longitude>50.785833</longitude>
+  </city>
+  <city name="Ghashamiyah">
+    <latitude>25.983333</latitude>
+    <longitude>51.4</longitude>
+  </city>
+  <city name="Ghuwairiyah">
+    <latitude>25.829722</latitude>
+    <longitude>51.245278</longitude>
+  </city>
+  <city name="Halwan">
+    <latitude>25.95</latitude>
+    <longitude>51.066667</longitude>
+  </city>
+  <city name="Hulwan">
+    <latitude>25.95</latitude>
+    <longitude>51.066667</longitude>
+  </city>
+  <city name="Ingaiah">
+    <latitude>25.751944</latitude>
+    <longitude>50.920833</longitude>
+  </city>
+  <city name="Jimaliyah">
+    <latitude>25.609444</latitude>
+    <longitude>51.092222</longitude>
+  </city>
+  <city name="Jumail">
+    <latitude>26.099722</latitude>
+    <longitude>51.161111</longitude>
+  </city>
+  <city name="Kar`anah">
+    <latitude>25.01</latitude>
+    <longitude>51.039444</longitude>
+  </city>
+  <city name="Khaur al-Mahanidah">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Khaur Shaqiq">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Khawr Hassan">
+    <latitude>26.074722</latitude>
+    <longitude>51.083611</longitude>
+  </city>
+  <city name="Khawr Shaqiq">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Khawzan">
+    <latitude>25.480556</latitude>
+    <longitude>50.938889</longitude>
+  </city>
+  <city name="Khor-al-Mahandah">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Khor Hassan">
+    <latitude>26.074722</latitude>
+    <longitude>51.083611</longitude>
+  </city>
+  <city name="Khor">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Khor Shaqiq">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Khursa`at al Bahat">
+    <latitude>25.266667</latitude>
+    <longitude>50.969167</longitude>
+  </city>
+  <city name="Khuwair">
+    <latitude>26.074722</latitude>
+    <longitude>51.083611</longitude>
+  </city>
+  <city name="Lisha">
+    <latitude>25.957778</latitude>
+    <longitude>51.075278</longitude>
+  </city>
+  <city name="Lumail">
+    <latitude>26.099722</latitude>
+    <longitude>51.161111</longitude>
+  </city>
+  <city name="Lusail">
+    <latitude>25.4975</latitude>
+    <longitude>51.485278</longitude>
+  </city>
+  <city name="Madinat al Ka`ban">
+    <latitude>25.871944</latitude>
+    <longitude>51.354722</longitude>
+  </city>
+  <city name="Madinat ash Shamal">
+    <latitude>26.129334</latitude>
+    <longitude>51.200905</longitude>
+  </city>
+  <city name="Madinat Khalifah">
+    <latitude>25.325278</latitude>
+    <longitude>51.47</longitude>
+  </city>
+  <city name="Mafijar">
+    <latitude>26.133333</latitude>
+    <longitude>51.3</longitude>
+  </city>
+  <city name="Mazra`at Tarina">
+    <latitude>24.758889</latitude>
+    <longitude>51.211944</longitude>
+  </city>
+  <city name="Mazra`at Turayna">
+    <latitude>24.758889</latitude>
+    <longitude>51.211944</longitude>
+  </city>
+  <city name="Mu`askar al Busayyir">
+    <latitude>25.4</latitude>
+    <longitude>51.183333</longitude>
+  </city>
+  <city name="Mu`askar as Saliyah">
+    <latitude>25.210833</latitude>
+    <longitude>51.394167</longitude>
+  </city>
+  <city name="Mu`askar as Sayliyah">
+    <latitude>25.210833</latitude>
+    <longitude>51.394167</longitude>
+  </city>
+  <city name="Mu`aydhir Abu ad Dawm">
+    <latitude>25.256944</latitude>
+    <longitude>51.398889</longitude>
+  </city>
+  <city name="Mu`aydhir">
+    <latitude>25.256944</latitude>
+    <longitude>51.398889</longitude>
+  </city>
+  <city name="Muhayriqah">
+    <latitude>25.808333</latitude>
+    <longitude>51.060556</longitude>
+  </city>
+  <city name="Mukaynis">
+    <latitude>25.121944</latitude>
+    <longitude>51.218333</longitude>
+  </city>
+  <city name="Muraikh">
+    <latitude>25.279167</latitude>
+    <longitude>51.445556</longitude>
+  </city>
+  <city name="Muraykh">
+    <latitude>25.279167</latitude>
+    <longitude>51.445556</longitude>
+  </city>
+  <city name="Musay`id">
+    <latitude>24.996111</latitude>
+    <longitude>51.548889</longitude>
+  </city>
+  <city name="Musaykah">
+    <latitude>25.958333</latitude>
+    <longitude>51.099444</longitude>
+  </city>
+  <city name="Mushayrib">
+    <latitude>24.284722</latitude>
+    <longitude>51.521667</longitude>
+  </city>
+  <city name="Na'aijah">
+    <latitude>25.2525</latitude>
+    <longitude>51.559167</longitude>
+  </city>
+  <city name="Na'aman">
+    <latitude>25.856667</latitude>
+    <longitude>51.083333</longitude>
+  </city>
+  <city name="Nabat al Usayl">
+    <latitude>25.1</latitude>
+    <longitude>51.516667</longitude>
+  </city>
+  <city name="Naeeja">
+    <latitude>25.2525</latitude>
+    <longitude>51.559167</longitude>
+  </city>
+  <city name="Naeejeh">
+    <latitude>25.2525</latitude>
+    <longitude>51.559167</longitude>
+  </city>
+  <city name="Nu`aija">
+    <latitude>25.2525</latitude>
+    <longitude>51.559167</longitude>
+  </city>
+  <city name="Nu`auah">
+    <latitude>25.2525</latitude>
+    <longitude>51.559167</longitude>
+  </city>
+  <city name="Nu`ayjah">
+    <latitude>25.2525</latitude>
+    <longitude>51.559167</longitude>
+  </city>
+  <city name="Nu`man">
+    <latitude>25.856667</latitude>
+    <longitude>51.083333</longitude>
+  </city>
+  <city name="Qahahil">
+    <latitude>25.316667</latitude>
+    <longitude>50.766667</longitude>
+  </city>
+  <city name="Raiyan">
+    <latitude>25.291944</latitude>
+    <longitude>51.424444</longitude>
+  </city>
+  <city name="Ra's Abu Fintas">
+    <latitude>25.211389</latitude>
+    <longitude>51.619167</longitude>
+  </city>
+  <city name="Raudat al `Ayuz">
+    <latitude>25.545833</latitude>
+    <longitude>51.3875</longitude>
+  </city>
+  <city name="Rawdat al Ajuzah">
+    <latitude>25.545833</latitude>
+    <longitude>51.3875</longitude>
+  </city>
+  <city name="Rawdat al `Ajuz">
+    <latitude>25.545833</latitude>
+    <longitude>51.3875</longitude>
+  </city>
+  <city name="Rawdat Rashid">
+    <latitude>25.234167</latitude>
+    <longitude>51.203056</longitude>
+  </city>
+  <city name="Rodhat-al-`Ajuzah">
+    <latitude>25.545833</latitude>
+    <longitude>51.3875</longitude>
+  </city>
+  <city name="Rumailah">
+    <latitude>25.283333</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Rumaillah">
+    <latitude>25.283333</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Rumaylah">
+    <latitude>25.283333</latitude>
+    <longitude>51.533333</longitude>
+  </city>
+  <city name="Ruwais">
+    <latitude>26.133333</latitude>
+    <longitude>51.216667</longitude>
+  </city>
+  <city name="Sa Alokiyah">
+    <latitude>25.85</latitude>
+    <longitude>51.033333</longitude>
+  </city>
+  <city name="Sa`lukiyah">
+    <latitude>25.85</latitude>
+    <longitude>51.033333</longitude>
+  </city>
+  <city name="Shafilahiyah">
+    <latitude>25.65</latitude>
+    <longitude>51.372222</longitude>
+  </city>
+  <city name="Shakik">
+    <latitude>25.683889</latitude>
+    <longitude>51.505833</longitude>
+  </city>
+  <city name="Shaqra`">
+    <latitude>24.827222</latitude>
+    <longitude>51.394722</longitude>
+  </city>
+  <city name="Sidriyat Makin">
+    <latitude>26.033611</latitude>
+    <longitude>51.163889</longitude>
+  </city>
+  <city name="Simsimah">
+    <latitude>25.793333</latitude>
+    <longitude>51.409444</longitude>
+  </city>
+  <city name="Somaismah">
+    <latitude>25.574722</latitude>
+    <longitude>51.486389</longitude>
+  </city>
+  <city name="Sumaisimah">
+    <latitude>25.574722</latitude>
+    <longitude>51.486389</longitude>
+  </city>
+  <city name="Sumaisima">
+    <latitude>25.574722</latitude>
+    <longitude>51.486389</longitude>
+  </city>
+  <city name="Sumaismah">
+    <latitude>25.574722</latitude>
+    <longitude>51.486389</longitude>
+  </city>
+  <city name="Sumaisma">
+    <latitude>25.574722</latitude>
+    <longitude>51.486389</longitude>
+  </city>
+  <city name="Sumaysimah">
+    <latitude>25.574722</latitude>
+    <longitude>51.486389</longitude>
+  </city>
+  <city name="Suwaihaliyah">
+    <latitude>25.765278</latitude>
+    <longitude>51.019722</longitude>
+  </city>
+  <city name="Thaghab">
+    <latitude>26.033333</latitude>
+    <longitude>51.116667</longitude>
+  </city>
+  <city name="Tinbak">
+    <latitude>25.610278</latitude>
+    <longitude>51.475278</longitude>
+  </city>
+  <city name="Umm A'birieh">
+    <latitude>25.483333</latitude>
+    <longitude>51.383333</longitude>
+  </city>
+  <city name="Umm `Abiriyah">
+    <latitude>25.483333</latitude>
+    <longitude>51.383333</longitude>
+  </city>
+  <city name="Umm al Abarig">
+    <latitude>25.478056</latitude>
+    <longitude>51.3625</longitude>
+  </city>
+  <city name="Umm al Abariq">
+    <latitude>25.478056</latitude>
+    <longitude>51.3625</longitude>
+  </city>
+  <city name="Umm al Afa`i">
+    <latitude>25.358889</latitude>
+    <longitude>51.333611</longitude>
+  </city>
+  <city name="Umm al `Amad">
+    <latitude>25.492222</latitude>
+    <longitude>51.400278</longitude>
+  </city>
+  <city name="Umm al Ghaylam">
+    <latitude>26.000278</latitude>
+    <longitude>51.294444</longitude>
+  </city>
+  <city name="Umm al Hawa'ir">
+    <latitude>26.050278</latitude>
+    <longitude>51.2975</longitude>
+  </city>
+  <city name="Umm al `Izam">
+    <latitude>25.311944</latitude>
+    <longitude>51.003056</longitude>
+  </city>
+  <city name="Umm al Kharj">
+    <latitude>25.816667</latitude>
+    <longitude>51.133333</longitude>
+  </city>
+  <city name="Umm al Kharq">
+    <latitude>25.816667</latitude>
+    <longitude>51.133333</longitude>
+  </city>
+  <city name="Umm al Kilab">
+    <latitude>26.033611</latitude>
+    <longitude>51.200278</longitude>
+  </city>
+  <city name="Umm al Oubur">
+    <latitude>25.374444</latitude>
+    <longitude>51.436667</longitude>
+  </city>
+  <city name="Umm al Qubur">
+    <latitude>26.008611</latitude>
+    <longitude>51.083611</longitude>
+  </city>
+  <city name="Umm al Quhab `Abd Allah Bin Nasir">
+    <latitude>25.495</latitude>
+    <longitude>50.965278</longitude>
+  </city>
+  <city name="Umm al Quhab al `Atiq">
+    <latitude>25.500833</latitude>
+    <longitude>50.980556</longitude>
+  </city>
+  <city name="Umm al Quhab">
+    <latitude>25.772222</latitude>
+    <longitude>51.483333</longitude>
+  </city>
+  <city name="Umm-al-Salal">
+    <latitude>25.469722</latitude>
+    <longitude>51.3975</longitude>
+  </city>
+  <city name="Umm al Suwaija">
+    <latitude>25.645833</latitude>
+    <longitude>51.45</longitude>
+  </city>
+  <city name="Umm ash Shubrum">
+    <latitude>25.162222</latitude>
+    <longitude>51.220833</longitude>
+  </city>
+  <city name="Umm as Suf">
+    <latitude>26.077222</latitude>
+    <longitude>51.222222</longitude>
+  </city>
+  <city name="Umm as Suwab">
+    <latitude>25.067778</latitude>
+    <longitude>51.0775</longitude>
+  </city>
+  <city name="Umm as Suwayyah">
+    <latitude>25.645833</latitude>
+    <longitude>51.45</longitude>
+  </city>
+  <city name="Umm az Zabar">
+    <latitude>25.173889</latitude>
+    <longitude>51.269444</longitude>
+  </city>
+  <city name="Umm az Zubar">
+    <latitude>25.173889</latitude>
+    <longitude>51.269444</longitude>
+  </city>
+  <city name="Umm Bab">
+    <latitude>25.214167</latitude>
+    <longitude>50.807222</longitude>
+  </city>
+  <city name="Umm Birkah">
+    <latitude>25.751111</latitude>
+    <longitude>51.449167</longitude>
+  </city>
+  <city name="Umm es Salal">
+    <latitude>25.416944</latitude>
+    <longitude>51.403889</longitude>
+  </city>
+  <city name="Umm es Slal">
+    <latitude>25.416944</latitude>
+    <longitude>51.403889</longitude>
+  </city>
+  <city name="Umm Ghuwaylinah">
+    <latitude>25.277222</latitude>
+    <longitude>51.547778</longitude>
+  </city>
+  <city name="Umm Ghuwaylina">
+    <latitude>25.585556</latitude>
+    <longitude>51.151389</longitude>
+  </city>
+  <city name="Umm Juaidah">
+    <latitude>25.866667</latitude>
+    <longitude>51.066667</longitude>
+  </city>
+  <city name="Umm Ju`ayd">
+    <latitude>25.833333</latitude>
+    <longitude>51.072222</longitude>
+  </city>
+  <city name="Umm Jurn">
+    <latitude>25.55</latitude>
+    <longitude>51.433333</longitude>
+  </city>
+  <city name="Umm Juwaydah">
+    <latitude>25.866667</latitude>
+    <longitude>51.066667</longitude>
+  </city>
+  <city name="Umm Qarn">
+    <latitude>25.549722</latitude>
+    <longitude>51.431944</longitude>
+  </city>
+  <city name="Umm Qayn">
+    <latitude>25.715833</latitude>
+    <longitude>51.505556</longitude>
+  </city>
+  <city name="Umm Qurun">
+    <latitude>25.235556</latitude>
+    <longitude>51.33</longitude>
+  </city>
+  <city name="Umm Sa`ad">
+    <latitude>24.996111</latitude>
+    <longitude>51.548889</longitude>
+  </city>
+  <city name="Umm Sabbah">
+    <latitude>26.150278</latitude>
+    <longitude>51.108056</longitude>
+  </city>
+  <city name="Umm Sa`id">
+    <latitude>24.996111</latitude>
+    <longitude>51.548889</longitude>
+  </city>
+  <city name="Umm Salal `Ali">
+    <latitude>25.469722</latitude>
+    <longitude>51.3975</longitude>
+  </city>
+  <city name="Umm Salal Mohammad">
+    <latitude>25.416944</latitude>
+    <longitude>51.403889</longitude>
+  </city>
+  <city name="Umm Salal Muhammad">
+    <latitude>25.416944</latitude>
+    <longitude>51.403889</longitude>
+  </city>
+  <city name="Umm Ses Salal">
+    <latitude>25.416944</latitude>
+    <longitude>51.403889</longitude>
+  </city>
+  <city name="Umm Shamim">
+    <latitude>25.224167</latitude>
+    <longitude>51.174444</longitude>
+  </city>
+  <city name="Umm Silal `Ali">
+    <latitude>25.469722</latitude>
+    <longitude>51.3975</longitude>
+  </city>
+  <city name="Umm Silal Mohammed">
+    <latitude>25.416944</latitude>
+    <longitude>51.403889</longitude>
+  </city>
+  <city name="Umm Slal Ali">
+    <latitude>25.469722</latitude>
+    <longitude>51.3975</longitude>
+  </city>
+  <city name="Umm Slal Mohammed">
+    <latitude>25.416944</latitude>
+    <longitude>51.403889</longitude>
+  </city>
+  <city name="Umm Suwaijah">
+    <latitude>25.645833</latitude>
+    <longitude>51.45</longitude>
+  </city>
+  <city name="Umm Suwayjah">
+    <latitude>25.645833</latitude>
+    <longitude>51.45</longitude>
+  </city>
+  <city name="Umm `Ubayriyad">
+    <latitude>25.490556</latitude>
+    <longitude>51.373611</longitude>
+  </city>
+  <city name="Umm `Ubayriyah">
+    <latitude>25.490556</latitude>
+    <longitude>51.373611</longitude>
+  </city>
+  <city name="Umm Wishah">
+    <latitude>25.168889</latitude>
+    <longitude>51.086389</longitude>
+  </city>
+  <city name="`Unayzah">
+    <latitude>25.341944</latitude>
+    <longitude>51.5075</longitude>
+  </city>
+  <city name="Wadi as Sayl">
+    <latitude>25.306944</latitude>
+    <longitude>51.507778</longitude>
+  </city>
+  <city name="Wadi Jallal">
+    <latitude>25.030833</latitude>
+    <longitude>51.275278</longitude>
+  </city>
+  <city name="Wajbah">
+    <latitude>25.300833</latitude>
+    <longitude>51.394444</longitude>
+  </city>
+  <city name="Wakrah">
+    <latitude>25.171511</latitude>
+    <longitude>51.603371</longitude>
+  </city>
+  <city name="Wakra">
+    <latitude>25.171511</latitude>
+    <longitude>51.603371</longitude>
+  </city>
+  <city name="Waqra">
+    <latitude>25.171511</latitude>
+    <longitude>51.603371</longitude>
+  </city>
+  <city name="Yamail">
+    <latitude>26.099722</latitude>
+    <longitude>51.161111</longitude>
+  </city>
+  <city name="Zaghab">
+    <latitude>26.108056</latitude>
+    <longitude>51.244722</longitude>
+  </city>
+  <city name="Zar` al `Atiyah">
+    <latitude>25.326667</latitude>
+    <longitude>51.350278</longitude>
+  </city>
+  <city name="Zekrit">
+    <latitude>25.495</latitude>
+    <longitude>50.846667</longitude>
+  </city>
+  <city name="Zikrit">
+    <latitude>25.495</latitude>
+    <longitude>50.846667</longitude>
+  </city>
+  <city name="Zugain al Bahath">
+    <latitude>25.313889</latitude>
+    <longitude>50.883333</longitude>
+  </city>
+  <city name="Zughayn al Bahath">
+    <latitude>25.313889</latitude>
+    <longitude>50.883333</longitude>
+  </city>
+  <city name="Zughayn al Bahth">
+    <latitude>25.313889</latitude>
+    <longitude>50.883333</longitude>
+  </city>
+</country>

@@ -1,0 +1,2335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="mt" name="Malte">
+  <city name="Ainsielem">
+    <latitude>36.026389</latitude>
+    <longitude>14.285</longitude>
+  </city>
+  <city name="Ashiak">
+    <latitude>35.848889</latitude>
+    <longitude>14.516667</longitude>
+  </city>
+  <city name="Attard">
+    <latitude>35.889722</latitude>
+    <longitude>14.4425</longitude>
+  </city>
+  <city name="Axiak">
+    <latitude>35.848889</latitude>
+    <longitude>14.516667</longitude>
+  </city>
+  <city name="Bahar ic-Caghaq">
+    <latitude>35.938611</latitude>
+    <longitude>14.454167</longitude>
+  </city>
+  <city name="Bahar it Chiak">
+    <latitude>35.938611</latitude>
+    <longitude>14.454167</longitude>
+  </city>
+  <city name="Baia di San Paolo">
+    <latitude>35.948333</latitude>
+    <longitude>14.400556</longitude>
+  </city>
+  <city name="Balzan">
+    <latitude>35.900278</latitude>
+    <longitude>14.455</longitude>
+  </city>
+  <city name="B'Buga">
+    <latitude>35.825833</latitude>
+    <longitude>14.526944</longitude>
+  </city>
+  <city name="B'Bugia">
+    <latitude>35.825833</latitude>
+    <longitude>14.526944</longitude>
+  </city>
+  <city name="Benghaisa">
+    <latitude>35.813056</latitude>
+    <longitude>14.538611</longitude>
+  </city>
+  <city name="Benghajsa">
+    <latitude>35.813056</latitude>
+    <longitude>14.538611</longitude>
+  </city>
+  <city name="Benghisa">
+    <latitude>35.813056</latitude>
+    <longitude>14.538611</longitude>
+  </city>
+  <city name="Bezbezija">
+    <latitude>35.912222</latitude>
+    <longitude>14.408611</longitude>
+  </city>
+  <city name="Bidni">
+    <latitude>35.868889</latitude>
+    <longitude>14.554444</longitude>
+  </city>
+  <city name="Bighi">
+    <latitude>35.892222</latitude>
+    <longitude>14.525</longitude>
+  </city>
+  <city name="Bingemma">
+    <latitude>35.91</latitude>
+    <longitude>14.373611</longitude>
+  </city>
+  <city name="Binjemma">
+    <latitude>35.91</latitude>
+    <longitude>14.373611</longitude>
+  </city>
+  <city name="Birbuba">
+    <latitude>36.064167</latitude>
+    <longitude>14.198611</longitude>
+  </city>
+  <city name="Birchircara">
+    <latitude>35.897222</latitude>
+    <longitude>14.461111</longitude>
+  </city>
+  <city name="Birgu">
+    <latitude>35.892222</latitude>
+    <longitude>14.518333</longitude>
+  </city>
+  <city name="Bir id-Deheb">
+    <latitude>35.851389</latitude>
+    <longitude>14.528056</longitude>
+  </city>
+  <city name="Birkirkara">
+    <latitude>35.897222</latitude>
+    <longitude>14.461111</longitude>
+  </city>
+  <city name="Birzbbu">
+    <latitude>35.825833</latitude>
+    <longitude>14.526944</longitude>
+  </city>
+  <city name="Birzebbu">
+    <latitude>35.825833</latitude>
+    <longitude>14.526944</longitude>
+  </city>
+  <city name="Birzebbuga">
+    <latitude>35.825833</latitude>
+    <longitude>14.526944</longitude>
+  </city>
+  <city name="Birzebbugia">
+    <latitude>35.825833</latitude>
+    <longitude>14.526944</longitude>
+  </city>
+  <city name="Birzebuggia">
+    <latitude>35.825833</latitude>
+    <longitude>14.526944</longitude>
+  </city>
+  <city name="Biskra">
+    <latitude>35.966389</latitude>
+    <longitude>14.346944</longitude>
+  </city>
+  <city name="B'Kara">
+    <latitude>35.897222</latitude>
+    <longitude>14.461111</longitude>
+  </city>
+  <city name="Borg in-Nadur">
+    <latitude>35.833889</latitude>
+    <longitude>14.530278</longitude>
+  </city>
+  <city name="Bormla">
+    <latitude>35.885556</latitude>
+    <longitude>14.5275</longitude>
+  </city>
+  <city name="Bubakra">
+    <latitude>35.824722</latitude>
+    <longitude>14.478056</longitude>
+  </city>
+  <city name="Bubaqra">
+    <latitude>35.824722</latitude>
+    <longitude>14.478056</longitude>
+  </city>
+  <city name="Bugibba">
+    <latitude>35.951389</latitude>
+    <longitude>14.410556</longitude>
+  </city>
+  <city name="Bujebba">
+    <latitude>35.951389</latitude>
+    <longitude>14.410556</longitude>
+  </city>
+  <city name="Bulebel Il Cbir">
+    <latitude>35.8625</latitude>
+    <longitude>14.52</longitude>
+  </city>
+  <city name="Buleben il-Kbir">
+    <latitude>35.8625</latitude>
+    <longitude>14.52</longitude>
+  </city>
+  <city name="Buleben iz-Zghir">
+    <latitude>35.870278</latitude>
+    <longitude>14.527778</longitude>
+  </city>
+  <city name="Bur Maghtab">
+    <latitude>35.842778</latitude>
+    <longitude>14.513611</longitude>
+  </city>
+  <city name="Bur Maghtub">
+    <latitude>35.842778</latitude>
+    <longitude>14.513611</longitude>
+  </city>
+  <city name="Bur Marrad">
+    <latitude>35.935833</latitude>
+    <longitude>14.413889</longitude>
+  </city>
+  <city name="Busugrilla">
+    <latitude>35.883333</latitude>
+    <longitude>14.391944</longitude>
+  </city>
+  <city name="Caccia">
+    <latitude>36.05</latitude>
+    <longitude>14.264444</longitude>
+  </city>
+  <city name="Calcara">
+    <latitude>35.889167</latitude>
+    <longitude>14.532778</longitude>
+  </city>
+  <city name="Casal Asciak">
+    <latitude>35.848889</latitude>
+    <longitude>14.516667</longitude>
+  </city>
+  <city name="Casal Attard">
+    <latitude>35.889722</latitude>
+    <longitude>14.4425</longitude>
+  </city>
+  <city name="Casal Balzan">
+    <latitude>35.900278</latitude>
+    <longitude>14.455</longitude>
+  </city>
+  <city name="Casal Birchircara">
+    <latitude>35.897222</latitude>
+    <longitude>14.461111</longitude>
+  </city>
+  <city name="Casal Chircop">
+    <latitude>35.842222</latitude>
+    <longitude>14.485278</longitude>
+  </city>
+  <city name="Casal Dingli">
+    <latitude>35.861389</latitude>
+    <longitude>14.382222</longitude>
+  </city>
+  <city name="Casal Krendi">
+    <latitude>35.834722</latitude>
+    <longitude>14.458333</longitude>
+  </city>
+  <city name="Casal Lia">
+    <latitude>35.900556</latitude>
+    <longitude>14.446389</longitude>
+  </city>
+  <city name="Casal Luca">
+    <latitude>35.858889</latitude>
+    <longitude>14.488611</longitude>
+  </city>
+  <city name="Casal Micabiba">
+    <latitude>35.846111</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="Casal Paola">
+    <latitude>35.873056</latitude>
+    <longitude>14.498889</longitude>
+  </city>
+  <city name="Casal Paolo">
+    <latitude>35.873056</latitude>
+    <longitude>14.498889</longitude>
+  </city>
+  <city name="Casal Paula">
+    <latitude>35.873056</latitude>
+    <longitude>14.498889</longitude>
+  </city>
+  <city name="Casal Qala">
+    <latitude>36.036111</latitude>
+    <longitude>14.309444</longitude>
+  </city>
+  <city name="Casal Safi">
+    <latitude>35.833056</latitude>
+    <longitude>14.484722</longitude>
+  </city>
+  <city name="Casal Tarxien">
+    <latitude>35.865833</latitude>
+    <longitude>14.515</longitude>
+  </city>
+  <city name="Casal Zeitun">
+    <latitude>35.855833</latitude>
+    <longitude>14.533056</longitude>
+  </city>
+  <city name="Casal Zurrico">
+    <latitude>35.831111</latitude>
+    <longitude>14.474167</longitude>
+  </city>
+  <city name="Città Notabile">
+    <latitude>35.886944</latitude>
+    <longitude>14.4025</longitude>
+  </city>
+  <city name="Citta Vecchia">
+    <latitude>35.886944</latitude>
+    <longitude>14.4025</longitude>
+  </city>
+  <city name="Citta Vechia">
+    <latitude>35.886944</latitude>
+    <longitude>14.4025</longitude>
+  </city>
+  <city name="Cordin">
+    <latitude>35.8825</latitude>
+    <longitude>14.506389</longitude>
+  </city>
+  <city name="Corradino Heights">
+    <latitude>35.882778</latitude>
+    <longitude>14.510278</longitude>
+  </city>
+  <city name="Cospicua">
+    <latitude>35.885556</latitude>
+    <longitude>14.5275</longitude>
+  </city>
+  <city name="Cospiosa">
+    <latitude>35.885556</latitude>
+    <longitude>14.5275</longitude>
+  </city>
+  <city name="Curmi">
+    <latitude>35.878333</latitude>
+    <longitude>14.471944</longitude>
+  </city>
+  <city name="Delimara">
+    <latitude>35.824722</latitude>
+    <longitude>14.559722</longitude>
+  </city>
+  <city name="Dingli">
+    <latitude>35.861389</latitude>
+    <longitude>14.382222</longitude>
+  </city>
+  <city name="Dueira">
+    <latitude>35.905278</latitude>
+    <longitude>14.383611</longitude>
+  </city>
+  <city name="Dwejra">
+    <latitude>35.905278</latitude>
+    <longitude>14.383611</longitude>
+  </city>
+  <city name="El Madliena">
+    <latitude>35.9275</latitude>
+    <longitude>14.466111</longitude>
+  </city>
+  <city name="El Mghatáp">
+    <latitude>35.936389</latitude>
+    <longitude>14.447778</longitude>
+  </city>
+  <city name="'Emieri">
+    <latitude>35.892222</latitude>
+    <longitude>14.365833</longitude>
+  </city>
+  <city name="Erba' Mwiezeb">
+    <latitude>35.944444</latitude>
+    <longitude>14.410556</longitude>
+  </city>
+  <city name="Fgura">
+    <latitude>35.870278</latitude>
+    <longitude>14.513333</longitude>
+  </city>
+  <city name="Fleur de Lis">
+    <latitude>35.892222</latitude>
+    <longitude>14.470556</longitude>
+  </city>
+  <city name="Fleur de Lys">
+    <latitude>35.892222</latitude>
+    <longitude>14.470556</longitude>
+  </city>
+  <city name="Floriana">
+    <latitude>35.895833</latitude>
+    <longitude>14.508333</longitude>
+  </city>
+  <city name="Gargur">
+    <latitude>35.924167</latitude>
+    <longitude>14.451944</longitude>
+  </city>
+  <city name="Ghain Clieb">
+    <latitude>35.885556</latitude>
+    <longitude>14.384722</longitude>
+  </city>
+  <city name="Ghain Dueili">
+    <latitude>35.8775</latitude>
+    <longitude>14.513333</longitude>
+  </city>
+  <city name="Ghain Dwieli">
+    <latitude>35.8775</latitude>
+    <longitude>14.513333</longitude>
+  </city>
+  <city name="Ghain Il Cbira">
+    <latitude>35.854444</latitude>
+    <longitude>14.408056</longitude>
+  </city>
+  <city name="Ghain il K'bira">
+    <latitude>36.038611</latitude>
+    <longitude>14.239722</longitude>
+  </city>
+  <city name="Ghain Kaiet">
+    <latitude>35.886111</latitude>
+    <longitude>14.386667</longitude>
+  </city>
+  <city name="Ghain Kaijet">
+    <latitude>35.886111</latitude>
+    <longitude>14.386667</longitude>
+  </city>
+  <city name="Ghain Klieb">
+    <latitude>35.885556</latitude>
+    <longitude>14.384722</longitude>
+  </city>
+  <city name="Ghain Sielem">
+    <latitude>36.026389</latitude>
+    <longitude>14.285</longitude>
+  </city>
+  <city name="Ghain Tuffieha">
+    <latitude>35.925833</latitude>
+    <longitude>14.353333</longitude>
+  </city>
+  <city name="Ghain Zeituna">
+    <latitude>35.966389</latitude>
+    <longitude>14.367222</longitude>
+  </city>
+  <city name="Ghajn Dwieli">
+    <latitude>35.8775</latitude>
+    <longitude>14.513333</longitude>
+  </city>
+  <city name="Ghajn il-Kbira">
+    <latitude>35.854444</latitude>
+    <longitude>14.408056</longitude>
+  </city>
+  <city name="Ghajn Klieb">
+    <latitude>35.885556</latitude>
+    <longitude>14.384722</longitude>
+  </city>
+  <city name="Ghajn Melel">
+    <latitude>36.076111</latitude>
+    <longitude>14.239167</longitude>
+  </city>
+  <city name="Ghajn Qajjet">
+    <latitude>35.886111</latitude>
+    <longitude>14.386667</longitude>
+  </city>
+  <city name="Ghajn Qajjied">
+    <latitude>35.886111</latitude>
+    <longitude>14.386667</longitude>
+  </city>
+  <city name="Ghajnsielem">
+    <latitude>36.026389</latitude>
+    <longitude>14.285</longitude>
+  </city>
+  <city name="Ghajn Tuffieha">
+    <latitude>35.925833</latitude>
+    <longitude>14.353333</longitude>
+  </city>
+  <city name="Ghajn Zejtuna">
+    <latitude>35.966389</latitude>
+    <longitude>14.367222</longitude>
+  </city>
+  <city name="Ghammar">
+    <latitude>36.066111</latitude>
+    <longitude>14.218333</longitude>
+  </city>
+  <city name="Ghammieri">
+    <latitude>35.8725</latitude>
+    <longitude>14.480833</longitude>
+  </city>
+  <city name="Gharb">
+    <latitude>36.06</latitude>
+    <longitude>14.208889</longitude>
+  </city>
+  <city name="Gharghur">
+    <latitude>35.924167</latitude>
+    <longitude>14.451944</longitude>
+  </city>
+  <city name="Ghar Mundu">
+    <latitude>35.849444</latitude>
+    <longitude>14.406111</longitude>
+  </city>
+  <city name="Ghar Ram">
+    <latitude>35.872222</latitude>
+    <longitude>14.458333</longitude>
+  </city>
+  <city name="Ghashiak">
+    <latitude>35.848889</latitude>
+    <longitude>14.516667</longitude>
+  </city>
+  <city name="Ghasri">
+    <latitude>36.057778</latitude>
+    <longitude>14.226389</longitude>
+  </city>
+  <city name="Ghaxaq">
+    <latitude>35.848889</latitude>
+    <longitude>14.516667</longitude>
+  </city>
+  <city name="Ghemieri">
+    <latitude>35.892222</latitude>
+    <longitude>14.365833</longitude>
+  </city>
+  <city name="Gnien el Gbir">
+    <latitude>35.870833</latitude>
+    <longitude>14.396389</longitude>
+  </city>
+  <city name="Gnien-Il Gbir">
+    <latitude>35.870833</latitude>
+    <longitude>14.396389</longitude>
+  </city>
+  <city name="Gnien il-Kbir">
+    <latitude>35.870833</latitude>
+    <longitude>14.396389</longitude>
+  </city>
+  <city name="Gomerino">
+    <latitude>35.892222</latitude>
+    <longitude>14.365833</longitude>
+  </city>
+  <city name="Guarda Mangia">
+    <latitude>35.890556</latitude>
+    <longitude>14.491667</longitude>
+  </city>
+  <city name="Gudia">
+    <latitude>35.849167</latitude>
+    <longitude>14.503056</longitude>
+  </city>
+  <city name="Gudja">
+    <latitude>35.849167</latitude>
+    <longitude>14.503056</longitude>
+  </city>
+  <city name="Gwardamanga">
+    <latitude>35.890556</latitude>
+    <longitude>14.491667</longitude>
+  </city>
+  <city name="Gzira">
+    <latitude>35.905833</latitude>
+    <longitude>14.488056</longitude>
+  </city>
+  <city name="Had-Dingli">
+    <latitude>35.861389</latitude>
+    <longitude>14.382222</longitude>
+  </city>
+  <city name="Hal Baiada">
+    <latitude>35.878056</latitude>
+    <longitude>14.395833</longitude>
+  </city>
+  <city name="Hal Baijada">
+    <latitude>35.878056</latitude>
+    <longitude>14.395833</longitude>
+  </city>
+  <city name="Hal-Bajjada">
+    <latitude>35.878056</latitude>
+    <longitude>14.395833</longitude>
+  </city>
+  <city name="Hal Balzan">
+    <latitude>35.900278</latitude>
+    <longitude>14.455</longitude>
+  </city>
+  <city name="Hal Duiel">
+    <latitude>35.868056</latitude>
+    <longitude>14.435833</longitude>
+  </city>
+  <city name="Hal Dwin">
+    <latitude>35.868056</latitude>
+    <longitude>14.435833</longitude>
+  </city>
+  <city name="Hal Far">
+    <latitude>35.816667</latitude>
+    <longitude>14.506667</longitude>
+  </city>
+  <city name="Hal Ghaxaq">
+    <latitude>35.848889</latitude>
+    <longitude>14.516667</longitude>
+  </city>
+  <city name="Hal Ghaxiak">
+    <latitude>35.848889</latitude>
+    <longitude>14.516667</longitude>
+  </city>
+  <city name="Hal Ginwi">
+    <latitude>35.846667</latitude>
+    <longitude>14.5425</longitude>
+  </city>
+  <city name="Hal Jinwi">
+    <latitude>35.846667</latitude>
+    <longitude>14.5425</longitude>
+  </city>
+  <city name="Halk Dieri">
+    <latitude>35.868611</latitude>
+    <longitude>14.423611</longitude>
+  </city>
+  <city name="Hal-Kirkop">
+    <latitude>35.842222</latitude>
+    <longitude>14.485278</longitude>
+  </city>
+  <city name="Hall Bajjada">
+    <latitude>35.878056</latitude>
+    <longitude>14.395833</longitude>
+  </city>
+  <city name="Hall Duiel">
+    <latitude>35.868056</latitude>
+    <longitude>14.435833</longitude>
+  </city>
+  <city name="Hal-Lew">
+    <latitude>35.829444</latitude>
+    <longitude>14.469167</longitude>
+  </city>
+  <city name="Hal Lija">
+    <latitude>35.900556</latitude>
+    <longitude>14.446389</longitude>
+  </city>
+  <city name="Hall Mula">
+    <latitude>35.870278</latitude>
+    <longitude>14.444444</longitude>
+  </city>
+  <city name="Hal Luqa">
+    <latitude>35.858889</latitude>
+    <longitude>14.488611</longitude>
+  </city>
+  <city name="Hal Mula">
+    <latitude>35.870278</latitude>
+    <longitude>14.444444</longitude>
+  </city>
+  <city name="Hal Mushi">
+    <latitude>35.875556</latitude>
+    <longitude>14.435833</longitude>
+  </city>
+  <city name="Hal Muxi">
+    <latitude>35.875556</latitude>
+    <longitude>14.435833</longitude>
+  </city>
+  <city name="Halq Dieri">
+    <latitude>35.868611</latitude>
+    <longitude>14.423611</longitude>
+  </city>
+  <city name="Hal Qormi">
+    <latitude>35.878333</latitude>
+    <longitude>14.471944</longitude>
+  </city>
+  <city name="Hal Safi">
+    <latitude>35.833056</latitude>
+    <longitude>14.484722</longitude>
+  </city>
+  <city name="Hal Saflieni">
+    <latitude>35.869444</latitude>
+    <longitude>14.505278</longitude>
+  </city>
+  <city name="Hal Saflini">
+    <latitude>35.869444</latitude>
+    <longitude>14.505278</longitude>
+  </city>
+  <city name="Hal Tarxien">
+    <latitude>35.865833</latitude>
+    <longitude>14.515</longitude>
+  </city>
+  <city name="Hamria">
+    <latitude>35.858889</latitude>
+    <longitude>14.423333</longitude>
+  </city>
+  <city name="Hamrija">
+    <latitude>35.862222</latitude>
+    <longitude>14.569444</longitude>
+  </city>
+  <city name="Ham Rum">
+    <latitude>35.884722</latitude>
+    <longitude>14.484444</longitude>
+  </city>
+  <city name="Hamrun">
+    <latitude>35.884722</latitude>
+    <longitude>14.484444</longitude>
+  </city>
+  <city name="Has-Saflieni">
+    <latitude>35.869444</latitude>
+    <longitude>14.505278</longitude>
+  </city>
+  <city name="Has-Said">
+    <latitude>35.870833</latitude>
+    <longitude>14.543333</longitude>
+  </city>
+  <city name="Has-Sajd">
+    <latitude>35.870833</latitude>
+    <longitude>14.543333</longitude>
+  </city>
+  <city name="H'Attard">
+    <latitude>35.889722</latitude>
+    <longitude>14.4425</longitude>
+  </city>
+  <city name="Haz-Zabbar">
+    <latitude>35.876111</latitude>
+    <longitude>14.535</longitude>
+  </city>
+  <city name="Haz-Zebbug">
+    <latitude>35.871944</latitude>
+    <longitude>14.441111</longitude>
+  </city>
+  <city name="Hofret ir-Rizz">
+    <latitude>35.873333</latitude>
+    <longitude>14.376667</longitude>
+  </city>
+  <city name="Hofriet ir Ritz">
+    <latitude>35.873333</latitude>
+    <longitude>14.376667</longitude>
+  </city>
+  <city name="Id-Dahar">
+    <latitude>35.976389</latitude>
+    <longitude>14.332778</longitude>
+  </city>
+  <city name="Il-Bidni">
+    <latitude>35.868889</latitude>
+    <longitude>14.554444</longitude>
+  </city>
+  <city name="Il-Birgu">
+    <latitude>35.892222</latitude>
+    <longitude>14.518333</longitude>
+  </city>
+  <city name="Il Biskra">
+    <latitude>35.966389</latitude>
+    <longitude>14.346944</longitude>
+  </city>
+  <city name="Il-Brolli">
+    <latitude>35.830556</latitude>
+    <longitude>14.521389</longitude>
+  </city>
+  <city name="Il Buierak">
+    <latitude>35.901389</latitude>
+    <longitude>14.46</longitude>
+  </city>
+  <city name="Il Busbesia">
+    <latitude>35.912222</latitude>
+    <longitude>14.408611</longitude>
+  </city>
+  <city name="Il-Bwieraq">
+    <latitude>35.901389</latitude>
+    <longitude>14.46</longitude>
+  </city>
+  <city name="Il Cappara">
+    <latitude>35.864444</latitude>
+    <longitude>14.568889</longitude>
+  </city>
+  <city name="Il-Fawwara">
+    <latitude>35.840278</latitude>
+    <longitude>14.401944</longitude>
+  </city>
+  <city name="Il-Fgura">
+    <latitude>35.870278</latitude>
+    <longitude>14.513333</longitude>
+  </city>
+  <city name="Il-Furjana">
+    <latitude>35.895833</latitude>
+    <longitude>14.508333</longitude>
+  </city>
+  <city name="Il-Gharb">
+    <latitude>36.06</latitude>
+    <longitude>14.208889</longitude>
+  </city>
+  <city name="Il-Ghasri">
+    <latitude>36.057778</latitude>
+    <longitude>14.226389</longitude>
+  </city>
+  <city name="Il Gnien Nesciuf">
+    <latitude>35.924722</latitude>
+    <longitude>14.414444</longitude>
+  </city>
+  <city name="Il-Gudja">
+    <latitude>35.849167</latitude>
+    <longitude>14.503056</longitude>
+  </city>
+  <city name="Il-Gwejdi">
+    <latitude>35.916944</latitude>
+    <longitude>14.441389</longitude>
+  </city>
+  <city name="Il-Gzira">
+    <latitude>35.905833</latitude>
+    <longitude>14.488056</longitude>
+  </city>
+  <city name="Il- Gzira">
+    <latitude>35.9</latitude>
+    <longitude>14.5</longitude>
+  </city>
+  <city name="Il-Hammieri">
+    <latitude>35.882222</latitude>
+    <longitude>14.460833</longitude>
+  </city>
+  <city name="Il-Hamra">
+    <latitude>35.949722</latitude>
+    <longitude>14.418611</longitude>
+  </city>
+  <city name="Il-Hamrija">
+    <latitude>35.858889</latitude>
+    <longitude>14.423333</longitude>
+  </city>
+  <city name="Il-Hamrun">
+    <latitude>35.884722</latitude>
+    <longitude>14.484444</longitude>
+  </city>
+  <city name="Il Handak">
+    <latitude>35.870833</latitude>
+    <longitude>14.468056</longitude>
+  </city>
+  <city name="Il-Hofra">
+    <latitude>35.881944</latitude>
+    <longitude>14.544722</longitude>
+  </city>
+  <city name="Il Kaiienza">
+    <latitude>35.833889</latitude>
+    <longitude>14.535</longitude>
+  </city>
+  <city name="Il-Kalkara">
+    <latitude>35.889167</latitude>
+    <longitude>14.532778</longitude>
+  </city>
+  <city name="Il-Kamp tal-Mellieha">
+    <latitude>35.967222</latitude>
+    <longitude>14.346667</longitude>
+  </city>
+  <city name="Il-Kappara">
+    <latitude>35.864444</latitude>
+    <longitude>14.568889</longitude>
+  </city>
+  <city name="Il Kattara">
+    <latitude>35.9025</latitude>
+    <longitude>14.408889</longitude>
+  </city>
+  <city name="Il Kortin ta Ghain Zeituna">
+    <latitude>35.963889</latitude>
+    <longitude>14.371389</longitude>
+  </city>
+  <city name="Il Kortin ta' Ghain Zejtuna">
+    <latitude>35.963889</latitude>
+    <longitude>14.371389</longitude>
+  </city>
+  <city name="Il-Kortin ta' Ghajn Zejtuna">
+    <latitude>35.963889</latitude>
+    <longitude>14.371389</longitude>
+  </city>
+  <city name="Il-Madliena">
+    <latitude>35.9275</latitude>
+    <longitude>14.466111</longitude>
+  </city>
+  <city name="Il Maghtab">
+    <latitude>35.936389</latitude>
+    <longitude>14.447778</longitude>
+  </city>
+  <city name="Il-Mahsel">
+    <latitude>35.856389</latitude>
+    <longitude>14.565</longitude>
+  </city>
+  <city name="Il Manikata">
+    <latitude>35.94</latitude>
+    <longitude>14.353333</longitude>
+  </city>
+  <city name="Il-Marsa">
+    <latitude>35.879167</latitude>
+    <longitude>14.495278</longitude>
+  </city>
+  <city name="Il-Mellieha">
+    <latitude>35.956389</latitude>
+    <longitude>14.362222</longitude>
+  </city>
+  <city name="Il-Mielah">
+    <latitude>35.924722</latitude>
+    <longitude>14.470278</longitude>
+  </city>
+  <city name="Il-Minzel">
+    <latitude>35.86</latitude>
+    <longitude>14.532222</longitude>
+  </city>
+  <city name="Il Misiep">
+    <latitude>35.817222</latitude>
+    <longitude>14.495278</longitude>
+  </city>
+  <city name="Il-Mizieb">
+    <latitude>35.817222</latitude>
+    <longitude>14.495278</longitude>
+  </city>
+  <city name="Il Miziep">
+    <latitude>35.817222</latitude>
+    <longitude>14.495278</longitude>
+  </city>
+  <city name="Il-Mosta">
+    <latitude>35.909167</latitude>
+    <longitude>14.425556</longitude>
+  </city>
+  <city name="Il-Palma">
+    <latitude>35.935556</latitude>
+    <longitude>14.367222</longitude>
+  </city>
+  <city name="Il-Pergla">
+    <latitude>36.058333</latitude>
+    <longitude>14.273889</longitude>
+  </city>
+  <city name="Il-Qajenza">
+    <latitude>35.833889</latitude>
+    <longitude>14.535</longitude>
+  </city>
+  <city name="Il-Qajjenza">
+    <latitude>35.833889</latitude>
+    <longitude>14.535</longitude>
+  </city>
+  <city name="Il-Qala">
+    <latitude>36.036111</latitude>
+    <longitude>14.309444</longitude>
+  </city>
+  <city name="Il-Qasbija">
+    <latitude>35.903611</latitude>
+    <longitude>14.455556</longitude>
+  </city>
+  <city name="Il-Qat-ara">
+    <latitude>35.9025</latitude>
+    <longitude>14.408889</longitude>
+  </city>
+  <city name="Il-Qattara">
+    <latitude>35.9025</latitude>
+    <longitude>14.408889</longitude>
+  </city>
+  <city name="Il-Qortin ta' Ghajn Zejtuna">
+    <latitude>35.963889</latitude>
+    <longitude>14.371389</longitude>
+  </city>
+  <city name="Il-Qrendi">
+    <latitude>35.834722</latitude>
+    <longitude>14.458333</longitude>
+  </city>
+  <city name="Il-Wileg">
+    <latitude>35.886667</latitude>
+    <longitude>14.533889</longitude>
+  </city>
+  <city name="Il-Wilga">
+    <latitude>36.0575</latitude>
+    <longitude>14.209444</longitude>
+  </city>
+  <city name="Il Wilgia ta Bengemma">
+    <latitude>35.91</latitude>
+    <longitude>14.373611</longitude>
+  </city>
+  <city name="Il Wilgia ta Bingemma">
+    <latitude>35.91</latitude>
+    <longitude>14.373611</longitude>
+  </city>
+  <city name="Il Willeq">
+    <latitude>35.886667</latitude>
+    <longitude>14.533889</longitude>
+  </city>
+  <city name="Imgiar">
+    <latitude>35.920556</latitude>
+    <longitude>14.366389</longitude>
+  </city>
+  <city name="Imjar">
+    <latitude>35.920556</latitude>
+    <longitude>14.366389</longitude>
+  </city>
+  <city name="Imkabba">
+    <latitude>35.846111</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="Imtarfa Barracks">
+    <latitude>35.893333</latitude>
+    <longitude>14.398889</longitude>
+  </city>
+  <city name="Imtarfa">
+    <latitude>35.893333</latitude>
+    <longitude>14.398889</longitude>
+  </city>
+  <city name="In-Nadur">
+    <latitude>36.037778</latitude>
+    <longitude>14.294167</longitude>
+  </city>
+  <city name="In-nah-Halia">
+    <latitude>35.935278</latitude>
+    <longitude>14.342778</longitude>
+  </city>
+  <city name="In-Nahhalija">
+    <latitude>35.935278</latitude>
+    <longitude>14.342778</longitude>
+  </city>
+  <city name="In-Naxxar">
+    <latitude>35.913611</latitude>
+    <longitude>14.443611</longitude>
+  </city>
+  <city name="In-Nigret">
+    <latitude>35.824444</latitude>
+    <longitude>14.468056</longitude>
+  </city>
+  <city name="Ir-Rabt">
+    <latitude>35.882222</latitude>
+    <longitude>14.398056</longitude>
+  </city>
+  <city name="Irras">
+    <latitude>35.813056</latitude>
+    <longitude>14.538611</longitude>
+  </city>
+  <city name="Isla">
+    <latitude>35.8875</latitude>
+    <longitude>14.516944</longitude>
+  </city>
+  <city name="Is-Sannat">
+    <latitude>36.024444</latitude>
+    <longitude>14.242778</longitude>
+  </city>
+  <city name="Is-Sellum">
+    <latitude>35.966389</latitude>
+    <longitude>14.358889</longitude>
+  </city>
+  <city name="Is-Siggiewi">
+    <latitude>35.855556</latitude>
+    <longitude>14.436389</longitude>
+  </city>
+  <city name="Is-Simb-blia">
+    <latitude>35.9125</latitude>
+    <longitude>14.447222</longitude>
+  </city>
+  <city name="Is-Simblija">
+    <latitude>35.9125</latitude>
+    <longitude>14.447222</longitude>
+  </city>
+  <city name="Is-Suatar">
+    <latitude>35.896667</latitude>
+    <longitude>14.477222</longitude>
+  </city>
+  <city name="Is Suieki">
+    <latitude>35.9225</latitude>
+    <longitude>14.48</longitude>
+  </city>
+  <city name="Is-Swatar">
+    <latitude>35.896667</latitude>
+    <longitude>14.477222</longitude>
+  </city>
+  <city name="Is-Swieki">
+    <latitude>35.9225</latitude>
+    <longitude>14.48</longitude>
+  </city>
+  <city name="Is-Swieqi">
+    <latitude>35.9225</latitude>
+    <longitude>14.48</longitude>
+  </city>
+  <city name="It-Troll">
+    <latitude>35.866389</latitude>
+    <longitude>14.443056</longitude>
+  </city>
+  <city name="Ixaghra il Hamra">
+    <latitude>35.940833</latitude>
+    <longitude>14.3525</longitude>
+  </city>
+  <city name="Ixxaghara-il-Hamra">
+    <latitude>35.940833</latitude>
+    <longitude>14.3525</longitude>
+  </city>
+  <city name="Ix-Xaghra">
+    <latitude>36.05</latitude>
+    <longitude>14.264444</longitude>
+  </city>
+  <city name="Ix-Xaghra l-Hamra">
+    <latitude>35.940833</latitude>
+    <longitude>14.3525</longitude>
+  </city>
+  <city name="Ix-Xaghra ta' Barra">
+    <latitude>35.956667</latitude>
+    <longitude>14.37</longitude>
+  </city>
+  <city name="Ix-Xaghra ta' l-Isqof">
+    <latitude>35.865278</latitude>
+    <longitude>14.406389</longitude>
+  </city>
+  <city name="Ix-Xewkija">
+    <latitude>36.032778</latitude>
+    <longitude>14.258056</longitude>
+  </city>
+  <city name="Ix Xghairat">
+    <latitude>35.921389</latitude>
+    <longitude>14.462778</longitude>
+  </city>
+  <city name="Ix-Xghajriet">
+    <latitude>35.921389</latitude>
+    <longitude>14.462778</longitude>
+  </city>
+  <city name="Ix-Xghara">
+    <latitude>35.885556</latitude>
+    <longitude>14.5475</longitude>
+  </city>
+  <city name="Ix-Xlejli">
+    <latitude>35.851111</latitude>
+    <longitude>14.507222</longitude>
+  </city>
+  <city name="Iz-Zebbiegh">
+    <latitude>35.920278</latitude>
+    <longitude>14.379444</longitude>
+  </city>
+  <city name="Iz-Zebbieh">
+    <latitude>35.920278</latitude>
+    <longitude>14.379444</longitude>
+  </city>
+  <city name="Iz-Zebbug">
+    <latitude>36.072222</latitude>
+    <longitude>14.235833</longitude>
+  </city>
+  <city name="Iz Zeitun">
+    <latitude>35.855833</latitude>
+    <longitude>14.533056</longitude>
+  </city>
+  <city name="Iz-Zejtun">
+    <latitude>35.855833</latitude>
+    <longitude>14.533056</longitude>
+  </city>
+  <city name="Iz-Zlielaq">
+    <latitude>35.866667</latitude>
+    <longitude>14.564167</longitude>
+  </city>
+  <city name="Iz-Zurrieq">
+    <latitude>35.831111</latitude>
+    <longitude>14.474167</longitude>
+  </city>
+  <city name="Jew ir-Ras">
+    <latitude>35.813056</latitude>
+    <longitude>14.538611</longitude>
+  </city>
+  <city name="Kacca">
+    <latitude>36.05</latitude>
+    <longitude>14.264444</longitude>
+  </city>
+  <city name="Kacha">
+    <latitude>36.05</latitude>
+    <longitude>14.264444</longitude>
+  </city>
+  <city name="Kaienza">
+    <latitude>35.833889</latitude>
+    <longitude>14.535</longitude>
+  </city>
+  <city name="Kalafrana">
+    <latitude>35.818056</latitude>
+    <longitude>14.534444</longitude>
+  </city>
+  <city name="Kala">
+    <latitude>36.036111</latitude>
+    <longitude>14.309444</longitude>
+  </city>
+  <city name="Kalkara">
+    <latitude>35.889167</latitude>
+    <longitude>14.532778</longitude>
+  </city>
+  <city name="Kasam Bulebel Iz-Zghir">
+    <latitude>35.870278</latitude>
+    <longitude>14.527778</longitude>
+  </city>
+  <city name="Kayenza">
+    <latitude>35.833889</latitude>
+    <longitude>14.535</longitude>
+  </city>
+  <city name="Kercem">
+    <latitude>36.041944</latitude>
+    <longitude>14.226667</longitude>
+  </city>
+  <city name="Kerchem">
+    <latitude>36.041944</latitude>
+    <longitude>14.226667</longitude>
+  </city>
+  <city name="Kirkop">
+    <latitude>35.842222</latitude>
+    <longitude>14.485278</longitude>
+  </city>
+  <city name="Kordin">
+    <latitude>35.8825</latitude>
+    <longitude>14.506389</longitude>
+  </city>
+  <city name="Krendi">
+    <latitude>35.834722</latitude>
+    <longitude>14.458333</longitude>
+  </city>
+  <city name="L-Ahrax tal-Ghajn">
+    <latitude>35.981111</latitude>
+    <longitude>14.332222</longitude>
+  </city>
+  <city name="L`Andrijet">
+    <latitude>35.886111</latitude>
+    <longitude>14.365833</longitude>
+  </city>
+  <city name="L-Andrijiet">
+    <latitude>35.886111</latitude>
+    <longitude>14.365833</longitude>
+  </city>
+  <city name="Lands Ceppuna">
+    <latitude>35.873611</latitude>
+    <longitude>14.493611</longitude>
+  </city>
+  <city name="Lands Ghemieri">
+    <latitude>35.892222</latitude>
+    <longitude>14.365833</longitude>
+  </city>
+  <city name="L-Armier">
+    <latitude>35.875278</latitude>
+    <longitude>14.470833</longitude>
+  </city>
+  <city name="La Valette">
+    <latitude>35.899722</latitude>
+    <longitude>14.514722</longitude>
+  </city>
+  <city name="Lebbug">
+    <latitude>35.871944</latitude>
+    <longitude>14.441111</longitude>
+  </city>
+  <city name="L-Ghasri">
+    <latitude>36.057778</latitude>
+    <longitude>14.226389</longitude>
+  </city>
+  <city name="Lia">
+    <latitude>35.900556</latitude>
+    <longitude>14.446389</longitude>
+  </city>
+  <city name="L-Iclin">
+    <latitude>35.909167</latitude>
+    <longitude>14.452222</longitude>
+  </city>
+  <city name="Lija">
+    <latitude>35.900556</latitude>
+    <longitude>14.446389</longitude>
+  </city>
+  <city name="L-Iklin">
+    <latitude>35.909167</latitude>
+    <longitude>14.452222</longitude>
+  </city>
+  <city name="L-Imbordin">
+    <latitude>35.943333</latitude>
+    <longitude>14.371667</longitude>
+  </city>
+  <city name="L-Imdina">
+    <latitude>35.886944</latitude>
+    <longitude>14.4025</longitude>
+  </city>
+  <city name="L-Imgarr">
+    <latitude>36.025278</latitude>
+    <longitude>14.295</longitude>
+  </city>
+  <city name="L-Imghieret">
+    <latitude>35.8725</latitude>
+    <longitude>14.485278</longitude>
+  </city>
+  <city name="L-Imqabba">
+    <latitude>35.846111</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="L-Imsida">
+    <latitude>35.8925</latitude>
+    <longitude>14.482778</longitude>
+  </city>
+  <city name="L-Imsierah">
+    <latitude>35.9</latitude>
+    <longitude>14.483333</longitude>
+  </city>
+  <city name="L-Imtarfa">
+    <latitude>35.893333</latitude>
+    <longitude>14.398889</longitude>
+  </city>
+  <city name="L-Ingiered">
+    <latitude>35.8725</latitude>
+    <longitude>14.485278</longitude>
+  </city>
+  <city name="L-Ingieret">
+    <latitude>35.8725</latitude>
+    <longitude>14.485278</longitude>
+  </city>
+  <city name="L'Inglin">
+    <latitude>35.909167</latitude>
+    <longitude>14.452222</longitude>
+  </city>
+  <city name="Liscolba">
+    <latitude>35.919722</latitude>
+    <longitude>14.376944</longitude>
+  </city>
+  <city name="L-Iskirvit">
+    <latitude>35.913056</latitude>
+    <longitude>14.355556</longitude>
+  </city>
+  <city name="L-Iskorvit">
+    <latitude>35.913056</latitude>
+    <longitude>14.355556</longitude>
+  </city>
+  <city name="L-Isla">
+    <latitude>35.8875</latitude>
+    <longitude>14.516944</longitude>
+  </city>
+  <city name="L-Istabar">
+    <latitude>35.878611</latitude>
+    <longitude>14.478333</longitude>
+  </city>
+  <city name="L-Mgarr">
+    <latitude>35.920556</latitude>
+    <longitude>14.366389</longitude>
+  </city>
+  <city name="Luca">
+    <latitude>35.858889</latitude>
+    <longitude>14.488611</longitude>
+  </city>
+  <city name="Luqa">
+    <latitude>35.858889</latitude>
+    <longitude>14.488611</longitude>
+  </city>
+  <city name="Madliena">
+    <latitude>35.9275</latitude>
+    <longitude>14.466111</longitude>
+  </city>
+  <city name="Maghtab">
+    <latitude>35.936389</latitude>
+    <longitude>14.447778</longitude>
+  </city>
+  <city name="Manikata">
+    <latitude>35.94</latitude>
+    <longitude>14.353333</longitude>
+  </city>
+  <city name="Marsalforn">
+    <latitude>36.071111</latitude>
+    <longitude>14.258611</longitude>
+  </city>
+  <city name="Marsalforno">
+    <latitude>36.071111</latitude>
+    <longitude>14.258611</longitude>
+  </city>
+  <city name="Marsa">
+    <latitude>35.879167</latitude>
+    <longitude>14.495278</longitude>
+  </city>
+  <city name="Marsa Scala">
+    <latitude>35.866944</latitude>
+    <longitude>14.561944</longitude>
+  </city>
+  <city name="Marsa Scirocco">
+    <latitude>35.841944</latitude>
+    <longitude>14.543056</longitude>
+  </city>
+  <city name="Marsa Shlok">
+    <latitude>35.841944</latitude>
+    <longitude>14.543056</longitude>
+  </city>
+  <city name="Marsaskala">
+    <latitude>35.866944</latitude>
+    <longitude>14.561944</longitude>
+  </city>
+  <city name="Marsaxlokk">
+    <latitude>35.841944</latitude>
+    <longitude>14.543056</longitude>
+  </city>
+  <city name="Marsaxlok">
+    <latitude>35.841944</latitude>
+    <longitude>14.543056</longitude>
+  </city>
+  <city name="Masta">
+    <latitude>35.909167</latitude>
+    <longitude>14.425556</longitude>
+  </city>
+  <city name="Mdina">
+    <latitude>35.886944</latitude>
+    <longitude>14.4025</longitude>
+  </city>
+  <city name="Medina Notabile">
+    <latitude>35.886944</latitude>
+    <longitude>14.4025</longitude>
+  </city>
+  <city name="Melita">
+    <latitude>35.886944</latitude>
+    <longitude>14.4025</longitude>
+  </city>
+  <city name="Mellieha">
+    <latitude>35.956389</latitude>
+    <longitude>14.362222</longitude>
+  </city>
+  <city name="Mgarr">
+    <latitude>36.025278</latitude>
+    <longitude>14.295</longitude>
+  </city>
+  <city name="Micabba">
+    <latitude>35.846111</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="Minsija">
+    <latitude>35.913333</latitude>
+    <longitude>14.481111</longitude>
+  </city>
+  <city name="Misida">
+    <latitude>35.8925</latitude>
+    <longitude>14.482778</longitude>
+  </city>
+  <city name="Misrah Blandon">
+    <latitude>35.828056</latitude>
+    <longitude>14.490833</longitude>
+  </city>
+  <city name="Misrah Blandun">
+    <latitude>35.828056</latitude>
+    <longitude>14.490833</longitude>
+  </city>
+  <city name="Misrah Hlantun">
+    <latitude>35.828056</latitude>
+    <longitude>14.490833</longitude>
+  </city>
+  <city name="Misrah Il-Barrieri">
+    <latitude>35.895833</latitude>
+    <longitude>14.486389</longitude>
+  </city>
+  <city name="Misrah Lewza">
+    <latitude>35.908611</latitude>
+    <longitude>14.472778</longitude>
+  </city>
+  <city name="Misrah Miel">
+    <latitude>35.920833</latitude>
+    <longitude>14.361389</longitude>
+  </city>
+  <city name="Misrah Srajnu">
+    <latitude>35.850556</latitude>
+    <longitude>14.545278</longitude>
+  </city>
+  <city name="Misrah Strejnu">
+    <latitude>35.850556</latitude>
+    <longitude>14.545278</longitude>
+  </city>
+  <city name="Misrah Suffara">
+    <latitude>35.868611</latitude>
+    <longitude>14.373611</longitude>
+  </city>
+  <city name="Mizieb">
+    <latitude>35.95</latitude>
+    <longitude>14.358056</longitude>
+  </city>
+  <city name="Monsciar">
+    <latitude>36.03</latitude>
+    <longitude>14.233333</longitude>
+  </city>
+  <city name="Mosta">
+    <latitude>35.909167</latitude>
+    <longitude>14.425556</longitude>
+  </city>
+  <city name="Mqabba">
+    <latitude>35.846111</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="Mrejzbiet">
+    <latitude>36.028889</latitude>
+    <longitude>14.285556</longitude>
+  </city>
+  <city name="Msida">
+    <latitude>35.8925</latitude>
+    <longitude>14.482778</longitude>
+  </city>
+  <city name="Msierah">
+    <latitude>35.9</latitude>
+    <longitude>14.483333</longitude>
+  </city>
+  <city name="M'Skala">
+    <latitude>35.866944</latitude>
+    <longitude>14.561944</longitude>
+  </city>
+  <city name="Mtarfa">
+    <latitude>35.893333</latitude>
+    <longitude>14.398889</longitude>
+  </city>
+  <city name="Munshar">
+    <latitude>36.03</latitude>
+    <longitude>14.233333</longitude>
+  </city>
+  <city name="Munxar">
+    <latitude>36.03</latitude>
+    <longitude>14.233333</longitude>
+  </city>
+  <city name="Musta">
+    <latitude>35.909167</latitude>
+    <longitude>14.425556</longitude>
+  </city>
+  <city name="M'Xloxx">
+    <latitude>35.841944</latitude>
+    <longitude>14.543056</longitude>
+  </city>
+  <city name="Nadur">
+    <latitude>36.037778</latitude>
+    <longitude>14.294167</longitude>
+  </city>
+  <city name="Nasciar">
+    <latitude>35.913611</latitude>
+    <longitude>14.443611</longitude>
+  </city>
+  <city name="Nashar">
+    <latitude>35.913611</latitude>
+    <longitude>14.443611</longitude>
+  </city>
+  <city name="Naxaro">
+    <latitude>35.913611</latitude>
+    <longitude>14.443611</longitude>
+  </city>
+  <city name="Naxxar">
+    <latitude>35.913611</latitude>
+    <longitude>14.443611</longitude>
+  </city>
+  <city name="Negret">
+    <latitude>35.824444</latitude>
+    <longitude>14.468056</longitude>
+  </city>
+  <city name="Nigred">
+    <latitude>35.824444</latitude>
+    <longitude>14.468056</longitude>
+  </city>
+  <city name="Nigret">
+    <latitude>35.824444</latitude>
+    <longitude>14.468056</longitude>
+  </city>
+  <city name="Notabile">
+    <latitude>35.886944</latitude>
+    <longitude>14.4025</longitude>
+  </city>
+  <city name="Paola">
+    <latitude>35.873056</latitude>
+    <longitude>14.498889</longitude>
+  </city>
+  <city name="Paula">
+    <latitude>35.873056</latitude>
+    <longitude>14.498889</longitude>
+  </city>
+  <city name="Pawla">
+    <latitude>35.873056</latitude>
+    <longitude>14.498889</longitude>
+  </city>
+  <city name="Pietà">
+    <latitude>35.894722</latitude>
+    <longitude>14.495</longitude>
+  </city>
+  <city name="Qala">
+    <latitude>36.036111</latitude>
+    <longitude>14.309444</longitude>
+  </city>
+  <city name="Qasam Bulebel iz-Zghir">
+    <latitude>35.870278</latitude>
+    <longitude>14.527778</longitude>
+  </city>
+  <city name="Qbajjar">
+    <latitude>36.077778</latitude>
+    <longitude>14.250278</longitude>
+  </city>
+  <city name="Qormi">
+    <latitude>35.878333</latitude>
+    <longitude>14.471944</longitude>
+  </city>
+  <city name="Qrendi">
+    <latitude>35.834722</latitude>
+    <longitude>14.458333</longitude>
+  </city>
+  <city name="Rabato">
+    <latitude>35.882222</latitude>
+    <longitude>14.398056</longitude>
+  </city>
+  <city name="Rabat">
+    <latitude>35.882222</latitude>
+    <longitude>14.398056</longitude>
+  </city>
+  <city name="Rahal Gdid">
+    <latitude>35.873056</latitude>
+    <longitude>14.498889</longitude>
+  </city>
+  <city name="Rahal Jedid">
+    <latitude>35.873056</latitude>
+    <longitude>14.498889</longitude>
+  </city>
+  <city name="Safi">
+    <latitude>35.833056</latitude>
+    <longitude>14.484722</longitude>
+  </city>
+  <city name="Saint Julian">
+    <latitude>35.919722</latitude>
+    <longitude>14.484444</longitude>
+  </city>
+  <city name="Saint Julian's">
+    <latitude>35.919722</latitude>
+    <longitude>14.484444</longitude>
+  </city>
+  <city name="Saint Paul's Bay">
+    <latitude>35.948333</latitude>
+    <longitude>14.400556</longitude>
+  </city>
+  <city name="San Annard">
+    <latitude>35.878333</latitude>
+    <longitude>14.555833</longitude>
+  </city>
+  <city name="San Gilian">
+    <latitude>35.919722</latitude>
+    <longitude>14.484444</longitude>
+  </city>
+  <city name="San Giljan">
+    <latitude>35.919722</latitude>
+    <longitude>14.484444</longitude>
+  </city>
+  <city name="San Gwann">
+    <latitude>35.905556</latitude>
+    <longitude>14.476111</longitude>
+  </city>
+  <city name="San Gwann tal-Gharghar">
+    <latitude>35.905</latitude>
+    <longitude>14.476111</longitude>
+  </city>
+  <city name="San Gwann tal-Ghorghar">
+    <latitude>35.905</latitude>
+    <longitude>14.476111</longitude>
+  </city>
+  <city name="San Katald">
+    <latitude>36.065556</latitude>
+    <longitude>14.205833</longitude>
+  </city>
+  <city name="San Laurenz">
+    <latitude>36.055556</latitude>
+    <longitude>14.203611</longitude>
+  </city>
+  <city name="San Lawrenz">
+    <latitude>36.055556</latitude>
+    <longitude>14.203611</longitude>
+  </city>
+  <city name="San Leonardo">
+    <latitude>35.878333</latitude>
+    <longitude>14.555833</longitude>
+  </city>
+  <city name="Sannat">
+    <latitude>36.024444</latitude>
+    <longitude>14.242778</longitude>
+  </city>
+  <city name="San Paul à Mare">
+    <latitude>35.948333</latitude>
+    <longitude>14.400556</longitude>
+  </city>
+  <city name="San Paul Amere">
+    <latitude>35.948333</latitude>
+    <longitude>14.400556</longitude>
+  </city>
+  <city name="San Paul Milkei">
+    <latitude>35.935278</latitude>
+    <longitude>14.412778</longitude>
+  </city>
+  <city name="San Pawl il-Bahar">
+    <latitude>35.948333</latitude>
+    <longitude>14.400556</longitude>
+  </city>
+  <city name="San Pawl Milqghi">
+    <latitude>35.935278</latitude>
+    <longitude>14.412778</longitude>
+  </city>
+  <city name="San Pawl tat-Targa">
+    <latitude>35.920278</latitude>
+    <longitude>14.4425</longitude>
+  </city>
+  <city name="San Pietro">
+    <latitude>35.886389</latitude>
+    <longitude>14.54</longitude>
+  </city>
+  <city name="San Pietru">
+    <latitude>35.886389</latitude>
+    <longitude>14.54</longitude>
+  </city>
+  <city name="San Rocco">
+    <latitude>35.890833</latitude>
+    <longitude>14.540556</longitude>
+  </city>
+  <city name="Santa Lucia">
+    <latitude>35.862778</latitude>
+    <longitude>14.5075</longitude>
+  </city>
+  <city name="Santa Lucija">
+    <latitude>35.862778</latitude>
+    <longitude>14.5075</longitude>
+  </city>
+  <city name="Santa Venera">
+    <latitude>35.890833</latitude>
+    <longitude>14.474167</longitude>
+  </city>
+  <city name="Santa Vennera">
+    <latitude>35.890833</latitude>
+    <longitude>14.474167</longitude>
+  </city>
+  <city name="Santu Pietru">
+    <latitude>36.060833</latitude>
+    <longitude>14.201111</longitude>
+  </city>
+  <city name="Santu Rokku">
+    <latitude>35.890833</latitude>
+    <longitude>14.540556</longitude>
+  </city>
+  <city name="Senglea">
+    <latitude>35.8875</latitude>
+    <longitude>14.516944</longitude>
+  </city>
+  <city name="Shaghra">
+    <latitude>36.05</latitude>
+    <longitude>14.264444</longitude>
+  </city>
+  <city name="Shaghra tal Iskof">
+    <latitude>35.865278</latitude>
+    <longitude>14.406389</longitude>
+  </city>
+  <city name="Sha'ra tal Iskof">
+    <latitude>35.865278</latitude>
+    <longitude>14.406389</longitude>
+  </city>
+  <city name="Sh'ayra">
+    <latitude>35.885556</latitude>
+    <longitude>14.5475</longitude>
+  </city>
+  <city name="Shghaira">
+    <latitude>35.885556</latitude>
+    <longitude>14.5475</longitude>
+  </city>
+  <city name="Showkiya">
+    <latitude>36.032778</latitude>
+    <longitude>14.258056</longitude>
+  </city>
+  <city name="Siggieui">
+    <latitude>35.855556</latitude>
+    <longitude>14.436389</longitude>
+  </city>
+  <city name="Siggiewi">
+    <latitude>35.855556</latitude>
+    <longitude>14.436389</longitude>
+  </city>
+  <city name="Sijuwi">
+    <latitude>35.855556</latitude>
+    <longitude>14.436389</longitude>
+  </city>
+  <city name="Skorba">
+    <latitude>35.919722</latitude>
+    <longitude>14.376944</longitude>
+  </city>
+  <city name="Sliema">
+    <latitude>35.9125</latitude>
+    <longitude>14.501944</longitude>
+  </city>
+  <city name="Ta' Abram">
+    <latitude>36.065</latitude>
+    <longitude>14.233333</longitude>
+  </city>
+  <city name="Ta Bengemma">
+    <latitude>35.91</latitude>
+    <longitude>14.373611</longitude>
+  </city>
+  <city name="Ta Birbuba">
+    <latitude>36.064167</latitude>
+    <longitude>14.198611</longitude>
+  </city>
+  <city name="Ta' Bir Miftuh">
+    <latitude>35.852778</latitude>
+    <longitude>14.490556</longitude>
+  </city>
+  <city name="Ta' Brared">
+    <latitude>35.928889</latitude>
+    <longitude>14.402222</longitude>
+  </city>
+  <city name="Ta Braret">
+    <latitude>35.928889</latitude>
+    <longitude>14.402222</longitude>
+  </city>
+  <city name="Ta' Bullara">
+    <latitude>36.055833</latitude>
+    <longitude>14.261389</longitude>
+  </city>
+  <city name="Ta Candia">
+    <latitude>35.849444</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="Ta' Cantar">
+    <latitude>35.869722</latitude>
+    <longitude>14.536667</longitude>
+  </city>
+  <city name="Tac-Cawla">
+    <latitude>35.856944</latitude>
+    <longitude>14.489444</longitude>
+  </city>
+  <city name="Ta' Ceppuna">
+    <latitude>35.873611</latitude>
+    <longitude>14.493611</longitude>
+  </city>
+  <city name="Ta' Ciantar">
+    <latitude>35.869722</latitude>
+    <longitude>14.536667</longitude>
+  </city>
+  <city name="Ta' Cikkun">
+    <latitude>35.911667</latitude>
+    <longitude>14.483333</longitude>
+  </city>
+  <city name="Ta Cordin">
+    <latitude>35.8825</latitude>
+    <longitude>14.506389</longitude>
+  </city>
+  <city name="Ta' Danieli">
+    <latitude>35.856667</latitude>
+    <longitude>14.484167</longitude>
+  </city>
+  <city name="Tad-Dawl">
+    <latitude>35.850833</latitude>
+    <longitude>14.472222</longitude>
+  </city>
+  <city name="Tad-Duluri">
+    <latitude>35.887778</latitude>
+    <longitude>14.490556</longitude>
+  </city>
+  <city name="Tad-Dwieli">
+    <latitude>35.884444</latitude>
+    <longitude>14.476389</longitude>
+  </city>
+  <city name="Ta Erba Muiezep">
+    <latitude>35.944444</latitude>
+    <longitude>14.410556</longitude>
+  </city>
+  <city name="Ta' Fleur-De-Lis">
+    <latitude>35.892222</latitude>
+    <longitude>14.470556</longitude>
+  </city>
+  <city name="Ta Giocondu">
+    <latitude>35.9225</latitude>
+    <longitude>14.472222</longitude>
+  </city>
+  <city name="Ta' Giorni">
+    <latitude>35.913333</latitude>
+    <longitude>14.486389</longitude>
+  </city>
+  <city name="Ta' Gokondu">
+    <latitude>35.9225</latitude>
+    <longitude>14.472222</longitude>
+  </city>
+  <city name="Ta' Gorgun">
+    <latitude>36.029444</latitude>
+    <longitude>14.258889</longitude>
+  </city>
+  <city name="Ta Guardamangia">
+    <latitude>35.890556</latitude>
+    <longitude>14.491667</longitude>
+  </city>
+  <city name="Ta Hal-Leu">
+    <latitude>35.829444</latitude>
+    <longitude>14.469167</longitude>
+  </city>
+  <city name="Ta' Hal-Lew">
+    <latitude>35.829444</latitude>
+    <longitude>14.469167</longitude>
+  </city>
+  <city name="Ta' Hal-Mula">
+    <latitude>35.870278</latitude>
+    <longitude>14.444444</longitude>
+  </city>
+  <city name="Ta Hal Saflieni">
+    <latitude>35.869444</latitude>
+    <longitude>14.505278</longitude>
+  </city>
+  <city name="Ta' Hamet">
+    <latitude>36.04</latitude>
+    <longitude>14.264722</longitude>
+  </city>
+  <city name="Ta Haxxluk">
+    <latitude>35.846667</latitude>
+    <longitude>14.445</longitude>
+  </city>
+  <city name="Ta' Haxxluq">
+    <latitude>35.846667</latitude>
+    <longitude>14.445</longitude>
+  </city>
+  <city name="Ta' Hida">
+    <latitude>36.045278</latitude>
+    <longitude>14.284444</longitude>
+  </city>
+  <city name="Ta Kali">
+    <latitude>35.894167</latitude>
+    <longitude>14.427222</longitude>
+  </city>
+  <city name="Ta Kandia">
+    <latitude>35.849444</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="Ta' Kandja">
+    <latitude>35.849444</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="Ta' Kappara">
+    <latitude>35.908889</latitude>
+    <longitude>14.484167</longitude>
+  </city>
+  <city name="Ta' Kordin">
+    <latitude>35.8825</latitude>
+    <longitude>14.506389</longitude>
+  </city>
+  <city name="Ta L-Abatia">
+    <latitude>35.9075</latitude>
+    <longitude>14.350278</longitude>
+  </city>
+  <city name="Ta' l-Abatija">
+    <latitude>35.9075</latitude>
+    <longitude>14.350278</longitude>
+  </city>
+  <city name="Ta' Lampuka">
+    <latitude>35.866944</latitude>
+    <longitude>14.508611</longitude>
+  </city>
+  <city name="Tal Baiada">
+    <latitude>35.837222</latitude>
+    <longitude>14.425556</longitude>
+  </city>
+  <city name="Tal-Bajjada">
+    <latitude>35.837222</latitude>
+    <longitude>14.425556</longitude>
+  </city>
+  <city name="Tal-Barmil">
+    <latitude>36.048056</latitude>
+    <longitude>14.255</longitude>
+  </city>
+  <city name="Tal-Barrani">
+    <latitude>35.856389</latitude>
+    <longitude>14.520278</longitude>
+  </city>
+  <city name="Tal-Blata">
+    <latitude>35.963889</latitude>
+    <longitude>14.391111</longitude>
+  </city>
+  <city name="Tal-Borg">
+    <latitude>35.871111</latitude>
+    <longitude>14.514722</longitude>
+  </city>
+  <city name="Tal Borj">
+    <latitude>35.871111</latitude>
+    <longitude>14.514722</longitude>
+  </city>
+  <city name="Tal Chittienija">
+    <latitude>35.836944</latitude>
+    <longitude>14.468333</longitude>
+  </city>
+  <city name="Tal Fakkani">
+    <latitude>35.862222</latitude>
+    <longitude>14.501111</longitude>
+  </city>
+  <city name="Tal-Faqqani">
+    <latitude>35.862222</latitude>
+    <longitude>14.501111</longitude>
+  </city>
+  <city name="Tal-Fieres">
+    <latitude>35.840833</latitude>
+    <longitude>14.4825</longitude>
+  </city>
+  <city name="Tal Francis">
+    <latitude>35.919444</latitude>
+    <longitude>14.48</longitude>
+  </city>
+  <city name="Tal-Franciz">
+    <latitude>35.919444</latitude>
+    <longitude>14.48</longitude>
+  </city>
+  <city name="Tal-Fulija">
+    <latitude>35.833611</latitude>
+    <longitude>14.462222</longitude>
+  </city>
+  <city name="Tal Ghokod">
+    <latitude>35.917778</latitude>
+    <longitude>14.483889</longitude>
+  </city>
+  <city name="Tal-Ghoqod">
+    <latitude>35.917778</latitude>
+    <longitude>14.483889</longitude>
+  </city>
+  <city name="Tal Guardamangia">
+    <latitude>35.890556</latitude>
+    <longitude>14.491667</longitude>
+  </city>
+  <city name="Tal Hammieri">
+    <latitude>35.8725</latitude>
+    <longitude>14.480833</longitude>
+  </city>
+  <city name="Tal-Hamra">
+    <latitude>35.878889</latitude>
+    <longitude>14.5325</longitude>
+  </city>
+  <city name="Tal-Hamrija">
+    <latitude>36.036667</latitude>
+    <longitude>14.253889</longitude>
+  </city>
+  <city name="Tal Handak">
+    <latitude>35.870833</latitude>
+    <longitude>14.468056</longitude>
+  </city>
+  <city name="Tal-Handaq">
+    <latitude>35.870833</latitude>
+    <longitude>14.468056</longitude>
+  </city>
+  <city name="Tal Haulija">
+    <latitude>35.878333</latitude>
+    <longitude>14.528889</longitude>
+  </city>
+  <city name="Tal-Hawlija">
+    <latitude>35.878333</latitude>
+    <longitude>14.528889</longitude>
+  </city>
+  <city name="Tal-Hlas">
+    <latitude>35.873056</latitude>
+    <longitude>14.451667</longitude>
+  </city>
+  <city name="Tal-Hriereb">
+    <latitude>35.900556</latitude>
+    <longitude>14.485556</longitude>
+  </city>
+  <city name="Ta' l-Ibrag">
+    <latitude>35.915556</latitude>
+    <longitude>14.464444</longitude>
+  </city>
+  <city name="Tal-Imbordin">
+    <latitude>35.943333</latitude>
+    <longitude>14.371667</longitude>
+  </city>
+  <city name="Ta' l-Imghajjen">
+    <latitude>36.038611</latitude>
+    <longitude>14.253056</longitude>
+  </city>
+  <city name="Ta' l-Infetti">
+    <latitude>35.874722</latitude>
+    <longitude>14.443611</longitude>
+  </city>
+  <city name="Tal Iscorvit">
+    <latitude>35.913056</latitude>
+    <longitude>14.355556</longitude>
+  </city>
+  <city name="Ta Liscurvit">
+    <latitude>35.913056</latitude>
+    <longitude>14.355556</longitude>
+  </city>
+  <city name="Ta' L-Iskirvit">
+    <latitude>35.913056</latitude>
+    <longitude>14.355556</longitude>
+  </city>
+  <city name="Tal Iskolviet">
+    <latitude>35.913056</latitude>
+    <longitude>14.355556</longitude>
+  </city>
+  <city name="Tal-Kittienija">
+    <latitude>35.836944</latitude>
+    <longitude>14.468333</longitude>
+  </city>
+  <city name="Tal-Liebru">
+    <latitude>35.834722</latitude>
+    <longitude>14.494444</longitude>
+  </city>
+  <city name="Tal-Liedna">
+    <latitude>35.873889</latitude>
+    <longitude>14.514722</longitude>
+  </city>
+  <city name="Tal-Mejda">
+    <latitude>35.916111</latitude>
+    <longitude>14.468889</longitude>
+  </city>
+  <city name="Tal-Mentna">
+    <latitude>35.842778</latitude>
+    <longitude>14.464444</longitude>
+  </city>
+  <city name="Tal-Merhla">
+    <latitude>35.878889</latitude>
+    <longitude>14.343889</longitude>
+  </city>
+  <city name="Tal-Milord">
+    <latitude>35.926944</latitude>
+    <longitude>14.398333</longitude>
+  </city>
+  <city name="Tal Minsia">
+    <latitude>35.913333</latitude>
+    <longitude>14.481111</longitude>
+  </city>
+  <city name="Tal-Minsija">
+    <latitude>35.913333</latitude>
+    <longitude>14.481111</longitude>
+  </city>
+  <city name="Tal-Mirakli">
+    <latitude>35.896111</latitude>
+    <longitude>14.435833</longitude>
+  </city>
+  <city name="Tal-Munxar">
+    <latitude>35.849444</latitude>
+    <longitude>14.562222</longitude>
+  </city>
+  <city name="Tal-Munxiar">
+    <latitude>35.849444</latitude>
+    <longitude>14.562222</longitude>
+  </city>
+  <city name="Tal-Palazz l-Ahmar">
+    <latitude>35.888611</latitude>
+    <longitude>14.4725</longitude>
+  </city>
+  <city name="Tal-Papa">
+    <latitude>35.817778</latitude>
+    <longitude>14.522778</longitude>
+  </city>
+  <city name="Tal Pictal">
+    <latitude>35.86</latitude>
+    <longitude>14.370556</longitude>
+  </city>
+  <city name="Tal-Pietà">
+    <latitude>35.894722</latitude>
+    <longitude>14.495</longitude>
+  </city>
+  <city name="Tal Pitcal">
+    <latitude>35.86</latitude>
+    <longitude>14.370556</longitude>
+  </city>
+  <city name="Tal-Pitkal">
+    <latitude>35.86</latitude>
+    <longitude>14.370556</longitude>
+  </city>
+  <city name="Tal-Qtates">
+    <latitude>35.869444</latitude>
+    <longitude>14.492778</longitude>
+  </city>
+  <city name="Tal' Uai">
+    <latitude>35.916111</latitude>
+    <longitude>14.436111</longitude>
+  </city>
+  <city name="Tal-Vecca">
+    <latitude>35.856111</latitude>
+    <longitude>14.376944</longitude>
+  </city>
+  <city name="Tal Veccia">
+    <latitude>35.856111</latitude>
+    <longitude>14.376944</longitude>
+  </city>
+  <city name="Tal Vechia">
+    <latitude>35.856111</latitude>
+    <longitude>14.376944</longitude>
+  </city>
+  <city name="Ta Misrah Lewza">
+    <latitude>35.908611</latitude>
+    <longitude>14.472778</longitude>
+  </city>
+  <city name="Ta' Mlit">
+    <latitude>35.903611</latitude>
+    <longitude>14.428611</longitude>
+  </city>
+  <city name="Ta' Monita">
+    <latitude>35.866111</latitude>
+    <longitude>14.564722</longitude>
+  </city>
+  <city name="Ta' Penza">
+    <latitude>35.875</latitude>
+    <longitude>14.521389</longitude>
+  </city>
+  <city name="Ta' Qali">
+    <latitude>35.894167</latitude>
+    <longitude>14.427222</longitude>
+  </city>
+  <city name="Tarshin">
+    <latitude>35.865833</latitude>
+    <longitude>14.515</longitude>
+  </city>
+  <city name="Tarxien">
+    <latitude>35.865833</latitude>
+    <longitude>14.515</longitude>
+  </city>
+  <city name="Ta Salvatur">
+    <latitude>35.850833</latitude>
+    <longitude>14.451944</longitude>
+  </city>
+  <city name="Ta San Ghirgor">
+    <latitude>35.852778</latitude>
+    <longitude>14.536944</longitude>
+  </city>
+  <city name="Ta' San Girgor">
+    <latitude>35.852778</latitude>
+    <longitude>14.536944</longitude>
+  </city>
+  <city name="Ta San Giuacchin">
+    <latitude>35.886667</latitude>
+    <longitude>14.465833</longitude>
+  </city>
+  <city name="Ta San Guann Tal Ghorghar">
+    <latitude>35.905</latitude>
+    <longitude>14.476111</longitude>
+  </city>
+  <city name="Ta' San Gwakkin">
+    <latitude>35.886667</latitude>
+    <longitude>14.465833</longitude>
+  </city>
+  <city name="Ta San Niclau">
+    <latitude>35.835556</latitude>
+    <longitude>14.441667</longitude>
+  </city>
+  <city name="Ta' San Niklaw">
+    <latitude>35.835556</latitude>
+    <longitude>14.441667</longitude>
+  </city>
+  <city name="Ta' Sardina">
+    <latitude>36.045833</latitude>
+    <longitude>14.284444</longitude>
+  </city>
+  <city name="Tasbiesch">
+    <latitude>35.899167</latitude>
+    <longitude>14.494444</longitude>
+  </city>
+  <city name="Tas Biesh">
+    <latitude>35.899167</latitude>
+    <longitude>14.494444</longitude>
+  </city>
+  <city name="Ta' Shbiesh">
+    <latitude>35.899167</latitude>
+    <longitude>14.494444</longitude>
+  </city>
+  <city name="Tas-Salib">
+    <latitude>35.895833</latitude>
+    <longitude>14.467222</longitude>
+  </city>
+  <city name="Tas-Salvatur">
+    <latitude>35.850833</latitude>
+    <longitude>14.451944</longitude>
+  </city>
+  <city name="Tas-Samra">
+    <latitude>35.884444</latitude>
+    <longitude>14.490278</longitude>
+  </city>
+  <city name="Tas-Santi">
+    <latitude>35.906111</latitude>
+    <longitude>14.356389</longitude>
+  </city>
+  <city name="Tas-Sienja">
+    <latitude>35.860556</latitude>
+    <longitude>14.559722</longitude>
+  </city>
+  <city name="Tas-Sinia">
+    <latitude>35.860556</latitude>
+    <longitude>14.559722</longitude>
+  </city>
+  <city name="Tas-Sinja">
+    <latitude>35.860556</latitude>
+    <longitude>14.559722</longitude>
+  </city>
+  <city name="Tas-Sliema">
+    <latitude>35.9125</latitude>
+    <longitude>14.501944</longitude>
+  </city>
+  <city name="Ta Wied Ghammiek">
+    <latitude>35.896944</latitude>
+    <longitude>14.529444</longitude>
+  </city>
+  <city name="Ta' Wied Ghammieq">
+    <latitude>35.896944</latitude>
+    <longitude>14.529444</longitude>
+  </city>
+  <city name="Ta' Xbiex">
+    <latitude>35.899167</latitude>
+    <longitude>14.494444</longitude>
+  </city>
+  <city name="Ta Xlejli">
+    <latitude>35.851111</latitude>
+    <longitude>14.507222</longitude>
+  </city>
+  <city name="Taz-Zejt">
+    <latitude>35.905833</latitude>
+    <longitude>14.47</longitude>
+  </city>
+  <city name="Valetta">
+    <latitude>35.899722</latitude>
+    <longitude>14.514722</longitude>
+  </city>
+  <city name="Valletta">
+    <latitude>35.899722</latitude>
+    <longitude>14.514722</longitude>
+  </city>
+  <city name="Victoria Town">
+    <latitude>36.044444</latitude>
+    <longitude>14.239722</longitude>
+  </city>
+  <city name="Victoria">
+    <latitude>36.044444</latitude>
+    <longitude>14.239722</longitude>
+  </city>
+  <city name="Vittoria">
+    <latitude>36.044444</latitude>
+    <longitude>14.239722</longitude>
+  </city>
+  <city name="Vittoriosa">
+    <latitude>35.892222</latitude>
+    <longitude>14.518333</longitude>
+  </city>
+  <city name="Wardia Cross Roads">
+    <latitude>35.938056</latitude>
+    <longitude>14.411111</longitude>
+  </city>
+  <city name="Wardija Crossroads">
+    <latitude>35.938056</latitude>
+    <longitude>14.411111</longitude>
+  </city>
+  <city name="Wied Fulija">
+    <latitude>35.818333</latitude>
+    <longitude>14.4775</longitude>
+  </city>
+  <city name="Wied Ghammieq">
+    <latitude>35.896944</latitude>
+    <longitude>14.529444</longitude>
+  </city>
+  <city name="Wied il Ghain">
+    <latitude>35.866944</latitude>
+    <longitude>14.561944</longitude>
+  </city>
+  <city name="Wied il-Ghajn">
+    <latitude>35.866944</latitude>
+    <longitude>14.561944</longitude>
+  </city>
+  <city name="Wied l-Arkata">
+    <latitude>35.924722</latitude>
+    <longitude>14.414444</longitude>
+  </city>
+  <city name="Xaghra ta Liskof">
+    <latitude>35.865278</latitude>
+    <longitude>14.406389</longitude>
+  </city>
+  <city name="Xaghra">
+    <latitude>36.05</latitude>
+    <longitude>14.264444</longitude>
+  </city>
+  <city name="Xeuchia">
+    <latitude>36.032778</latitude>
+    <longitude>14.258056</longitude>
+  </city>
+  <city name="Xewkija">
+    <latitude>36.032778</latitude>
+    <longitude>14.258056</longitude>
+  </city>
+  <city name="Xghaira">
+    <latitude>35.885556</latitude>
+    <longitude>14.5475</longitude>
+  </city>
+  <city name="Xghajra">
+    <latitude>35.885556</latitude>
+    <longitude>14.5475</longitude>
+  </city>
+  <city name="Xorb-il-Ghagin">
+    <latitude>35.840556</latitude>
+    <longitude>14.569722</longitude>
+  </city>
+  <city name="Xrobb il-Ghagin">
+    <latitude>35.840556</latitude>
+    <longitude>14.569722</longitude>
+  </city>
+  <city name="Zabbar">
+    <latitude>35.876111</latitude>
+    <longitude>14.535</longitude>
+  </city>
+  <city name="Zebbiegh">
+    <latitude>35.920278</latitude>
+    <longitude>14.379444</longitude>
+  </city>
+  <city name="Zebbieh">
+    <latitude>35.920278</latitude>
+    <longitude>14.379444</longitude>
+  </city>
+  <city name="Zeb-Bieh">
+    <latitude>35.920278</latitude>
+    <longitude>14.379444</longitude>
+  </city>
+  <city name="Zebbug">
+    <latitude>35.871944</latitude>
+    <longitude>14.441111</longitude>
+  </city>
+  <city name="Zebbuj">
+    <latitude>35.871944</latitude>
+    <longitude>14.441111</longitude>
+  </city>
+  <city name="Zeitun">
+    <latitude>35.855833</latitude>
+    <longitude>14.533056</longitude>
+  </city>
+  <city name="Zejtun">
+    <latitude>35.855833</latitude>
+    <longitude>14.533056</longitude>
+  </city>
+  <city name="Zonkor">
+    <latitude>35.870833</latitude>
+    <longitude>14.565</longitude>
+  </city>
+  <city name="Zonqor">
+    <latitude>35.870833</latitude>
+    <longitude>14.565</longitude>
+  </city>
+  <city name="Zurrico">
+    <latitude>35.831111</latitude>
+    <longitude>14.474167</longitude>
+  </city>
+  <city name="Zurriek">
+    <latitude>35.831111</latitude>
+    <longitude>14.474167</longitude>
+  </city>
+  <city name="Zurrieq">
+    <latitude>35.831111</latitude>
+    <longitude>14.474167</longitude>
+  </city>
+</country>

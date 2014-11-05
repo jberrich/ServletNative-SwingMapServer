@@ -1,0 +1,2139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="tt" name="Trinité et Tobago">
+  <city name="Adelphi">
+    <latitude>11.2</latitude>
+    <longitude>-60.7166667</longitude>
+  </city>
+  <city name="Adventure">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.7666667</longitude>
+  </city>
+  <city name="Agostini">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Anse Fourmi">
+    <latitude>11.3</latitude>
+    <longitude>-60.6166667</longitude>
+  </city>
+  <city name="Anse Noire">
+    <latitude>10.8333333</latitude>
+    <longitude>-60.9666667</longitude>
+  </city>
+  <city name="Arden">
+    <latitude>11.2666667</latitude>
+    <longitude>-60.5833333</longitude>
+  </city>
+  <city name="Arima">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Arnos Vale">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="Arouca">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Arouca Village">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Auchenskeoch">
+    <latitude>11.15</latitude>
+    <longitude>-60.7666667</longitude>
+  </city>
+  <city name="Avocat">
+    <latitude>10.2</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Bacolet">
+    <latitude>11.1666667</latitude>
+    <longitude>-60.7166667</longitude>
+  </city>
+  <city name="Bakhen">
+    <latitude>10.1666667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Balmain">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Balmain Village">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Bamboo">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Bamboo Village">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Barataria">
+    <latitude>10.65</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Barrackpore">
+    <latitude>10.2</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Barrackpore Settlement">
+    <latitude>10.2</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Basse Terre">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Basseterre Village">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Belle Garden">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.6</longitude>
+  </city>
+  <city name="Belmont">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="Bethel">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Biche">
+    <latitude>10.4333333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Biche Village">
+    <latitude>10.4333333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Black Rock">
+    <latitude>11.2</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Blanchisseuse">
+    <latitude>10.7833333</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Blanchisseuse Village">
+    <latitude>10.7833333</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Boissière">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Boissiere Village">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Bon Accord">
+    <latitude>11.15</latitude>
+    <longitude>-60.8333333</longitude>
+  </city>
+  <city name="Bon Accord Village">
+    <latitude>11.15</latitude>
+    <longitude>-60.8333333</longitude>
+  </city>
+  <city name="Bonasse">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Bonasse Village">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Bonne Aventure">
+    <latitude>10.3333333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Bonne Terre">
+    <latitude>10.3</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Bonne Terre Village">
+    <latitude>10.3</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Brasso">
+    <latitude>10.4</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Brasso Caparo Village">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Brasso Piedra">
+    <latitude>10.4333333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Brasso Seco Village">
+    <latitude>10.7333333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Brasso Venado">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Brasso Village">
+    <latitude>10.4</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Brazil">
+    <latitude>10.55</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Brickfield">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Brighton">
+    <latitude>10.25</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Bronte">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Buccoo">
+    <latitude>11.1666667</latitude>
+    <longitude>-60.8</longitude>
+  </city>
+  <city name="Buen Intento">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Buen Intento Village">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Buenos Aires">
+    <latitude>10.1</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Buenos Ayres">
+    <latitude>10.1</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Busy Corner">
+    <latitude>10.3</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Busy Corner Village">
+    <latitude>10.3</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Butler">
+    <latitude>10.4666667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Cacandee Settlement">
+    <latitude>10.55</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Caigual">
+    <latitude>10.55</latitude>
+    <longitude>-61.0666667</longitude>
+  </city>
+  <city name="Calcutta Settlement">
+    <latitude>10.4333333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Calder Hall">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="California">
+    <latitude>10.4</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="California Village">
+    <latitude>10.4</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Cambleton">
+    <latitude>11.3166667</latitude>
+    <longitude>-60.55</longitude>
+  </city>
+  <city name="Cameron">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.55</longitude>
+  </city>
+  <city name="Campbeltown">
+    <latitude>11.3166667</latitude>
+    <longitude>-60.55</longitude>
+  </city>
+  <city name="Canaan">
+    <latitude>11.15</latitude>
+    <longitude>-60.8166667</longitude>
+  </city>
+  <city name="Cantaro">
+    <latitude>10.7</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Cantaro Village">
+    <latitude>10.7</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Caparo">
+    <latitude>10.45</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Cap-de-Ville">
+    <latitude>10.15</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Cape-de-Ville">
+    <latitude>10.15</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Carapichaima">
+    <latitude>10.4666667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Carapo">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Caratal">
+    <latitude>10.35</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Cardiff">
+    <latitude>11.2333333</latitude>
+    <longitude>-60.6333333</longitude>
+  </city>
+  <city name="Carenage">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.6</longitude>
+  </city>
+  <city name="Carmichael">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.2</longitude>
+  </city>
+  <city name="Carnbee Village">
+    <latitude>11.1666667</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Caroni">
+    <latitude>10.6</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Castara">
+    <latitude>11.2833333</latitude>
+    <longitude>-60.6833333</longitude>
+  </city>
+  <city name="Caura">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Centento">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Chaguanas">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Chaguanas Village">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Chaguaramas">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Chandernagore Settlement">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Charlotteville">
+    <latitude>11.3166667</latitude>
+    <longitude>-60.55</longitude>
+  </city>
+  <city name="Charuma">
+    <latitude>10.4</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Chase">
+    <latitude>10.4666667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Chase Village">
+    <latitude>10.4666667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Chatham">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Cheeyou">
+    <latitude>10.55</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Chickland">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Chin Chin Savanna Village">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Cinnamon Hill">
+    <latitude>11.2</latitude>
+    <longitude>-60.7166667</longitude>
+  </city>
+  <city name="Cipero-Sainte Croix">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="City of Port-of-Spain">
+    <latitude>10.65</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Claxton Bay">
+    <latitude>10.35</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Claxton Bay Village">
+    <latitude>10.35</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Cochrane">
+    <latitude>10.1833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Coco">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.5833333</longitude>
+  </city>
+  <city name="Cocorite">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.55</longitude>
+  </city>
+  <city name="Coffee">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Colconda">
+    <latitude>10.25</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Comparo">
+    <latitude>10.5333333</latitude>
+    <longitude>-61.0666667</longitude>
+  </city>
+  <city name="Concord">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Concordia">
+    <latitude>11.2</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Coolie Block">
+    <latitude>10.7333333</latitude>
+    <longitude>-61.55</longitude>
+  </city>
+  <city name="Corbeaux Town">
+    <latitude>10.65</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Coromandel Settlement">
+    <latitude>10.1</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Coryal">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Courland">
+    <latitude>11.2</latitude>
+    <longitude>-60.7666667</longitude>
+  </city>
+  <city name="Couva">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Couva Savannah Village">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Cove">
+    <latitude>11.1333333</latitude>
+    <longitude>-60.8</longitude>
+  </city>
+  <city name="Cuche">
+    <latitude>10.3666667</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Culloden">
+    <latitude>11.2333333</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Cumaca">
+    <latitude>10.7</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Cumberbatch">
+    <latitude>10.5</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Cumuto">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.2</longitude>
+  </city>
+  <city name="Cumuto Village">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.2</longitude>
+  </city>
+  <city name="Cunapo">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Cunaripa">
+    <latitude>10.55</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Cunupia">
+    <latitude>10.55</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Cunupia Village">
+    <latitude>10.55</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Curepe">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Curepe Village">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Curucaye">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Dabadie">
+    <latitude>10.6166667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Dabadie Village">
+    <latitude>10.6166667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Débé">
+    <latitude>10.2</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Débé Village">
+    <latitude>10.2</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Delaford">
+    <latitude>11.2666667</latitude>
+    <longitude>-60.5666667</longitude>
+  </city>
+  <city name="Delhi Settlement">
+    <latitude>10.1833333</latitude>
+    <longitude>-61.55</longitude>
+  </city>
+  <city name="Diamond">
+    <latitude>10.3666667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Diamond Village">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Dibe">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Diego Martin">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.5666667</longitude>
+  </city>
+  <city name="Diego Martin Village">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.5666667</longitude>
+  </city>
+  <city name="Dinsley">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Dow">
+    <latitude>10.4</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Dowe">
+    <latitude>10.4</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Dow Village">
+    <latitude>10.4</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Duncan">
+    <latitude>10.25</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Earthigg">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="East Dry River">
+    <latitude>10.65</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="Easterfield">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.6833333</longitude>
+  </city>
+  <city name="Ecclesville">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Ecclesville Village">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Eckel Village">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Eckel Ville">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="El Dorado">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="El Quemado">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="El Socorro">
+    <latitude>10.65</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Englishman's Bay">
+    <latitude>11.2833333</latitude>
+    <longitude>-60.6833333</longitude>
+  </city>
+  <city name="Enterprise">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Erin">
+    <latitude>10.0666667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Erthig">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="Esperance">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Esperance Village">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Exchange">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Exchange Village">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Fébeau">
+    <latitude>10.65</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Felicity Hall">
+    <latitude>10.45</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Fifth Company">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Filette">
+    <latitude>10.8</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Filette Village">
+    <latitude>10.8</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Fillette">
+    <latitude>10.8</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Flanagin Town">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Florida">
+    <latitude>11.25</latitude>
+    <longitude>-60.6</longitude>
+  </city>
+  <city name="Fonrose">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Fonrose Village">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Forres Park">
+    <latitude>10.3666667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Four Roads">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.2166667</longitude>
+  </city>
+  <city name="Four Roads Village">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.2166667</longitude>
+  </city>
+  <city name="Fourth Company">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Francique Village">
+    <latitude>10.0666667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Franklyns">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="Frederick Village">
+    <latitude>10.6</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Freeport">
+    <latitude>10.45</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Friendsfield">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7</longitude>
+  </city>
+  <city name="Friendship">
+    <latitude>10.3833333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Fullarton">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Fyzabad">
+    <latitude>10.1833333</latitude>
+    <longitude>-61.55</longitude>
+  </city>
+  <city name="Fyzabad Village">
+    <latitude>10.1833333</latitude>
+    <longitude>-61.55</longitude>
+  </city>
+  <city name="Gasparillo">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Gasparillo Village">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="George Village">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Glamorgan">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.6166667</longitude>
+  </city>
+  <city name="Golconda">
+    <latitude>10.25</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Golden Grove">
+    <latitude>11.1666667</latitude>
+    <longitude>-60.8166667</longitude>
+  </city>
+  <city name="Golden Lane">
+    <latitude>11.2333333</latitude>
+    <longitude>-60.7166667</longitude>
+  </city>
+  <city name="Goldsborough">
+    <latitude>11.2</latitude>
+    <longitude>-60.6166667</longitude>
+  </city>
+  <city name="Goodwood">
+    <latitude>11.2</latitude>
+    <longitude>-60.6333333</longitude>
+  </city>
+  <city name="Gordon Settlement">
+    <latitude>10.3</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Grafton">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Gran Couva">
+    <latitude>10.4</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Grande Riviere">
+    <latitude>10.8333333</latitude>
+    <longitude>-61.05</longitude>
+  </city>
+  <city name="Grande Riviere Village">
+    <latitude>10.8333333</latitude>
+    <longitude>-61.05</longitude>
+  </city>
+  <city name="Grange">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Granville">
+    <latitude>10.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Green Hill">
+    <latitude>10.7333333</latitude>
+    <longitude>-61.5666667</longitude>
+  </city>
+  <city name="Greenhill Village">
+    <latitude>10.7333333</latitude>
+    <longitude>-61.5666667</longitude>
+  </city>
+  <city name="Guaico">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Guaico Tamana">
+    <latitude>10.4833333</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Guaico Village">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Guamal">
+    <latitude>10.75</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Guanapo">
+    <latitude>10.6</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Guapo">
+    <latitude>10.1833333</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Guaracara Junction">
+    <latitude>10.3666667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Guaracara Junction Village">
+    <latitude>10.3666667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Guarata">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Guayaguayare">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.0333333</longitude>
+  </city>
+  <city name="Guayaguayare Village">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.0333333</longitude>
+  </city>
+  <city name="Gunapo">
+    <latitude>10.6</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Hardbargain">
+    <latitude>10.3</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Hart's Cut">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Hasnalli">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.2</longitude>
+  </city>
+  <city name="Hasnally">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.2</longitude>
+  </city>
+  <city name="Haswaron">
+    <latitude>10.3</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Hermitage">
+    <latitude>11.3166667</latitude>
+    <longitude>-60.5833333</longitude>
+  </city>
+  <city name="Hermitage Village">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Hillsborough">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.6666667</longitude>
+  </city>
+  <city name="Hindustan">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Homard">
+    <latitude>10.8166667</latitude>
+    <longitude>-61.0666667</longitude>
+  </city>
+  <city name="Homard Village">
+    <latitude>10.8166667</latitude>
+    <longitude>-61.0666667</longitude>
+  </city>
+  <city name="Hope">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7</longitude>
+  </city>
+  <city name="Howson">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Icacos">
+    <latitude>10.05</latitude>
+    <longitude>-61.9</longitude>
+  </city>
+  <city name="Iere">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Iere Village">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Indian Chain">
+    <latitude>10.4333333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Indian Walk">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Irois">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="James Smart">
+    <latitude>10.55</latitude>
+    <longitude>-61.0833333</longitude>
+  </city>
+  <city name="James Stewart">
+    <latitude>10.55</latitude>
+    <longitude>-61.0833333</longitude>
+  </city>
+  <city name="Jaraysingh">
+    <latitude>10.5333333</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Jerningham Junction">
+    <latitude>10.55</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Kelly Junction">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Kelly Village">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Kilgwyn">
+    <latitude>11.15</latitude>
+    <longitude>-60.8166667</longitude>
+  </city>
+  <city name="King's Bay">
+    <latitude>11.2666667</latitude>
+    <longitude>-60.55</longitude>
+  </city>
+  <city name="La Basse">
+    <latitude>10.65</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="La Brea">
+    <latitude>10.25</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="La Brea Village">
+    <latitude>10.25</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="La Carrière">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="La Carrière Village">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="La Finette">
+    <latitude>10.7333333</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="La Lune">
+    <latitude>10.0666667</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Lambeau">
+    <latitude>11.1666667</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="L'Anse Noire">
+    <latitude>10.8333333</latitude>
+    <longitude>-60.9666667</longitude>
+  </city>
+  <city name="Lapai Village">
+    <latitude>10.6</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="La Pastora">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="La Pastoria">
+    <latitude>10.7</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="La Retraite">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Las Cuevas">
+    <latitude>10.7833333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Las Lomas">
+    <latitude>10.5333333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Laventille">
+    <latitude>10.65</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="La Veronica">
+    <latitude>10.7</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Lendor">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Lengua">
+    <latitude>10.25</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Lengua Village">
+    <latitude>10.25</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Les Coteaux">
+    <latitude>11.2166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Libertville">
+    <latitude>10.3</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Loango">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Longdenville">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Lopinot">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Los Atajos">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Los Bajos">
+    <latitude>10.1</latitude>
+    <longitude>-61.5666667</longitude>
+  </city>
+  <city name="Lothian">
+    <latitude>10.25</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Lothians">
+    <latitude>10.25</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Lower Fishing Pond">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.0333333</longitude>
+  </city>
+  <city name="Lower Manzanilla">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.05</longitude>
+  </city>
+  <city name="Lower Quarter">
+    <latitude>11.2</latitude>
+    <longitude>-60.7666667</longitude>
+  </city>
+  <city name="Lower Town">
+    <latitude>11.1666667</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Lowlands">
+    <latitude>11.15</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Madras Settlement">
+    <latitude>10.55</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Mairad Village">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Malabar Settlement">
+    <latitude>10.6166667</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Mamon">
+    <latitude>10.4666667</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Mamoral">
+    <latitude>10.45</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Mamural">
+    <latitude>10.45</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Manahambre">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Manahambre Village">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Marabella">
+    <latitude>10.3</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Maracas Bay Village">
+    <latitude>10.75</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Maracas">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Maracas Village">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Maraval">
+    <latitude>10.7</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Mary's Hill">
+    <latitude>11.2</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="Mason Hall">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.7166667</longitude>
+  </city>
+  <city name="Matelot">
+    <latitude>10.8166667</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Matura">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.0666667</longitude>
+  </city>
+  <city name="Maturita">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Mayo">
+    <latitude>10.35</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Mc Bean">
+    <latitude>10.45</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Mc Bean Village">
+    <latitude>10.45</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Merchiston">
+    <latitude>11.2666667</latitude>
+    <longitude>-60.5333333</longitude>
+  </city>
+  <city name="Mesopotamia">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.6833333</longitude>
+  </city>
+  <city name="Mitan">
+    <latitude>10.45</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Monkey Town">
+    <latitude>10.2</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Monkey Town Village">
+    <latitude>10.2</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Mon Plaisir">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Mon Repos">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Monte Video">
+    <latitude>10.8166667</latitude>
+    <longitude>-61.0333333</longitude>
+  </city>
+  <city name="Montgomery">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Montrose">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Montserrat Village">
+    <latitude>10.35</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Moos">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Moque Point">
+    <latitude>10.0666667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Moriah">
+    <latitude>11.25</latitude>
+    <longitude>-60.7166667</longitude>
+  </city>
+  <city name="Moriah Village">
+    <latitude>11.25</latitude>
+    <longitude>-60.7166667</longitude>
+  </city>
+  <city name="Morichal">
+    <latitude>10.35</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Morne Cabrite">
+    <latitude>10.8</latitude>
+    <longitude>-60.9333333</longitude>
+  </city>
+  <city name="Morne Diablo">
+    <latitude>10.1</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Morne Quiton">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Moruga">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Moruga Village">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Morvant">
+    <latitude>10.65</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Mount Dillon River">
+    <latitude>11.2666667</latitude>
+    <longitude>-60.7</longitude>
+  </city>
+  <city name="Mount Grace">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="Mount Harris">
+    <latitude>10.5</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Mount Pleasant">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Mount Saint George">
+    <latitude>11.2</latitude>
+    <longitude>-60.6833333</longitude>
+  </city>
+  <city name="Mount Saint George Village">
+    <latitude>11.2</latitude>
+    <longitude>-60.6833333</longitude>
+  </city>
+  <city name="Mount Stewart">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Mount Stewart Village">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Mount Thomas">
+    <latitude>11.2333333</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Mucurapo">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Mundo Nuevo">
+    <latitude>10.4666667</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Nancoo Village">
+    <latitude>10.55</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Naranjo">
+    <latitude>10.7833333</latitude>
+    <longitude>-60.9833333</longitude>
+  </city>
+  <city name="Navet">
+    <latitude>10.35</latitude>
+    <longitude>-61.1666667</longitude>
+  </city>
+  <city name="Nestor">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="New Grant">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="New Jersey">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Noire Bay">
+    <latitude>10.8333333</latitude>
+    <longitude>-60.9666667</longitude>
+  </city>
+  <city name="North Manzanilla">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.0333333</longitude>
+  </city>
+  <city name="Nutmeg Grove">
+    <latitude>11.2333333</latitude>
+    <longitude>-60.7</longitude>
+  </city>
+  <city name="Ogis">
+    <latitude>10.55</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Orange Hill">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7666667</longitude>
+  </city>
+  <city name="Orange Valley">
+    <latitude>10.45</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Orange Valley Village">
+    <latitude>10.45</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Oropuche">
+    <latitude>10.6</latitude>
+    <longitude>-61.1</longitude>
+  </city>
+  <city name="Ortinola">
+    <latitude>10.7</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Ouplay">
+    <latitude>10.3833333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Palmyra">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Palmyra Village">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Palo Seco">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.5833333</longitude>
+  </city>
+  <city name="Palo Seco Village">
+    <latitude>10.0833333</latitude>
+    <longitude>-61.5833333</longitude>
+  </city>
+  <city name="Paradise">
+    <latitude>10.65</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Parlatuvier">
+    <latitude>11.3</latitude>
+    <longitude>-60.65</longitude>
+  </city>
+  <city name="Parrot Hall">
+    <latitude>11.3</latitude>
+    <longitude>-60.6666667</longitude>
+  </city>
+  <city name="Parry Lands">
+    <latitude>10.1833333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Patience Hill">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7666667</longitude>
+  </city>
+  <city name="Pembroke">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.6166667</longitude>
+  </city>
+  <city name="Peñal">
+    <latitude>10.1666667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Peñal Village">
+    <latitude>10.1666667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Pepper">
+    <latitude>10.4</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Pepper Village">
+    <latitude>10.4</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Peru">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Peters">
+    <latitude>10.5</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Petit Bourg">
+    <latitude>10.65</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Petit Trou">
+    <latitude>10.8333333</latitude>
+    <longitude>-60.9333333</longitude>
+  </city>
+  <city name="Petit Trou Village">
+    <latitude>10.8333333</latitude>
+    <longitude>-60.9333333</longitude>
+  </city>
+  <city name="Petit Valley">
+    <latitude>10.7</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Phoenix Park">
+    <latitude>10.3833333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Piarco">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Piarco Savanna Village">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Pierreville">
+    <latitude>10.3</latitude>
+    <longitude>-61.0166667</longitude>
+  </city>
+  <city name="Piparo">
+    <latitude>10.3333333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Piparo Settlement">
+    <latitude>10.3333333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Plaisance">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.0</longitude>
+  </city>
+  <city name="Platanal">
+    <latitude>10.7333333</latitude>
+    <longitude>-61.15</longitude>
+  </city>
+  <city name="Pluck">
+    <latitude>10.1666667</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="Plum Mitan">
+    <latitude>10.45</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Plum Mitan Settlement">
+    <latitude>10.45</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Plum">
+    <latitude>10.5</latitude>
+    <longitude>-61.0666667</longitude>
+  </city>
+  <city name="Plymouth">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Pointe-à-Pierre">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Point Fortin">
+    <latitude>10.1833333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Point Ligoure">
+    <latitude>10.1666667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Poole">
+    <latitude>10.3</latitude>
+    <longitude>-61.2333333</longitude>
+  </city>
+  <city name="Port-au-Spain">
+    <latitude>10.65</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Port Louis">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Port-of-Spain">
+    <latitude>10.65</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Preau">
+    <latitude>10.2</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Preau Village">
+    <latitude>10.2</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Preysal">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Princess Town">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Princes Town">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Prospect">
+    <latitude>11.1666667</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Providence">
+    <latitude>11.2</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Quarry Village">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Rambert">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Rambert Village">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Rampanagas Village">
+    <latitude>10.7333333</latitude>
+    <longitude>-60.9833333</longitude>
+  </city>
+  <city name="Rampanalgas">
+    <latitude>10.7333333</latitude>
+    <longitude>-60.9833333</longitude>
+  </city>
+  <city name="Ravin Anglais">
+    <latitude>10.7833333</latitude>
+    <longitude>-60.95</longitude>
+  </city>
+  <city name="Redhead">
+    <latitude>10.7833333</latitude>
+    <longitude>-60.95</longitude>
+  </city>
+  <city name="Redhead Village">
+    <latitude>10.7833333</latitude>
+    <longitude>-60.95</longitude>
+  </city>
+  <city name="Red Hill">
+    <latitude>10.6166667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Reform">
+    <latitude>10.3</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Riche Plaine">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.5666667</longitude>
+  </city>
+  <city name="Richmond">
+    <latitude>11.2166667</latitude>
+    <longitude>-60.6166667</longitude>
+  </city>
+  <city name="Rio Claro">
+    <latitude>10.3</latitude>
+    <longitude>-61.1833333</longitude>
+  </city>
+  <city name="Riseland">
+    <latitude>11.1666667</latitude>
+    <longitude>-60.7833333</longitude>
+  </city>
+  <city name="Riversdale">
+    <latitude>11.2833333</latitude>
+    <longitude>-60.6833333</longitude>
+  </city>
+  <city name="Robert">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Rocky Vale">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Roselle">
+    <latitude>11.2</latitude>
+    <longitude>-60.7666667</longitude>
+  </city>
+  <city name="Roussillac">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.5833333</longitude>
+  </city>
+  <city name="Roussillac Settlement">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.5833333</longitude>
+  </city>
+  <city name="Roxborough">
+    <latitude>11.25</latitude>
+    <longitude>-60.5833333</longitude>
+  </city>
+  <city name="Roxborough Village">
+    <latitude>11.25</latitude>
+    <longitude>-60.5833333</longitude>
+  </city>
+  <city name="Runnemede">
+    <latitude>11.25</latitude>
+    <longitude>-60.7</longitude>
+  </city>
+  <city name="Runnymede">
+    <latitude>11.25</latitude>
+    <longitude>-60.7</longitude>
+  </city>
+  <city name="Rushville">
+    <latitude>10.1166667</latitude>
+    <longitude>-61.05</longitude>
+  </city>
+  <city name="Sadhoowa">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Sagre Chiquita">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.1</longitude>
+  </city>
+  <city name="Saint Andrew">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Saint Ann's">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Saint Augustine">
+    <latitude>10.65</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Saint Clair">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Saint Croix">
+    <latitude>10.25</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Sainte Croix">
+    <latitude>10.25</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Sainte Croix Village">
+    <latitude>10.25</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Saint Elizabeth">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="Sainte Madeleine">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Sainte Madeleine Village">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Saint Helena">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Saint James">
+    <latitude>10.6666667</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Saint John">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Saint John Village">
+    <latitude>10.2333333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Saint Joseph">
+    <latitude>10.3166667</latitude>
+    <longitude>-60.9833333</longitude>
+  </city>
+  <city name="Saint Joseph Village">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Saint Julien">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Saint Julien Village">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Saint Madeleine">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Saint Madeleine Village">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Saint Margaret">
+    <latitude>10.25</latitude>
+    <longitude>-61.0</longitude>
+  </city>
+  <city name="Saint Margaret Village">
+    <latitude>10.3333333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Saint Marys">
+    <latitude>10.45</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Saint Mary's">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Saint Mary's Village">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Saint Pierre">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.6</longitude>
+  </city>
+  <city name="Saint Pierre Village">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.6</longitude>
+  </city>
+  <city name="Saint Thomas">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Saint Thomas Village">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Salibea">
+    <latitude>10.7</latitude>
+    <longitude>-61.0333333</longitude>
+  </city>
+  <city name="Salibia Village">
+    <latitude>10.7</latitude>
+    <longitude>-61.0333333</longitude>
+  </city>
+  <city name="Salybia">
+    <latitude>10.7</latitude>
+    <longitude>-61.0333333</longitude>
+  </city>
+  <city name="San Fernando">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="San Francique">
+    <latitude>10.0666667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="San Francisco Settlement">
+    <latitude>10.4333333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Sangre Chiquita">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.1</longitude>
+  </city>
+  <city name="Sangre Grande Oropuche">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.0666667</longitude>
+  </city>
+  <city name="Sangre Grande">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.1333333</longitude>
+  </city>
+  <city name="Sangre Grande Station">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Sangre Grande Town">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="Sangre Grand">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.1166667</longitude>
+  </city>
+  <city name="San Juan">
+    <latitude>10.65</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="San Rafael">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="San Rafael Village">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Sans Souci">
+    <latitude>10.8333333</latitude>
+    <longitude>-61.0</longitude>
+  </city>
+  <city name="Santa Cruz">
+    <latitude>10.7166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Scarborough">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.7333333</longitude>
+  </city>
+  <city name="Shirvan">
+    <latitude>11.15</latitude>
+    <longitude>-60.8</longitude>
+  </city>
+  <city name="Shore Park">
+    <latitude>11.25</latitude>
+    <longitude>-60.5333333</longitude>
+  </city>
+  <city name="Sierra Leone">
+    <latitude>10.7</latitude>
+    <longitude>-61.55</longitude>
+  </city>
+  <city name="Siparia">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="Siparia Village">
+    <latitude>10.1333333</latitude>
+    <longitude>-61.5</longitude>
+  </city>
+  <city name="Sixth Company">
+    <latitude>10.25</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Sixth Company Village">
+    <latitude>10.25</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="South Oropouche">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.55</longitude>
+  </city>
+  <city name="Speyside">
+    <latitude>11.3</latitude>
+    <longitude>-60.5333333</longitude>
+  </city>
+  <city name="Speyside Village">
+    <latitude>11.3</latitude>
+    <longitude>-60.5333333</longitude>
+  </city>
+  <city name="Spring">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Spring Vale">
+    <latitude>10.3833333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Spring Village">
+    <latitude>10.4166667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Starwood">
+    <latitude>11.3166667</latitude>
+    <longitude>-60.5333333</longitude>
+  </city>
+  <city name="Studley Park">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.6666667</longitude>
+  </city>
+  <city name="Success">
+    <latitude>10.65</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Sum Sum Hill">
+    <latitude>10.3666667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Tabaquite">
+    <latitude>10.3833333</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Tabaquite Village">
+    <latitude>10.3833333</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Tableland">
+    <latitude>10.2666667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Tacarigua">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Talparo">
+    <latitude>10.5</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="The Mission">
+    <latitude>10.8333333</latitude>
+    <longitude>-60.95</longitude>
+  </city>
+  <city name="The Whim">
+    <latitude>11.2</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="Thick">
+    <latitude>10.1666667</latitude>
+    <longitude>-61.5166667</longitude>
+  </city>
+  <city name="Third Company">
+    <latitude>10.25</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Toco">
+    <latitude>10.8333333</latitude>
+    <longitude>-60.95</longitude>
+  </city>
+  <city name="Todds Road">
+    <latitude>10.4666667</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Tortuga">
+    <latitude>10.3666667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Town of Arima">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Trois Rivieres">
+    <latitude>11.2833333</latitude>
+    <longitude>-60.5333333</longitude>
+  </city>
+  <city name="Tulls">
+    <latitude>10.6166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Tunapuna">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Tunapuna Village">
+    <latitude>10.6333333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Tyson Hall">
+    <latitude>11.15</latitude>
+    <longitude>-60.8166667</longitude>
+  </city>
+  <city name="Union">
+    <latitude>11.1833333</latitude>
+    <longitude>-60.75</longitude>
+  </city>
+  <city name="Union Village">
+    <latitude>10.35</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Unis">
+    <latitude>10.3166667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Upper Carapichima">
+    <latitude>10.4333333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Upper Fishing Pond">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.05</longitude>
+  </city>
+  <city name="Upper Manzanilla">
+    <latitude>10.5166667</latitude>
+    <longitude>-61.0666667</longitude>
+  </city>
+  <city name="Usine">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Valencia">
+    <latitude>10.65</latitude>
+    <longitude>-61.2</longitude>
+  </city>
+  <city name="Valencia Village">
+    <latitude>10.65</latitude>
+    <longitude>-61.2</longitude>
+  </city>
+  <city name="Valsayn">
+    <latitude>10.65</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Vance River">
+    <latitude>10.2</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Verdant Vale">
+    <latitude>10.6833333</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Veronica Village">
+    <latitude>10.7</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Vessigny">
+    <latitude>10.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Victoria">
+    <latitude>10.25</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Victoria Village">
+    <latitude>10.25</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Vistabella Village">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Vista Bella">
+    <latitude>10.2833333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Warners Village">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Warners">
+    <latitude>10.5666667</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Warren">
+    <latitude>10.5833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Waterloo">
+    <latitude>10.4666667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Williamsville Station">
+    <latitude>10.3</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Williamsville">
+    <latitude>10.3</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Windsor">
+    <latitude>11.2</latitude>
+    <longitude>-60.65</longitude>
+  </city>
+  <city name="Woodbrook">
+    <latitude>10.65</latitude>
+    <longitude>-61.5333333</longitude>
+  </city>
+  <city name="Woodlands Village">
+    <latitude>10.25</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Woodlands">
+    <latitude>11.25</latitude>
+    <longitude>-60.7166667</longitude>
+  </city>
+  <city name="Woodland">
+    <latitude>10.2</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Zion Hill">
+    <latitude>11.2333333</latitude>
+    <longitude>-60.6166667</longitude>
+  </city>
+</country>

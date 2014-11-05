@@ -1,0 +1,5047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="hk" name="Hong Kong">
+  <city name="Aberdeen">
+    <latitude>22.25</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="A Kung Ngam">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="A Kung Tin">
+    <latitude>22.45</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="A Kung Wan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="A Ma Wat">
+    <latitude>22.5166667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="A Po Long">
+    <latitude>22.2833333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="A Shan">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="A Shan San Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="A Shan Shan Tsiu Lam">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="A Shan Tseng Tau">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="A Shan Tsiu Lam">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Au Ha">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Au Pui Tong">
+    <latitude>22.55</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Au Pui Wan">
+    <latitude>22.4</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Au Tau">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Caroline Hill">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Castle Peak New Town">
+    <latitude>22.4</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Causeway Bay">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Central District">
+    <latitude>22.2833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Chai Kek">
+    <latitude>22.45</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Chai Kek Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Chai Wan">
+    <latitude>22.2666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Chai Wan Kok">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Chai Wan Resettlement Area">
+    <latitude>22.2666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Cha Kwo Ling">
+    <latitude>22.3</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ch'ang-sha">
+    <latitude>22.2333333</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Chan ji">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Chan Uk Po">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Chap Mun Tau">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Chap Wai Kon">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Chau Tau">
+    <latitude>22.5166667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Che Ha">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Chek Chue">
+    <latitude>22.2166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Che Keng Tuk">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Chek Keng">
+    <latitude>22.4166667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Chek Kok Tau">
+    <latitude>22.55</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Chek Nai Ping">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Che Kung Miu">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Cheung Chau">
+    <latitude>22.2166667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Cheung Kang">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Cheung Kong">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Cheung Kwan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Cheung Kwan O">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Cheung Lek">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Cheung Lek Mei">
+    <latitude>22.4166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Cheung Muk Tau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Cheung Pei Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Cheung Po">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Cheung Sha">
+    <latitude>22.2333333</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Cheung Sha Lan">
+    <latitude>22.3</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Cheung Sha Wan">
+    <latitude>22.2333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Cheung Shek Pai">
+    <latitude>22.1666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Cheung Sheung">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Cheung Shue Tan">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Cheung Shue Tau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Cheung Shui Tan">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Cheung Sok">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Cheung Ting">
+    <latitude>22.25</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Cheung Uk">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Cheung Uk Wai">
+    <latitude>22.4166667</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Cheung Wo">
+    <latitude>22.5</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Chik Chu">
+    <latitude>22.2166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Chik Kang">
+    <latitude>22.4166667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Chikking">
+    <latitude>22.4166667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Chiktsui">
+    <latitude>22.2166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Chi Ma Hang">
+    <latitude>22.2</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Chin Lan Chun">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Chiu-lung">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Chiu-lung-ku-ch'eng">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Choi Hung">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Choong Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Ch'üan-wan">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Chuen Lung">
+    <latitude>22.4</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Chuk Hang">
+    <latitude>22.45</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Chuk Kok">
+    <latitude>22.35</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Chuk Un">
+    <latitude>22.35</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Chuk Yuen">
+    <latitude>22.35</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Chun Fa Lok">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Chung Hau">
+    <latitude>22.2333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Chung Ji">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Chung Kwai Chung">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Chung Mei">
+    <latitude>22.5</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Chung Mei Kok">
+    <latitude>22.4666667</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Chung Mei Kok Sheung Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Chung Pui">
+    <latitude>22.4833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Chung Sam Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Chung Uk">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Chung Uk Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Chung Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Chung Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Dills Corner">
+    <latitude>22.5</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Epworth Village">
+    <latitude>22.2666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Fan Kwai Tong">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Fan Leng Ching Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fan Leng">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fan Leng Lau">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fan Leng Nam Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fan Leng Pak Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fan Leng Tai Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fanling">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fan Shui Au">
+    <latitude>22.5166667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Fan Tin Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Fa Peng">
+    <latitude>22.2</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Fa Sam Hang">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Fat Tong Mun">
+    <latitude>22.2666667</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Fa Yuen">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Fen-ling">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fong Ma Po">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fong Pin Sho">
+    <latitude>22.2</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Fong Yuen">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Fo Tan">
+    <latitude>22.4</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Fui Sha Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Fui Yiu">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Fui Yiu Ha">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Fuk Hing Lei">
+    <latitude>22.4666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Fuk Hing Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Fuk Lok Tsuen">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Fuk Lo Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Fuk Tak Kung">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Fung Chi Heung">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Fung Hang">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Fung Kat Heung">
+    <latitude>22.45</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Fung Ka Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Fung Kong Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Fung Shue Wo">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Fung Wong Village">
+    <latitude>22.35</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Fung Wong Wu">
+    <latitude>22.5333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Fung Yuen">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Fung Yuen Lo Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Fu Tau Pun Chau">
+    <latitude>22.3333333</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Fu Tau Wat">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Fu Tei">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Fu Tei Kok">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Fu Tei Pai">
+    <latitude>22.5</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Fu Tei Wan">
+    <latitude>22.3</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Fu Yung Pit">
+    <latitude>22.3833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Fu Yung Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Ha Che">
+    <latitude>22.45</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ha Chuk Yuen">
+    <latitude>22.4833333</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Ha Chung Mei">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Ha Fa Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ha Hang">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ha Heung Yuen">
+    <latitude>22.55</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ha Hung">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ha Keng">
+    <latitude>22.2166667</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Ha Keng Hau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ha Ko Tan">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Ha Kwai Chung">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Ha Ling Pei">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Ha Loi Tung">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ha Mei San Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Ham Hang Mei">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ha Miu Tin">
+    <latitude>22.5</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Ham Tin">
+    <latitude>22.2333333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Hang Ha Po">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Hang Hau">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Hang Hau Town">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Hang Hau Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Hang Mei">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Hang Mei Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Hang Pui">
+    <latitude>22.2333333</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Hang Tau">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Hang Tau Tai Po">
+    <latitude>22.5</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Han Hui">
+    <latitude>22.4</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Happy Valley">
+    <latitude>22.2666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ha San Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Ha Shan Kai Wat">
+    <latitude>22.5166667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Ha Tam Shui Hang">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ha Tei Ha">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ha Tsat Muk Kiu">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ha Tsuen">
+    <latitude>22.1666667</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Ha Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Ha Wan Tsuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Ha Wo Che">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ha Wo Hang">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ha Wong Yi Au">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ha Wun Yiu">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ha Yau Tin">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Ha Yeung">
+    <latitude>22.3</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Ha Yuen Leng">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Hei Tsz Wan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Heung Chung">
+    <latitude>22.35</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Heung Fan Liu">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Heung Kong Tsai">
+    <latitude>22.25</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Heung Yuen Wai">
+    <latitude>22.55</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Hing Lung Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Hing Wah Tsuen">
+    <latitude>22.2666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Hin Tin">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ho Chung">
+    <latitude>22.35</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Hoi Ha">
+    <latitude>22.4666667</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Hoi Pa">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Hoi Pong Kai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Hoi Pui Leng">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Hok Tau">
+    <latitude>22.5</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Hok Tau Pai">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Hok Tau Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Hok Tsui Wan">
+    <latitude>22.2166667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Ho Lek Pui">
+    <latitude>22.4166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Holy Cross Path Village">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ho Man Tin">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Hong Kong">
+    <latitude>22.2833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Hong Lok Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Hong Mei Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Ho Pui">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Ho Sheung Heung">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Ho Tin">
+    <latitude>22.4</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Ho Tung Lau">
+    <latitude>22.4</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Hung Fa Ngan">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Hung Hom">
+    <latitude>22.3</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Hung-k'an">
+    <latitude>22.3</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Hung Leng">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Hung Shing Ye">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Hung Shui">
+    <latitude>22.2833333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Hung Tin">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Hung Tso Tin">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Hung Uk Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="I O Tsuen">
+    <latitude>22.2333333</latitude>
+    <longitude>113.85</longitude>
+  </city>
+  <city name="I Pak">
+    <latitude>22.3</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Jardines Lookout">
+    <latitude>22.2666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Jordan Valley">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kai Ham">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Kai Kuk Shue Ha">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kai Leng">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Kai Yi Wan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Kak Hang Tun">
+    <latitude>22.4</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kak Tin">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ka Loon Tsuen">
+    <latitude>22.3580556</latitude>
+    <longitude>114.0338889</longitude>
+  </city>
+  <city name="Kam Cheuk Pai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kam Chuk Pai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kam Hing Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Kam Shan">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Kam Tin Hui">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Kamtinhu">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Kam Tin San Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Kam Tin Shi">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Kam Tsin">
+    <latitude>22.5</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Kam Tsin Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Kam Tsta Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Kan Tau Tsuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Kan Tau Wai">
+    <latitude>22.5333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Kaosai">
+    <latitude>22.35</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Kap Pin Long">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kat Hing Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Kat O">
+    <latitude>22.55</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Kat O Sheung Wai">
+    <latitude>22.55</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Kau Lau Wan">
+    <latitude>22.4666667</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Kau Liu Ha">
+    <latitude>22.4666667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Kau Lung Hang">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Kau Lung Hang Lo Wai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Kau Lung Hang San Wai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Kau Lung Sheng">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kau Lung Tong">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kau Man">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kau Pa Kang">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Kau Sai">
+    <latitude>22.35</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Kau San Tei">
+    <latitude>22.2666667</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Kau Shat Wan">
+    <latitude>22.2666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Kau Shi Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kau Tam Tso">
+    <latitude>22.5</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Kau To">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Kau Tsin Uk">
+    <latitude>22.35</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Kau Wa Kang">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Kau Wa Keng">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Kau Wa Keng San Tsuen">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Kei Ling Ha">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kei Ling Ha Lo Wai">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kei Ling Ha Lo Wei">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kei Ling Ha San Wai">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kei Ling Ha San Wei">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kei Lun Wai">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Kei Pik Shan">
+    <latitude>22.3666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Keng Hau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Keng Pang Ha">
+    <latitude>22.4</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kennedy Town">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Keung Shan">
+    <latitude>22.25</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Kik Yeung Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Ki Ling Ha">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Kings Park">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Kiu Sai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Kiu Tau">
+    <latitude>22.4833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Kiu Tau Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Kiu Tsui">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Ko Long">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Kong Ha">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kong Pui Tsuen">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kong Tau San Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Kong Tau Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Kon Hang">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Kon Tong">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ko Po">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ko Po Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Kop Tong">
+    <latitude>22.5166667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Ko Tin Hom">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Ko Tong Ha Yeung">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Ko Tong">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Kowloon City">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kowloon">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kowloon Tong">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="K'uai-huo Ku">
+    <latitude>22.2666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kuan T'ang">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kuk Liu">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Kuk Po">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Kung Man Tsuen">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Kung Miu">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kung Tong">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kun Tong">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kwai Chung">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Kwai Po Lau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Kwai Tau Leng">
+    <latitude>22.5</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kwai Tau Ling">
+    <latitude>22.5</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kwan Tei">
+    <latitude>22.5166667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Kwo Lo Wan">
+    <latitude>22.3</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Kwun Hang">
+    <latitude>22.4333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Kwun Tong">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kwun Yam Keng">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Kwun Yam Shan">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Kwu Tung">
+    <latitude>22.5</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Lai Chee Chong">
+    <latitude>22.45</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Lai Chi Chong">
+    <latitude>22.45</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Lai Chi Kok">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Lai Chi Shan">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Lai Chi Wo">
+    <latitude>22.5333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Lai Chi Yuen">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Lai Pek Shan">
+    <latitude>22.4833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Lai Tau Shek">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Lak Ma Chau">
+    <latitude>22.5166667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Lam Che">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Lam Hau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Lam Tei">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Lam Tin">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Lam Tsuen San Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Lam Uk Wai">
+    <latitude>22.4166667</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Lan Nai Wan">
+    <latitude>22.25</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Lan-nai-wan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Lan Nai Wan Lei Uk">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Lan Nai Wan Man Uk">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Lan Nai Wan Tsau Uk">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Lap Wo Tsuen">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Lau Fau Sha">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Lau Hang">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Lau Nai Wan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Lau Shui Heung">
+    <latitude>22.5</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Lawkong">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Leighton Hill">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Lei Uk">
+    <latitude>22.5333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Lei Uk Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Lei U Mun">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Lei Yue Mun">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Lek Mei">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Leng Pei Tsuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Leng Tsai">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Leung Fai Tin">
+    <latitude>22.3</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Leung Shuen Wan">
+    <latitude>22.35</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Leung Shui Tseng">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Leung Tin Tsuen">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Leung Uk">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Lin Au">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Lin Fa Tei">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ling Nam San Tsuen">
+    <latitude>22.3</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Lin Ma Hang">
+    <latitude>22.55</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Lin Tong Mei">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Lin Tong Mei Tsoi Yuen">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Liu Pok">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Liu To">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Lo Fu Ngam">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Loi Tung">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Loi Tung Tsuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Lok Kang Po">
+    <latitude>22.2666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Lok Lo Ha">
+    <latitude>22.4</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Lok Ma Chau">
+    <latitude>22.5166667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Lok Wo Sha">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Lo Lau Uk">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Long Kau Tang">
+    <latitude>22.4</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Long Ke">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Long Keng">
+    <latitude>22.4</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Long Mei">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Lo Shue Ling">
+    <latitude>22.5333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Lo Shue Tin">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Lo So Shing">
+    <latitude>22.2</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Lo Tik Wan">
+    <latitude>22.2333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Lo Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Lo Tsz Tin">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Lo Uk">
+    <latitude>22.2666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Lo Uk Tsuen">
+    <latitude>22.25</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Lo Wai">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Lower Keung Shan">
+    <latitude>22.25</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Lo Wu">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Lu-ching">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Luen Wo Market">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Luen Wo San Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Luk Chau">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Luk Keng Chan Uk">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Luk Keng">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Luk Keng Wong Uk">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Luk Tei Tong">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Luk Wu">
+    <latitude>22.25</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Lung A Pai">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Lung Ching Tau">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Lung Mei">
+    <latitude>22.2333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Lung Mei Tau">
+    <latitude>22.4166667</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Lung Tin Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Lung Ti Tong">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Lung Tsai">
+    <latitude>22.3833333</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Lung Tseng Tau">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Lung Wo Tsuen">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Lung Yeuk Tau">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Lye Mun">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Mai Po Lo Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Mai Po San Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Mak Uk">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ma Kwu Lam">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Ma Lau Tong">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ma Liu Shui">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ma Mei Ha Leng Tsui">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ma Mei Ha">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ma Nam Wat">
+    <latitude>22.35</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Man Cheung Po">
+    <latitude>22.2333333</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Mang Kung Uk">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Mang Tong">
+    <latitude>22.2666667</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Man Hang">
+    <latitude>22.4</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ma Niu">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ma Niu Shui">
+    <latitude>22.5</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Man Kam To">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Man Kok">
+    <latitude>22.2666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Man Uk Pin">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Man Wo">
+    <latitude>22.35</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ma On Kong">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Ma On Shan">
+    <latitude>22.4</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ma On Shan Tsuen">
+    <latitude>22.4</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ma Po Mei">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Ma Shan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ma Shi Po">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Ma Tau Kok">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ma Tau Wai">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ma Tin Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Ma Tseuk Leng">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ma Tseuk Leng San Uk Ha">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ma Tso Lung">
+    <latitude>22.5333333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ma Tso Lung San Tsuen">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Mau Ping Lo Uk">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Mau Ping">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Mau Ping San Uk">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Mau Po">
+    <latitude>22.3</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Mau Tat">
+    <latitude>22.2</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Mau Tat Wan">
+    <latitude>22.2166667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Mau Tin">
+    <latitude>22.35</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Mau Tso Ngam">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Mau Wu Tsai">
+    <latitude>22.3166667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Ma Wan Chung">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Ma Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Ma Wan Tsuen">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ma Wat">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Ma Wat Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Ma Wat Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Ma Wo">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Ma Yau Tong">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ma Yin Tung Pai Chong">
+    <latitude>22.2</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Ma Yiu">
+    <latitude>22.45</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Mid Levels">
+    <latitude>22.2833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Min Fong">
+    <latitude>22.4</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Mok Ka">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Mok Tse Che">
+    <latitude>22.35</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Mong Kok">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Mong Tseng Tsuen">
+    <latitude>22.4833333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Mong Tseng Wai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Mong Tung Hang">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Mong Tung Wan">
+    <latitude>22.2166667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Mor Li Shan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Morrison Hill">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Mo Tat">
+    <latitude>22.2</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Mo Tat Wan">
+    <latitude>22.2166667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Mo To Tang">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Mount Davis">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Mui Shue Hang">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Mui Shui Hang">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Mui Tsz Lam">
+    <latitude>22.4</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Mui Wo Kau Tsuen">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Mui Wo">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Muk Kiu Tau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Muk Min Ha">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Muk Min Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Muk Min Tau">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Muk Wu Chuen Yiu">
+    <latitude>22.55</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Muk Wu">
+    <latitude>22.55</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Nai Chung">
+    <latitude>22.4333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Nai Tong Kok">
+    <latitude>22.5</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Nai Wai">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Nam A">
+    <latitude>22.4</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Nam Chung Cheng Uk">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Nam Chung Cheung Uk">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Nam Chung Lam Uk">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Nam Chung Lei Uk">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Nam Chung Lo Uk">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Nam Chung">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Nam Chung Yeung Uk">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Nam Fung Chau">
+    <latitude>22.35</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Nam Fung Wan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Nam Hang">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Nam Long">
+    <latitude>22.4</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Nam On Fong">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Nam Pin Wai">
+    <latitude>22.35</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Nam Shan Mei">
+    <latitude>22.4833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Nam Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Nam Shan Tung">
+    <latitude>22.45</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Nam Sha Po">
+    <latitude>22.4833333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Nam She">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Nam Wai">
+    <latitude>22.35</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Nam Wan">
+    <latitude>22.35</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Nam Wa Po">
+    <latitude>22.4833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="New Kowloon">
+    <latitude>22.3333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="New Tung Chung Hang">
+    <latitude>22.2833333</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Ngan Hang">
+    <latitude>22.2333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Nga Tsin Wai">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ngau Au">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Ngau Chi Wan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ngau Hom">
+    <latitude>22.4666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Ngau Hom Sha">
+    <latitude>22.45</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Ngau Hom Shek">
+    <latitude>22.45</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Ngau Keng">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ngau Kok Wan">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ngau Kwo Tin">
+    <latitude>22.2333333</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Ngau Kwu Long">
+    <latitude>22.3</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Ngau Kwu Wan">
+    <latitude>22.25</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Ngau Liu Ha">
+    <latitude>22.45</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ngau Liu">
+    <latitude>22.35</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ngau Pei Sha">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ngau Pui Wo">
+    <latitude>22.35</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Ngau Shi Wu">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Ngau Tam Mei">
+    <latitude>22.4833333</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Ngau Tau Kok">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Ngau Wu Tok">
+    <latitude>22.4</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Nga Yiu Ha">
+    <latitude>22.55</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Nga Yiu Tau">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Ng Ka Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Ngo Ki">
+    <latitude>22.3</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Ngong Ping">
+    <latitude>22.25</latitude>
+    <longitude>113.9</longitude>
+  </city>
+  <city name="Ngong Shuen Au">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Ngong Wo">
+    <latitude>22.4</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Ng Tung Chai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Ng Uk Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Nim Au">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Nim Shue Wan">
+    <latitude>22.3</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Nim Shue Wan Tsuen">
+    <latitude>22.3</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Nim Wan">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Nim Yuen">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Niu-tzu-wan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="North Point Estate">
+    <latitude>22.3</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="North Point">
+    <latitude>22.3</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Old Tung Chung Hang">
+    <latitude>22.2833333</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="On Lok Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="On Lung Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="O Pui Lung">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="O Tau">
+    <latitude>22.4</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Pai Chong">
+    <latitude>22.2166667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Pai Mun">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Pai Tau Hang">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Pai Tau">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Pak A">
+    <latitude>22.35</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Pak Hok Chau">
+    <latitude>22.4833333</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Pak Kiu">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Pak Kok Kau Tsuen">
+    <latitude>22.2333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Pak Kok">
+    <latitude>22.3</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Pak Kok San Tsuen">
+    <latitude>22.2333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Pak Kok Tsuen">
+    <latitude>22.2333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Pak Kong Au">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Pak Kong">
+    <latitude>22.3833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Pak Kong Tsun">
+    <latitude>22.3833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Pak Kung Au">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Pak Lap">
+    <latitude>22.35</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Pak Long">
+    <latitude>22.4</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Pak Mong">
+    <latitude>22.3</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Pak Nai">
+    <latitude>22.45</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Pak Ngan Heung">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Pak Ngau Heung">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Pak Ngau Shek">
+    <latitude>22.45</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Pak Sha Au">
+    <latitude>22.45</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Pak Sha O Ha Yeung">
+    <latitude>22.45</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Pak Sha O">
+    <latitude>22.45</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Pak Sha Tau">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Pak Sha Tsai">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Pak Sha Tsuen">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Pak Sha Wo Liu">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Pak Shek Au">
+    <latitude>22.5</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Pak Shek Kiu">
+    <latitude>22.4</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Pak Shek">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Pak Shek Wo">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Pak Shin Kok">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Pak Tam Au">
+    <latitude>22.4166667</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Pak Tam Chung">
+    <latitude>22.4</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Pak Tam">
+    <latitude>22.4166667</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Pak Tin">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Pak Tin Pa">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Pak Tin Pa San Tsuen">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Pak Waii">
+    <latitude>22.3666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Pak Wai">
+    <latitude>22.3666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Pak Wan">
+    <latitude>22.35</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Pa-lo-wang">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9</longitude>
+  </city>
+  <city name="Pa Mei San Tsuen">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Pan Chung">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Pan Chung San Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Pang Ka Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Pan Long Wan">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Pa Tau Kwu">
+    <latitude>22.3166667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Pat Tsz Wo">
+    <latitude>22.4</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Peang">
+    <latitude>22.2833333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Pei-lang">
+    <latitude>22.4</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Peng Chau">
+    <latitude>22.2833333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Pik Uk">
+    <latitude>22.35</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Ping Chau">
+    <latitude>22.2833333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Ping Che">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ping Kong">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Ping Long">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Ping Long Wan">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Ping Shan Chai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="P'ing-shan-hsü">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Ping Shan">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Ping Shan Tsai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ping Shek">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ping Tun">
+    <latitude>22.4166667</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Ping Yeung">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Po Chue Tam">
+    <latitude>22.2666667</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Po Kat Tsai">
+    <latitude>22.5</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Pok Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Po Lo Shan">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Po Min">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Port Stanley">
+    <latitude>22.2166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Po Sam Pai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Po Toi O">
+    <latitude>22.2833333</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Po Tong Ha">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Pui O Kau Tsuen">
+    <latitude>22.25</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Pui O">
+    <latitude>22.25</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Pui O San Tsuen">
+    <latitude>22.25</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Pun Chun Yuen">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Pun Shan Chau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Pun Shan Tsuen">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Pun Uk Tsuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Quarry Bay">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Rennie's Mill Camp">
+    <latitude>22.3</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Rennie's Mill">
+    <latitude>22.3</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Rennie's Mill Village">
+    <latitude>22.3</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Repulse Bay">
+    <latitude>22.2333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Sai Chuk Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Sai Kang">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sai Keng">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sai King">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Saiki">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sai Kung">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sai Kung Tuk">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sai Lau Kok">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Sai O">
+    <latitude>22.4333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Sai Pin Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Sai">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sai Shan">
+    <latitude>22.35</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Sai Shan Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sai Tau Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Sai Tso Wan">
+    <latitude>22.2666667</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Sai Tsuen">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sai Wan Estate">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Sai Wan Ho">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sai Wan">
+    <latitude>22.4</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Sai Ying Poon">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Sai Ying Pun">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Sam A Chung">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sam A Tsuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sam Cheung">
+    <latitude>22.3666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Sam Chuen">
+    <latitude>22.35</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Sam Chung">
+    <latitude>22.45</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Sam Fai Tin">
+    <latitude>22.3666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Sam Ka Tsuen">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Sam Long Tsuen">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Sam Mun Tsai">
+    <latitude>22.45</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Sam Pak">
+    <latitude>22.3166667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Sam Shing Hiu">
+    <latitude>22.3833333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sam Shing Hui">
+    <latitude>22.3833333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sam shui po">
+    <latitude>22.3333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Sam Tsuen">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Sam Tung Uk">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="San Hei Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="San Hing Tsuen">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="San Hui">
+    <latitude>22.4</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="San Keng">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="San Kwai Tin">
+    <latitude>22.55</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="San Lei Uk Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="San Lung Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="San Lung Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="San Po Kong">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="San Shek Wan">
+    <latitude>22.2333333</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="San Tau Kok">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="San Tau">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="San Tau Yiu">
+    <latitude>22.5</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="San Tin Hang">
+    <latitude>22.4</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="San Tin">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="San Tin San Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="San Tin Wai">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="San Tong Po">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="San Tong">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="San Tsuen">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="San Tsun">
+    <latitude>22.25</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="San Uk Ha">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="San Uk Ling">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="San Uk">
+    <latitude>22.4</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="San Uk Tsai">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="San Uk Tsuen">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="San Wai">
+    <latitude>22.45</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="San Wai Tsai">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Sau Ke Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sau Ki Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sau Mau Ping">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Sei Ying Poon">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Sek Kong">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Sek Kong Wai">
+    <latitude>22.45</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sha Ha">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sha Kok Mei">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sha Kok Mi">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Sha Kong Miu">
+    <latitude>22.4666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sha Kong Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sha Kong Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sha Kong Wai Tsai">
+    <latitude>22.4666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sha Lan">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Sha Ling">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Sha Lo Tung Lo Wai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Sha Lo Tung">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Sha Lo Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9</longitude>
+  </city>
+  <city name="Sham Chung">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Sham Shui Po">
+    <latitude>22.3333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Sham Tseng">
+    <latitude>22.3666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Sham Wan Tsuen">
+    <latitude>22.3166667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Sham Wat">
+    <latitude>22.2666667</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Shan Ha">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Shan Ha Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Shan Ha Wai">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Shan Kai Wat">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Shan Liu">
+    <latitude>22.1666667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Shan Mei">
+    <latitude>22.4</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Shan Pui">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Shan Shin Po">
+    <latitude>22.3333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Shan Tau Kok">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Shan Ting Tsuen">
+    <latitude>22.2833333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Shan Tseng">
+    <latitude>22.3666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Shan Tsui">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sha Pa">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Shap Long Kau Tsuen">
+    <latitude>22.2333333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Shap Long San Tsuen">
+    <latitude>22.25</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sha Po Kong">
+    <latitude>22.3833333</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Sha Po Ng Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Sha Po">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Sha Tau Kok">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sha Tau Kok Tan Ka">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sha Tau">
+    <latitude>22.4166667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Sha Tin New Town">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Sha Tin">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Sha Tin Tau">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Sha Tin Wai">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Sha-t'ou-chiao">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Shatoujiao">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sha Tsiu">
+    <latitude>22.3666667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Shau Kei Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Shau Ki Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sheh Tong Tsui">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Shek Chung Au">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Shek Hang">
+    <latitude>22.4166667</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Shek Kip Mei">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Shek Kip Mi Resettlement Area">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Shek Kip Mi Village">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Shek Kiu Tau">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Shek Kok Tsui">
+    <latitude>22.3833333</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Shek Ko Lung">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Shek Kong">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Shek Kwu Lung">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Shek Lau Po">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Shek Lau Tung">
+    <latitude>22.4166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Shek Lei">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Shek Lung Tsai">
+    <latitude>22.4</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Shek Mun Kap">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Shek O Village">
+    <latitude>22.2333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Shek Pai Tau">
+    <latitude>22.4</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Shek Pai Wan Resettlement Estate">
+    <latitude>22.25</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Shekpaiwan">
+    <latitude>22.25</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Shek Pan Tam">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Shek Pik Au">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Shek Pok Wai">
+    <latitude>22.35</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Shek Po Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Shek Tau Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Shek Tong Tsui">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Shek Tsai Po">
+    <latitude>22.25</latitude>
+    <longitude>113.85</longitude>
+  </city>
+  <city name="Shek Wai Kok">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Shek Wo Hui">
+    <latitude>22.5</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Shek Wu Hui">
+    <latitude>22.5</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Shek Wu Tong">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Shek Wu Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Shep Kip Mei">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="She Shan">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="She Tau">
+    <latitude>22.4</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Sheung Che">
+    <latitude>22.45</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Sheung Cheung Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Sheung Chuk Yuen">
+    <latitude>22.4833333</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Sheung Chung Mei">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Sheung Fa Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Sheung Hoi Pa">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Sheung Keng Hau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Sheung King Hau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Sheung Ko Tan">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Sheung Kwai Chung Wai">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Sheung Lau Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Sheung Ling Pei">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Sheung Miu Tin">
+    <latitude>22.5</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Sheung San Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Sheung Shan Kai Wat">
+    <latitude>22.5166667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Sheung Shui Choi Yuen Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Sheung Shui">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Sheung Shui Tsuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Sheung Shui Wa Shan">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Sheung Sz Wan">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Sheung Tam Shui Hang">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sheung Tong">
+    <latitude>22.4</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Sheung Tsat Muk Kiu">
+    <latitude>22.5</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Sheung Tsuen Lai Ka Tsz">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Sheung Tsuen">
+    <latitude>22.1666667</latitude>
+    <longitude>113.9</longitude>
+  </city>
+  <city name="Sheung Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Sheung Wo Hang">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Sheung Wong Yi Au">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Sheung Wun Yiu">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Sheung Yau Tin">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Sheung Yeung">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Sheung Yiu">
+    <latitude>22.4</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Sheung Yuen Leng">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Shing On">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Shing Uk">
+    <latitude>22.2666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Shing Uk Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Shouson Hill">
+    <latitude>22.25</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Shuen Wan Chan Uk">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Shuen Wan Chim Uk">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Shuen Wan Lei Uk">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Shuen Wan">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Shui Hau">
+    <latitude>22.2166667</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Shui Lau Tin">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Shui Mei">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Shui Mong Tin">
+    <latitude>22.45</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Shui Pin Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Shui Pin Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Shui Tau">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Shui Tin Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Shui Tsan Tin">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Shui Tseng Wan">
+    <latitude>22.25</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Shui Tsiu Lo Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Shui Tsiu San Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Shui Wo">
+    <latitude>22.45</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Shung Him Tong">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Sik Kong Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sik Kong Wai">
+    <latitude>22.45</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sin Yan Tseng">
+    <latitude>22.2</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Siu A Chau Tsuen">
+    <latitude>22.1833333</latitude>
+    <longitude>113.9</longitude>
+  </city>
+  <city name="Siu Chik Sha">
+    <latitude>22.3</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Siu Hang Hau">
+    <latitude>22.3</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Siu Hang San Tsuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Siu Hang Tsuen">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Siu Kau">
+    <latitude>22.4833333</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Siu Lang Shui">
+    <latitude>22.3666667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Siu Lek Yuen">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Siu Lik Yuen">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Siu Om Shan">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Sok Kwu Wan">
+    <latitude>22.2</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="So Kon Po">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="So Kun Wat">
+    <latitude>22.3833333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="So Kwun Po">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="So Kwun Wat San Tsuen">
+    <latitude>22.3833333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="So Kwun Wat">
+    <latitude>22.3833333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="So Lo Pun">
+    <latitude>22.5333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Sookung Poo">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Soo Kun Poo">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Stanley">
+    <latitude>22.2166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Stanley Village">
+    <latitude>22.2166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Sui Lam">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Sun Fung Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Sze Pak">
+    <latitude>22.3166667</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Sz Pak">
+    <latitude>22.3166667</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Sz Tsz Uk">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Ta-chiao Tsui">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Ta-hao">
+    <latitude>22.3</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Ta Ho Tun">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tai Au Mun">
+    <latitude>22.3</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Tai Chau To">
+    <latitude>22.5166667</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Tai Che">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tai Chik Sha">
+    <latitude>22.3</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Tai Ching Cheung">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tai Chuen">
+    <latitude>22.35</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Tai Hang Hau">
+    <latitude>22.3</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Tai Hang Mei">
+    <latitude>22.1666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Tai Hang">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai hang tsun">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai Hang Village">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai Hom">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Tai Hom Village">
+    <latitude>22.35</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tai Hong Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tai Hong Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tai ho">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Tai Kau">
+    <latitude>22.5</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Tai Kei Leng">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Tai Kek">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tai Kok Tsui">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tai Kok Tsu">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tai Kong Po">
+    <latitude>22.45</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tai Lam Chung">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tai Lam Chung Tsuen">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tai Lam Chung Wong Uk">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tai Lam Chung Wu Uk">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tai Lam Liu">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tai Lam Wu">
+    <latitude>22.35</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Tai Lang Shui">
+    <latitude>22.4</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Tai Lin Pai">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tai Long Ham Tin">
+    <latitude>22.4166667</latitude>
+    <longitude>114.3666667</longitude>
+  </city>
+  <city name="Tai Long">
+    <latitude>22.2166667</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Tai Long Wan">
+    <latitude>22.2166667</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Tai Mei Tuk">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Tai Mong Che">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tai Mong Tsai">
+    <latitude>22.4</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Tai No Sheung Yeung">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Tai No">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Tai Om Shan">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tai Om">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tai O">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Tai O Town">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Tai Pak">
+    <latitude>22.3</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tai Peng">
+    <latitude>22.2333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Ping Shan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tai-po-hui">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tai Po Kau Hui">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tai Po Kau Lo Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai Po Kau Residential Area">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai Po Kau San Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai Po Kau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai Po Market">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tai Po Mei">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tai Po Old Market">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tai Po">
+    <latitude>22.3</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Tai Po Tau Lo Wai">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tai Po Tau">
+    <latitude>22.45</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tai Po Tin">
+    <latitude>22.5333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tai Po Tsai">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Tai Shang Wai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Tai Shek Hau">
+    <latitude>22.2</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tai She Wan">
+    <latitude>22.35</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Tai Shui Hang">
+    <latitude>22.4</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tai Tam">
+    <latitude>22.2166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tai Tan">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Tai Tau Leng">
+    <latitude>22.5</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Tau Ling">
+    <latitude>22.5</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Tei Tong">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tai Ti Tong">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tai Tong">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tai Tseng Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tai Tsing Chau">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Tai Tsoi Yuen Kui">
+    <latitude>22.2</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Tai Tung">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tai Tung Wo Liu">
+    <latitude>22.4166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tai Uk">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai Uk Wai">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Wai">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tai Wan Kau Tsuen">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Wan San Tsuen">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Wan">
+    <latitude>22.1666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Tai Wan Tau">
+    <latitude>22.3</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Tai Wan To">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Wan Tsan">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Wan Tsuen">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Wan Tsun">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tai Wo Hau Resettlement Area">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tai Wo Hau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tai Wong Ha">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tai Wong Sheung">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tai Wong">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tai Wo Ping">
+    <latitude>22.35</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tai-wo-shi">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tai Wo">
+    <latitude>22.35</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tak Yuet Lau">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Ta-lang">
+    <latitude>22.2166667</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Tam Kon Chau">
+    <latitude>22.5</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Tam Kon Shan">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tam Shui Hang">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tam Wat">
+    <latitude>22.4</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Tan Cheung">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tan Chuk Hang Lo Wai">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tan Chuk Hang">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tan Ka Wan">
+    <latitude>22.45</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Tan Kwai Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Tanner Hill Estate">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tan Shan Tsuen">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Tao Feng Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Ta Pang Po">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tap Mun Shi">
+    <latitude>22.4666667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Tap Mun">
+    <latitude>22.4666667</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Ta Shek Wu">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Ta-shui-k'eng">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Ta Tit Yan">
+    <latitude>22.4166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tei Tong Tsai">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Tei Tong Tsui">
+    <latitude>22.2666667</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Tin Fu Tsai">
+    <latitude>22.4</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tingkao">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ting Kau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ting Kaw">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Ting Kok">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tin Ha">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Tin Hau Miu">
+    <latitude>22.2166667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tin Ha Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Tin Liu Ha">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tin Liu">
+    <latitude>22.3</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tin Liu Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tin Sam">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tin Shui Wai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Tin Wan Resettlement Estate">
+    <latitude>22.25</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tin Wan">
+    <latitude>22.25</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tit Hang">
+    <latitude>22.5166667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Tit Kim Hang">
+    <latitude>22.4</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Tiu Keng Leng">
+    <latitude>22.3</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Tiu Keng Wan">
+    <latitude>22.3</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="To Fung Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Toh shek">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tok Wah Wan">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="To Kwa Peng">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="To Kwa Wan">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tolamchin">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Tong Fong">
+    <latitude>22.5333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tong Fong Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Tong Fuk">
+    <latitude>22.2333333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Tong Hang">
+    <latitude>22.4833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tong Kai Tseng">
+    <latitude>22.45</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tong Kung Leng">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tong Lo Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tong Min Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tong Tau Po">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Tong To">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tong Yan San Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Tong Yau San Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="To Shek">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="To Tau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="To Tei Wan">
+    <latitude>22.2333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="To Yuen Tung">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="To Yuen Wai">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tsai muk kiu">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tsak Yue Wu">
+    <latitude>22.4</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Tsam Chuk Wan">
+    <latitude>22.4</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Tsang Kok">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Tsang Tai Uk">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tsat Muk Kiu">
+    <latitude>22.5166667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tsat Sing Kong">
+    <latitude>22.45</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Tsat Tsz Mui">
+    <latitude>22.3</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tseng Lan Shue">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Tseng Lan Shu">
+    <latitude>22.3333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Tseng Tau San Tsuen">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tseng Tau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tseng Tau Wai">
+    <latitude>22.4</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tseung Kong Wai">
+    <latitude>22.45</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tseung Kwan O">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Tsim Sha Tsui">
+    <latitude>22.3</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Tsing Chau Tsai">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Tsing Chau Wan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Tsing Chuen Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tsing Fai Tong">
+    <latitude>22.3833333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tsing Leng Tsui">
+    <latitude>22.35</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tsing Lung Tau">
+    <latitude>22.36</latitude>
+    <longitude>114.0444444</longitude>
+  </city>
+  <city name="Tsing Lung Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tsing Shan Tsuen">
+    <latitude>22.4</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Tsing Tau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tsing Yi Town">
+    <latitude>22.35</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tsin Shui Ma Tau">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Tsin Shui Wan">
+    <latitude>22.2333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tsin Yue Wan">
+    <latitude>22.2166667</latitude>
+    <longitude>113.8333333</longitude>
+  </city>
+  <city name="Tsiu Hang Hau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tsiu Hang">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tsiu Keng Lo Wai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tsiu Keng Pang Uk">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tsiu Lam">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tsiu Lung">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Tsiu Wo">
+    <latitude>22.3</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Tsoi Yuen Kok">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tsoi Yuen Tsuen">
+    <latitude>22.2666667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tsok Pok Hang">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tso Kung Tam">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tso Tui Ha">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Tso Wan">
+    <latitude>22.3166667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Tso Wo Hang">
+    <latitude>22.4</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Tsuen Wan">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tsui King Lo Wai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tsung Pak Long">
+    <latitude>22.5</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tsung Tau Ha">
+    <latitude>22.4</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tsung Tsai Yuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tsung Yuen Ha">
+    <latitude>22.55</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tsung Yuen">
+    <latitude>22.5166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Tsun Wan">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tsun Wan Wai">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Tsz Tin Tsuen">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Tsz Tong Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tsz Wan Shan">
+    <latitude>22.35</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tuen Mun Kau Hui">
+    <latitude>22.3833333</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Tuen Mun San Hui">
+    <latitude>22.4</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Tuen Mun">
+    <latitude>22.4</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tuen Tsz Wai">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Tuk Mei Chung">
+    <latitude>22.3833333</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Tung Chan Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Tung Chung Hang">
+    <latitude>22.2833333</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Tung Chung">
+    <latitude>22.2833333</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Tung Hing">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Tung Kok Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Tung Lo Wan">
+    <latitude>22.2833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tung O">
+    <latitude>22.2</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Tung Sam Kei">
+    <latitude>22.4333333</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Tung Shan Ha">
+    <latitude>22.5</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tung Shing Lei">
+    <latitude>22.45</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Tung Tau Tsuen">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tung Tau Tsun">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tung Tau">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tung Tau Village">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Tung Tsai">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tung Tsz">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Tung Wan Tau">
+    <latitude>22.2666667</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Tung Wan">
+    <latitude>22.5166667</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Uk Cheung">
+    <latitude>22.3833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Uk Tau">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Un long hui">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Un Long">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Upper Keung Shan">
+    <latitude>22.25</latitude>
+    <longitude>113.8833333</longitude>
+  </city>
+  <city name="Victoria">
+    <latitude>22.2875</latitude>
+    <longitude>114.1441667</longitude>
+  </city>
+  <city name="Wah Fu Estate">
+    <latitude>22.25</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Wah Fu">
+    <latitude>22.25</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Wai Ha">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Wai Tau Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Wai Tau">
+    <latitude>22.4666667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Wai Tsai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Wa Mei Shan">
+    <latitude>22.4833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Wan Chai">
+    <latitude>22.1666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wang Che">
+    <latitude>22.3666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Wang-chia-wei">
+    <latitude>22.4</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Wang Hang">
+    <latitude>22.2833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Wang Leng Tau">
+    <latitude>22.4833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wang Ling Chui">
+    <latitude>22.4833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wang Ling Tau">
+    <latitude>22.4833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wang Ling">
+    <latitude>22.4833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wang Long">
+    <latitude>22.2166667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Wang Shan Keuk San Tsuen">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Wang Shan Keuk">
+    <latitude>22.5</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Wang Tau Hom">
+    <latitude>22.35</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Wang Toi Shan">
+    <latitude>22.45</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Wang Tong">
+    <latitude>22.25</latitude>
+    <longitude>114.0</longitude>
+  </city>
+  <city name="Wan Tau Kok">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Wan Tau Tong">
+    <latitude>22.45</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Wan Tsai">
+    <latitude>22.1666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wa Shan Keuk">
+    <latitude>22.5</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Wing Ling Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Wing Lung Wai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Wing Ning Lei">
+    <latitude>22.45</latitude>
+    <longitude>114.1</longitude>
+  </city>
+  <city name="Wing Ning Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Wing Ning Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Wing Ning">
+    <latitude>22.5</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Wing Ping Tsuen">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Wo Che">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Wo Hang Tai Long">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Wo Hop Shek">
+    <latitude>22.4833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Wo Keng Shan">
+    <latitude>22.5333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Wo lei hop">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Wo Li Hop">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Wo Liu Hang">
+    <latitude>22.4</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Wo Liu">
+    <latitude>22.25</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Wo Mei">
+    <latitude>22.35</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wong Chuk Hang Kau Wai">
+    <latitude>22.25</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Wong Chuk Hang San Wai">
+    <latitude>22.25</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Wong Chuk Hang">
+    <latitude>22.3833333</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Wong Chuk Long">
+    <latitude>22.4333333</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Wong Chuk Shan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Wong Chuk Tsuen">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Wong Chuk Wan">
+    <latitude>22.4</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Wong Chuk Yeung">
+    <latitude>22.4</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Wong Fung Leng">
+    <latitude>22.4</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Wong Fung Tin">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Wong Ka Wai">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Wong Keng Tei">
+    <latitude>22.4</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Wong Keng Tsai">
+    <latitude>22.35</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Wong Ling">
+    <latitude>22.4833333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wong Lung Hang">
+    <latitude>22.2666667</latitude>
+    <longitude>113.95</longitude>
+  </city>
+  <city name="Wong Mau Kok">
+    <latitude>22.45</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Wong Mo Ying">
+    <latitude>22.4</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Wong Nai Fai">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Wong Nai Phong Valley">
+    <latitude>22.2666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Wong Nai Tau">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Wong Nai Tun">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Wong Nai Uk">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9333333</longitude>
+  </city>
+  <city name="Wong Tai Sin">
+    <latitude>22.35</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Wong Uk">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Wong Wan">
+    <latitude>22.5166667</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Wong Yi Chau">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Wong Yue Tan">
+    <latitude>22.4666667</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Won Yiu">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Wo Shang Wai">
+    <latitude>22.4833333</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Wo Sha">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Wo Sheung Au">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Wo Sheung Tun">
+    <latitude>22.4166667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Wo Tin">
+    <latitude>22.2833333</latitude>
+    <longitude>113.9833333</longitude>
+  </city>
+  <city name="Wo Tong Kong">
+    <latitude>22.3166667</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Wo Yi Hop">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Wu Chau Tong">
+    <latitude>22.5</latitude>
+    <longitude>114.3</longitude>
+  </city>
+  <city name="Wu Kau Tang">
+    <latitude>22.5</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Wu Lei Kiu">
+    <latitude>22.4333333</latitude>
+    <longitude>114.35</longitude>
+  </city>
+  <city name="Wu Lei Tau">
+    <latitude>22.3666667</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Wu Nga Lok Yeung">
+    <latitude>22.5</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Wu Shek Kok">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Wu Uk">
+    <latitude>22.3666667</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Yam O">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Yam Tsai">
+    <latitude>22.3333333</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Yan Shau Wai">
+    <latitude>22.5</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Yaoyuwan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Yau Kom Tau">
+    <latitude>22.35</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Yau Ma Hom">
+    <latitude>22.3666667</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Yau Ma Po">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2666667</longitude>
+  </city>
+  <city name="Yau Ma Tei">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Yau Ma Ti">
+    <latitude>22.3166667</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Yau Tam Mei">
+    <latitude>22.4833333</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Yau Tong">
+    <latitude>22.3</latitude>
+    <longitude>114.2333333</longitude>
+  </city>
+  <city name="Yau Ue Wan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Yau Uk Tsuen">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Yau Yat Tsuen">
+    <latitude>22.3333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Yau Yue Wan">
+    <latitude>22.3333333</latitude>
+    <longitude>114.25</longitude>
+  </city>
+  <city name="Yeung Shu Au">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Yeung Siu Hang">
+    <latitude>22.4</latitude>
+    <longitude>113.9666667</longitude>
+  </city>
+  <city name="Yeung Uk Tsuen">
+    <latitude>22.45</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Yi Chuen">
+    <latitude>22.35</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Yim Liu Ha">
+    <latitude>22.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Yim Tin">
+    <latitude>22.25</latitude>
+    <longitude>113.8666667</longitude>
+  </city>
+  <city name="Yim Tso Ha">
+    <latitude>22.5333333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Ying Pun Ha">
+    <latitude>22.4666667</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Ying Pun">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Yin Kong">
+    <latitude>22.5</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Yin Ngam">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Yi O Hau">
+    <latitude>22.2333333</latitude>
+    <longitude>113.85</longitude>
+  </city>
+  <city name="Yi O Kau Tsuen">
+    <latitude>22.2333333</latitude>
+    <longitude>113.85</longitude>
+  </city>
+  <city name="Yi O San Tsuen">
+    <latitude>22.2333333</latitude>
+    <longitude>113.85</longitude>
+  </city>
+  <city name="Yi Pak">
+    <latitude>22.3</latitude>
+    <longitude>114.0166667</longitude>
+  </city>
+  <city name="Yi Pei Chun">
+    <latitude>22.3833333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Yiu Tsz Kin">
+    <latitude>22.4333333</latitude>
+    <longitude>114.1666667</longitude>
+  </city>
+  <city name="Yüan-lang-hsin-hsü">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yuan-lang-hsü">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yue Kok">
+    <latitude>22.4666667</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Yue Kwong Chuen">
+    <latitude>22.25</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Yuen Chau Kok">
+    <latitude>22.3833333</latitude>
+    <longitude>114.2</longitude>
+  </city>
+  <city name="Yuen Kong San Tsuen">
+    <latitude>22.4166667</latitude>
+    <longitude>114.0833333</longitude>
+  </city>
+  <city name="Yuen Kong">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0666667</longitude>
+  </city>
+  <city name="Yuen Leng">
+    <latitude>22.4833333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Yuen Long Kau Hui">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yuen long kou hui">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yuen Long Market">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yuen Long Old Town">
+    <latitude>22.45</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yuen Long San Hui">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yuen Long Town">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yuen Long">
+    <latitude>22.4333333</latitude>
+    <longitude>114.0333333</longitude>
+  </city>
+  <city name="Yuen Ng Fan">
+    <latitude>22.3833333</latitude>
+    <longitude>114.3333333</longitude>
+  </city>
+  <city name="Yuen Tun Ha">
+    <latitude>22.4333333</latitude>
+    <longitude>114.15</longitude>
+  </city>
+  <city name="Yuen Tun">
+    <latitude>22.3666667</latitude>
+    <longitude>114.05</longitude>
+  </city>
+  <city name="Yung Long">
+    <latitude>22.4166667</latitude>
+    <longitude>113.9166667</longitude>
+  </city>
+  <city name="Yung Shue Au">
+    <latitude>22.4333333</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Yung Shue Ha">
+    <latitude>22.2</latitude>
+    <longitude>114.1333333</longitude>
+  </city>
+  <city name="Yung Shue Long">
+    <latitude>22.2333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Yung Shue Wan">
+    <latitude>22.2333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+  <city name="Yung Shu Wan">
+    <latitude>22.2333333</latitude>
+    <longitude>114.1166667</longitude>
+  </city>
+</country>

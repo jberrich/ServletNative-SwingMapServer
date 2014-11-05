@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="bs" name="Bahamas">
+  <city name="Abercorn">
+    <latitude>22.3666667</latitude>
+    <longitude>-73.95</longitude>
+  </city>
+  <city name="Abraham Bay">
+    <latitude>22.3666667</latitude>
+    <longitude>-72.9666667</longitude>
+  </city>
+  <city name="Abraham's Bay">
+    <latitude>22.3666667</latitude>
+    <longitude>-72.9666667</longitude>
+  </city>
+  <city name="Adderleys">
+    <latitude>23.6</latitude>
+    <longitude>-75.3</longitude>
+  </city>
+  <city name="Adderly">
+    <latitude>23.6</latitude>
+    <longitude>-75.3</longitude>
+  </city>
+  <city name="Adelaide">
+    <latitude>25.0</latitude>
+    <longitude>-77.5166667</longitude>
+  </city>
+  <city name="Albert Town">
+    <latitude>22.6</latitude>
+    <longitude>-74.35</longitude>
+  </city>
+  <city name="Alexander">
+    <latitude>23.65</latitude>
+    <longitude>-76.0166667</longitude>
+  </city>
+  <city name="Alice Town">
+    <latitude>25.7166667</latitude>
+    <longitude>-79.3</longitude>
+  </city>
+  <city name="Allen">
+    <latitude>23.95</latitude>
+    <longitude>-74.5166667</longitude>
+  </city>
+  <city name="Alligator Bay Settlement">
+    <latitude>23.45</latitude>
+    <longitude>-75.2166667</longitude>
+  </city>
+  <city name="Alver Town">
+    <latitude>22.6</latitude>
+    <longitude>-74.35</longitude>
+  </city>
+  <city name="Anderson">
+    <latitude>23.5333333</latitude>
+    <longitude>-75.2333333</longitude>
+  </city>
+  <city name="Andersons">
+    <latitude>23.2166667</latitude>
+    <longitude>-75.0833333</longitude>
+  </city>
+  <city name="Andros Town">
+    <latitude>24.7</latitude>
+    <longitude>-77.7666667</longitude>
+  </city>
+  <city name="Anne's Tract Settlement">
+    <latitude>23.6833333</latitude>
+    <longitude>-76.05</longitude>
+  </city>
+  <city name="Arthur's Town">
+    <latitude>24.6333333</latitude>
+    <longitude>-75.7</longitude>
+  </city>
+  <city name="Arthur Town">
+    <latitude>24.6333333</latitude>
+    <longitude>-75.7</longitude>
+  </city>
+  <city name="August Town">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.9833333</longitude>
+  </city>
+  <city name="Bahring Point">
+    <latitude>24.45</latitude>
+    <longitude>-77.7166667</longitude>
+  </city>
+  <city name="Bailey's Town">
+    <latitude>25.7333333</latitude>
+    <longitude>-79.3</longitude>
+  </city>
+  <city name="Bailey Town">
+    <latitude>25.7333333</latitude>
+    <longitude>-79.3</longitude>
+  </city>
+  <city name="Bains">
+    <latitude>23.45</latitude>
+    <longitude>-75.2166667</longitude>
+  </city>
+  <city name="Bain Town">
+    <latitude>24.15</latitude>
+    <longitude>-75.3833333</longitude>
+  </city>
+  <city name="Bannerman Town">
+    <latitude>24.6333333</latitude>
+    <longitude>-76.1666667</longitude>
+  </city>
+  <city name="Barataria Settlement">
+    <latitude>23.6833333</latitude>
+    <longitude>-76.0333333</longitude>
+  </city>
+  <city name="Baraterre">
+    <latitude>23.6833333</latitude>
+    <longitude>-76.0333333</longitude>
+  </city>
+  <city name="Bar Bay Settlement">
+    <latitude>25.3833333</latitude>
+    <longitude>-76.8</longitude>
+  </city>
+  <city name="Bastian Point">
+    <latitude>24.2333333</latitude>
+    <longitude>-77.6333333</longitude>
+  </city>
+  <city name="Bayley's Town">
+    <latitude>25.7333333</latitude>
+    <longitude>-79.3</longitude>
+  </city>
+  <city name="Bayley Town">
+    <latitude>25.7333333</latitude>
+    <longitude>-79.3</longitude>
+  </city>
+  <city name="Behring Point">
+    <latitude>24.45</latitude>
+    <longitude>-77.7166667</longitude>
+  </city>
+  <city name="Behring Point Settlement">
+    <latitude>24.45</latitude>
+    <longitude>-77.7166667</longitude>
+  </city>
+  <city name="Belair Estates">
+    <latitude>25.0166667</latitude>
+    <longitude>-77.3666667</longitude>
+  </city>
+  <city name="Bennet Harbour">
+    <latitude>24.5833333</latitude>
+    <longitude>-75.6333333</longitude>
+  </city>
+  <city name="Bennets Harbour">
+    <latitude>24.5833333</latitude>
+    <longitude>-75.6333333</longitude>
+  </city>
+  <city name="Bennetts Harbor">
+    <latitude>24.5833333</latitude>
+    <longitude>-75.6333333</longitude>
+  </city>
+  <city name="Bennett's Harbour">
+    <latitude>24.5833333</latitude>
+    <longitude>-75.6333333</longitude>
+  </city>
+  <city name="Bennett's Harbour Settlement">
+    <latitude>24.5833333</latitude>
+    <longitude>-75.6333333</longitude>
+  </city>
+  <city name="Berrys">
+    <latitude>22.95</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Berrys Settlement">
+    <latitude>22.95</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Betsy Bay">
+    <latitude>22.4166667</latitude>
+    <longitude>-73.1333333</longitude>
+  </city>
+  <city name="Bevans Town">
+    <latitude>26.6</latitude>
+    <longitude>-78.3166667</longitude>
+  </city>
+  <city name="Binnacle Hill">
+    <latitude>22.3166667</latitude>
+    <longitude>-74.1333333</longitude>
+  </city>
+  <city name="Binnacle Hill Settlement">
+    <latitude>22.3166667</latitude>
+    <longitude>-74.1333333</longitude>
+  </city>
+  <city name="Black Point">
+    <latitude>24.1</latitude>
+    <longitude>-76.3833333</longitude>
+  </city>
+  <city name="Black Point Settlement">
+    <latitude>23.9833333</latitude>
+    <longitude>-77.55</longitude>
+  </city>
+  <city name="Blackwood Village">
+    <latitude>26.8</latitude>
+    <longitude>-77.4333333</longitude>
+  </city>
+  <city name="Blair Estates">
+    <latitude>25.05</latitude>
+    <longitude>-77.3</longitude>
+  </city>
+  <city name="Blanket Sound">
+    <latitude>24.85</latitude>
+    <longitude>-77.9</longitude>
+  </city>
+  <city name="Bluff">
+    <latitude>25.7833333</latitude>
+    <longitude>-79.3166667</longitude>
+  </city>
+  <city name="Bluff Settlement">
+    <latitude>24.5166667</latitude>
+    <longitude>-75.5833333</longitude>
+  </city>
+  <city name="Bogue">
+    <latitude>25.45</latitude>
+    <longitude>-76.6666667</longitude>
+  </city>
+  <city name="Bowen Sound">
+    <latitude>24.5833333</latitude>
+    <longitude>-77.7333333</longitude>
+  </city>
+  <city name="Bowers">
+    <latitude>23.25</latitude>
+    <longitude>-75.0833333</longitude>
+  </city>
+  <city name="Bradford">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.5166667</longitude>
+  </city>
+  <city name="Brandy Hill">
+    <latitude>24.0833333</latitude>
+    <longitude>-74.4333333</longitude>
+  </city>
+  <city name="Braudie Point">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.7333333</longitude>
+  </city>
+  <city name="Braudies Point">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.7333333</longitude>
+  </city>
+  <city name="Browns">
+    <latitude>22.7166667</latitude>
+    <longitude>-74.0333333</longitude>
+  </city>
+  <city name="Buckleys">
+    <latitude>23.15</latitude>
+    <longitude>-75.0833333</longitude>
+  </city>
+  <city name="Bullock Harbour">
+    <latitude>25.7833333</latitude>
+    <longitude>-77.85</longitude>
+  </city>
+  <city name="Bullocks Harbour">
+    <latitude>25.7833333</latitude>
+    <longitude>-77.85</longitude>
+  </city>
+  <city name="Bullocks Harbour Settlement">
+    <latitude>25.7833333</latitude>
+    <longitude>-77.85</longitude>
+  </city>
+  <city name="Burnt Ground">
+    <latitude>23.6166667</latitude>
+    <longitude>-75.2833333</longitude>
+  </city>
+  <city name="Burnt Ground Settlement">
+    <latitude>23.6166667</latitude>
+    <longitude>-75.2833333</longitude>
+  </city>
+  <city name="Cabbage Hill">
+    <latitude>22.75</latitude>
+    <longitude>-74.2166667</longitude>
+  </city>
+  <city name="Cabbage Point">
+    <latitude>22.9166667</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Cabbage Point Settlement">
+    <latitude>22.9166667</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Cable Beach">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.4</longitude>
+  </city>
+  <city name="Cairey's">
+    <latitude>24.4833333</latitude>
+    <longitude>-75.5666667</longitude>
+  </city>
+  <city name="Calabash Bay">
+    <latitude>24.7333333</latitude>
+    <longitude>-77.8</longitude>
+  </city>
+  <city name="Calvin Hill">
+    <latitude>23.6</latitude>
+    <longitude>-75.9666667</longitude>
+  </city>
+  <city name="Camperdown">
+    <latitude>25.05</latitude>
+    <longitude>-77.2666667</longitude>
+  </city>
+  <city name="Cargill Creek">
+    <latitude>24.5</latitude>
+    <longitude>-77.7166667</longitude>
+  </city>
+  <city name="Carmichael Village">
+    <latitude>25.0166667</latitude>
+    <longitude>-77.4333333</longitude>
+  </city>
+  <city name="Cartwright">
+    <latitude>23.1333333</latitude>
+    <longitude>-75.0666667</longitude>
+  </city>
+  <city name="Cedar Harbor">
+    <latitude>26.9166667</latitude>
+    <longitude>-77.6333333</longitude>
+  </city>
+  <city name="Cedar Harbour">
+    <latitude>26.9166667</latitude>
+    <longitude>-77.6333333</longitude>
+  </city>
+  <city name="Charokee Sound Settlement">
+    <latitude>26.2833333</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="Cherokee">
+    <latitude>26.2833333</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="Cherokee Settlement">
+    <latitude>26.2833333</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="Cherokee Sound">
+    <latitude>26.2833333</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="Cherokee Village">
+    <latitude>26.2833333</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="Cheroki Sound">
+    <latitude>26.2833333</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="Chesters">
+    <latitude>22.7</latitude>
+    <longitude>-73.9166667</longitude>
+  </city>
+  <city name="Church Grove">
+    <latitude>22.75</latitude>
+    <longitude>-74.2166667</longitude>
+  </city>
+  <city name="City of Nassau">
+    <latitude>25.0833333</latitude>
+    <longitude>-77.35</longitude>
+  </city>
+  <city name="Clarence">
+    <latitude>23.1</latitude>
+    <longitude>-74.9833333</longitude>
+  </city>
+  <city name="Clarence Town">
+    <latitude>23.1</latitude>
+    <longitude>-74.9833333</longitude>
+  </city>
+  <city name="Clifton">
+    <latitude>25.0166667</latitude>
+    <longitude>-77.5666667</longitude>
+  </city>
+  <city name="Coakley Town">
+    <latitude>24.7333333</latitude>
+    <longitude>-77.8166667</longitude>
+  </city>
+  <city name="Coakly Town">
+    <latitude>24.7333333</latitude>
+    <longitude>-77.8166667</longitude>
+  </city>
+  <city name="Cockburn Town">
+    <latitude>24.0333333</latitude>
+    <longitude>-74.5166667</longitude>
+  </city>
+  <city name="Colebrooke Dale">
+    <latitude>25.2</latitude>
+    <longitude>-76.25</longitude>
+  </city>
+  <city name="Colebrooke Town">
+    <latitude>25.2</latitude>
+    <longitude>-76.25</longitude>
+  </city>
+  <city name="Colonel Hill">
+    <latitude>22.7666667</latitude>
+    <longitude>-74.2166667</longitude>
+  </city>
+  <city name="Conch Sound">
+    <latitude>25.1166667</latitude>
+    <longitude>-77.9833333</longitude>
+  </city>
+  <city name="Congo Town">
+    <latitude>24.1666667</latitude>
+    <longitude>-77.5833333</longitude>
+  </city>
+  <city name="Cooper's Town">
+    <latitude>26.8666667</latitude>
+    <longitude>-77.5166667</longitude>
+  </city>
+  <city name="Coral Harbor">
+    <latitude>24.9666667</latitude>
+    <longitude>-77.4666667</longitude>
+  </city>
+  <city name="Coral Harbour">
+    <latitude>24.9666667</latitude>
+    <longitude>-77.4666667</longitude>
+  </city>
+  <city name="Coral Heights">
+    <latitude>25.0</latitude>
+    <longitude>-77.45</longitude>
+  </city>
+  <city name="Cornishtown">
+    <latitude>26.75</latitude>
+    <longitude>-77.4666667</longitude>
+  </city>
+  <city name="Cove">
+    <latitude>24.4166667</latitude>
+    <longitude>-75.5333333</longitude>
+  </city>
+  <city name="Cove Settlement">
+    <latitude>24.4166667</latitude>
+    <longitude>-75.5333333</longitude>
+  </city>
+  <city name="Creek Village">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.3</longitude>
+  </city>
+  <city name="Cripple Hill">
+    <latitude>22.7833333</latitude>
+    <longitude>-74.2333333</longitude>
+  </city>
+  <city name="Crossing Rocks">
+    <latitude>26.1333333</latitude>
+    <longitude>-77.1833333</longitude>
+  </city>
+  <city name="Crossing Rock Settlement">
+    <latitude>26.1333333</latitude>
+    <longitude>-77.1833333</longitude>
+  </city>
+  <city name="Crown Haven">
+    <latitude>26.9</latitude>
+    <longitude>-77.8166667</longitude>
+  </city>
+  <city name="Cunningham">
+    <latitude>25.0833333</latitude>
+    <longitude>-77.4333333</longitude>
+  </city>
+  <city name="Current">
+    <latitude>25.4333333</latitude>
+    <longitude>-76.7833333</longitude>
+  </city>
+  <city name="Current Island Settlement">
+    <latitude>25.3833333</latitude>
+    <longitude>-76.8</longitude>
+  </city>
+  <city name="Current Settlement">
+    <latitude>25.4333333</latitude>
+    <longitude>-76.7833333</longitude>
+  </city>
+  <city name="Curtis">
+    <latitude>23.6333333</latitude>
+    <longitude>-75.9666667</longitude>
+  </city>
+  <city name="Davis Settlement">
+    <latitude>24.25</latitude>
+    <longitude>-75.35</longitude>
+  </city>
+  <city name="Deadmans Cay">
+    <latitude>23.1666667</latitude>
+    <longitude>-75.0833333</longitude>
+  </city>
+  <city name="Deadmans Cay Settlement">
+    <latitude>23.1666667</latitude>
+    <longitude>-75.0833333</longitude>
+  </city>
+  <city name="Deep Creek">
+    <latitude>24.0</latitude>
+    <longitude>-77.55</longitude>
+  </city>
+  <city name="Deep Creek Settlement">
+    <latitude>24.7833333</latitude>
+    <longitude>-76.3</longitude>
+  </city>
+  <city name="Delancey Town">
+    <latitude>24.7666667</latitude>
+    <longitude>-76.2666667</longitude>
+  </city>
+  <city name="Delectable Bay">
+    <latitude>22.4333333</latitude>
+    <longitude>-74.0333333</longitude>
+  </city>
+  <city name="Delectable Bay Settlement">
+    <latitude>22.4333333</latitude>
+    <longitude>-74.0333333</longitude>
+  </city>
+  <city name="Delectable">
+    <latitude>22.4333333</latitude>
+    <longitude>-74.0333333</longitude>
+  </city>
+  <city name="Devil Point">
+    <latitude>24.1166667</latitude>
+    <longitude>-75.4666667</longitude>
+  </city>
+  <city name="Devil's Point">
+    <latitude>24.1166667</latitude>
+    <longitude>-75.4666667</longitude>
+  </city>
+  <city name="Devil's Point Settlement">
+    <latitude>24.1166667</latitude>
+    <longitude>-75.4666667</longitude>
+  </city>
+  <city name="Dixons">
+    <latitude>24.1</latitude>
+    <longitude>-74.45</longitude>
+  </city>
+  <city name="Doctor's Creek">
+    <latitude>23.4666667</latitude>
+    <longitude>-75.2166667</longitude>
+  </city>
+  <city name="Douds">
+    <latitude>24.2666667</latitude>
+    <longitude>-75.4</longitude>
+  </city>
+  <city name="Douds Settlement">
+    <latitude>24.2666667</latitude>
+    <longitude>-75.4</longitude>
+  </city>
+  <city name="Driggs Hill">
+    <latitude>24.2</latitude>
+    <longitude>-77.6</longitude>
+  </city>
+  <city name="Driggs Hill Settlement">
+    <latitude>24.2</latitude>
+    <longitude>-77.6</longitude>
+  </city>
+  <city name="Dumfries">
+    <latitude>24.6333333</latitude>
+    <longitude>-75.6666667</longitude>
+  </city>
+  <city name="Dumfries Settlement">
+    <latitude>24.6333333</latitude>
+    <longitude>-75.6666667</longitude>
+  </city>
+  <city name="Duncan Town">
+    <latitude>22.1908333</latitude>
+    <longitude>-75.7258333</longitude>
+  </city>
+  <city name="Dundas Town">
+    <latitude>26.55</latitude>
+    <longitude>-77.0833333</longitude>
+  </city>
+  <city name="Dunmore">
+    <latitude>23.05</latitude>
+    <longitude>-74.9</longitude>
+  </city>
+  <city name="Dunmore Settlement">
+    <latitude>23.05</latitude>
+    <longitude>-74.9</longitude>
+  </city>
+  <city name="Dunmore Town">
+    <latitude>25.5</latitude>
+    <longitude>-76.65</longitude>
+  </city>
+  <city name="Eight Mile Rock">
+    <latitude>26.5166667</latitude>
+    <longitude>-78.7833333</longitude>
+  </city>
+  <city name="Englerston">
+    <latitude>25.05</latitude>
+    <longitude>-77.3333333</longitude>
+  </city>
+  <city name="Evil Point">
+    <latitude>24.1166667</latitude>
+    <longitude>-75.4666667</longitude>
+  </city>
+  <city name="Exuma Harbour Estates">
+    <latitude>23.5</latitude>
+    <longitude>-75.7666667</longitude>
+  </city>
+  <city name="Fairfield">
+    <latitude>22.7833333</latitude>
+    <longitude>-74.2166667</longitude>
+  </city>
+  <city name="Farmer's Hill">
+    <latitude>23.6</latitude>
+    <longitude>-75.9</longitude>
+  </city>
+  <city name="Farmers Hill Settlement">
+    <latitude>23.6</latitude>
+    <longitude>-75.9</longitude>
+  </city>
+  <city name="Farquharson">
+    <latitude>24.0</latitude>
+    <longitude>-74.4666667</longitude>
+  </city>
+  <city name="Fire Road Village">
+    <latitude>26.85</latitude>
+    <longitude>-77.5</longitude>
+  </city>
+  <city name="Forbes">
+    <latitude>23.4666667</latitude>
+    <longitude>-75.65</longitude>
+  </city>
+  <city name="Forbes Hill">
+    <latitude>23.4666667</latitude>
+    <longitude>-75.65</longitude>
+  </city>
+  <city name="Ford">
+    <latitude>22.9166667</latitude>
+    <longitude>-74.8666667</longitude>
+  </city>
+  <city name="Forest">
+    <latitude>23.5833333</latitude>
+    <longitude>-75.9166667</longitude>
+  </city>
+  <city name="Forest Settlement">
+    <latitude>23.5833333</latitude>
+    <longitude>-75.9166667</longitude>
+  </city>
+  <city name="Fortune Hill">
+    <latitude>24.0166667</latitude>
+    <longitude>-74.45</longitude>
+  </city>
+  <city name="Fox Town">
+    <latitude>26.9166667</latitude>
+    <longitude>-77.8</longitude>
+  </city>
+  <city name="Freeport City">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.7</longitude>
+  </city>
+  <city name="Freeport">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.7</longitude>
+  </city>
+  <city name="Freetown">
+    <latitude>24.2833333</latitude>
+    <longitude>-75.4166667</longitude>
+  </city>
+  <city name="Freetown Settlement">
+    <latitude>24.2833333</latitude>
+    <longitude>-75.4166667</longitude>
+  </city>
+  <city name="French Wells">
+    <latitude>22.6833333</latitude>
+    <longitude>-74.3</longitude>
+  </city>
+  <city name="French Wells Settlement">
+    <latitude>22.6833333</latitude>
+    <longitude>-74.3</longitude>
+  </city>
+  <city name="Fresh Creek">
+    <latitude>24.7333333</latitude>
+    <longitude>-77.8166667</longitude>
+  </city>
+  <city name="Gaiters Settlement">
+    <latitude>24.4666667</latitude>
+    <longitude>-75.55</longitude>
+  </city>
+  <city name="Gaitor's">
+    <latitude>24.4666667</latitude>
+    <longitude>-75.55</longitude>
+  </city>
+  <city name="Galloway Landing">
+    <latitude>23.0833333</latitude>
+    <longitude>-75.05</longitude>
+  </city>
+  <city name="Gambier Village">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.5</longitude>
+  </city>
+  <city name="Georgetown">
+    <latitude>23.5</latitude>
+    <longitude>-75.7666667</longitude>
+  </city>
+  <city name="Gilbert Grant">
+    <latitude>23.6</latitude>
+    <longitude>-75.9166667</longitude>
+  </city>
+  <city name="Glenelg">
+    <latitude>24.9666667</latitude>
+    <longitude>-76.1833333</longitude>
+  </city>
+  <city name="Glenelg Settlement">
+    <latitude>24.9666667</latitude>
+    <longitude>-76.1833333</longitude>
+  </city>
+  <city name="Glintons">
+    <latitude>23.6333333</latitude>
+    <longitude>-75.3</longitude>
+  </city>
+  <city name="Golden Gates Estates">
+    <latitude>25.0166667</latitude>
+    <longitude>-77.35</longitude>
+  </city>
+  <city name="Golden Grove">
+    <latitude>22.4666667</latitude>
+    <longitude>-73.9</longitude>
+  </city>
+  <city name="Goodwill">
+    <latitude>22.5166667</latitude>
+    <longitude>-73.8666667</longitude>
+  </city>
+  <city name="Gordon's">
+    <latitude>22.8666667</latitude>
+    <longitude>-74.85</longitude>
+  </city>
+  <city name="Gordons Settlement">
+    <latitude>22.8666667</latitude>
+    <longitude>-74.85</longitude>
+  </city>
+  <city name="Governor Harbor">
+    <latitude>25.1666667</latitude>
+    <longitude>-76.2333333</longitude>
+  </city>
+  <city name="Governor Harbour">
+    <latitude>25.1666667</latitude>
+    <longitude>-76.2333333</longitude>
+  </city>
+  <city name="Governors Harbor">
+    <latitude>25.1666667</latitude>
+    <longitude>-76.2333333</longitude>
+  </city>
+  <city name="Governor's Harbour">
+    <latitude>25.1666667</latitude>
+    <longitude>-76.2333333</longitude>
+  </city>
+  <city name="Grays">
+    <latitude>23.25</latitude>
+    <longitude>-75.1</longitude>
+  </city>
+  <city name="Great Guana Cay">
+    <latitude>26.6666667</latitude>
+    <longitude>-77.1166667</longitude>
+  </city>
+  <city name="Green Castle">
+    <latitude>24.8166667</latitude>
+    <longitude>-76.25</longitude>
+  </city>
+  <city name="Green Turtle Cay">
+    <latitude>26.8333333</latitude>
+    <longitude>-77.3833333</longitude>
+  </city>
+  <city name="Green Turtle Cay Settlement">
+    <latitude>26.8333333</latitude>
+    <longitude>-77.3833333</longitude>
+  </city>
+  <city name="Green Turtle Key">
+    <latitude>26.8333333</latitude>
+    <longitude>-77.3833333</longitude>
+  </city>
+  <city name="Green Turtle Village">
+    <latitude>26.8166667</latitude>
+    <longitude>-77.45</longitude>
+  </city>
+  <city name="Gregory Town">
+    <latitude>25.4</latitude>
+    <longitude>-76.55</longitude>
+  </city>
+  <city name="Halls Landing">
+    <latitude>24.0</latitude>
+    <longitude>-74.5166667</longitude>
+  </city>
+  <city name="Harbour Estate">
+    <latitude>24.1</latitude>
+    <longitude>-74.5166667</longitude>
+  </city>
+  <city name="Harbour Island">
+    <latitude>25.5</latitude>
+    <longitude>-76.65</longitude>
+  </city>
+  <city name="Hard Bargain">
+    <latitude>23.0166667</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Hard Bargain Settlement">
+    <latitude>23.0166667</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Hard Bargin">
+    <latitude>26.3166667</latitude>
+    <longitude>-77.5666667</longitude>
+  </city>
+  <city name="Hard Hill">
+    <latitude>22.6</latitude>
+    <longitude>-73.8666667</longitude>
+  </city>
+  <city name="Harts Bay Hill">
+    <latitude>24.4166667</latitude>
+    <longitude>-75.5333333</longitude>
+  </city>
+  <city name="Hartswell">
+    <latitude>23.4333333</latitude>
+    <longitude>-75.6666667</longitude>
+  </city>
+  <city name="Hatchet Bay">
+    <latitude>25.3333333</latitude>
+    <longitude>-76.4333333</longitude>
+  </city>
+  <city name="Hatchet Bay Limited Settlement">
+    <latitude>25.3333333</latitude>
+    <longitude>-76.4333333</longitude>
+  </city>
+  <city name="Hawksbill">
+    <latitude>26.5</latitude>
+    <longitude>-78.7333333</longitude>
+  </city>
+  <city name="Hawks Nest">
+    <latitude>24.15</latitude>
+    <longitude>-75.5333333</longitude>
+  </city>
+  <city name="Hermitage">
+    <latitude>23.5166667</latitude>
+    <longitude>-75.8333333</longitude>
+  </city>
+  <city name="Highbury Park">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.3166667</longitude>
+  </city>
+  <city name="High Rock">
+    <latitude>26.6208333</latitude>
+    <longitude>-78.2833333</longitude>
+  </city>
+  <city name="High Rock Settlement">
+    <latitude>24.1666667</latitude>
+    <longitude>-77.5833333</longitude>
+  </city>
+  <city name="High Rocks">
+    <latitude>26.6208333</latitude>
+    <longitude>-78.2833333</longitude>
+  </city>
+  <city name="High Rock Village">
+    <latitude>26.6208333</latitude>
+    <longitude>-78.2833333</longitude>
+  </city>
+  <city name="Holdiday Track">
+    <latitude>24.0166667</latitude>
+    <longitude>-74.45</longitude>
+  </city>
+  <city name="Holmes Rock">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.8</longitude>
+  </city>
+  <city name="Holmes' Rock Village">
+    <latitude>26.55</latitude>
+    <longitude>-78.8333333</longitude>
+  </city>
+  <city name="Hope Estate">
+    <latitude>26.6666667</latitude>
+    <longitude>-78.9333333</longitude>
+  </city>
+  <city name="Hope Town">
+    <latitude>26.55</latitude>
+    <longitude>-76.95</longitude>
+  </city>
+  <city name="Hope Town Settlement">
+    <latitude>26.55</latitude>
+    <longitude>-76.95</longitude>
+  </city>
+  <city name="Hunter Settlement">
+    <latitude>26.4833333</latitude>
+    <longitude>-78.7166667</longitude>
+  </city>
+  <city name="Hunters">
+    <latitude>26.4833333</latitude>
+    <longitude>-78.7166667</longitude>
+  </city>
+  <city name="Industrious Hill">
+    <latitude>24.45</latitude>
+    <longitude>-75.55</longitude>
+  </city>
+  <city name="Industrious Hill Settlement">
+    <latitude>24.45</latitude>
+    <longitude>-75.55</longitude>
+  </city>
+  <city name="James Cistern">
+    <latitude>25.3166667</latitude>
+    <longitude>-76.3666667</longitude>
+  </city>
+  <city name="James's Cistern">
+    <latitude>25.3166667</latitude>
+    <longitude>-76.3666667</longitude>
+  </city>
+  <city name="Jimmy Hill">
+    <latitude>23.5666667</latitude>
+    <longitude>-75.8666667</longitude>
+  </city>
+  <city name="John Millars">
+    <latitude>24.6833333</latitude>
+    <longitude>-76.1833333</longitude>
+  </city>
+  <city name="Kemps Bay">
+    <latitude>24.0333333</latitude>
+    <longitude>-77.55</longitude>
+  </city>
+  <city name="Kemps Bay Settlement">
+    <latitude>24.0333333</latitude>
+    <longitude>-77.55</longitude>
+  </city>
+  <city name="Killarney">
+    <latitude>25.05</latitude>
+    <longitude>-77.4166667</longitude>
+  </city>
+  <city name="Knowles">
+    <latitude>24.4</latitude>
+    <longitude>-75.4833333</longitude>
+  </city>
+  <city name="Knowles Village">
+    <latitude>24.4</latitude>
+    <longitude>-75.4833333</longitude>
+  </city>
+  <city name="Landrail Point">
+    <latitude>22.8</latitude>
+    <longitude>-74.35</longitude>
+  </city>
+  <city name="Landrail Point Settlement">
+    <latitude>22.8</latitude>
+    <longitude>-74.35</longitude>
+  </city>
+  <city name="Lisbon Creek">
+    <latitude>24.2166667</latitude>
+    <longitude>-77.6333333</longitude>
+  </city>
+  <city name="Lisbon Creek Settlement">
+    <latitude>24.2166667</latitude>
+    <longitude>-77.6333333</longitude>
+  </city>
+  <city name="Little Bay">
+    <latitude>25.8333333</latitude>
+    <longitude>-77.1666667</longitude>
+  </city>
+  <city name="Little Bay Settlement">
+    <latitude>25.3333333</latitude>
+    <longitude>-76.8333333</longitude>
+  </city>
+  <city name="Little Creek">
+    <latitude>23.95</latitude>
+    <longitude>-77.5333333</longitude>
+  </city>
+  <city name="Little Farmers Cay">
+    <latitude>23.95</latitude>
+    <longitude>-76.3166667</longitude>
+  </city>
+  <city name="Long Bay">
+    <latitude>24.0</latitude>
+    <longitude>-74.5166667</longitude>
+  </city>
+  <city name="Louis Town">
+    <latitude>25.55</latitude>
+    <longitude>-79.2833333</longitude>
+  </city>
+  <city name="Love Hill">
+    <latitude>24.75</latitude>
+    <longitude>-77.85</longitude>
+  </city>
+  <city name="Love">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.5</longitude>
+  </city>
+  <city name="Lovely Bay">
+    <latitude>22.6833333</latitude>
+    <longitude>-73.9666667</longitude>
+  </city>
+  <city name="Lower Bogue">
+    <latitude>25.4666667</latitude>
+    <longitude>-76.7166667</longitude>
+  </city>
+  <city name="Lower Deadman's Cay">
+    <latitude>23.1833333</latitude>
+    <longitude>-75.1</longitude>
+  </city>
+  <city name="Lowe Sound">
+    <latitude>25.15</latitude>
+    <longitude>-78.0666667</longitude>
+  </city>
+  <city name="Lucaya">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.6666667</longitude>
+  </city>
+  <city name="Macbride">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.4666667</longitude>
+  </city>
+  <city name="Majors">
+    <latitude>22.6833333</latitude>
+    <longitude>-74.1166667</longitude>
+  </city>
+  <city name="Mangrove Bush">
+    <latitude>23.1333333</latitude>
+    <longitude>-75.0666667</longitude>
+  </city>
+  <city name="Mangrove Cay">
+    <latitude>24.25</latitude>
+    <longitude>-77.65</longitude>
+  </city>
+  <city name="Mangrove Cay Settlement">
+    <latitude>24.25</latitude>
+    <longitude>-77.65</longitude>
+  </city>
+  <city name="Man of War Cay">
+    <latitude>26.6</latitude>
+    <longitude>-77.0</longitude>
+  </city>
+  <city name="Man of War Sound">
+    <latitude>24.55</latitude>
+    <longitude>-77.75</longitude>
+  </city>
+  <city name="Mars Bay">
+    <latitude>23.8666667</latitude>
+    <longitude>-77.5166667</longitude>
+  </city>
+  <city name="Mars Bay Settlement">
+    <latitude>23.8666667</latitude>
+    <longitude>-77.5166667</longitude>
+  </city>
+  <city name="Marsh Harbor">
+    <latitude>26.55</latitude>
+    <longitude>-77.05</longitude>
+  </city>
+  <city name="Marsh Harbour">
+    <latitude>26.55</latitude>
+    <longitude>-77.05</longitude>
+  </city>
+  <city name="Martin Town">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.8</longitude>
+  </city>
+  <city name="Masons Bay">
+    <latitude>22.5333333</latitude>
+    <longitude>-73.8833333</longitude>
+  </city>
+  <city name="Mastic Point">
+    <latitude>25.05</latitude>
+    <longitude>-77.95</longitude>
+  </city>
+  <city name="Mastic Point Settlement">
+    <latitude>25.05</latitude>
+    <longitude>-77.95</longitude>
+  </city>
+  <city name="Mathew Town">
+    <latitude>20.95</latitude>
+    <longitude>-73.6666667</longitude>
+  </city>
+  <city name="Matthew Town">
+    <latitude>20.95</latitude>
+    <longitude>-73.6666667</longitude>
+  </city>
+  <city name="Mc Bride">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.4666667</longitude>
+  </city>
+  <city name="McCanns">
+    <latitude>23.3666667</latitude>
+    <longitude>-75.1666667</longitude>
+  </city>
+  <city name="McKanns">
+    <latitude>23.3666667</latitude>
+    <longitude>-75.1666667</longitude>
+  </city>
+  <city name="McKenzie">
+    <latitude>23.0166667</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="McLeans Town">
+    <latitude>26.6</latitude>
+    <longitude>-77.95</longitude>
+  </city>
+  <city name="McQueens">
+    <latitude>24.1666667</latitude>
+    <longitude>-75.4666667</longitude>
+  </city>
+  <city name="Mc Queens Settlement">
+    <latitude>24.1666667</latitude>
+    <longitude>-75.4666667</longitude>
+  </city>
+  <city name="Michelson">
+    <latitude>23.4833333</latitude>
+    <longitude>-75.7666667</longitude>
+  </city>
+  <city name="Millar Heights">
+    <latitude>25.0166667</latitude>
+    <longitude>-77.3833333</longitude>
+  </city>
+  <city name="Millars">
+    <latitude>24.9833333</latitude>
+    <longitude>-77.45</longitude>
+  </city>
+  <city name="Miller Hill">
+    <latitude>24.65</latitude>
+    <longitude>-76.1666667</longitude>
+  </city>
+  <city name="Miller">
+    <latitude>24.9833333</latitude>
+    <longitude>-77.45</longitude>
+  </city>
+  <city name="Millers Hill">
+    <latitude>25.1166667</latitude>
+    <longitude>-77.9833333</longitude>
+  </city>
+  <city name="Millers">
+    <latitude>23.4</latitude>
+    <longitude>-75.1666667</longitude>
+  </city>
+  <city name="Millerton">
+    <latitude>23.55</latitude>
+    <longitude>-75.25</longitude>
+  </city>
+  <city name="Millerton Settlement">
+    <latitude>23.55</latitude>
+    <longitude>-75.25</longitude>
+  </city>
+  <city name="Minns">
+    <latitude>24.7</latitude>
+    <longitude>-77.7666667</longitude>
+  </city>
+  <city name="Mitchison">
+    <latitude>23.4833333</latitude>
+    <longitude>-75.7666667</longitude>
+  </city>
+  <city name="Montreal">
+    <latitude>23.9666667</latitude>
+    <longitude>-74.5</longitude>
+  </city>
+  <city name="Morant Bay">
+    <latitude>22.4</latitude>
+    <longitude>-74.0333333</longitude>
+  </city>
+  <city name="Morgan's Bluff">
+    <latitude>25.1666667</latitude>
+    <longitude>-78.0333333</longitude>
+  </city>
+  <city name="Mortimers">
+    <latitude>22.9</latitude>
+    <longitude>-74.8666667</longitude>
+  </city>
+  <city name="Mortimers Settlement">
+    <latitude>22.9</latitude>
+    <longitude>-74.8666667</longitude>
+  </city>
+  <city name="Moss Town">
+    <latitude>24.25</latitude>
+    <longitude>-75.3833333</longitude>
+  </city>
+  <city name="Mount Hope">
+    <latitude>26.9</latitude>
+    <longitude>-77.7666667</longitude>
+  </city>
+  <city name="Mount Pleasant">
+    <latitude>25.0166667</latitude>
+    <longitude>-77.5166667</longitude>
+  </city>
+  <city name="Mount Thompson">
+    <latitude>23.5833333</latitude>
+    <longitude>-75.8833333</longitude>
+  </city>
+  <city name="Mount Thompson Settlement">
+    <latitude>23.5833333</latitude>
+    <longitude>-75.8833333</longitude>
+  </city>
+  <city name="Moxey Town">
+    <latitude>24.3</latitude>
+    <longitude>-77.6833333</longitude>
+  </city>
+  <city name="Murphy Town">
+    <latitude>26.55</latitude>
+    <longitude>-77.1</longitude>
+  </city>
+  <city name="Nassau City">
+    <latitude>25.0833333</latitude>
+    <longitude>-77.35</longitude>
+  </city>
+  <city name="Nassau Estate">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.2833333</longitude>
+  </city>
+  <city name="Nassau">
+    <latitude>25.0833333</latitude>
+    <longitude>-77.35</longitude>
+  </city>
+  <city name="New Bight">
+    <latitude>24.3</latitude>
+    <longitude>-75.4166667</longitude>
+  </city>
+  <city name="New Bight Settlement">
+    <latitude>24.3</latitude>
+    <longitude>-75.4166667</longitude>
+  </city>
+  <city name="New Plymouth">
+    <latitude>26.8333333</latitude>
+    <longitude>-77.3833333</longitude>
+  </city>
+  <city name="New Plymouth Town">
+    <latitude>26.8333333</latitude>
+    <longitude>-77.3833333</longitude>
+  </city>
+  <city name="New Portsmouth">
+    <latitude>24.9</latitude>
+    <longitude>-76.2</longitude>
+  </city>
+  <city name="New Portsmouth Settlement">
+    <latitude>24.9</latitude>
+    <longitude>-76.2</longitude>
+  </city>
+  <city name="Nicholls Town">
+    <latitude>25.1333333</latitude>
+    <longitude>-78.0</longitude>
+  </city>
+  <city name="Nicolls Town">
+    <latitude>25.1333333</latitude>
+    <longitude>-78.0</longitude>
+  </city>
+  <city name="Nicols Town">
+    <latitude>25.1333333</latitude>
+    <longitude>-78.0</longitude>
+  </city>
+  <city name="Norman Castle">
+    <latitude>26.7</latitude>
+    <longitude>-77.4333333</longitude>
+  </city>
+  <city name="Normans Castle">
+    <latitude>26.7</latitude>
+    <longitude>-77.4333333</longitude>
+  </city>
+  <city name="North Palmetto Point">
+    <latitude>25.1666667</latitude>
+    <longitude>-76.1833333</longitude>
+  </city>
+  <city name="North Palmetto Point Settlement">
+    <latitude>25.1666667</latitude>
+    <longitude>-76.1833333</longitude>
+  </city>
+  <city name="Old Bight">
+    <latitude>24.25</latitude>
+    <longitude>-75.35</longitude>
+  </city>
+  <city name="Old Grays">
+    <latitude>23.2166667</latitude>
+    <longitude>-75.0833333</longitude>
+  </city>
+  <city name="Old Place">
+    <latitude>23.9666667</latitude>
+    <longitude>-74.4833333</longitude>
+  </city>
+  <city name="O'Neils">
+    <latitude>23.5</latitude>
+    <longitude>-75.2166667</longitude>
+  </city>
+  <city name="Orange Creek">
+    <latitude>24.65</latitude>
+    <longitude>-75.7166667</longitude>
+  </city>
+  <city name="Orange Hill">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.4833333</longitude>
+  </city>
+  <city name="Owens Town">
+    <latitude>24.8833333</latitude>
+    <longitude>-78.0333333</longitude>
+  </city>
+  <city name="Palmetto Point">
+    <latitude>25.1666667</latitude>
+    <longitude>-76.1666667</longitude>
+  </city>
+  <city name="Pelican Point">
+    <latitude>26.65</latitude>
+    <longitude>-78.0833333</longitude>
+  </city>
+  <city name="Pelican Point Settlement">
+    <latitude>26.65</latitude>
+    <longitude>-78.0833333</longitude>
+  </city>
+  <city name="Philippi Settlement">
+    <latitude>26.4833333</latitude>
+    <longitude>-78.6833333</longitude>
+  </city>
+  <city name="Pibder Point Settlement">
+    <latitude>26.4833333</latitude>
+    <longitude>-78.6833333</longitude>
+  </city>
+  <city name="Pinder Point">
+    <latitude>26.4833333</latitude>
+    <longitude>-78.6833333</longitude>
+  </city>
+  <city name="Pinders">
+    <latitude>23.2833333</latitude>
+    <longitude>-75.1</longitude>
+  </city>
+  <city name="Pinders Point">
+    <latitude>26.4833333</latitude>
+    <longitude>-78.6833333</longitude>
+  </city>
+  <city name="Pinefield">
+    <latitude>22.65</latitude>
+    <longitude>-73.8666667</longitude>
+  </city>
+  <city name="Pine Ridge">
+    <latitude>26.55</latitude>
+    <longitude>-78.7333333</longitude>
+  </city>
+  <city name="Pinewood Gardens Estate">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.0</longitude>
+  </city>
+  <city name="Pirates Well">
+    <latitude>22.4333333</latitude>
+    <longitude>-73.0666667</longitude>
+  </city>
+  <city name="Pirate Well">
+    <latitude>22.4333333</latitude>
+    <longitude>-73.0666667</longitude>
+  </city>
+  <city name="Pitts Town">
+    <latitude>22.8</latitude>
+    <longitude>-74.35</longitude>
+  </city>
+  <city name="Pitts Town Point">
+    <latitude>22.8</latitude>
+    <longitude>-74.35</longitude>
+  </city>
+  <city name="Polly Hill">
+    <latitude>24.0833333</latitude>
+    <longitude>-74.4333333</longitude>
+  </city>
+  <city name="Pompey Bay">
+    <latitude>22.4</latitude>
+    <longitude>-74.0166667</longitude>
+  </city>
+  <city name="Port Boyd">
+    <latitude>23.7</latitude>
+    <longitude>-74.85</longitude>
+  </city>
+  <city name="Port Boyd Settlement">
+    <latitude>23.7</latitude>
+    <longitude>-74.85</longitude>
+  </city>
+  <city name="Port Howe">
+    <latitude>24.15</latitude>
+    <longitude>-75.3166667</longitude>
+  </city>
+  <city name="Port Nelson">
+    <latitude>23.6333333</latitude>
+    <longitude>-74.8333333</longitude>
+  </city>
+  <city name="Pure Gold">
+    <latitude>23.9666667</latitude>
+    <longitude>-77.5333333</longitude>
+  </city>
+  <city name="Quarters">
+    <latitude>24.1</latitude>
+    <longitude>-74.5166667</longitude>
+  </city>
+  <city name="Ramsey">
+    <latitude>23.5666667</latitude>
+    <longitude>-75.8666667</longitude>
+  </city>
+  <city name="Ramsey's">
+    <latitude>23.5666667</latitude>
+    <longitude>-75.8666667</longitude>
+  </city>
+  <city name="Reckley Hill">
+    <latitude>24.1</latitude>
+    <longitude>-74.45</longitude>
+  </city>
+  <city name="Red Bay">
+    <latitude>25.1333333</latitude>
+    <longitude>-78.1833333</longitude>
+  </city>
+  <city name="Red Bay Settlement">
+    <latitude>25.1333333</latitude>
+    <longitude>-78.1833333</longitude>
+  </city>
+  <city name="Red Bays">
+    <latitude>25.1333333</latitude>
+    <longitude>-78.1833333</longitude>
+  </city>
+  <city name="Richmond Hill">
+    <latitude>23.5666667</latitude>
+    <longitude>-76.0166667</longitude>
+  </city>
+  <city name="Richmond Hill Settlement">
+    <latitude>23.5666667</latitude>
+    <longitude>-76.0166667</longitude>
+  </city>
+  <city name="Richmond">
+    <latitude>22.8</latitude>
+    <longitude>-74.3333333</longitude>
+  </city>
+  <city name="Riding Rocks">
+    <latitude>24.0333333</latitude>
+    <longitude>-74.5166667</longitude>
+  </city>
+  <city name="Roakers">
+    <latitude>24.5166667</latitude>
+    <longitude>-75.5833333</longitude>
+  </city>
+  <city name="Roberts Town">
+    <latitude>26.6666667</latitude>
+    <longitude>-78.95</longitude>
+  </city>
+  <city name="Rock Sound">
+    <latitude>24.9</latitude>
+    <longitude>-76.2</longitude>
+  </city>
+  <city name="Rokers Point Settlement">
+    <latitude>23.6166667</latitude>
+    <longitude>-75.9166667</longitude>
+  </city>
+  <city name="Roker's">
+    <latitude>24.5166667</latitude>
+    <longitude>-75.5833333</longitude>
+  </city>
+  <city name="Rollesville">
+    <latitude>23.6833333</latitude>
+    <longitude>-76.0</longitude>
+  </city>
+  <city name="Rolletown">
+    <latitude>23.4666667</latitude>
+    <longitude>-75.7</longitude>
+  </city>
+  <city name="Rolle Town">
+    <latitude>24.0</latitude>
+    <longitude>-77.55</longitude>
+  </city>
+  <city name="Rolleville">
+    <latitude>23.6833333</latitude>
+    <longitude>-76.0</longitude>
+  </city>
+  <city name="Roses">
+    <latitude>22.9833333</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Roses Settlement">
+    <latitude>22.9833333</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Roseville">
+    <latitude>23.6833333</latitude>
+    <longitude>-76.0</longitude>
+  </city>
+  <city name="Russell Town">
+    <latitude>26.5166667</latitude>
+    <longitude>-78.7</longitude>
+  </city>
+  <city name="Salina Point">
+    <latitude>22.2</latitude>
+    <longitude>-74.25</longitude>
+  </city>
+  <city name="Salina Point Settlement">
+    <latitude>22.2</latitude>
+    <longitude>-74.25</longitude>
+  </city>
+  <city name="Salt Pond">
+    <latitude>23.4166667</latitude>
+    <longitude>-75.1166667</longitude>
+  </city>
+  <city name="Salt Pond Settlement">
+    <latitude>23.4166667</latitude>
+    <longitude>-75.1166667</longitude>
+  </city>
+  <city name="Sam McKinnons">
+    <latitude>23.4</latitude>
+    <longitude>-75.1833333</longitude>
+  </city>
+  <city name="San Andros Bahama Village">
+    <latitude>25.0666667</latitude>
+    <longitude>-78.05</longitude>
+  </city>
+  <city name="San Andros">
+    <latitude>25.0666667</latitude>
+    <longitude>-78.05</longitude>
+  </city>
+  <city name="Sandilands Village">
+    <latitude>25.05</latitude>
+    <longitude>-77.3166667</longitude>
+  </city>
+  <city name="Sandy Point">
+    <latitude>26.0166667</latitude>
+    <longitude>-77.4</longitude>
+  </city>
+  <city name="Sandy Point Settlement">
+    <latitude>26.0166667</latitude>
+    <longitude>-77.4</longitude>
+  </city>
+  <city name="Savannah Sound">
+    <latitude>25.1</latitude>
+    <longitude>-76.15</longitude>
+  </city>
+  <city name="Savannah Sound Settlement">
+    <latitude>25.1</latitude>
+    <longitude>-76.15</longitude>
+  </city>
+  <city name="Savanna Sound">
+    <latitude>25.1</latitude>
+    <longitude>-76.15</longitude>
+  </city>
+  <city name="Scrub Hill">
+    <latitude>23.1</latitude>
+    <longitude>-75.0166667</longitude>
+  </city>
+  <city name="Sea Breeze Estates">
+    <latitude>25.0166667</latitude>
+    <longitude>-77.3166667</longitude>
+  </city>
+  <city name="Sea Grape">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.8166667</longitude>
+  </city>
+  <city name="Sea Grape Village">
+    <latitude>26.5333333</latitude>
+    <longitude>-78.8166667</longitude>
+  </city>
+  <city name="Seaview Settlement">
+    <latitude>22.8166667</latitude>
+    <longitude>-74.2833333</longitude>
+  </city>
+  <city name="Self Town">
+    <latitude>26.6</latitude>
+    <longitude>-77.95</longitude>
+  </city>
+  <city name="Seminets">
+    <latitude>24.8666667</latitude>
+    <longitude>-77.9333333</longitude>
+  </city>
+  <city name="Seymours Settlement">
+    <latitude>23.65</latitude>
+    <longitude>-75.3166667</longitude>
+  </city>
+  <city name="Seymour's">
+    <latitude>23.65</latitude>
+    <longitude>-75.3166667</longitude>
+  </city>
+  <city name="Simms Settlement">
+    <latitude>23.4833333</latitude>
+    <longitude>-75.2166667</longitude>
+  </city>
+  <city name="Simms">
+    <latitude>23.4833333</latitude>
+    <longitude>-75.2166667</longitude>
+  </city>
+  <city name="Smith Bay Settlement">
+    <latitude>24.3333333</latitude>
+    <longitude>-75.4666667</longitude>
+  </city>
+  <city name="Smith Bay">
+    <latitude>24.3333333</latitude>
+    <longitude>-75.4666667</longitude>
+  </city>
+  <city name="Smith Point">
+    <latitude>26.5</latitude>
+    <longitude>-78.6166667</longitude>
+  </city>
+  <city name="Smith's Hill">
+    <latitude>24.05</latitude>
+    <longitude>-77.5333333</longitude>
+  </city>
+  <city name="Smiths Point Settlement">
+    <latitude>26.5</latitude>
+    <longitude>-78.6166667</longitude>
+  </city>
+  <city name="Snake Cay">
+    <latitude>26.45</latitude>
+    <longitude>-77.05</longitude>
+  </city>
+  <city name="Snug Corner">
+    <latitude>22.5333333</latitude>
+    <longitude>-73.8833333</longitude>
+  </city>
+  <city name="South Palmetto Point Settlement">
+    <latitude>25.15</latitude>
+    <longitude>-76.1833333</longitude>
+  </city>
+  <city name="South Palmetto Point">
+    <latitude>25.15</latitude>
+    <longitude>-76.1722222</longitude>
+  </city>
+  <city name="South Victoria Hill">
+    <latitude>24.0</latitude>
+    <longitude>-74.4666667</longitude>
+  </city>
+  <city name="Southwest Point">
+    <latitude>26.4833333</latitude>
+    <longitude>-78.6833333</longitude>
+  </city>
+  <city name="Spanish Wells Settlement">
+    <latitude>25.55</latitude>
+    <longitude>-76.75</longitude>
+  </city>
+  <city name="Spanish Wells">
+    <latitude>25.55</latitude>
+    <longitude>-76.75</longitude>
+  </city>
+  <city name="Spring City">
+    <latitude>26.4833333</latitude>
+    <longitude>-77.0833333</longitude>
+  </city>
+  <city name="Spring Point">
+    <latitude>22.45</latitude>
+    <longitude>-74.0</longitude>
+  </city>
+  <city name="Stafford Creek">
+    <latitude>24.8833333</latitude>
+    <longitude>-77.9</longitude>
+  </city>
+  <city name="Stafford">
+    <latitude>24.8833333</latitude>
+    <longitude>-77.9</longitude>
+  </city>
+  <city name="Staniard Creek Settlement">
+    <latitude>24.8333333</latitude>
+    <longitude>-77.8833333</longitude>
+  </city>
+  <city name="Staniard Creek">
+    <latitude>24.8333333</latitude>
+    <longitude>-77.8833333</longitude>
+  </city>
+  <city name="Stanyard Creek">
+    <latitude>24.8333333</latitude>
+    <longitude>-77.8833333</longitude>
+  </city>
+  <city name="Stapleton Gardens">
+    <latitude>25.05</latitude>
+    <longitude>-77.3666667</longitude>
+  </city>
+  <city name="Stella Maris">
+    <latitude>23.6</latitude>
+    <longitude>-75.3</longitude>
+  </city>
+  <city name="Stepentown">
+    <latitude>23.65</latitude>
+    <longitude>-75.95</longitude>
+  </city>
+  <city name="Stephenson Settlement">
+    <latitude>24.4333333</latitude>
+    <longitude>-75.5333333</longitude>
+  </city>
+  <city name="Stephenson">
+    <latitude>24.4333333</latitude>
+    <longitude>-75.5333333</longitude>
+  </city>
+  <city name="Stephentown">
+    <latitude>23.65</latitude>
+    <longitude>-75.95</longitude>
+  </city>
+  <city name="Stevens">
+    <latitude>23.0833333</latitude>
+    <longitude>-75.0166667</longitude>
+  </city>
+  <city name="Stevenston">
+    <latitude>23.65</latitude>
+    <longitude>-75.95</longitude>
+  </city>
+  <city name="Steventon">
+    <latitude>23.65</latitude>
+    <longitude>-75.95</longitude>
+  </city>
+  <city name="Stuart Manor">
+    <latitude>23.6333333</latitude>
+    <longitude>-76.0</longitude>
+  </city>
+  <city name="Sugar Loaf">
+    <latitude>23.65</latitude>
+    <longitude>-74.5166667</longitude>
+  </city>
+  <city name="Sweeting Cay">
+    <latitude>26.6</latitude>
+    <longitude>-77.8833333</longitude>
+  </city>
+  <city name="Sweeting's Cay Settlement">
+    <latitude>26.6</latitude>
+    <longitude>-77.8833333</longitude>
+  </city>
+  <city name="Sweetings Village">
+    <latitude>26.35</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="Taits">
+    <latitude>22.9833333</latitude>
+    <longitude>-74.8833333</longitude>
+  </city>
+  <city name="Tarpum Bay Settlement">
+    <latitude>24.9666667</latitude>
+    <longitude>-76.1833333</longitude>
+  </city>
+  <city name="Tarpum Bay">
+    <latitude>24.9666667</latitude>
+    <longitude>-76.1833333</longitude>
+  </city>
+  <city name="Tasculum">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.4833333</longitude>
+  </city>
+  <city name="Tatnall">
+    <latitude>23.4833333</latitude>
+    <longitude>-75.2</longitude>
+  </city>
+  <city name="Tea Bay Settlement">
+    <latitude>24.4</latitude>
+    <longitude>-75.5166667</longitude>
+  </city>
+  <city name="Tea Bay">
+    <latitude>24.4</latitude>
+    <longitude>-75.5166667</longitude>
+  </city>
+  <city name="The Bight Settlement">
+    <latitude>24.3166667</latitude>
+    <longitude>-75.4</longitude>
+  </city>
+  <city name="The Bight">
+    <latitude>24.3166667</latitude>
+    <longitude>-75.4</longitude>
+  </city>
+  <city name="The Bluff Settlement see The Bluff">
+    <latitude>25.5</latitude>
+    <longitude>-76.7333333</longitude>
+  </city>
+  <city name="The Bluff">
+    <latitude>25.5</latitude>
+    <longitude>-76.7333333</longitude>
+  </city>
+  <city name="The Charlton">
+    <latitude>22.3666667</latitude>
+    <longitude>-72.9666667</longitude>
+  </city>
+  <city name="The Current">
+    <latitude>25.4333333</latitude>
+    <longitude>-76.7833333</longitude>
+  </city>
+  <city name="The Ferry Settlement">
+    <latitude>23.45</latitude>
+    <longitude>-75.5666667</longitude>
+  </city>
+  <city name="The Forest">
+    <latitude>23.5833333</latitude>
+    <longitude>-75.9166667</longitude>
+  </city>
+  <city name="The Lot Settlement">
+    <latitude>24.6333333</latitude>
+    <longitude>-75.6833333</longitude>
+  </city>
+  <city name="The Lot">
+    <latitude>24.6333333</latitude>
+    <longitude>-75.6833333</longitude>
+  </city>
+  <city name="The Rock Cay">
+    <latitude>26.2833333</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="The Village">
+    <latitude>24.25</latitude>
+    <longitude>-75.4</longitude>
+  </city>
+  <city name="Thomas Town">
+    <latitude>26.65</latitude>
+    <longitude>-78.9666667</longitude>
+  </city>
+  <city name="Thurston Hill">
+    <latitude>24.5333333</latitude>
+    <longitude>-75.6333333</longitude>
+  </city>
+  <city name="Trial Farm">
+    <latitude>23.9666667</latitude>
+    <longitude>-74.4833333</longitude>
+  </city>
+  <city name="True Blue">
+    <latitude>22.0666667</latitude>
+    <longitude>-74.0666667</longitude>
+  </city>
+  <city name="Turnbull">
+    <latitude>23.0833333</latitude>
+    <longitude>-75.0166667</longitude>
+  </city>
+  <city name="Tusculum">
+    <latitude>25.0666667</latitude>
+    <longitude>-77.4833333</longitude>
+  </city>
+  <city name="Twin Lakes">
+    <latitude>24.7166667</latitude>
+    <longitude>-77.9833333</longitude>
+  </city>
+  <city name="United Estates">
+    <latitude>24.1</latitude>
+    <longitude>-74.45</longitude>
+  </city>
+  <city name="Upper Bogue">
+    <latitude>25.45</latitude>
+    <longitude>-76.6666667</longitude>
+  </city>
+  <city name="Victoria Hill">
+    <latitude>24.0333333</latitude>
+    <longitude>-74.4666667</longitude>
+  </city>
+  <city name="Victoria Village">
+    <latitude>23.0833333</latitude>
+    <longitude>-74.95</longitude>
+  </city>
+  <city name="Vincent Town">
+    <latitude>26.6666667</latitude>
+    <longitude>-78.95</longitude>
+  </city>
+  <city name="Water Cay Settlement">
+    <latitude>26.75</latitude>
+    <longitude>-78.5</longitude>
+  </city>
+  <city name="Water Cay">
+    <latitude>26.75</latitude>
+    <longitude>-78.5</longitude>
+  </city>
+  <city name="Waterford Settlement">
+    <latitude>24.75</latitude>
+    <longitude>-76.2333333</longitude>
+  </city>
+  <city name="Waterford">
+    <latitude>24.75</latitude>
+    <longitude>-76.2333333</longitude>
+  </city>
+  <city name="Waterloo">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.5333333</longitude>
+  </city>
+  <city name="Wemyss Bight">
+    <latitude>24.75</latitude>
+    <longitude>-76.25</longitude>
+  </city>
+  <city name="Wemyss's Bight">
+    <latitude>24.75</latitude>
+    <longitude>-76.25</longitude>
+  </city>
+  <city name="Wemyss Settlement">
+    <latitude>24.75</latitude>
+    <longitude>-76.25</longitude>
+  </city>
+  <city name="Wemyss">
+    <latitude>23.4166667</latitude>
+    <longitude>-75.1833333</longitude>
+  </city>
+  <city name="West End Settlement">
+    <latitude>26.6833333</latitude>
+    <longitude>-78.9666667</longitude>
+  </city>
+  <city name="West End">
+    <latitude>26.6833333</latitude>
+    <longitude>-78.9666667</longitude>
+  </city>
+  <city name="West Waterloo">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.5333333</longitude>
+  </city>
+  <city name="Whitehouse">
+    <latitude>23.4</latitude>
+    <longitude>-75.1666667</longitude>
+  </city>
+  <city name="Whymms Bight">
+    <latitude>24.75</latitude>
+    <longitude>-76.25</longitude>
+  </city>
+  <city name="William Hope">
+    <latitude>22.8</latitude>
+    <longitude>-74.35</longitude>
+  </city>
+  <city name="William's Town">
+    <latitude>23.4166667</latitude>
+    <longitude>-75.55</longitude>
+  </city>
+  <city name="Williams Town">
+    <latitude>26.4833333</latitude>
+    <longitude>-78.6666667</longitude>
+  </city>
+  <city name="William Town">
+    <latitude>23.4166667</latitude>
+    <longitude>-75.55</longitude>
+  </city>
+  <city name="Wilson City">
+    <latitude>26.3666667</latitude>
+    <longitude>-77.0333333</longitude>
+  </city>
+  <city name="Windermere">
+    <latitude>25.1</latitude>
+    <longitude>-76.15</longitude>
+  </city>
+  <city name="Winton Heights">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.2666667</longitude>
+  </city>
+  <city name="Winton Meadows">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.2666667</longitude>
+  </city>
+  <city name="Winton">
+    <latitude>25.05</latitude>
+    <longitude>-77.2833333</longitude>
+  </city>
+  <city name="Wood Cay Settlement">
+    <latitude>26.9</latitude>
+    <longitude>-77.7333333</longitude>
+  </city>
+  <city name="Wood Cay">
+    <latitude>26.9</latitude>
+    <longitude>-77.7333333</longitude>
+  </city>
+  <city name="Yamacraw Beach Estate">
+    <latitude>25.0333333</latitude>
+    <longitude>-77.2833333</longitude>
+  </city>
+  <city name="Zanicles Settlement">
+    <latitude>24.1333333</latitude>
+    <longitude>-75.3666667</longitude>
+  </city>
+  <city name="Zion Hill">
+    <latitude>24.6166667</latitude>
+    <longitude>-75.65</longitude>
+  </city>
+  <city name="Zonicles">
+    <latitude>24.1333333</latitude>
+    <longitude>-75.3666667</longitude>
+  </city>
+</country>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="mc" name="Monaco">
+  <city name="Condamine">
+    <latitude>43.7333333</latitude>
+    <longitude>7.4166667</longitude>
+  </city>
+  <city name="Fontvieille">
+    <latitude>43.7333333</latitude>
+    <longitude>7.4166667</longitude>
+  </city>
+  <city name="La Condamine">
+    <latitude>43.7333333</latitude>
+    <longitude>7.4166667</longitude>
+  </city>
+  <city name="Monaco">
+    <latitude>43.7333333</latitude>
+    <longitude>7.4166667</longitude>
+  </city>
+  <city name="Monaco-Ville">
+    <latitude>43.7333333</latitude>
+    <longitude>7.4166667</longitude>
+  </city>
+  <city name="Moneghetti">
+    <latitude>43.7375</latitude>
+    <longitude>7.4152778</longitude>
+  </city>
+  <city name="Monte-Carlo">
+    <latitude>43.7333333</latitude>
+    <longitude>7.4166667</longitude>
+  </city>
+</country>

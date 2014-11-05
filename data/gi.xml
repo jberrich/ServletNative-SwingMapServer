@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="gi" name="Gibraltar">
+  <city name="Caleta">
+    <latitude>36.1333333</latitude>
+    <longitude>-5.3333333</longitude>
+  </city>
+  <city name="Catalan Bay">
+    <latitude>36.1333333</latitude>
+    <longitude>-5.3333333</longitude>
+  </city>
+  <city name="Catalan Bay Village">
+    <latitude>36.1333333</latitude>
+    <longitude>-5.3333333</longitude>
+  </city>
+  <city name="Catalan">
+    <latitude>36.1333333</latitude>
+    <longitude>-5.3333333</longitude>
+  </city>
+  <city name="Gibilterra">
+    <latitude>36.1333333</latitude>
+    <longitude>-5.35</longitude>
+  </city>
+  <city name="Gibraltar">
+    <latitude>36.1333333</latitude>
+    <longitude>-5.35</longitude>
+  </city>
+  <city name="Rosia">
+    <latitude>36.1166667</latitude>
+    <longitude>-5.35</longitude>
+  </city>
+  <city name="Waterport">
+    <latitude>36.1333333</latitude>
+    <longitude>-5.35</longitude>
+  </city>
+</country>

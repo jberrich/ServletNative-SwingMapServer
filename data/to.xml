@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="to" name="Tonga">
+  <city name="Afa">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.05</longitude>
+  </city>
+  <city name="`Ahau">
+    <latitude>-21.1</latitude>
+    <longitude>-175.35</longitude>
+  </city>
+  <city name="Alaki">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.1333333</longitude>
+  </city>
+  <city name="Alaki Fonua">
+    <latitude>-19.75</latitude>
+    <longitude>-174.3166667</longitude>
+  </city>
+  <city name="Bagai">
+    <latitude>-19.8</latitude>
+    <longitude>-174.35</longitude>
+  </city>
+  <city name="Bangai">
+    <latitude>-19.8</latitude>
+    <longitude>-174.35</longitude>
+  </city>
+  <city name="Bea">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2333333</longitude>
+  </city>
+  <city name="Buke">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.2333333</longitude>
+  </city>
+  <city name="Bukutala">
+    <latitude>-19.6833333</latitude>
+    <longitude>-174.2833333</longitude>
+  </city>
+  <city name="Buleieia">
+    <latitude>-19.6</latitude>
+    <longitude>-174.45</longitude>
+  </city>
+  <city name="Esia">
+    <latitude>-15.5666667</latitude>
+    <longitude>-175.6333333</longitude>
+  </city>
+  <city name="Fahefa">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Fakakai">
+    <latitude>-19.6833333</latitude>
+    <longitude>-174.2833333</longitude>
+  </city>
+  <city name="Falehau">
+    <latitude>-15.9333333</latitude>
+    <longitude>-173.7333333</longitude>
+  </city>
+  <city name="Faleloa">
+    <latitude>-19.7333333</latitude>
+    <longitude>-174.2833333</longitude>
+  </city>
+  <city name="Faleono">
+    <latitude>-18.6333333</latitude>
+    <longitude>-173.95</longitude>
+  </city>
+  <city name="Fatai">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.2833333</longitude>
+  </city>
+  <city name="Fata`ulua">
+    <latitude>-15.5666667</latitude>
+    <longitude>-175.6166667</longitude>
+  </city>
+  <city name="Fatuma">
+    <latitude>-21.2</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Fatumu">
+    <latitude>-21.2</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Feletoa">
+    <latitude>-18.6166667</latitude>
+    <longitude>-173.9666667</longitude>
+  </city>
+  <city name="Folaha">
+    <latitude>-21.1666667</latitude>
+    <longitude>-175.1833333</longitude>
+  </city>
+  <city name="Fonginonga">
+    <latitude>-19.75</latitude>
+    <longitude>-174.3333333</longitude>
+  </city>
+  <city name="Fo`ui">
+    <latitude>-21.1166667</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Fua`amotu">
+    <latitude>-21.25</latitude>
+    <longitude>-175.1333333</longitude>
+  </city>
+  <city name="Ha`akame">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2833333</longitude>
+  </city>
+  <city name="Ha`akili">
+    <latitude>-21.1</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Ha`alalo">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2833333</longitude>
+  </city>
+  <city name="Haalaufuli">
+    <latitude>-18.6166667</latitude>
+    <longitude>-173.9333333</longitude>
+  </city>
+  <city name="Ha`ano">
+    <latitude>-19.6666667</latitude>
+    <longitude>-174.3</longitude>
+  </city>
+  <city name="Ha`asini">
+    <latitude>-21.25</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Ha`atafu">
+    <latitude>-21.0666667</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Ha`ateiho">
+    <latitude>-21.1666667</latitude>
+    <longitude>-175.2333333</longitude>
+  </city>
+  <city name="Haatua">
+    <latitude>-21.3833333</latitude>
+    <longitude>-174.9666667</longitude>
+  </city>
+  <city name="Ha`avakatolo">
+    <latitude>-21.1</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Hamula">
+    <latitude>-21.25</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Hanak">
+    <latitude>-21.1</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Hatou">
+    <latitude>-19.8166667</latitude>
+    <longitude>-174.35</longitude>
+  </city>
+  <city name="Ha`utu">
+    <latitude>-21.1416667</latitude>
+    <longitude>-175.3291667</longitude>
+  </city>
+  <city name="Havelu">
+    <latitude>-21.15</latitude>
+    <longitude>-175.2166667</longitude>
+  </city>
+  <city name="Haveluliku">
+    <latitude>-21.2</latitude>
+    <longitude>-175.1</longitude>
+  </city>
+  <city name="Haveluloto">
+    <latitude>-21.15</latitude>
+    <longitude>-175.2166667</longitude>
+  </city>
+  <city name="Hihifo">
+    <latitude>-19.8166667</latitude>
+    <longitude>-174.3666667</longitude>
+  </city>
+  <city name="Hofoa">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.2166667</longitude>
+  </city>
+  <city name="Hoi">
+    <latitude>-21.1666667</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Holobeka">
+    <latitude>-19.7833333</latitude>
+    <longitude>-174.35</longitude>
+  </city>
+  <city name="Holonga">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.15</longitude>
+  </city>
+  <city name="Holopeka">
+    <latitude>-19.7833333</latitude>
+    <longitude>-174.35</longitude>
+  </city>
+  <city name="Houma">
+    <latitude>-21.1666667</latitude>
+    <longitude>-175.3</longitude>
+  </city>
+  <city name="Huma">
+    <latitude>-21.3166667</latitude>
+    <longitude>-174.9333333</longitude>
+  </city>
+  <city name="Kala`au">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Kanokupolu">
+    <latitude>-21.0833333</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Kolevai">
+    <latitude>-21.1</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Koloa">
+    <latitude>-18.65</latitude>
+    <longitude>-173.9333333</longitude>
+  </city>
+  <city name="Kolofuu">
+    <latitude>-21.2</latitude>
+    <longitude>-175.1666667</longitude>
+  </city>
+  <city name="Kolonga">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.0666667</longitude>
+  </city>
+  <city name="Kolovai">
+    <latitude>-21.1</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Koulo">
+    <latitude>-19.7833333</latitude>
+    <longitude>-174.35</longitude>
+  </city>
+  <city name="Lakepa">
+    <latitude>-21.15</latitude>
+    <longitude>-175.2833333</longitude>
+  </city>
+  <city name="Lavengatonga">
+    <latitude>-21.2333333</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Leimatu`a">
+    <latitude>-18.6</latitude>
+    <longitude>-173.9833333</longitude>
+  </city>
+  <city name="Logoteme">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.1666667</longitude>
+  </city>
+  <city name="Longomabu">
+    <latitude>-18.6333333</latitude>
+    <longitude>-174.05</longitude>
+  </city>
+  <city name="Longomapu">
+    <latitude>-18.6333333</latitude>
+    <longitude>-174.05</longitude>
+  </city>
+  <city name="Longoteme">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.1666667</longitude>
+  </city>
+  <city name="Lotofoa">
+    <latitude>-19.75</latitude>
+    <longitude>-174.3166667</longitude>
+  </city>
+  <city name="Makauga">
+    <latitude>-21.15</latitude>
+    <longitude>-175.1333333</longitude>
+  </city>
+  <city name="Makaunga">
+    <latitude>-21.15</latitude>
+    <longitude>-175.1333333</longitude>
+  </city>
+  <city name="Makave">
+    <latitude>-18.65</latitude>
+    <longitude>-173.9666667</longitude>
+  </city>
+  <city name="Malapo">
+    <latitude>-21.2</latitude>
+    <longitude>-175.15</longitude>
+  </city>
+  <city name="Mangia">
+    <latitude>-18.6166667</latitude>
+    <longitude>-173.95</longitude>
+  </city>
+  <city name="Manuka">
+    <latitude>-21.1166667</latitude>
+    <longitude>-175.1</longitude>
+  </city>
+  <city name="Masilamea">
+    <latitude>-21.1166667</latitude>
+    <longitude>-175.3166667</longitude>
+  </city>
+  <city name="Masitamea">
+    <latitude>-21.1166667</latitude>
+    <longitude>-175.3166667</longitude>
+  </city>
+  <city name="Mata`aho">
+    <latitude>-15.5833333</latitude>
+    <longitude>-175.6166667</longitude>
+  </city>
+  <city name="Matahau">
+    <latitude>-21.15</latitude>
+    <longitude>-175.3166667</longitude>
+  </city>
+  <city name="Mataika">
+    <latitude>-18.6166667</latitude>
+    <longitude>-173.9666667</longitude>
+  </city>
+  <city name="Matavai">
+    <latitude>-15.9666667</latitude>
+    <longitude>-173.75</longitude>
+  </city>
+  <city name="Moa">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Mu`a">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Muitoa">
+    <latitude>-19.65</latitude>
+    <longitude>-174.3</longitude>
+  </city>
+  <city name="Nakolo">
+    <latitude>-21.25</latitude>
+    <longitude>-175.1166667</longitude>
+  </city>
+  <city name="Navea">
+    <latitude>-19.8</latitude>
+    <longitude>-174.35</longitude>
+  </city>
+  <city name="Navutoka">
+    <latitude>-21.1166667</latitude>
+    <longitude>-175.1</longitude>
+  </city>
+  <city name="Neafu">
+    <latitude>-18.65</latitude>
+    <longitude>-173.9833333</longitude>
+  </city>
+  <city name="Nei-afo">
+    <latitude>-18.65</latitude>
+    <longitude>-173.9833333</longitude>
+  </city>
+  <city name="Neiafu">
+    <latitude>-21.0833333</latitude>
+    <longitude>-175.3333333</longitude>
+  </city>
+  <city name="Ngaakau">
+    <latitude>-18.6333333</latitude>
+    <longitude>-174.0166667</longitude>
+  </city>
+  <city name="Niukalofa">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.2</longitude>
+  </city>
+  <city name="Niutoua">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.05</longitude>
+  </city>
+  <city name="Nobabu">
+    <latitude>-18.7</latitude>
+    <longitude>-174.0833333</longitude>
+  </city>
+  <city name="Nopapu">
+    <latitude>-18.7</latitude>
+    <longitude>-174.0833333</longitude>
+  </city>
+  <city name="Nukalofa">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.2</longitude>
+  </city>
+  <city name="Nuku`alofa">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.2</longitude>
+  </city>
+  <city name="Nuku`aloia">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.2</longitude>
+  </city>
+  <city name="Nukuhetulu">
+    <latitude>-21.1666667</latitude>
+    <longitude>-175.2</longitude>
+  </city>
+  <city name="Nukuhi">
+    <latitude>-21.1666667</latitude>
+    <longitude>-175.2</longitude>
+  </city>
+  <city name="Nukuleka">
+    <latitude>-21.15</latitude>
+    <longitude>-175.1333333</longitude>
+  </city>
+  <city name="Nukunuku">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.3</longitude>
+  </city>
+  <city name="`Ohonua">
+    <latitude>-21.3333333</latitude>
+    <longitude>-174.95</longitude>
+  </city>
+  <city name="Paa">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2333333</longitude>
+  </city>
+  <city name="Pangai">
+    <latitude>-19.8</latitude>
+    <longitude>-174.35</longitude>
+  </city>
+  <city name="Pea">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2333333</longitude>
+  </city>
+  <city name="Petani">
+    <latitude>-15.6333333</latitude>
+    <longitude>-175.6166667</longitude>
+  </city>
+  <city name="Puke">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.2333333</longitude>
+  </city>
+  <city name="Pukotala">
+    <latitude>-19.6833333</latitude>
+    <longitude>-174.2833333</longitude>
+  </city>
+  <city name="Pukutala">
+    <latitude>-19.6833333</latitude>
+    <longitude>-174.2833333</longitude>
+  </city>
+  <city name="Puleieia">
+    <latitude>-19.6</latitude>
+    <longitude>-174.45</longitude>
+  </city>
+  <city name="Sapa`ata">
+    <latitude>-15.5666667</latitude>
+    <longitude>-175.6166667</longitude>
+  </city>
+  <city name="Ta`anea">
+    <latitude>-18.6</latitude>
+    <longitude>-173.95</longitude>
+  </city>
+  <city name="Talafo`ou">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.1</longitude>
+  </city>
+  <city name="Talafu">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.1</longitude>
+  </city>
+  <city name="Te`ekiu">
+    <latitude>-21.1333333</latitude>
+    <longitude>-175.3166667</longitude>
+  </city>
+  <city name="Tefisi">
+    <latitude>-18.6333333</latitude>
+    <longitude>-174.0166667</longitude>
+  </city>
+  <city name="Tofoa">
+    <latitude>-21.1666667</latitude>
+    <longitude>-175.2333333</longitude>
+  </city>
+  <city name="Tokomololo">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2666667</longitude>
+  </city>
+  <city name="Tongamama`o">
+    <latitude>-15.6166667</latitude>
+    <longitude>-175.6</longitude>
+  </city>
+  <city name="Tuanekevale">
+    <latitude>-18.6333333</latitude>
+    <longitude>-173.9166667</longitude>
+  </city>
+  <city name="Tu`anekivale">
+    <latitude>-18.6333333</latitude>
+    <longitude>-173.9166667</longitude>
+  </city>
+  <city name="Tu`anuku">
+    <latitude>-18.6666667</latitude>
+    <longitude>-174.0333333</longitude>
+  </city>
+  <city name="Tufavai">
+    <latitude>-21.3666667</latitude>
+    <longitude>-174.9666667</longitude>
+  </city>
+  <city name="Tufurai">
+    <latitude>-21.3666667</latitude>
+    <longitude>-174.9666667</longitude>
+  </city>
+  <city name="Tufu">
+    <latitude>-21.3666667</latitude>
+    <longitude>-174.9666667</longitude>
+  </city>
+  <city name="Utui">
+    <latitude>-18.6333333</latitude>
+    <longitude>-173.9666667</longitude>
+  </city>
+  <city name="`Utulau">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2666667</longitude>
+  </city>
+  <city name="Utulei">
+    <latitude>-18.65</latitude>
+    <longitude>-174.0</longitude>
+  </city>
+  <city name="Vaimalo">
+    <latitude>-18.6333333</latitude>
+    <longitude>-174.0</longitude>
+  </city>
+  <city name="Vaini">
+    <latitude>-21.2</latitude>
+    <longitude>-175.2</longitude>
+  </city>
+  <city name="Vaipoa">
+    <latitude>-15.95</latitude>
+    <longitude>-173.75</longitude>
+  </city>
+  <city name="Vaotu`u">
+    <latitude>-21.15</latitude>
+    <longitude>-175.3166667</longitude>
+  </city>
+  <city name="Veitogo">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2166667</longitude>
+  </city>
+  <city name="Veitongo">
+    <latitude>-21.1833333</latitude>
+    <longitude>-175.2166667</longitude>
+  </city>
+</country>

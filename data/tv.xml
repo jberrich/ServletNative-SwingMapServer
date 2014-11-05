@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="tv" name="Tuvalu">
+  <city name="Asau">
+    <latitude>-7.5</latitude>
+    <longitude>178.6666667</longitude>
+  </city>
+  <city name="Fongafale">
+    <latitude>-8.5166667</latitude>
+    <longitude>179.2166667</longitude>
+  </city>
+  <city name="Funafuti">
+    <latitude>-8.5166667</latitude>
+    <longitude>179.2166667</longitude>
+  </city>
+  <city name="Kulia">
+    <latitude>-6.1166667</latitude>
+    <longitude>177.2833333</longitude>
+  </city>
+  <city name="Lolua">
+    <latitude>-5.6666667</latitude>
+    <longitude>176.1333333</longitude>
+  </city>
+  <city name="Matagi">
+    <latitude>-7.4666667</latitude>
+    <longitude>178.7</longitude>
+  </city>
+  <city name="Muli">
+    <latitude>-7.4666667</latitude>
+    <longitude>178.6666667</longitude>
+  </city>
+  <city name="Polufale">
+    <latitude>-7.4666667</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Potufale">
+    <latitude>-7.4666667</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Saniuta">
+    <latitude>-7.4833333</latitude>
+    <longitude>178.7</longitude>
+  </city>
+  <city name="Tanrake">
+    <latitude>-7.25</latitude>
+    <longitude>177.15</longitude>
+  </city>
+  <city name="Tapotali">
+    <latitude>-7.25</latitude>
+    <longitude>177.15</longitude>
+  </city>
+  <city name="Tonga">
+    <latitude>-6.2833333</latitude>
+    <longitude>176.3166667</longitude>
+  </city>
+  <city name="Vaitupu">
+    <latitude>-7.4833333</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+</country>

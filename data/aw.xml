@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="aw" name="Aruba">
+  <city name="Angochi">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Arasji">
+    <latitude>12.6166667</latitude>
+    <longitude>-70.0666667</longitude>
+  </city>
+  <city name="Babijn">
+    <latitude>12.5333333</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Balashi">
+    <latitude>12.4833333</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Barcelona">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Blumond">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.9833333</longitude>
+  </city>
+  <city name="Boton">
+    <latitude>12.4833333</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Brasil">
+    <latitude>12.45</latitude>
+    <longitude>-69.9166667</longitude>
+  </city>
+  <city name="Bringamosa">
+    <latitude>12.4833333</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Bubali">
+    <latitude>12.55</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Bushiribana">
+    <latitude>12.55</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Bushiribans">
+    <latitude>12.55</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Butucu">
+    <latitude>12.4666667</latitude>
+    <longitude>-69.9</longitude>
+  </city>
+  <city name="Calabas">
+    <latitude>12.55</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Calbas">
+    <latitude>12.55</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Camacuri">
+    <latitude>12.5</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Canashito">
+    <latitude>12.5</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Canashitu">
+    <latitude>12.5</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Cas Ariba">
+    <latitude>12.5</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Cas di Paloma">
+    <latitude>12.4833333</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Cashero">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Casibari">
+    <latitude>12.5333333</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Catashi">
+    <latitude>12.5</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Catiri">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Ceru Colorado">
+    <latitude>12.4166667</latitude>
+    <longitude>-69.8666667</longitude>
+  </city>
+  <city name="Coba Lodo">
+    <latitude>12.5</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Cumaná">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Cunucu Abao">
+    <latitude>12.55</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Cura Cabai">
+    <latitude>12.4333333</latitude>
+    <longitude>-69.9166667</longitude>
+  </city>
+  <city name="Dacota">
+    <latitude>12.5</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Druif">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0666667</longitude>
+  </city>
+  <city name="Falcon">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Fontein">
+    <latitude>12.5</latitude>
+    <longitude>-69.9</longitude>
+  </city>
+  <city name="Gasparito">
+    <latitude>12.55</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Jamanota">
+    <latitude>12.4833333</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Jan Flemming">
+    <latitude>12.4833333</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Juwana Morto">
+    <latitude>12.4333333</latitude>
+    <longitude>-69.8833333</longitude>
+  </city>
+  <city name="Largo Cadushi">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Mabon">
+    <latitude>12.45</latitude>
+    <longitude>-69.9166667</longitude>
+  </city>
+  <city name="Macuarima">
+    <latitude>12.5</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Madiki">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Mahuma">
+    <latitude>12.5</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Marawiel">
+    <latitude>12.5333333</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Maria Mài">
+    <latitude>12.4833333</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Meiveld">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Moco">
+    <latitude>12.55</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Modansa">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Mon Pos">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Morgenster">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Noord Cura Cabai">
+    <latitude>12.45</latitude>
+    <longitude>-69.9333333</longitude>
+  </city>
+  <city name="Noord">
+    <latitude>12.5666667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Nuñe">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Oranjestad">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Palm Beach">
+    <latitude>12.5666667</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Paradera">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Paradijs">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Paraguaná">
+    <latitude>12.55</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Parkietenbos">
+    <latitude>12.4833333</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Pavía">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Picaron">
+    <latitude>12.5</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Piedra Plat">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Plantersrust">
+    <latitude>12.5</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Playa">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Ponton">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Pos Abao">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Pos Chikito">
+    <latitude>12.45</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Pos Chikitu">
+    <latitude>12.45</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Primavera">
+    <latitude>12.5</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Roncado">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Rooi Afó">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Rooi Bosal">
+    <latitude>12.4833333</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Rooi Cochi">
+    <latitude>12.45</latitude>
+    <longitude>-69.9333333</longitude>
+  </city>
+  <city name="Rooi Congo">
+    <latitude>12.45</latitude>
+    <longitude>-69.9</longitude>
+  </city>
+  <city name="Rooi Hundo">
+    <latitude>12.4333333</latitude>
+    <longitude>-69.8833333</longitude>
+  </city>
+  <city name="Rooi Master">
+    <latitude>12.45</latitude>
+    <longitude>-69.9166667</longitude>
+  </city>
+  <city name="Rooi Prikichi">
+    <latitude>12.5333333</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Sabana Basora">
+    <latitude>12.4666667</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Sabana Berde">
+    <latitude>12.5</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Sabana Blancoe">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Sabana Blanco">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Sabana Grandi">
+    <latitude>12.5</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Sabana Liber">
+    <latitude>12.55</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Sabana">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Sabana Westpunt">
+    <latitude>12.6</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Sabaneta">
+    <latitude>12.45</latitude>
+    <longitude>-69.9333333</longitude>
+  </city>
+  <city name="Sabanía Abao">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Saliña Cerca">
+    <latitude>12.5666667</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="San Barbola">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="San Fuego">
+    <latitude>12.5</latitude>
+    <longitude>-69.95</longitude>
+  </city>
+  <city name="Santa Anna">
+    <latitude>12.5666667</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Santa Cruz">
+    <latitude>12.5</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Santa Helena">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Santa Martha">
+    <latitude>12.5</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Savaneta">
+    <latitude>12.45</latitude>
+    <longitude>-69.9333333</longitude>
+  </city>
+  <city name="Savoneta">
+    <latitude>12.45</latitude>
+    <longitude>-69.9333333</longitude>
+  </city>
+  <city name="Savonet">
+    <latitude>12.45</latitude>
+    <longitude>-69.9333333</longitude>
+  </city>
+  <city name="Sero Blanco">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Sero Colorado">
+    <latitude>12.4166667</latitude>
+    <longitude>-69.8666667</longitude>
+  </city>
+  <city name="Shaba">
+    <latitude>12.55</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Shabiruri">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Shete">
+    <latitude>12.5</latitude>
+    <longitude>-69.9333333</longitude>
+  </city>
+  <city name="Shiribana">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Simeon Antonio">
+    <latitude>12.4833333</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Sint Anna">
+    <latitude>12.5666667</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Sint Nicolaas">
+    <latitude>12.4333333</latitude>
+    <longitude>-69.9</longitude>
+  </city>
+  <city name="Siribana">
+    <latitude>12.5166667</latitude>
+    <longitude>-69.9833333</longitude>
+  </city>
+  <city name="Soledad">
+    <latitude>12.55</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Solito">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Tamarijn">
+    <latitude>12.5333333</latitude>
+    <longitude>-69.9666667</longitude>
+  </city>
+  <city name="Tanki Flip">
+    <latitude>12.55</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Tanki Lender">
+    <latitude>12.5333333</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Tarabana">
+    <latitude>12.5166667</latitude>
+    <longitude>-70.0166667</longitude>
+  </city>
+  <city name="Washington">
+    <latitude>12.55</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+  <city name="Wayaca">
+    <latitude>12.5</latitude>
+    <longitude>-70.0</longitude>
+  </city>
+  <city name="Westpunt">
+    <latitude>12.6</latitude>
+    <longitude>-70.0333333</longitude>
+  </city>
+</country>

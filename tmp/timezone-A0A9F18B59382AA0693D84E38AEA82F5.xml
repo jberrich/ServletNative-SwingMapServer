@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames>
+<timezone tzversion="tzdata2014h">
+<countryCode>MA</countryCode>
+<countryName>Morocco</countryName>
+<lat>34.680525</lat>
+<lng>-1.907639</lng>
+<timezoneId>Africa/Casablanca</timezoneId>
+<dstOffset>0.0</dstOffset>
+<gmtOffset>0.0</gmtOffset>
+<rawOffset>0.0</rawOffset>
+<time>2014-10-28 19:18</time>
+<sunrise>2014-10-28 06:24</sunrise>
+<sunset>2014-10-28 17:18</sunset>
+</timezone>
+</geonames>

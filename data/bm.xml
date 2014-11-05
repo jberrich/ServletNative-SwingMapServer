@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="bm" name="Bermudes (Les)">
+  <city name="Bethaven">
+    <latitude>32.2833333</latitude>
+    <longitude>-64.75</longitude>
+  </city>
+  <city name="Camden">
+    <latitude>32.2941667</latitude>
+    <longitude>-64.7605556</longitude>
+  </city>
+  <city name="Cashew City">
+    <latitude>32.3702778</latitude>
+    <longitude>-64.6544444</longitude>
+  </city>
+  <city name="Chelston">
+    <latitude>32.2836111</latitude>
+    <longitude>-64.7705556</longitude>
+  </city>
+  <city name="Flatt's Village">
+    <latitude>32.3211111</latitude>
+    <longitude>-64.7369444</longitude>
+  </city>
+  <city name="Hamilton">
+    <latitude>32.2941667</latitude>
+    <longitude>-64.7838889</longitude>
+  </city>
+  <city name="Harrington Hundreds">
+    <latitude>32.3186111</latitude>
+    <longitude>-64.7288889</longitude>
+  </city>
+  <city name="Hill View">
+    <latitude>32.2694444</latitude>
+    <longitude>-64.8088889</longitude>
+  </city>
+  <city name="Hinson Hall">
+    <latitude>32.3136111</latitude>
+    <longitude>-64.7436111</longitude>
+  </city>
+  <city name="Hog Bay">
+    <latitude>32.2711111</latitude>
+    <longitude>-64.88</longitude>
+  </city>
+  <city name="Melrose">
+    <latitude>32.3633333</latitude>
+    <longitude>-64.6730556</longitude>
+  </city>
+  <city name="Mount Pleasant">
+    <latitude>32.2741667</latitude>
+    <longitude>-64.7836111</longitude>
+  </city>
+  <city name="North Shore Village">
+    <latitude>32.3063889</latitude>
+    <longitude>-64.7736111</longitude>
+  </city>
+  <city name="Saint George">
+    <latitude>32.3816667</latitude>
+    <longitude>-64.6780556</longitude>
+  </city>
+  <city name="Saint Georges">
+    <latitude>32.3816667</latitude>
+    <longitude>-64.6780556</longitude>
+  </city>
+  <city name="Saint George's Town">
+    <latitude>32.3816667</latitude>
+    <longitude>-64.6780556</longitude>
+  </city>
+  <city name="Scotts Hill">
+    <latitude>32.2972222</latitude>
+    <longitude>-64.8655556</longitude>
+  </city>
+  <city name="Somerset">
+    <latitude>32.2983333</latitude>
+    <longitude>-64.8683333</longitude>
+  </city>
+  <city name="Sunnyside">
+    <latitude>32.3263889</latitude>
+    <longitude>-64.7411111</longitude>
+  </city>
+  <city name="The Flatts Village">
+    <latitude>32.3211111</latitude>
+    <longitude>-64.7369444</longitude>
+  </city>
+  <city name="Tucker's Town">
+    <latitude>32.3327778</latitude>
+    <longitude>-64.6880556</longitude>
+  </city>
+  <city name="Warwick Camp">
+    <latitude>32.2572222</latitude>
+    <longitude>-64.8161111</longitude>
+  </city>
+</country>

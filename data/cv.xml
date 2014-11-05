@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="cv" name="Cap Vert">
+  <city name="Achada Baleia">
+    <latitude>15.05</latitude>
+    <longitude>-23.4833333</longitude>
+  </city>
+  <city name="Achada Grande">
+    <latitude>14.9833333</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Achada Monte">
+    <latitude>15.2333333</latitude>
+    <longitude>-23.65</longitude>
+  </city>
+  <city name="Achadinha">
+    <latitude>15.2333333</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Água das Fortes">
+    <latitude>16.9666667</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Água dos Fortes">
+    <latitude>16.9666667</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Alcatraz">
+    <latitude>15.2166667</latitude>
+    <longitude>-23.1166667</longitude>
+  </city>
+  <city name="Amador">
+    <latitude>16.1166667</latitude>
+    <longitude>-22.8333333</longitude>
+  </city>
+  <city name="Areia Branca">
+    <latitude>16.9</latitude>
+    <longitude>-24.9666667</longitude>
+  </city>
+  <city name="Assomada">
+    <latitude>15.1</latitude>
+    <longitude>-23.6833333</longitude>
+  </city>
+  <city name="Assumada">
+    <latitude>15.1</latitude>
+    <longitude>-23.6833333</longitude>
+  </city>
+  <city name="Atalaia">
+    <latitude>15.0333333</latitude>
+    <longitude>-24.4</longitude>
+  </city>
+  <city name="Baboso">
+    <latitude>16.9833333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Bafareira">
+    <latitude>16.1833333</latitude>
+    <longitude>-22.8333333</longitude>
+  </city>
+  <city name="Bafureira">
+    <latitude>16.1833333</latitude>
+    <longitude>-22.8333333</longitude>
+  </city>
+  <city name="Baleia">
+    <latitude>14.85</latitude>
+    <longitude>-24.7</longitude>
+  </city>
+  <city name="Baluarte">
+    <latitude>15.0</latitude>
+    <longitude>-24.4</longitude>
+  </city>
+  <city name="Barbasco">
+    <latitude>17.1833333</latitude>
+    <longitude>-25.05</longitude>
+  </city>
+  <city name="Barreiro">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.1666667</longitude>
+  </city>
+  <city name="Beirona">
+    <latitude>16.6833333</latitude>
+    <longitude>-22.9333333</longitude>
+  </city>
+  <city name="Bela Vista">
+    <latitude>16.8</latitude>
+    <longitude>-22.9666667</longitude>
+  </city>
+  <city name="Biscainhos">
+    <latitude>15.25</latitude>
+    <longitude>-23.7</longitude>
+  </city>
+  <city name="Boa Ventura">
+    <latitude>16.1333333</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Bofareira">
+    <latitude>16.1833333</latitude>
+    <longitude>-22.8333333</longitude>
+  </city>
+  <city name="Bomfim">
+    <latitude>16.7</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Bonita">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.3166667</longitude>
+  </city>
+  <city name="Botija">
+    <latitude>17.05</latitude>
+    <longitude>-25.3333333</longitude>
+  </city>
+  <city name="Buracona">
+    <latitude>16.8</latitude>
+    <longitude>-23.0</longitude>
+  </city>
+  <city name="Cabeçadas">
+    <latitude>16.1166667</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Cabeçalinho">
+    <latitude>16.6</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Cabeço de Tarafes">
+    <latitude>16.1333333</latitude>
+    <longitude>-22.7333333</longitude>
+  </city>
+  <city name="Cabeço dos Tarafes">
+    <latitude>16.1333333</latitude>
+    <longitude>-22.7333333</longitude>
+  </city>
+  <city name="Cachacinho">
+    <latitude>16.6</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Cachaço">
+    <latitude>17.05</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Cachoca">
+    <latitude>14.8333333</latitude>
+    <longitude>-24.7</longitude>
+  </city>
+  <city name="Caculi">
+    <latitude>17.1666667</latitude>
+    <longitude>-25.1</longitude>
+  </city>
+  <city name="Caleijão">
+    <latitude>16.6</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Calejão">
+    <latitude>16.6</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Calhau">
+    <latitude>16.85</latitude>
+    <longitude>-24.8666667</longitude>
+  </city>
+  <city name="Calheta">
+    <latitude>15.1833333</latitude>
+    <longitude>-23.6</longitude>
+  </city>
+  <city name="Camarões">
+    <latitude>16.6666667</latitude>
+    <longitude>-24.35</longitude>
+  </city>
+  <city name="Carriçal">
+    <latitude>16.55</latitude>
+    <longitude>-24.0833333</longitude>
+  </city>
+  <city name="Carvoeiros">
+    <latitude>16.65</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Casa do Cabo Submarino">
+    <latitude>16.8166667</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Cascabulho">
+    <latitude>15.2666667</latitude>
+    <longitude>-23.1833333</longitude>
+  </city>
+  <city name="Castilhiano">
+    <latitude>16.5833333</latitude>
+    <longitude>-24.05</longitude>
+  </city>
+  <city name="Chacha">
+    <latitude>15.2</latitude>
+    <longitude>-23.6666667</longitude>
+  </city>
+  <city name="Chã da Egreja">
+    <latitude>17.1666667</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Chã da Igreja">
+    <latitude>17.1666667</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Chã da Ribeira">
+    <latitude>17.1166667</latitude>
+    <longitude>-25.2666667</longitude>
+  </city>
+  <city name="Chã de Dentro">
+    <latitude>15.2333333</latitude>
+    <longitude>-23.6833333</longitude>
+  </city>
+  <city name="Chã de Figueiras">
+    <latitude>15.1833333</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Chã de Igreja">
+    <latitude>17.1666667</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Chã de Morte">
+    <latitude>17.05</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Chã de Paulo">
+    <latitude>17.15</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Chã de Queimada">
+    <latitude>17.15</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Chã de Queimado">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Chã de Vazinha">
+    <latitude>17.15</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Chã do Morto">
+    <latitude>17.05</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Chã do Norte">
+    <latitude>17.1166667</latitude>
+    <longitude>-25.2666667</longitude>
+  </city>
+  <city name="Chão Queimado">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Chã Queimada">
+    <latitude>17.15</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Charco">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.75</longitude>
+  </city>
+  <city name="Chã Varzinha">
+    <latitude>17.15</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Cidade Velha">
+    <latitude>14.9166667</latitude>
+    <longitude>-23.6166667</longitude>
+  </city>
+  <city name="Círio">
+    <latitude>17.0666667</latitude>
+    <longitude>-25.2333333</longitude>
+  </city>
+  <city name="Corvo">
+    <latitude>17.2</latitude>
+    <longitude>-25.1166667</longitude>
+  </city>
+  <city name="Cova Figueira">
+    <latitude>14.8833333</latitude>
+    <longitude>-24.3</longitude>
+  </city>
+  <city name="Covoada">
+    <latitude>16.65</latitude>
+    <longitude>-24.35</longitude>
+  </city>
+  <city name="Cruz do Pé do Verde">
+    <latitude>16.8833333</latitude>
+    <longitude>-24.95</longitude>
+  </city>
+  <city name="Cruzinha">
+    <latitude>17.1666667</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Curral Branco">
+    <latitude>16.0333333</latitude>
+    <longitude>-22.8</longitude>
+  </city>
+  <city name="Curral">
+    <latitude>17.1666667</latitude>
+    <longitude>-25.1166667</longitude>
+  </city>
+  <city name="Curral das Vacas">
+    <latitude>17.05</latitude>
+    <longitude>-25.2333333</longitude>
+  </city>
+  <city name="Curral Velho">
+    <latitude>15.9833333</latitude>
+    <longitude>-22.8</longitude>
+  </city>
+  <city name="Dacabalaio">
+    <latitude>14.85</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Dacalabaio">
+    <latitude>14.85</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Derrubado">
+    <latitude>16.2333333</latitude>
+    <longitude>-22.8</longitude>
+  </city>
+  <city name="Egreja">
+    <latitude>15.0333333</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Endriano">
+    <latitude>17.1166667</latitude>
+    <longitude>-25.1833333</longitude>
+  </city>
+  <city name="Ereja">
+    <latitude>15.0333333</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Escabeçada de Baixo">
+    <latitude>17.1333333</latitude>
+    <longitude>-25.15</longitude>
+  </city>
+  <city name="Escabeçada">
+    <latitude>17.1333333</latitude>
+    <longitude>-25.15</longitude>
+  </city>
+  <city name="Escada">
+    <latitude>16.5833333</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Esgamaleiro">
+    <latitude>17.1166667</latitude>
+    <longitude>-25.15</longitude>
+  </city>
+  <city name="Espadanã">
+    <latitude>17.1</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Espingueira">
+    <latitude>16.2166667</latitude>
+    <longitude>-22.8</longitude>
+  </city>
+  <city name="Estância Brás">
+    <latitude>16.6666667</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Estancia Braz">
+    <latitude>16.6666667</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Fajã">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.75</longitude>
+  </city>
+  <city name="Fajansinha">
+    <latitude>17.15</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Fajãsinha">
+    <latitude>15.05</latitude>
+    <longitude>-24.35</longitude>
+  </city>
+  <city name="Fajasinhas">
+    <latitude>15.05</latitude>
+    <longitude>-24.35</longitude>
+  </city>
+  <city name="Fajãzinha">
+    <latitude>17.15</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Fanade">
+    <latitude>17.1333333</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Fazenda Real">
+    <latitude>16.8666667</latitude>
+    <longitude>-24.95</longitude>
+  </city>
+  <city name="Feijoal">
+    <latitude>16.75</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Figueira da Horta">
+    <latitude>15.15</latitude>
+    <longitude>-23.15</longitude>
+  </city>
+  <city name="Figueira da Naus">
+    <latitude>15.1833333</latitude>
+    <longitude>-23.7333333</longitude>
+  </city>
+  <city name="Figueira das Naus">
+    <latitude>15.1833333</latitude>
+    <longitude>-23.7333333</longitude>
+  </city>
+  <city name="Figueira de Coxe">
+    <latitude>16.6333333</latitude>
+    <longitude>-24.2166667</longitude>
+  </city>
+  <city name="Figueira Pavão">
+    <latitude>14.85</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Figueiras de Baixo">
+    <latitude>17.15</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Figueiras de Cimas">
+    <latitude>17.1333333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Figueira Seca">
+    <latitude>15.15</latitude>
+    <longitude>-23.15</longitude>
+  </city>
+  <city name="Fiura">
+    <latitude>16.85</latitude>
+    <longitude>-22.9166667</longitude>
+  </city>
+  <city name="Fogão">
+    <latitude>16.0833333</latitude>
+    <longitude>-22.85</longitude>
+  </city>
+  <city name="Fontainhas">
+    <latitude>16.5833333</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Fonte Aleixo">
+    <latitude>14.8333333</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Forno">
+    <latitude>14.8833333</latitude>
+    <longitude>-24.45</longitude>
+  </city>
+  <city name="Fundo das Figueiras">
+    <latitude>16.15</latitude>
+    <longitude>-22.7333333</longitude>
+  </city>
+  <city name="Fundo de Figueias">
+    <latitude>16.15</latitude>
+    <longitude>-22.7333333</longitude>
+  </city>
+  <city name="Fundo de Figueiras">
+    <latitude>16.15</latitude>
+    <longitude>-22.7333333</longitude>
+  </city>
+  <city name="Fundura">
+    <latitude>15.1666667</latitude>
+    <longitude>-23.7</longitude>
+  </city>
+  <city name="Furna">
+    <latitude>14.8833333</latitude>
+    <longitude>-24.6833333</longitude>
+  </city>
+  <city name="Furno">
+    <latitude>14.8833333</latitude>
+    <longitude>-24.6833333</longitude>
+  </city>
+  <city name="Gala">
+    <latitude>16.2</latitude>
+    <longitude>-22.7166667</longitude>
+  </city>
+  <city name="Galinheiro">
+    <latitude>15.0</latitude>
+    <longitude>-24.45</longitude>
+  </city>
+  <city name="Galinheiros">
+    <latitude>15.0</latitude>
+    <longitude>-24.45</longitude>
+  </city>
+  <city name="Garça">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.7</longitude>
+  </city>
+  <city name="Gata">
+    <latitude>16.2</latitude>
+    <longitude>-22.7166667</longitude>
+  </city>
+  <city name="Gouveia">
+    <latitude>14.9333333</latitude>
+    <longitude>-23.6833333</longitude>
+  </city>
+  <city name="Igreja">
+    <latitude>15.0333333</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Ilhéu">
+    <latitude>15.2</latitude>
+    <longitude>-23.6333333</longitude>
+  </city>
+  <city name="Inhuco">
+    <latitude>14.9333333</latitude>
+    <longitude>-24.45</longitude>
+  </city>
+  <city name="Italiano">
+    <latitude>14.9666667</latitude>
+    <longitude>-24.4666667</longitude>
+  </city>
+  <city name="Janela">
+    <latitude>17.1166667</latitude>
+    <longitude>-25.0</longitude>
+  </city>
+  <city name="Janelas">
+    <latitude>17.1166667</latitude>
+    <longitude>-25.0</longitude>
+  </city>
+  <city name="João Barrosa">
+    <latitude>16.0166667</latitude>
+    <longitude>-22.75</longitude>
+  </city>
+  <city name="João Barroza">
+    <latitude>16.0166667</latitude>
+    <longitude>-22.75</longitude>
+  </city>
+  <city name="João Daninha">
+    <latitude>16.9666667</latitude>
+    <longitude>-25.2333333</longitude>
+  </city>
+  <city name="João Galego">
+    <latitude>16.15</latitude>
+    <longitude>-22.75</longitude>
+  </city>
+  <city name="Juncalinho">
+    <latitude>16.6166667</latitude>
+    <longitude>-24.1333333</longitude>
+  </city>
+  <city name="Lagariça">
+    <latitude>14.9166667</latitude>
+    <longitude>-24.4666667</longitude>
+  </city>
+  <city name="Lagoa Atrás">
+    <latitude>15.0166667</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Lagoa Atraz">
+    <latitude>15.0166667</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Lagoa">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.15</longitude>
+  </city>
+  <city name="Lapa Cachorro">
+    <latitude>15.2666667</latitude>
+    <longitude>-23.7</longitude>
+  </city>
+  <city name="Lazareto">
+    <latitude>16.8666667</latitude>
+    <longitude>-25.0333333</longitude>
+  </city>
+  <city name="Lazaretto">
+    <latitude>16.8666667</latitude>
+    <longitude>-25.0333333</longitude>
+  </city>
+  <city name="Leiro">
+    <latitude>17.0</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Logar Novo">
+    <latitude>14.9333333</latitude>
+    <longitude>-24.4833333</longitude>
+  </city>
+  <city name="Lombo das Danças">
+    <latitude>16.9833333</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Lombo da Torre">
+    <latitude>17.0</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Lombo de Figueira">
+    <latitude>17.1</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Lombo de Galinha">
+    <latitude>17.1333333</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Lombo do Mar">
+    <latitude>17.1166667</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Lombo Galinha">
+    <latitude>17.1333333</latitude>
+    <longitude>-25.2166667</longitude>
+  </city>
+  <city name="Lugar Novo">
+    <latitude>14.9333333</latitude>
+    <longitude>-24.4833333</longitude>
+  </city>
+  <city name="Luzia Nunes">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.45</longitude>
+  </city>
+  <city name="Madeiral">
+    <latitude>16.8333333</latitude>
+    <longitude>-24.95</longitude>
+  </city>
+  <city name="Maio">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.2166667</longitude>
+  </city>
+  <city name="Malveira">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Mangue de Sete Ribeiras">
+    <latitude>15.2333333</latitude>
+    <longitude>-23.65</longitude>
+  </city>
+  <city name="Mangue">
+    <latitude>15.2333333</latitude>
+    <longitude>-23.65</longitude>
+  </city>
+  <city name="Mão para Trás">
+    <latitude>17.1833333</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Mãopara Traz">
+    <latitude>17.1833333</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Martiana">
+    <latitude>17.1</latitude>
+    <longitude>-25.25</longitude>
+  </city>
+  <city name="Massapé">
+    <latitude>15.2333333</latitude>
+    <longitude>-23.7</longitude>
+  </city>
+  <city name="Mateusinho">
+    <latitude>16.85</latitude>
+    <longitude>-24.9333333</longitude>
+  </city>
+  <city name="Mateuzinho">
+    <latitude>16.85</latitude>
+    <longitude>-24.9333333</longitude>
+  </city>
+  <city name="Mato Correia">
+    <latitude>15.2</latitude>
+    <longitude>-23.65</longitude>
+  </city>
+  <city name="Meio de Espanha de Figueiras">
+    <latitude>17.1333333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Meio de Espanha">
+    <latitude>17.1333333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Miguel Pires">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.2333333</longitude>
+  </city>
+  <city name="Mihdelo">
+    <latitude>16.8833333</latitude>
+    <longitude>-25.0</longitude>
+  </city>
+  <city name="Mindello">
+    <latitude>16.8833333</latitude>
+    <longitude>-25.0</longitude>
+  </city>
+  <city name="Mindelo">
+    <latitude>16.8833333</latitude>
+    <longitude>-25.0</longitude>
+  </city>
+  <city name="Mira-Mira">
+    <latitude>14.9666667</latitude>
+    <longitude>-24.45</longitude>
+  </city>
+  <city name="Moerão">
+    <latitude>15.25</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Moia Moia">
+    <latitude>15.0166667</latitude>
+    <longitude>-23.4666667</longitude>
+  </city>
+  <city name="Montagarro">
+    <latitude>14.95</latitude>
+    <longitude>-23.5166667</longitude>
+  </city>
+  <city name="Montanha">
+    <latitude>15.0833333</latitude>
+    <longitude>-23.6</longitude>
+  </city>
+  <city name="Montão">
+    <latitude>15.25</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Monte Joana">
+    <latitude>17.1666667</latitude>
+    <longitude>-25.05</longitude>
+  </city>
+  <city name="Monte Vermelho">
+    <latitude>14.8333333</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Montinho">
+    <latitude>15.2166667</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Morre Braz">
+    <latitude>16.6333333</latitude>
+    <longitude>-24.2</longitude>
+  </city>
+  <city name="Morrinho d' Égua">
+    <latitude>17.1</latitude>
+    <longitude>-25.2666667</longitude>
+  </city>
+  <city name="Morrinho">
+    <latitude>16.9666667</latitude>
+    <longitude>-25.2333333</longitude>
+  </city>
+  <city name="Morro Alto">
+    <latitude>16.6166667</latitude>
+    <longitude>-24.1833333</longitude>
+  </city>
+  <city name="Morro">
+    <latitude>15.1833333</latitude>
+    <longitude>-23.2333333</longitude>
+  </city>
+  <city name="Nhã Marco">
+    <latitude>16.7</latitude>
+    <longitude>-22.95</longitude>
+  </city>
+  <city name="Nhuco">
+    <latitude>14.9333333</latitude>
+    <longitude>-24.45</longitude>
+  </city>
+  <city name="Nora">
+    <latitude>15.0166667</latitude>
+    <longitude>-23.55</longitude>
+  </city>
+  <city name="Nossa Senhora da Luz">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.2166667</longitude>
+  </city>
+  <city name="Nossa Senhora do Monte">
+    <latitude>14.85</latitude>
+    <longitude>-24.7166667</longitude>
+  </city>
+  <city name="Órgãos">
+    <latitude>15.0666667</latitude>
+    <longitude>-23.6166667</longitude>
+  </city>
+  <city name="Ortelão">
+    <latitude>16.6166667</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Pae Amaro">
+    <latitude>16.0333333</latitude>
+    <longitude>-22.7333333</longitude>
+  </city>
+  <city name="Pai Amaro">
+    <latitude>16.0333333</latitude>
+    <longitude>-22.7333333</longitude>
+  </city>
+  <city name="Pai Joana">
+    <latitude>15.2666667</latitude>
+    <longitude>-23.1166667</longitude>
+  </city>
+  <city name="Palha Carga">
+    <latitude>15.2166667</latitude>
+    <longitude>-23.6666667</longitude>
+  </city>
+  <city name="Palhal">
+    <latitude>16.6166667</latitude>
+    <longitude>-24.35</longitude>
+  </city>
+  <city name="Palha Verde">
+    <latitude>16.6666667</latitude>
+    <longitude>-22.9333333</longitude>
+  </city>
+  <city name="Palmeira">
+    <latitude>16.7666667</latitude>
+    <longitude>-22.9833333</longitude>
+  </city>
+  <city name="Patim">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.4333333</longitude>
+  </city>
+  <city name="Pau">
+    <latitude>14.85</latitude>
+    <longitude>-24.7333333</longitude>
+  </city>
+  <city name="Pedra de Lume">
+    <latitude>16.7666667</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Pedra Lume">
+    <latitude>16.7666667</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Pedra Lum">
+    <latitude>16.7666667</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Pedrinha">
+    <latitude>16.9666667</latitude>
+    <longitude>-25.15</longitude>
+  </city>
+  <city name="Pedro Vaz">
+    <latitude>15.25</latitude>
+    <longitude>-23.1333333</longitude>
+  </city>
+  <city name="Penha de França">
+    <latitude>17.1833333</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Penteada">
+    <latitude>14.8833333</latitude>
+    <longitude>-24.4666667</longitude>
+  </city>
+  <city name="Perdia">
+    <latitude>17.1</latitude>
+    <longitude>-25.0333333</longitude>
+  </city>
+  <city name="Picos">
+    <latitude>15.0833333</latitude>
+    <longitude>-23.65</longitude>
+  </city>
+  <city name="Pinchossa">
+    <latitude>15.1666667</latitude>
+    <longitude>-23.6</longitude>
+  </city>
+  <city name="Pinto">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Point Adeante">
+    <latitude>16.1833333</latitude>
+    <longitude>-22.85</longitude>
+  </city>
+  <city name="Pombas">
+    <latitude>17.15</latitude>
+    <longitude>-25.0166667</longitude>
+  </city>
+  <city name="Ponta Adeante">
+    <latitude>16.1833333</latitude>
+    <longitude>-22.85</longitude>
+  </city>
+  <city name="Ponta Adiante">
+    <latitude>16.1833333</latitude>
+    <longitude>-22.85</longitude>
+  </city>
+  <city name="Ponta da Cruz">
+    <latitude>16.75</latitude>
+    <longitude>-24.75</longitude>
+  </city>
+  <city name="Ponta do Sol">
+    <latitude>17.2</latitude>
+    <longitude>-25.1</longitude>
+  </city>
+  <city name="Ponta São Francisco">
+    <latitude>14.9833333</latitude>
+    <longitude>-23.5</longitude>
+  </city>
+  <city name="Portal">
+    <latitude>15.25</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Port Ingles">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.2166667</longitude>
+  </city>
+  <city name="Porto do Rincão">
+    <latitude>15.05</latitude>
+    <longitude>-23.7833333</longitude>
+  </city>
+  <city name="Porto dos Mosteiros">
+    <latitude>15.0333333</latitude>
+    <longitude>-24.3333333</longitude>
+  </city>
+  <city name="Porto Gouveia">
+    <latitude>14.9333333</latitude>
+    <longitude>-23.6833333</longitude>
+  </city>
+  <city name="Porto Inglez">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.2166667</longitude>
+  </city>
+  <city name="Porto Novo">
+    <latitude>17.0333333</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Porto Rincão">
+    <latitude>15.05</latitude>
+    <longitude>-23.7833333</longitude>
+  </city>
+  <city name="Povoação Velha">
+    <latitude>16.0333333</latitude>
+    <longitude>-22.9166667</longitude>
+  </city>
+  <city name="Praia Abaixo">
+    <latitude>15.0666667</latitude>
+    <longitude>-23.4833333</longitude>
+  </city>
+  <city name="Praia Baixo">
+    <latitude>15.0666667</latitude>
+    <longitude>-23.4833333</longitude>
+  </city>
+  <city name="Praia Branca">
+    <latitude>16.65</latitude>
+    <longitude>-24.4</longitude>
+  </city>
+  <city name="Praia">
+    <latitude>14.9166667</latitude>
+    <longitude>-23.5166667</longitude>
+  </city>
+  <city name="Prainha">
+    <latitude>16.6</latitude>
+    <longitude>-22.9166667</longitude>
+  </city>
+  <city name="Prazeres">
+    <latitude>16.0</latitude>
+    <longitude>-22.8166667</longitude>
+  </city>
+  <city name="Preguiça">
+    <latitude>16.5666667</latitude>
+    <longitude>-24.2833333</longitude>
+  </city>
+  <city name="Queimada">
+    <latitude>16.6333333</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Queimadas">
+    <latitude>16.6333333</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Queimado">
+    <latitude>16.9833333</latitude>
+    <longitude>-25.2333333</longitude>
+  </city>
+  <city name="Rabil">
+    <latitude>16.1333333</latitude>
+    <longitude>-22.8833333</longitude>
+  </city>
+  <city name="Reguinho">
+    <latitude>16.85</latitude>
+    <longitude>-22.9333333</longitude>
+  </city>
+  <city name="Relva">
+    <latitude>14.9833333</latitude>
+    <longitude>-24.3166667</longitude>
+  </city>
+  <city name="Ribeira Brava">
+    <latitude>16.6166667</latitude>
+    <longitude>-24.3</longitude>
+  </city>
+  <city name="Ribeira Calhau">
+    <latitude>16.6333333</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Ribeira da Barca">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.7666667</longitude>
+  </city>
+  <city name="Ribeira da Cruz">
+    <latitude>17.1166667</latitude>
+    <longitude>-25.25</longitude>
+  </city>
+  <city name="Ribeira da Prata">
+    <latitude>16.65</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Ribeira de Barca">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.7666667</longitude>
+  </city>
+  <city name="Ribeira de Prata">
+    <latitude>15.2333333</latitude>
+    <longitude>-23.75</longitude>
+  </city>
+  <city name="Ribeira dos Calhaus">
+    <latitude>16.6333333</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Ribeira Fria">
+    <latitude>17.05</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Ribeira Funda">
+    <latitude>16.6833333</latitude>
+    <longitude>-24.35</longitude>
+  </city>
+  <city name="Ribeira Grande">
+    <latitude>17.1833333</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Ribeira Ilhéu">
+    <latitude>15.0333333</latitude>
+    <longitude>-24.3833333</longitude>
+  </city>
+  <city name="Ribeirão Chiqueiro">
+    <latitude>15.0166667</latitude>
+    <longitude>-23.5333333</longitude>
+  </city>
+  <city name="Ribeirão Sal">
+    <latitude>15.2333333</latitude>
+    <longitude>-23.6833333</longitude>
+  </city>
+  <city name="Ribeira Prata">
+    <latitude>16.65</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Ribeira Vermelha">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.2833333</longitude>
+  </city>
+  <city name="Rui Vaz">
+    <latitude>15.0333333</latitude>
+    <longitude>-23.6166667</longitude>
+  </city>
+  <city name="Sacramento">
+    <latitude>15.05</latitude>
+    <longitude>-23.5666667</longitude>
+  </city>
+  <city name="Salamansa">
+    <latitude>16.9</latitude>
+    <longitude>-24.95</longitude>
+  </city>
+  <city name="Salamanza">
+    <latitude>16.9</latitude>
+    <longitude>-24.95</longitude>
+  </city>
+  <city name="Sal Rei">
+    <latitude>16.1833333</latitude>
+    <longitude>-22.9166667</longitude>
+  </city>
+  <city name="Sal-Rel">
+    <latitude>16.1833333</latitude>
+    <longitude>-22.9166667</longitude>
+  </city>
+  <city name="Sambango">
+    <latitude>15.05</latitude>
+    <longitude>-24.35</longitude>
+  </city>
+  <city name="San Iago">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.5333333</longitude>
+  </city>
+  <city name="Santa Bárbara">
+    <latitude>14.8833333</latitude>
+    <longitude>-24.7</longitude>
+  </city>
+  <city name="Santa Cruz">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.5666667</longitude>
+  </city>
+  <city name="Santa Maria">
+    <latitude>16.6</latitude>
+    <longitude>-22.9</longitude>
+  </city>
+  <city name="Santiago">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.5333333</longitude>
+  </city>
+  <city name="Santo António">
+    <latitude>15.2666667</latitude>
+    <longitude>-23.1333333</longitude>
+  </city>
+  <city name="São Domingos">
+    <latitude>15.0166667</latitude>
+    <longitude>-23.5666667</longitude>
+  </city>
+  <city name="São Filipe">
+    <latitude>14.9</latitude>
+    <longitude>-24.5166667</longitude>
+  </city>
+  <city name="São João">
+    <latitude>14.95</latitude>
+    <longitude>-23.6666667</longitude>
+  </city>
+  <city name="São Jorge">
+    <latitude>15.0166667</latitude>
+    <longitude>-24.4333333</longitude>
+  </city>
+  <city name="São Martinho">
+    <latitude>14.9166667</latitude>
+    <longitude>-23.5833333</longitude>
+  </city>
+  <city name="São Pedro">
+    <latitude>16.8166667</latitude>
+    <longitude>-25.0833333</longitude>
+  </city>
+  <city name="São Tiago">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.5333333</longitude>
+  </city>
+  <city name="Selada do Mocho">
+    <latitude>17.15</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Selada">
+    <latitude>17.1</latitude>
+    <longitude>-25.2666667</longitude>
+  </city>
+  <city name="Seladinha">
+    <latitude>16.9666667</latitude>
+    <longitude>-25.3166667</longitude>
+  </city>
+  <city name="Serrado">
+    <latitude>14.9166667</latitude>
+    <longitude>-24.4666667</longitude>
+  </city>
+  <city name="Sinagoga">
+    <latitude>17.1833333</latitude>
+    <longitude>-25.0333333</longitude>
+  </city>
+  <city name="Sol Point">
+    <latitude>17.2</latitude>
+    <longitude>-25.1</longitude>
+  </city>
+  <city name="Tabuadinha">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.1666667</longitude>
+  </city>
+  <city name="Tabuga">
+    <latitude>17.0166667</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Tarrafal da Vila de Ribeira Grande">
+    <latitude>17.1833333</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Tarrafal">
+    <latitude>16.5666667</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Tarvafal">
+    <latitude>16.9666667</latitude>
+    <longitude>-25.3166667</longitude>
+  </city>
+  <city name="Telha">
+    <latitude>16.5666667</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Tongom">
+    <latitude>14.9166667</latitude>
+    <longitude>-24.4833333</longitude>
+  </city>
+  <city name="Tongon">
+    <latitude>14.9166667</latitude>
+    <longitude>-24.4833333</longitude>
+  </city>
+  <city name="Toril">
+    <latitude>15.3</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Torno d'Água">
+    <latitude>16.6166667</latitude>
+    <longitude>-24.3666667</longitude>
+  </city>
+  <city name="Tras-os-Montes">
+    <latitude>15.3</latitude>
+    <longitude>-23.7166667</longitude>
+  </city>
+  <city name="Trindade">
+    <latitude>14.95</latitude>
+    <longitude>-23.5666667</longitude>
+  </city>
+  <city name="Urgueiro">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Urzeleiros">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Urzeleiro">
+    <latitude>17.0833333</latitude>
+    <longitude>-25.2</longitude>
+  </city>
+  <city name="Vale da Custa">
+    <latitude>14.9833333</latitude>
+    <longitude>-23.4833333</longitude>
+  </city>
+  <city name="Vale da Gusta">
+    <latitude>14.9833333</latitude>
+    <longitude>-23.4833333</longitude>
+  </city>
+  <city name="Velha">
+    <latitude>14.9166667</latitude>
+    <longitude>-23.6166667</longitude>
+  </city>
+  <city name="Vicente Dias">
+    <latitude>14.8833333</latitude>
+    <longitude>-24.4666667</longitude>
+  </city>
+  <city name="Vila da Ribeira Brava">
+    <latitude>16.6166667</latitude>
+    <longitude>-24.3</longitude>
+  </city>
+  <city name="Vila de Nova Cintra">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.7166667</longitude>
+  </city>
+  <city name="Vila de Nova Sintra">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.7166667</longitude>
+  </city>
+  <city name="Vila de São Filippe">
+    <latitude>14.9</latitude>
+    <longitude>-24.5166667</longitude>
+  </city>
+  <city name="Vila do Maio">
+    <latitude>15.1333333</latitude>
+    <longitude>-23.2166667</longitude>
+  </city>
+  <city name="Vila do Pôrto Novo">
+    <latitude>17.0333333</latitude>
+    <longitude>-25.0666667</longitude>
+  </city>
+  <city name="Vila do Tarrafal">
+    <latitude>15.2833333</latitude>
+    <longitude>-23.7666667</longitude>
+  </city>
+  <city name="Vila Maria Pia">
+    <latitude>17.2</latitude>
+    <longitude>-25.1</longitude>
+  </city>
+  <city name="Vila Nova Cinteus">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.7166667</longitude>
+  </city>
+  <city name="Vila Nova Sintra">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.7166667</longitude>
+  </city>
+  <city name="Vila Nova">
+    <latitude>14.9333333</latitude>
+    <longitude>-23.5166667</longitude>
+  </city>
+  <city name="Vila São Filipe">
+    <latitude>14.9</latitude>
+    <longitude>-24.5166667</longitude>
+  </city>
+  <city name="Vinagre">
+    <latitude>14.8666667</latitude>
+    <longitude>-24.7</longitude>
+  </city>
+  <city name="Xá Xá">
+    <latitude>15.2</latitude>
+    <longitude>-23.6666667</longitude>
+  </city>
+</country>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="dj" name="Djibouti">
+  <city name="Adi Adda">
+    <latitude>11.1333333</latitude>
+    <longitude>42.8858333</longitude>
+  </city>
+  <city name="Airolaf">
+    <latitude>11.7702778</latitude>
+    <longitude>42.6519444</longitude>
+  </city>
+  <city name="Airoli">
+    <latitude>11.0036111</latitude>
+    <longitude>42.1025</longitude>
+  </city>
+  <city name="Alaili Dadda`">
+    <latitude>12.4216667</latitude>
+    <longitude>42.8955556</longitude>
+  </city>
+  <city name="Alayli Dadda`">
+    <latitude>12.4216667</latitude>
+    <longitude>42.8955556</longitude>
+  </city>
+  <city name="Ali Ada">
+    <latitude>11.1333333</latitude>
+    <longitude>42.8858333</longitude>
+  </city>
+  <city name="Ali Adda">
+    <latitude>11.1333333</latitude>
+    <longitude>42.8858333</longitude>
+  </city>
+  <city name="Ali Adda Courant">
+    <latitude>11.1333333</latitude>
+    <longitude>42.8858333</longitude>
+  </city>
+  <city name="`Ali `Addé">
+    <latitude>11.1333333</latitude>
+    <longitude>42.8858333</longitude>
+  </city>
+  <city name="Aliadh">
+    <latitude>11.1333333</latitude>
+    <longitude>42.8858333</longitude>
+  </city>
+  <city name="Ali Sabiè">
+    <latitude>11.1558333</latitude>
+    <longitude>42.7125</longitude>
+  </city>
+  <city name="`Ali Sabieh">
+    <latitude>11.1558333</latitude>
+    <longitude>42.7125</longitude>
+  </city>
+  <city name="Ali Sabiet">
+    <latitude>11.1558333</latitude>
+    <longitude>42.7125</longitude>
+  </city>
+  <city name="`Ali Sabih">
+    <latitude>11.1558333</latitude>
+    <longitude>42.7125</longitude>
+  </city>
+  <city name="Ambabbo">
+    <latitude>11.7511111</latitude>
+    <longitude>42.8144444</longitude>
+  </city>
+  <city name="Amboua">
+    <latitude>11.5694444</latitude>
+    <longitude>43.1366667</longitude>
+  </city>
+  <city name="Ambouli">
+    <latitude>11.5694444</latitude>
+    <longitude>43.1366667</longitude>
+  </city>
+  <city name="Ambua">
+    <latitude>11.5694444</latitude>
+    <longitude>43.1366667</longitude>
+  </city>
+  <city name="Angârou">
+    <latitude>12.3866667</latitude>
+    <longitude>43.3347222</longitude>
+  </city>
+  <city name="Anghar">
+    <latitude>12.3866667</latitude>
+    <longitude>43.3347222</longitude>
+  </city>
+  <city name="`Arta">
+    <latitude>11.5222222</latitude>
+    <longitude>42.8419444</longitude>
+  </city>
+  <city name="`As `Êla">
+    <latitude>11.0036111</latitude>
+    <longitude>42.1025</longitude>
+  </city>
+  <city name="Assa-ela">
+    <latitude>11.0036111</latitude>
+    <longitude>42.1025</longitude>
+  </city>
+  <city name="`Assa Gaïla">
+    <latitude>12.1916667</latitude>
+    <longitude>42.6416667</longitude>
+  </city>
+  <city name="Ass'èyla">
+    <latitude>11.0036111</latitude>
+    <longitude>42.1025</longitude>
+  </city>
+  <city name="Balho">
+    <latitude>12.0583333</latitude>
+    <longitude>42.1955556</longitude>
+  </city>
+  <city name="Bankoualé">
+    <latitude>11.8227778</latitude>
+    <longitude>42.6736111</longitude>
+  </city>
+  <city name="Bankouwâle">
+    <latitude>11.8227778</latitude>
+    <longitude>42.6736111</longitude>
+  </city>
+  <city name="Bissîdiro">
+    <latitude>12.645</latitude>
+    <longitude>42.9733333</longitude>
+  </city>
+  <city name="Boûl'aos">
+    <latitude>11.5833333</latitude>
+    <longitude>43.15</longitude>
+  </city>
+  <city name="Boulaos Camp">
+    <latitude>11.5833333</latitude>
+    <longitude>43.15</longitude>
+  </city>
+  <city name="Boulas">
+    <latitude>11.5833333</latitude>
+    <longitude>43.15</longitude>
+  </city>
+  <city name="Boûl`aws">
+    <latitude>11.5833333</latitude>
+    <longitude>43.15</longitude>
+  </city>
+  <city name="Bulaos">
+    <latitude>11.5833333</latitude>
+    <longitude>43.15</longitude>
+  </city>
+  <city name="Camp Boulaos">
+    <latitude>11.5833333</latitude>
+    <longitude>43.15</longitude>
+  </city>
+  <city name="Dadda`to">
+    <latitude>12.3727778</latitude>
+    <longitude>42.7113889</longitude>
+  </city>
+  <city name="Damêrdjôg">
+    <latitude>11.4855556</latitude>
+    <longitude>43.1872222</longitude>
+  </city>
+  <city name="Danan">
+    <latitude>11.1833333</latitude>
+    <longitude>42.9333333</longitude>
+  </city>
+  <city name="Dicchil">
+    <latitude>11.1086111</latitude>
+    <longitude>42.3738889</longitude>
+  </city>
+  <city name="Digri">
+    <latitude>11.2975</latitude>
+    <longitude>42.8533333</longitude>
+  </city>
+  <city name="Dikhil">
+    <latitude>11.1086111</latitude>
+    <longitude>42.3738889</longitude>
+  </city>
+  <city name="Dikil">
+    <latitude>11.1086111</latitude>
+    <longitude>42.3738889</longitude>
+  </city>
+  <city name="Dikkil">
+    <latitude>11.1086111</latitude>
+    <longitude>42.3738889</longitude>
+  </city>
+  <city name="Dikri">
+    <latitude>11.2975</latitude>
+    <longitude>42.8533333</longitude>
+  </city>
+  <city name="Djibouti">
+    <latitude>11.595</latitude>
+    <longitude>43.1480556</longitude>
+  </city>
+  <city name="Djibuti">
+    <latitude>11.595</latitude>
+    <longitude>43.1480556</longitude>
+  </city>
+  <city name="Dorra">
+    <latitude>12.1494444</latitude>
+    <longitude>42.4775</longitude>
+  </city>
+  <city name="Gaherré">
+    <latitude>12.2869444</latitude>
+    <longitude>43.3555556</longitude>
+  </city>
+  <city name="Gâlâfi">
+    <latitude>11.7158333</latitude>
+    <longitude>41.8361111</longitude>
+  </city>
+  <city name="Gibuti">
+    <latitude>11.595</latitude>
+    <longitude>43.1480556</longitude>
+  </city>
+  <city name="Goubatto">
+    <latitude>11.4238889</latitude>
+    <longitude>43.0002778</longitude>
+  </city>
+  <city name="Goubéto">
+    <latitude>11.4166667</latitude>
+    <longitude>42.9833333</longitude>
+  </city>
+  <city name="Goubeto Station">
+    <latitude>11.4166667</latitude>
+    <longitude>42.9833333</longitude>
+  </city>
+  <city name="Goubétto">
+    <latitude>11.4238889</latitude>
+    <longitude>43.0002778</longitude>
+  </city>
+  <city name="Hayyou">
+    <latitude>11.9630556</latitude>
+    <longitude>43.2905556</longitude>
+  </city>
+  <city name="HÌ±oumbouli">
+    <latitude>11.5694444</latitude>
+    <longitude>43.1366667</longitude>
+  </city>
+  <city name="Holhol">
+    <latitude>11.3102778</latitude>
+    <longitude>42.9294444</longitude>
+  </city>
+  <city name="Hol Holl">
+    <latitude>11.3102778</latitude>
+    <longitude>42.9294444</longitude>
+  </city>
+  <city name="Holl-Holl">
+    <latitude>11.3102778</latitude>
+    <longitude>42.9294444</longitude>
+  </city>
+  <city name="Jibouti">
+    <latitude>11.595</latitude>
+    <longitude>43.1480556</longitude>
+  </city>
+  <city name="Jibuti">
+    <latitude>11.595</latitude>
+    <longitude>43.1480556</longitude>
+  </city>
+  <city name="Khôr `Angar">
+    <latitude>12.3866667</latitude>
+    <longitude>43.3347222</longitude>
+  </city>
+  <city name="Khor-Anghar">
+    <latitude>12.3866667</latitude>
+    <longitude>43.3347222</longitude>
+  </city>
+  <city name="Koûta Boûyya">
+    <latitude>11.0161111</latitude>
+    <longitude>41.9619444</longitude>
+  </city>
+  <city name="Lâ`assa">
+    <latitude>12.3558333</latitude>
+    <longitude>43.1563889</longitude>
+  </city>
+  <city name="La Plaine">
+    <latitude>11.6</latitude>
+    <longitude>43.15</longitude>
+  </city>
+  <city name="La-waada">
+    <latitude>11.4611111</latitude>
+    <longitude>43.2527778</longitude>
+  </city>
+  <city name="Loya Ada">
+    <latitude>11.4611111</latitude>
+    <longitude>43.2527778</longitude>
+  </city>
+  <city name="Loyada">
+    <latitude>11.4611111</latitude>
+    <longitude>43.2527778</longitude>
+  </city>
+  <city name="Loyi Ada">
+    <latitude>11.4611111</latitude>
+    <longitude>43.2527778</longitude>
+  </city>
+  <city name="Médého">
+    <latitude>11.9730556</latitude>
+    <longitude>43.0261111</longitude>
+  </city>
+  <city name="Méé Dôho">
+    <latitude>11.9730556</latitude>
+    <longitude>43.0261111</longitude>
+  </city>
+  <city name="Mouddo">
+    <latitude>12.3</latitude>
+    <longitude>42.4333333</longitude>
+  </city>
+  <city name="Moulhoulé">
+    <latitude>12.5916667</latitude>
+    <longitude>43.2</longitude>
+  </city>
+  <city name="Obock">
+    <latitude>11.9630556</latitude>
+    <longitude>43.2905556</longitude>
+  </city>
+  <city name="Obok">
+    <latitude>11.9630556</latitude>
+    <longitude>43.2905556</longitude>
+  </city>
+  <city name="Ouê`a">
+    <latitude>11.5030556</latitude>
+    <longitude>42.8552778</longitude>
+  </city>
+  <city name="Poste d' Anghor">
+    <latitude>12.3866667</latitude>
+    <longitude>43.3347222</longitude>
+  </city>
+  <city name="Randa">
+    <latitude>11.8469444</latitude>
+    <longitude>42.6605556</longitude>
+  </city>
+  <city name="Sêdorre">
+    <latitude>12.3633333</latitude>
+    <longitude>43.1891667</longitude>
+  </city>
+  <city name="Tadjoura">
+    <latitude>11.7852778</latitude>
+    <longitude>42.8844444</longitude>
+  </city>
+  <city name="Tadjura">
+    <latitude>11.7852778</latitude>
+    <longitude>42.8844444</longitude>
+  </city>
+  <city name="Tagiura">
+    <latitude>11.7852778</latitude>
+    <longitude>42.8844444</longitude>
+  </city>
+  <city name="Tajura">
+    <latitude>11.7852778</latitude>
+    <longitude>42.8844444</longitude>
+  </city>
+  <city name="Teoao">
+    <latitude>11.4383333</latitude>
+    <longitude>42.0572222</longitude>
+  </city>
+  <city name="Tewao">
+    <latitude>11.4383333</latitude>
+    <longitude>42.0572222</longitude>
+  </city>
+  <city name="Tew`o">
+    <latitude>11.4383333</latitude>
+    <longitude>42.0572222</longitude>
+  </city>
+  <city name="Wê`a">
+    <latitude>11.5030556</latitude>
+    <longitude>42.8552778</longitude>
+  </city>
+  <city name="Yoboki">
+    <latitude>11.5113889</latitude>
+    <longitude>42.1063889</longitude>
+  </city>
+</country>

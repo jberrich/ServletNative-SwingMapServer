@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="ls" name="Lesotho">
+  <city name="Abebe">
+    <latitude>-29.6333333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Abele">
+    <latitude>-29.6333333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Alwyns Kop">
+    <latitude>-30.4</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Baroaneng">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.35</longitude>
+  </city>
+  <city name="Berea Hills">
+    <latitude>-29.2333333</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Berente">
+    <latitude>-29.9</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Blue Gums">
+    <latitude>-30.35</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Blue Gums Store">
+    <latitude>-30.35</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Bokatis Store">
+    <latitude>-29.35</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Bokong">
+    <latitude>-29.3333333</latitude>
+    <longitude>28.4666667</longitude>
+  </city>
+  <city name="Bolepeletsa">
+    <latitude>-30.45</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Bolumatau">
+    <latitude>-29.75</latitude>
+    <longitude>27.2</longitude>
+  </city>
+  <city name="Boqate">
+    <latitude>-29.35</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Botsabelo Asylum">
+    <latitude>-29.2666667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Botsabelo">
+    <latitude>-29.2666667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Brakfontein">
+    <latitude>-30.25</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Butha-Buthe">
+    <latitude>-28.7833333</latitude>
+    <longitude>28.2333333</longitude>
+  </city>
+  <city name="Cana">
+    <latitude>-29.1166667</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Chere">
+    <latitude>-29.6</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Cheri">
+    <latitude>-29.6</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Chete">
+    <latitude>-29.5166667</latitude>
+    <longitude>27.8166667</longitude>
+  </city>
+  <city name="Choatlella">
+    <latitude>-29.4833333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Corn Exchange">
+    <latitude>-28.9833333</latitude>
+    <longitude>27.9833333</longitude>
+  </city>
+  <city name="Cutting Camp">
+    <latitude>-30.2666667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Dibuno's">
+    <latitude>-28.6333333</latitude>
+    <longitude>28.5666667</longitude>
+  </city>
+  <city name="Dikupa">
+    <latitude>-29.7666667</latitude>
+    <longitude>27.3</longitude>
+  </city>
+  <city name="Dilli Dilli">
+    <latitude>-30.5166667</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Dinkung">
+    <latitude>-28.6166667</latitude>
+    <longitude>28.5166667</longitude>
+  </city>
+  <city name="Emmaus">
+    <latitude>-29.7666667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Fako">
+    <latitude>-29.2833333</latitude>
+    <longitude>27.8166667</longitude>
+  </city>
+  <city name="Fako's">
+    <latitude>-29.2833333</latitude>
+    <longitude>27.8166667</longitude>
+  </city>
+  <city name="Fako Store">
+    <latitude>-29.2833333</latitude>
+    <longitude>27.8166667</longitude>
+  </city>
+  <city name="Fort Hartley">
+    <latitude>-30.3333333</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Fosi">
+    <latitude>-29.4333333</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Foso">
+    <latitude>-29.2666667</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="George">
+    <latitude>-29.25</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Griffiths">
+    <latitude>-30.25</latitude>
+    <longitude>27.8166667</longitude>
+  </city>
+  <city name="Hangers Drift">
+    <latitude>-29.2</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Ha Nohana">
+    <latitude>-30.0666667</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Helehehle">
+    <latitude>-29.9833333</latitude>
+    <longitude>27.5</longitude>
+  </city>
+  <city name="Hellspoort">
+    <latitude>-29.8666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Hellspoort Store">
+    <latitude>-29.8666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Helspoort">
+    <latitude>-29.8666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Hendriks">
+    <latitude>-28.6333333</latitude>
+    <longitude>28.4</longitude>
+  </city>
+  <city name="Hermon">
+    <latitude>-29.7333333</latitude>
+    <longitude>27.1166667</longitude>
+  </city>
+  <city name="Hill Top">
+    <latitude>-30.0333333</latitude>
+    <longitude>28.7833333</longitude>
+  </city>
+  <city name="Hlakametas">
+    <latitude>-28.7</latitude>
+    <longitude>28.4333333</longitude>
+  </city>
+  <city name="Hlakametsa">
+    <latitude>-28.7</latitude>
+    <longitude>28.4333333</longitude>
+  </city>
+  <city name="Hlakametsas">
+    <latitude>-28.7</latitude>
+    <longitude>28.4333333</longitude>
+  </city>
+  <city name="Hlakanelo">
+    <latitude>-29.7166667</latitude>
+    <longitude>28.8</longitude>
+  </city>
+  <city name="Hlotse Camp">
+    <latitude>-28.85</latitude>
+    <longitude>28.0666667</longitude>
+  </city>
+  <city name="Hlotse">
+    <latitude>-28.8833333</latitude>
+    <longitude>28.05</longitude>
+  </city>
+  <city name="Hobsons">
+    <latitude>-29.1166667</latitude>
+    <longitude>27.9666667</longitude>
+  </city>
+  <city name="Jaele">
+    <latitude>-29.4666667</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Jael">
+    <latitude>-29.4666667</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Joel">
+    <latitude>-28.6833333</latitude>
+    <longitude>28.2833333</longitude>
+  </city>
+  <city name="Joels Drift">
+    <latitude>-28.7</latitude>
+    <longitude>28.2833333</longitude>
+  </city>
+  <city name="Joels">
+    <latitude>-28.6833333</latitude>
+    <longitude>28.2833333</longitude>
+  </city>
+  <city name="John Matsaba">
+    <latitude>-29.65</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Jonathan">
+    <latitude>-28.8166667</latitude>
+    <longitude>28.1</longitude>
+  </city>
+  <city name="Jonathans">
+    <latitude>-28.8166667</latitude>
+    <longitude>28.1</longitude>
+  </city>
+  <city name="Kala">
+    <latitude>-28.7166667</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Kalo">
+    <latitude>-28.7166667</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Kalokuni">
+    <latitude>-30.5666667</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Kaphe">
+    <latitude>-29.9666667</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Kapi">
+    <latitude>-29.9666667</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Kelechane">
+    <latitude>-29.7333333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Kena">
+    <latitude>-29.7666667</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Kepi">
+    <latitude>-29.1666667</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Khabos">
+    <latitude>-28.8333333</latitude>
+    <longitude>28.2333333</longitude>
+  </city>
+  <city name="Khalechane">
+    <latitude>-29.7333333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Khamolane">
+    <latitude>-29.35</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Khetisas">
+    <latitude>-28.9166667</latitude>
+    <longitude>28.1666667</longitude>
+  </city>
+  <city name="Khitsane">
+    <latitude>-30.1</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Khotsa">
+    <latitude>-29.3833333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Khotsi">
+    <latitude>-29.0666667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Khotsis">
+    <latitude>-29.0666667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Khukhune">
+    <latitude>-28.7166667</latitude>
+    <longitude>28.4166667</longitude>
+  </city>
+  <city name="Khukuhune">
+    <latitude>-28.7166667</latitude>
+    <longitude>28.4166667</longitude>
+  </city>
+  <city name="Koadi">
+    <latitude>-29.2333333</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Koali">
+    <latitude>-29.2333333</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Koeneng">
+    <latitude>-29.0333333</latitude>
+    <longitude>28.0</longitude>
+  </city>
+  <city name="Kojoa">
+    <latitude>-29.8666667</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Kokodia">
+    <latitude>-29.3166667</latitude>
+    <longitude>27.9166667</longitude>
+  </city>
+  <city name="Kokolia">
+    <latitude>-29.3166667</latitude>
+    <longitude>27.9166667</longitude>
+  </city>
+  <city name="Kolo">
+    <latitude>-29.6</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Kolonyama">
+    <latitude>-29.0666667</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Koro-Koro">
+    <latitude>-29.5</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Kubung">
+    <latitude>-30.0833333</latitude>
+    <longitude>28.0166667</longitude>
+  </city>
+  <city name="Kueneng">
+    <latitude>-29.0666667</latitude>
+    <longitude>28.0166667</longitude>
+  </city>
+  <city name="Kwening">
+    <latitude>-29.0666667</latitude>
+    <longitude>28.0166667</longitude>
+  </city>
+  <city name="Kwepe">
+    <latitude>-29.85</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Laoti">
+    <latitude>-29.0333333</latitude>
+    <longitude>28.5166667</longitude>
+  </city>
+  <city name="Lebingwanas Cattle Post">
+    <latitude>-28.9166667</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Ledingwana's Cattle Post">
+    <latitude>-28.9166667</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Lehloenyas">
+    <latitude>-29.5666667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Lehlohonolo">
+    <latitude>-29.1333333</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Lehlonia">
+    <latitude>-29.5666667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Lejone">
+    <latitude>-29.1</latitude>
+    <longitude>28.4833333</longitude>
+  </city>
+  <city name="Lekhoa">
+    <latitude>-29.5333333</latitude>
+    <longitude>27.8833333</longitude>
+  </city>
+  <city name="Lekhoatsas">
+    <latitude>-29.9</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Lekhooa">
+    <latitude>-29.9</latitude>
+    <longitude>27.9166667</longitude>
+  </city>
+  <city name="Leklatsa">
+    <latitude>-29.35</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Lekoatsa">
+    <latitude>-29.9</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Lekokoaneng">
+    <latitude>-29.1333333</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Lepatsa">
+    <latitude>-28.6166667</latitude>
+    <longitude>28.5166667</longitude>
+  </city>
+  <city name="Leribe">
+    <latitude>-28.8833333</latitude>
+    <longitude>28.05</longitude>
+  </city>
+  <city name="Lersuelas">
+    <latitude>-29.0333333</latitude>
+    <longitude>28.1</longitude>
+  </city>
+  <city name="Letseng-la-Draai">
+    <latitude>-28.9166667</latitude>
+    <longitude>28.8166667</longitude>
+  </city>
+  <city name="Letseng-la-Terae">
+    <latitude>-28.9166667</latitude>
+    <longitude>28.8166667</longitude>
+  </city>
+  <city name="Letsie">
+    <latitude>-29.8333333</latitude>
+    <longitude>27.3166667</longitude>
+  </city>
+  <city name="Letsika">
+    <latitude>-28.6833333</latitude>
+    <longitude>28.4333333</longitude>
+  </city>
+  <city name="Letsikas">
+    <latitude>-28.6333333</latitude>
+    <longitude>28.3833333</longitude>
+  </city>
+  <city name="Leutsoa">
+    <latitude>-29.5333333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Libono">
+    <latitude>-28.6333333</latitude>
+    <longitude>28.5666667</longitude>
+  </city>
+  <city name="Libono's">
+    <latitude>-28.6333333</latitude>
+    <longitude>28.5666667</longitude>
+  </city>
+  <city name="Likhakeng">
+    <latitude>-29.6166667</latitude>
+    <longitude>27.3166667</longitude>
+  </city>
+  <city name="Likhoele">
+    <latitude>-29.8</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Likolojane">
+    <latitude>-29.0333333</latitude>
+    <longitude>27.9666667</longitude>
+  </city>
+  <city name="Likotsi">
+    <latitude>-29.4</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Likupa">
+    <latitude>-29.7666667</latitude>
+    <longitude>27.3</longitude>
+  </city>
+  <city name="Liphakoeng">
+    <latitude>-28.7333333</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Liphateng">
+    <latitude>-30.0333333</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Lipolisa">
+    <latitude>-29.4</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Lirahalibonoe">
+    <latitude>-29.45</latitude>
+    <longitude>27.9333333</longitude>
+  </city>
+  <city name="Litsilong">
+    <latitude>-29.2166667</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Loutsa">
+    <latitude>-29.5333333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Lower Qeme">
+    <latitude>-29.55</latitude>
+    <longitude>27.5</longitude>
+  </city>
+  <city name="Mabotse">
+    <latitude>-29.6333333</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Mabotsi">
+    <latitude>-29.6333333</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Machekoaneng">
+    <latitude>-29.45</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Madibe">
+    <latitude>-30.25</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Mafeteng">
+    <latitude>-29.8166667</latitude>
+    <longitude>27.25</longitude>
+  </city>
+  <city name="Maghaleen">
+    <latitude>-30.1666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Maghalleen">
+    <latitude>-30.1666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Mahatlames">
+    <latitude>-29.2</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Mahatlane">
+    <latitude>-29.2</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Mahatlanes">
+    <latitude>-29.2</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Mahlakoanas">
+    <latitude>-30.2</latitude>
+    <longitude>27.9666667</longitude>
+  </city>
+  <city name="Mahlatsas Nek">
+    <latitude>-29.2166667</latitude>
+    <longitude>27.9833333</longitude>
+  </city>
+  <city name="Mahloenyeng">
+    <latitude>-29.5666667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Majatla">
+    <latitude>-29.2166667</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Makadinyane">
+    <latitude>-29.4833333</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Makakaitsa">
+    <latitude>-29.0166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Makati">
+    <latitude>-29.1166667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Makhaketsa">
+    <latitude>-29.0166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Makhalaneng">
+    <latitude>-29.6166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Makhalanyane">
+    <latitude>-29.4</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Makhalanyanes">
+    <latitude>-29.4</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Makhaleng">
+    <latitude>-29.5166667</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Makhinas">
+    <latitude>-30.15</latitude>
+    <longitude>27.35</longitude>
+  </city>
+  <city name="Makhoas">
+    <latitude>-28.9666667</latitude>
+    <longitude>28.1166667</longitude>
+  </city>
+  <city name="Makhoate">
+    <latitude>-29.35</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Makhoathi">
+    <latitude>-29.35</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Makoalis">
+    <latitude>-29.2333333</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Makojang">
+    <latitude>-29.9333333</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Makoyang">
+    <latitude>-29.9333333</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Makuaes">
+    <latitude>-30.2833333</latitude>
+    <longitude>28.0666667</longitude>
+  </city>
+  <city name="Malaleng">
+    <latitude>-29.65</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Malealea">
+    <latitude>-29.85</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Malibe">
+    <latitude>-30.25</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Mamathe">
+    <latitude>-29.1333333</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Mamathes">
+    <latitude>-29.1333333</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Mamati">
+    <latitude>-29.1333333</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Manama">
+    <latitude>-29.0666667</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Mankimane">
+    <latitude>-29.85</latitude>
+    <longitude>27.35</longitude>
+  </city>
+  <city name="Mantoetsi">
+    <latitude>-29.15</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Mantsa">
+    <latitude>-29.65</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Mantsebo">
+    <latitude>-29.4833333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Maphutseng">
+    <latitude>-30.2166667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Mapoteng">
+    <latitude>-29.1</latitude>
+    <longitude>27.9833333</longitude>
+  </city>
+  <city name="Mapotu">
+    <latitude>-29.65</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Maputseng Store">
+    <latitude>-30.2166667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Maputsoe">
+    <latitude>-28.8833333</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Marakabei">
+    <latitude>-29.5333333</latitude>
+    <longitude>28.15</longitude>
+  </city>
+  <city name="Marakabeis">
+    <latitude>-29.5333333</latitude>
+    <longitude>28.15</longitude>
+  </city>
+  <city name="Maseru">
+    <latitude>-29.3166667</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Mashai">
+    <latitude>-29.6666667</latitude>
+    <longitude>28.7833333</longitude>
+  </city>
+  <city name="Masilo">
+    <latitude>-28.6333333</latitude>
+    <longitude>28.4</longitude>
+  </city>
+  <city name="Masiribani">
+    <latitude>-30.2666667</latitude>
+    <longitude>27.8833333</longitude>
+  </city>
+  <city name="Masite Nek">
+    <latitude>-29.5833333</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Masitise">
+    <latitude>-30.4</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Masoeling">
+    <latitude>-29.1666667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Massabiella">
+    <latitude>-29.5333333</latitude>
+    <longitude>27.5833333</longitude>
+  </city>
+  <city name="Masupha">
+    <latitude>-29.1333333</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Matbang">
+    <latitude>-29.3333333</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Matedile Store">
+    <latitude>-29.8166667</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Mateka">
+    <latitude>-29.2333333</latitude>
+    <longitude>27.8833333</longitude>
+  </city>
+  <city name="Matekas">
+    <latitude>-29.2333333</latitude>
+    <longitude>27.8833333</longitude>
+  </city>
+  <city name="Matela">
+    <latitude>-29.3833333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Matelas">
+    <latitude>-29.3833333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Matelile">
+    <latitude>-29.8166667</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Mathokoane">
+    <latitude>-28.9666667</latitude>
+    <longitude>28.05</longitude>
+  </city>
+  <city name="Matsaba">
+    <latitude>-29.65</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Matsaile">
+    <latitude>-29.85</latitude>
+    <longitude>28.7833333</longitude>
+  </city>
+  <city name="Matsieng">
+    <latitude>-29.6166667</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Matsohani">
+    <latitude>-28.85</latitude>
+    <longitude>28.2</longitude>
+  </city>
+  <city name="Mazenod">
+    <latitude>-29.4166667</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Mekading">
+    <latitude>-30.2833333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Mekaling">
+    <latitude>-30.2833333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Metolong">
+    <latitude>-29.35</latitude>
+    <longitude>27.8</longitude>
+  </city>
+  <city name="Modiboea">
+    <latitude>-28.9</latitude>
+    <longitude>28.1</longitude>
+  </city>
+  <city name="Mofoka">
+    <latitude>-29.5166667</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Mofokas">
+    <latitude>-29.5166667</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Mohale's Hoek">
+    <latitude>-30.15</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Mohlafateng">
+    <latitude>-29.0333333</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Mohlakoanas">
+    <latitude>-30.2</latitude>
+    <longitude>27.9666667</longitude>
+  </city>
+  <city name="Mohlakwana">
+    <latitude>-30.2</latitude>
+    <longitude>27.9666667</longitude>
+  </city>
+  <city name="Mohlanapeng">
+    <latitude>-29.6</latitude>
+    <longitude>28.65</longitude>
+  </city>
+  <city name="Mohlehli">
+    <latitude>-29.75</latitude>
+    <longitude>27.2</longitude>
+  </city>
+  <city name="Moitsupelis">
+    <latitude>-29.5833333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Mojela">
+    <latitude>-29.5333333</latitude>
+    <longitude>27.8833333</longitude>
+  </city>
+  <city name="Mokema">
+    <latitude>-29.4666667</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Mokemas Store">
+    <latitude>-29.4666667</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Mokhalinyane">
+    <latitude>-29.4833333</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Mokhathis">
+    <latitude>-29.1166667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Mokhotlong">
+    <latitude>-29.2833333</latitude>
+    <longitude>29.0833333</longitude>
+  </city>
+  <city name="Mokibinyani">
+    <latitude>-30.0333333</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Moklepu">
+    <latitude>-29.7666667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Mokoeng">
+    <latitude>-29.2333333</latitude>
+    <longitude>28.9666667</longitude>
+  </city>
+  <city name="Mokomane">
+    <latitude>-29.0</latitude>
+    <longitude>28.5333333</longitude>
+  </city>
+  <city name="Mokonyane">
+    <latitude>-29.2833333</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Mokoroane">
+    <latitude>-29.9166667</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Mokotoko">
+    <latitude>-29.35</latitude>
+    <longitude>27.8</longitude>
+  </city>
+  <city name="Mokunyane">
+    <latitude>-29.2833333</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Molaoa">
+    <latitude>-29.8</latitude>
+    <longitude>28.8166667</longitude>
+  </city>
+  <city name="Molao">
+    <latitude>-29.8</latitude>
+    <longitude>28.8166667</longitude>
+  </city>
+  <city name="Molefis">
+    <latitude>-28.7666667</latitude>
+    <longitude>28.2833333</longitude>
+  </city>
+  <city name="Moletsane">
+    <latitude>-29.9166667</latitude>
+    <longitude>27.3166667</longitude>
+  </city>
+  <city name="Moletsanes">
+    <latitude>-29.1666667</latitude>
+    <longitude>28.05</longitude>
+  </city>
+  <city name="Moletsane's Store">
+    <latitude>-29.1666667</latitude>
+    <longitude>28.05</longitude>
+  </city>
+  <city name="Moletsani Store">
+    <latitude>-29.1666667</latitude>
+    <longitude>28.05</longitude>
+  </city>
+  <city name="Moliboeas">
+    <latitude>-28.9</latitude>
+    <longitude>28.1</longitude>
+  </city>
+  <city name="Molomo">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Molomos Hoek">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Molumong">
+    <latitude>-29.35</latitude>
+    <longitude>29.0166667</longitude>
+  </city>
+  <city name="Monaheng">
+    <latitude>-29.8666667</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Monantsa">
+    <latitude>-28.5666667</latitude>
+    <longitude>28.6333333</longitude>
+  </city>
+  <city name="Monyake">
+    <latitude>-29.95</latitude>
+    <longitude>27.35</longitude>
+  </city>
+  <city name="Monyaki">
+    <latitude>-29.95</latitude>
+    <longitude>27.35</longitude>
+  </city>
+  <city name="Mopoto">
+    <latitude>-29.65</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Morameng">
+    <latitude>-29.1</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Morife">
+    <latitude>-30.2833333</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Morife Store">
+    <latitude>-30.2833333</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Morifi">
+    <latitude>-30.2833333</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Morija">
+    <latitude>-29.6333333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Morunyaneng">
+    <latitude>-29.8166667</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Mosala">
+    <latitude>-29.7333333</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Mosalas">
+    <latitude>-29.7333333</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Mosekuwa's Store">
+    <latitude>-29.7</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Mosetlas">
+    <latitude>-30.3333333</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Mosetle">
+    <latitude>-30.3333333</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Motanyane">
+    <latitude>-29.7333333</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Motloang">
+    <latitude>-29.3333333</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Motsekuoa">
+    <latitude>-29.7</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Motsekuoas">
+    <latitude>-29.7</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Motsie">
+    <latitude>-29.9166667</latitude>
+    <longitude>28.2833333</longitude>
+  </city>
+  <city name="Mount Moorosi">
+    <latitude>-30.2666667</latitude>
+    <longitude>27.8833333</longitude>
+  </city>
+  <city name="Mount Moroosi">
+    <latitude>-30.2666667</latitude>
+    <longitude>27.8833333</longitude>
+  </city>
+  <city name="Moyeni Camp">
+    <latitude>-30.3666667</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Moyeni">
+    <latitude>-30.4</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Mpharane">
+    <latitude>-30.0166667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Mphoto">
+    <latitude>-29.45</latitude>
+    <longitude>27.5833333</longitude>
+  </city>
+  <city name="Mpite">
+    <latitude>-30.0666667</latitude>
+    <longitude>28.6166667</longitude>
+  </city>
+  <city name="Mpiti">
+    <latitude>-30.0666667</latitude>
+    <longitude>28.6166667</longitude>
+  </city>
+  <city name="Mpobong">
+    <latitude>-29.7666667</latitude>
+    <longitude>27.8</longitude>
+  </city>
+  <city name="Mutlanyane">
+    <latitude>-28.8166667</latitude>
+    <longitude>28.45</longitude>
+  </city>
+  <city name="Nako">
+    <latitude>-29.6166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Naku">
+    <latitude>-29.6166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Na Nohama">
+    <latitude>-30.0666667</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Neni">
+    <latitude>-30.2</latitude>
+    <longitude>28.35</longitude>
+  </city>
+  <city name="Nkata">
+    <latitude>-29.45</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Nkeleng">
+    <latitude>-30.2833333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Nkesi">
+    <latitude>-29.6666667</latitude>
+    <longitude>27.8</longitude>
+  </city>
+  <city name="Nthamaha">
+    <latitude>-29.9833333</latitude>
+    <longitude>27.9166667</longitude>
+  </city>
+  <city name="Nthodimonate">
+    <latitude>-30.4833333</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Ntilane">
+    <latitude>-29.9666667</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Ntlama">
+    <latitude>-29.1833333</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Ntlamas">
+    <latitude>-29.1833333</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Ntsane">
+    <latitude>-29.5166667</latitude>
+    <longitude>27.8166667</longitude>
+  </city>
+  <city name="Ntsi">
+    <latitude>-29.4</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Numolani">
+    <latitude>-29.05</latitude>
+    <longitude>28.9666667</longitude>
+  </city>
+  <city name="Nyakosoba">
+    <latitude>-29.55</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Nyane">
+    <latitude>-29.5666667</latitude>
+    <longitude>28.2333333</longitude>
+  </city>
+  <city name="Old Mohales Hoek">
+    <latitude>-30.1</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Old Mohales Hoek Store">
+    <latitude>-30.1</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Palama">
+    <latitude>-29.5833333</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Patrick">
+    <latitude>-29.5166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Peete Molapo">
+    <latitude>-28.9666667</latitude>
+    <longitude>28.05</longitude>
+  </city>
+  <city name="Peka">
+    <latitude>-28.9666667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Petlane">
+    <latitude>-29.6166667</latitude>
+    <longitude>27.3166667</longitude>
+  </city>
+  <city name="Phafoli">
+    <latitude>-29.8</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Phafudi">
+    <latitude>-29.8</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Phamong">
+    <latitude>-30.25</latitude>
+    <longitude>27.8166667</longitude>
+  </city>
+  <city name="Phatso">
+    <latitude>-29.1666667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Phoofolo">
+    <latitude>-29.0666667</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Phoofolo's">
+    <latitude>-29.0666667</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Pitseng">
+    <latitude>-29.0166667</latitude>
+    <longitude>28.2</longitude>
+  </city>
+  <city name="Pufulo">
+    <latitude>-29.0666667</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Qaba">
+    <latitude>-29.85</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Qacha's Neck">
+    <latitude>-30.1166667</latitude>
+    <longitude>28.6833333</longitude>
+  </city>
+  <city name="Qachasnek Camp">
+    <latitude>-30.1166667</latitude>
+    <longitude>28.6833333</longitude>
+  </city>
+  <city name="Qachas Nek Camp">
+    <latitude>-30.1166667</latitude>
+    <longitude>28.6833333</longitude>
+  </city>
+  <city name="Qacha's Nek">
+    <latitude>-30.1166667</latitude>
+    <longitude>28.6833333</longitude>
+  </city>
+  <city name="Qacha's Nek Residency">
+    <latitude>-30.1166667</latitude>
+    <longitude>28.6833333</longitude>
+  </city>
+  <city name="Qalaheng">
+    <latitude>-29.2333333</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Qamako">
+    <latitude>-29.8</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Qhoobeng">
+    <latitude>-29.95</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Qiloane">
+    <latitude>-29.3333333</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Qomoqomong">
+    <latitude>-30.4333333</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Quthing">
+    <latitude>-30.4</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Rafolatsana">
+    <latitude>-29.3666667</latitude>
+    <longitude>29.0333333</longitude>
+  </city>
+  <city name="Rafolatsane">
+    <latitude>-29.3666667</latitude>
+    <longitude>29.0333333</longitude>
+  </city>
+  <city name="Rakotoane">
+    <latitude>-29.0166667</latitude>
+    <longitude>28.5666667</longitude>
+  </city>
+  <city name="Rakoto">
+    <latitude>-29.0666667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Raleqheka">
+    <latitude>-29.6833333</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Raleqika">
+    <latitude>-29.6833333</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Ramabitsa">
+    <latitude>-29.7333333</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Ramahleas">
+    <latitude>-29.75</latitude>
+    <longitude>27.15</longitude>
+  </city>
+  <city name="Ramahleos">
+    <latitude>-29.75</latitude>
+    <longitude>27.15</longitude>
+  </city>
+  <city name="Ramapepe">
+    <latitude>-29.0</latitude>
+    <longitude>28.1666667</longitude>
+  </city>
+  <city name="Ramatsediso">
+    <latitude>-30.0333333</latitude>
+    <longitude>28.9166667</longitude>
+  </city>
+  <city name="Ramatseliso">
+    <latitude>-30.0333333</latitude>
+    <longitude>28.9166667</longitude>
+  </city>
+  <city name="Ramoihloe Store">
+    <latitude>-29.75</latitude>
+    <longitude>27.15</longitude>
+  </city>
+  <city name="Ramosoeu">
+    <latitude>-29.9</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Ramosueu">
+    <latitude>-29.9</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Ranko">
+    <latitude>-29.5666667</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Rantolo">
+    <latitude>-29.9</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Rasebetsana">
+    <latitude>-29.85</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Rasebetsane">
+    <latitude>-29.85</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Rasekilas">
+    <latitude>-28.75</latitude>
+    <longitude>28.35</longitude>
+  </city>
+  <city name="Ratau">
+    <latitude>-29.3666667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Reisi">
+    <latitude>-29.6333333</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Ribaneng">
+    <latitude>-29.8666667</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Richard">
+    <latitude>-29.8833333</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Riet Vlei">
+    <latitude>-30.0166667</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Rietvlei Store">
+    <latitude>-30.0166667</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Roma Mission">
+    <latitude>-29.45</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Roma">
+    <latitude>-29.45</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Saint Anne of Auray">
+    <latitude>-29.5666667</latitude>
+    <longitude>28.2333333</longitude>
+  </city>
+  <city name="Saint John Baptist">
+    <latitude>-29.5333333</latitude>
+    <longitude>28.15</longitude>
+  </city>
+  <city name="Saint Joseph's">
+    <latitude>-29.5</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Saint Patrick">
+    <latitude>-29.5166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Schoolplaats">
+    <latitude>-30.3</latitude>
+    <longitude>27.5</longitude>
+  </city>
+  <city name="Seapa">
+    <latitude>-30.05</latitude>
+    <longitude>28.4833333</longitude>
+  </city>
+  <city name="Seetsas">
+    <latitude>-28.9166667</latitude>
+    <longitude>28.1833333</longitude>
+  </city>
+  <city name="Sefikeng">
+    <latitude>-29.25</latitude>
+    <longitude>27.8</longitude>
+  </city>
+  <city name="Seforong">
+    <latitude>-30.05</latitude>
+    <longitude>28.2666667</longitude>
+  </city>
+  <city name="Sehlabathebe">
+    <latitude>-29.8666667</latitude>
+    <longitude>29.0833333</longitude>
+  </city>
+  <city name="Sehlo">
+    <latitude>-29.3166667</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Sehonghong">
+    <latitude>-29.8</latitude>
+    <longitude>28.8166667</longitude>
+  </city>
+  <city name="Sekake">
+    <latitude>-30.0</latitude>
+    <longitude>28.35</longitude>
+  </city>
+  <city name="Sekakes">
+    <latitude>-30.0</latitude>
+    <longitude>28.35</longitude>
+  </city>
+  <city name="Sekameng">
+    <latitude>-29.5666667</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Sekoala">
+    <latitude>-29.4333333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Sekoalas">
+    <latitude>-29.4333333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Sekoke">
+    <latitude>-30.0</latitude>
+    <longitude>28.35</longitude>
+  </city>
+  <city name="Sekwale">
+    <latitude>-29.4333333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Selomas">
+    <latitude>-28.7666667</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Selomo">
+    <latitude>-28.7666667</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Selomos">
+    <latitude>-28.7666667</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Senekal">
+    <latitude>-29.25</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Senekals">
+    <latitude>-29.25</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Senekane">
+    <latitude>-29.25</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Sepanies Gate">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Sepapo's">
+    <latitude>-29.95</latitude>
+    <longitude>27.2</longitude>
+  </city>
+  <city name="Sepapus Gate">
+    <latitude>-29.95</latitude>
+    <longitude>27.2</longitude>
+  </city>
+  <city name="Sepechele">
+    <latitude>-29.8</latitude>
+    <longitude>27.3833333</longitude>
+  </city>
+  <city name="Sephapos Gate">
+    <latitude>-29.95</latitude>
+    <longitude>27.2</longitude>
+  </city>
+  <city name="Serutle">
+    <latitude>-28.7166667</latitude>
+    <longitude>28.3166667</longitude>
+  </city>
+  <city name="Serutli Store">
+    <latitude>-28.7166667</latitude>
+    <longitude>28.3166667</longitude>
+  </city>
+  <city name="Seshophe">
+    <latitude>-29.0333333</latitude>
+    <longitude>27.9666667</longitude>
+  </city>
+  <city name="Setleketseng">
+    <latitude>-29.6</latitude>
+    <longitude>28.0</longitude>
+  </city>
+  <city name="Setleketsing">
+    <latitude>-29.6</latitude>
+    <longitude>28.0</longitude>
+  </city>
+  <city name="Seutloali">
+    <latitude>-29.1666667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Sibi Sibi">
+    <latitude>-29.9166667</latitude>
+    <longitude>27.8</longitude>
+  </city>
+  <city name="Sikaki">
+    <latitude>-30.0</latitude>
+    <longitude>28.35</longitude>
+  </city>
+  <city name="Siloe">
+    <latitude>-29.95</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Sinxondo">
+    <latitude>-30.5666667</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Sishupi">
+    <latitude>-29.0333333</latitude>
+    <longitude>27.9666667</longitude>
+  </city>
+  <city name="Tabola">
+    <latitude>-28.9833333</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Tajane">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Tapisi">
+    <latitude>-30.45</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Tau">
+    <latitude>-29.0166667</latitude>
+    <longitude>28.1833333</longitude>
+  </city>
+  <city name="Tayane">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Teba">
+    <latitude>-29.95</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Terae">
+    <latitude>-28.9166667</latitude>
+    <longitude>28.8166667</longitude>
+  </city>
+  <city name="Teyateyaneng">
+    <latitude>-29.15</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Thaba Bosigo">
+    <latitude>-29.3666667</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Thaba Bosiu">
+    <latitude>-29.3666667</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Thabana Morena">
+    <latitude>-29.9333333</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Thabaneng">
+    <latitude>-29.8166667</latitude>
+    <longitude>27.5</longitude>
+  </city>
+  <city name="Thaba Putsoa">
+    <latitude>-29.5833333</latitude>
+    <longitude>28.0666667</longitude>
+  </city>
+  <city name="Thaba-Tseka">
+    <latitude>-29.5333333</latitude>
+    <longitude>28.6</longitude>
+  </city>
+  <city name="Thabatsoeu">
+    <latitude>-29.8</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Thakabannas Cattle Post">
+    <latitude>-28.75</latitude>
+    <longitude>28.65</longitude>
+  </city>
+  <city name="Thakabannas">
+    <latitude>-28.6333333</latitude>
+    <longitude>28.4666667</longitude>
+  </city>
+  <city name="Thakabanna">
+    <latitude>-28.6333333</latitude>
+    <longitude>28.4666667</longitude>
+  </city>
+  <city name="Theba">
+    <latitude>-29.95</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Theetsoa">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Thekos">
+    <latitude>-29.4166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Theko">
+    <latitude>-29.3666667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Thokoa">
+    <latitude>-29.0333333</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Tholo">
+    <latitude>-29.0333333</latitude>
+    <longitude>28.5166667</longitude>
+  </city>
+  <city name="Thulo">
+    <latitude>-29.5833333</latitude>
+    <longitude>27.25</longitude>
+  </city>
+  <city name="Tikoe">
+    <latitude>-29.35</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Tlalis">
+    <latitude>-29.6</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Tlali">
+    <latitude>-29.6</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Tlhakanelo">
+    <latitude>-29.7166667</latitude>
+    <longitude>28.8</longitude>
+  </city>
+  <city name="Tlokoeng">
+    <latitude>-29.2333333</latitude>
+    <longitude>28.9666667</longitude>
+  </city>
+  <city name="Toloane">
+    <latitude>-29.65</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Tosing">
+    <latitude>-30.35</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Tsa Kholo">
+    <latitude>-29.6666667</latitude>
+    <longitude>27.15</longitude>
+  </city>
+  <city name="Tsehlos">
+    <latitude>-29.3166667</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Tsehlo">
+    <latitude>-29.3166667</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Tseka">
+    <latitude>-29.4</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Tsiame">
+    <latitude>-29.4</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Tsikoane">
+    <latitude>-28.9</latitude>
+    <longitude>28.0166667</longitude>
+  </city>
+  <city name="Tsime">
+    <latitude>-28.75</latitude>
+    <longitude>28.4166667</longitude>
+  </city>
+  <city name="Tsius">
+    <latitude>-29.5333333</latitude>
+    <longitude>27.5833333</longitude>
+  </city>
+  <city name="Tsiu">
+    <latitude>-29.5333333</latitude>
+    <longitude>27.5833333</longitude>
+  </city>
+  <city name="Tsoelike">
+    <latitude>-30.0166667</latitude>
+    <longitude>28.6666667</longitude>
+  </city>
+  <city name="Tsoloane">
+    <latitude>-30.0166667</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Tsoloani">
+    <latitude>-30.0166667</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Tsupane Gate">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Tsupani Gate">
+    <latitude>-29.7166667</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Umtamana">
+    <latitude>-29.9833333</latitude>
+    <longitude>27.9166667</longitude>
+  </city>
+  <city name="Upper Qeme">
+    <latitude>-29.4833333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Van Roiyan's Gate">
+    <latitude>-29.75</latitude>
+    <longitude>27.1166667</longitude>
+  </city>
+  <city name="Van Rooyens Gate">
+    <latitude>-29.75</latitude>
+    <longitude>27.1166667</longitude>
+  </city>
+  <city name="White Hill">
+    <latitude>-30.05</latitude>
+    <longitude>28.4833333</longitude>
+  </city>
+</country>

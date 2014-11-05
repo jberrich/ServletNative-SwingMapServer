@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="mo" name="Macau">
+  <city name="Ao-men">
+    <latitude>22.2</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Cheoc Ca Chün">
+    <latitude>22.1666667</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Cidade de Macau">
+    <latitude>22.2</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Coloane">
+    <latitude>22.1166667</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Hac Sá">
+    <latitude>22.1222222</latitude>
+    <longitude>113.5638889</longitude>
+  </city>
+  <city name="Hac-Tsa">
+    <latitude>22.1222222</latitude>
+    <longitude>113.5638889</longitude>
+  </city>
+  <city name="Hei-sha">
+    <latitude>22.1222222</latitude>
+    <longitude>113.5638889</longitude>
+  </city>
+  <city name="Lai Chi Van">
+    <latitude>22.125</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Lin-chia-ts'un">
+    <latitude>22.15</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Lu-huan">
+    <latitude>22.1166667</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Lui-Tchi-Van">
+    <latitude>22.125</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Macao">
+    <latitude>22.2</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Macau">
+    <latitude>22.2</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Taipa">
+    <latitude>22.15</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Tcheok-Ka-Tchin">
+    <latitude>22.1666667</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Tcheok-La-Tchin">
+    <latitude>22.1666667</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Ts'ao-chia-ts'un">
+    <latitude>22.1666667</latitude>
+    <longitude>113.55</longitude>
+  </city>
+  <city name="Vila da Taipa">
+    <latitude>22.15</latitude>
+    <longitude>113.55</longitude>
+  </city>
+</country>

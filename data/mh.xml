@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="mh" name="Marshall (Îles)">
+  <city name="Ine">
+    <latitude>6.9833333</latitude>
+    <longitude>171.7</longitude>
+  </city>
+  <city name="Jabooru">
+    <latitude>5.9166667</latitude>
+    <longitude>169.65</longitude>
+  </city>
+  <city name="Jabor">
+    <latitude>5.9166667</latitude>
+    <longitude>169.65</longitude>
+  </city>
+  <city name="Jaboru">
+    <latitude>5.9166667</latitude>
+    <longitude>169.65</longitude>
+  </city>
+  <city name="Jabwor">
+    <latitude>5.9166667</latitude>
+    <longitude>169.65</longitude>
+  </city>
+  <city name="Majuro">
+    <latitude>7.1</latitude>
+    <longitude>171.3833333</longitude>
+  </city>
+</country>

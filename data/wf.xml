@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="wf" name="Wallis et Futuna (Îles)">
+  <city name="Ahoa">
+    <latitude>-13.2833333</latitude>
+    <longitude>-176.2</longitude>
+  </city>
+  <city name="Akaka">
+    <latitude>-13.2666667</latitude>
+    <longitude>-176.1333333</longitude>
+  </city>
+  <city name="Alele">
+    <latitude>-13.2333333</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Alo">
+    <latitude>-14.3166667</latitude>
+    <longitude>-178.1166667</longitude>
+  </city>
+  <city name="Alofitai">
+    <latitude>-14.35</latitude>
+    <longitude>-178.05</longitude>
+  </city>
+  <city name="Fakauita">
+    <latitude>-13.25</latitude>
+    <longitude>-176.1833333</longitude>
+  </city>
+  <city name="Falaleu">
+    <latitude>-13.3</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Fineveke">
+    <latitude>-13.3166667</latitude>
+    <longitude>-176.2</longitude>
+  </city>
+  <city name="Foi">
+    <latitude>-14.3</latitude>
+    <longitude>-178.0833333</longitude>
+  </city>
+  <city name="Gahi">
+    <latitude>-13.3333333</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Gamua">
+    <latitude>-13.25</latitude>
+    <longitude>-176.1333333</longitude>
+  </city>
+  <city name="Haafusia">
+    <latitude>-13.3</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Ha'alalo">
+    <latitude>-13.35</latitude>
+    <longitude>-176.1833333</longitude>
+  </city>
+  <city name="Haatofo">
+    <latitude>-13.3333333</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Halalo">
+    <latitude>-13.35</latitude>
+    <longitude>-176.1833333</longitude>
+  </city>
+  <city name="Halamaitai">
+    <latitude>-13.2833333</latitude>
+    <longitude>-176.1333333</longitude>
+  </city>
+  <city name="Kolia">
+    <latitude>-14.3166667</latitude>
+    <longitude>-178.0833333</longitude>
+  </city>
+  <city name="Kolopopo">
+    <latitude>-13.35</latitude>
+    <longitude>-176.1666667</longitude>
+  </city>
+  <city name="Lano">
+    <latitude>-13.25</latitude>
+    <longitude>-176.1333333</longitude>
+  </city>
+  <city name="Leava">
+    <latitude>-14.3</latitude>
+    <longitude>-178.1666667</longitude>
+  </city>
+  <city name="Liku">
+    <latitude>-13.2666667</latitude>
+    <longitude>-176.1333333</longitude>
+  </city>
+  <city name="Loto Mua">
+    <latitude>-13.35</latitude>
+    <longitude>-176.1666667</longitude>
+  </city>
+  <city name="Malae">
+    <latitude>-14.3166667</latitude>
+    <longitude>-178.1166667</longitude>
+  </city>
+  <city name="Matâ'utu">
+    <latitude>-13.2833333</latitude>
+    <longitude>-176.1333333</longitude>
+  </city>
+  <city name="Mua">
+    <latitude>-13.35</latitude>
+    <longitude>-176.1666667</longitude>
+  </city>
+  <city name="Regina Spit">
+    <latitude>-13.2833333</latitude>
+    <longitude>-176.1333333</longitude>
+  </city>
+  <city name="Sigavé">
+    <latitude>-14.3</latitude>
+    <longitude>-178.1666667</longitude>
+  </city>
+  <city name="Singave">
+    <latitude>-14.3</latitude>
+    <longitude>-178.1666667</longitude>
+  </city>
+  <city name="Tauai">
+    <latitude>-14.2333333</latitude>
+    <longitude>-178.1666667</longitude>
+  </city>
+  <city name="Teesi">
+    <latitude>-13.35</latitude>
+    <longitude>-176.1666667</longitude>
+  </city>
+  <city name="Téessé">
+    <latitude>-13.35</latitude>
+    <longitude>-176.1666667</longitude>
+  </city>
+  <city name="Tepa">
+    <latitude>-13.3166667</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Tufuone">
+    <latitude>-13.2166667</latitude>
+    <longitude>-176.1666667</longitude>
+  </city>
+  <city name="Utufua">
+    <latitude>-13.35</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Utuloa">
+    <latitude>-13.2666667</latitude>
+    <longitude>-176.1833333</longitude>
+  </city>
+  <city name="Vailala">
+    <latitude>-13.2166667</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Vaimatau">
+    <latitude>-13.3166667</latitude>
+    <longitude>-176.2</longitude>
+  </city>
+  <city name="Vaitupu">
+    <latitude>-13.2333333</latitude>
+    <longitude>-176.15</longitude>
+  </city>
+  <city name="Velé">
+    <latitude>-14.3166667</latitude>
+    <longitude>-178.0666667</longitude>
+  </city>
+</country>

@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="gd" name="Grenade">
+  <city name="Adelphia">
+    <latitude>12.1</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Adelphi">
+    <latitude>12.1</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Amber Belair">
+    <latitude>12.0</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Après Tout">
+    <latitude>12.05</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Argyle">
+    <latitude>12.45</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Arthur Seat">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Baillies Bacolet">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Bamboo">
+    <latitude>12.0</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Barique">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Barrow">
+    <latitude>12.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Battle Hill">
+    <latitude>12.1</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Beaton">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Beaulieu">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Beauregard">
+    <latitude>12.1</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Becke Moui">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Belair">
+    <latitude>12.15</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Belle Isle">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Belle Plain">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Bellevue">
+    <latitude>12.1</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Belmont">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Belvedere">
+    <latitude>12.5</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Belvidere">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Birch Grove">
+    <latitude>12.1</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Blaize">
+    <latitude>12.15</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Blow Hole">
+    <latitude>11.9833333</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Boca">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Bogles">
+    <latitude>12.5</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Bois de Gannes">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Brandon Hall">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Brisant">
+    <latitude>12.1</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Brizan">
+    <latitude>12.1</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Bylands">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Café">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Calivigny">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Calliste">
+    <latitude>12.0</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Calliste Land Settlement">
+    <latitude>12.0</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Canne Fond">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Carriere">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Castaigne">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Castle Hill">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Celeste">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Chadeau">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Champs Fleurs">
+    <latitude>12.05</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Chantimelle">
+    <latitude>12.2</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Charlotte Town">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Charlotte Vale">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Chutz">
+    <latitude>12.1</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Clabony">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Clarkes Court">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Clozier">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Concord">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Confer">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Conference">
+    <latitude>12.15</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Constantine">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Content">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Corbeau Town">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Corinth">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Crayfish">
+    <latitude>12.2</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Crochu">
+    <latitude>12.05</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="D'Arbeau">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Deblando">
+    <latitude>12.1</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Des Isles">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Diego Piece">
+    <latitude>12.2</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Dothan">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Dover">
+    <latitude>12.5</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Dumfermline">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Dumfries">
+    <latitude>12.4666667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Dunfermline">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Duquesne">
+    <latitude>12.2</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Egmont">
+    <latitude>12.0</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Elie Hall">
+    <latitude>12.2</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Epping Forest">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Fairfield">
+    <latitude>12.05</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Falaise">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Falege">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Felix Park">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Florida">
+    <latitude>12.15</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Fontenoy">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Ford">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Fort Jeudy">
+    <latitude>12.0</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Fort Royal">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Frequente">
+    <latitude>12.0</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Georgetown">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Golflands">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Gouave">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Gouyave">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Goyave">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Grand Ance">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Grand Anse">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Grand Bay">
+    <latitude>12.4833333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Grand Bra">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Grand Bras">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Grand Mal">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Grand Pauve">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Grand Pauvre">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Grand Roy">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Granton">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Grenada City">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Grenville">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Gretna Green">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Guyave">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Gwa Kay">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Happy Hill">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Harford Village">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Helvellyn">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Hermitage">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Hermon">
+    <latitude>12.15</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Hillsborough">
+    <latitude>12.4833333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Hope Bacolet">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Horne">
+    <latitude>12.0</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Hyde Park">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Industry">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Ka-fe Beau">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="La Baye">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Laborie">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="La Didue">
+    <latitude>12.1</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="La Digue">
+    <latitude>12.1</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="La Femme">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="La Filette">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="La Fortune">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="La Mode">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Lance aux Épines">
+    <latitude>11.9833333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="La Poterie">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.6</longitude>
+  </city>
+  <city name="L'Appelle">
+    <latitude>12.5166667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="La Taste">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Laura">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Le Sausos">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="L'Esperance">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="L'Esterre">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="L'Etage">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Levera Development">
+    <latitude>12.2</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Levera">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Lewis">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Lower Capitol">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Lower La Tante">
+    <latitude>12.05</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Lower La Taste">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Lower Pearl">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Lower Pearls">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Lower Woburn">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mabouya">
+    <latitude>12.15</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mahot">
+    <latitude>12.05</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Maliniere">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Mamma Cannes">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Mango">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Maran">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Mardigras">
+    <latitude>12.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Marian">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Marigot">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Marli">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Marlmount">
+    <latitude>12.05</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Marquis">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Maulti">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Meldrum">
+    <latitude>12.5</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Merebeau">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Mirabeau">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Molinière">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Mon Plaisir">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Mon Repos">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Mont Carmel">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Mont Moritz">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Montreuil">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Mont Tout">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Morne Docteur">
+    <latitude>12.1</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Morne Fendue">
+    <latitude>12.2</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Morne Fondue">
+    <latitude>12.2</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Morne Jaloux">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Morne Jaloux Ridge">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Morne Longue">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Morne Rouge">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Morne Tranquille">
+    <latitude>12.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Mount Agnes">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Mount Airy">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Mount Alexander">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Mount Carmel">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Mount Cassell Land Settlement">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Mount Cenis">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Mount Craven">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Mount Desir">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mount Fann">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Mount Gay">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mount Helicon">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mount Hope">
+    <latitude>12.15</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Mount Horne">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Mount Marice">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mount Morice">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mount Moritz Land Settlement">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mount Moritz">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mount Nesbit Land Settlement">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Mount Nesbit">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Mount Pleasant">
+    <latitude>12.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Mount Rich">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Mount Rose">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Mount Royal">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Mount Stanhope">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Mount Weldale">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Mount William">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Moya">
+    <latitude>12.15</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Munich">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="New Hampshire">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Nianganfoix">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Nonpareil">
+    <latitude>12.2</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Paddock">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Panorama">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Paraclete">
+    <latitude>12.15</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Parade">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Paradise">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Pearls">
+    <latitude>12.15</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Pêcher">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Peggys Whim">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Perdmontemps">
+    <latitude>12.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Petit Bacaye">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Petit Balthazar">
+    <latitude>12.1</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Petit Bouc">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Petit Calivigny">
+    <latitude>12.0</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Petit Étang">
+    <latitude>12.05</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Pierre Marie">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Plaisance Land Settlement">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Plaisance">
+    <latitude>12.1</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Pomme Rose">
+    <latitude>12.05</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Port Louis">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Port Royal">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Post Royal">
+    <latitude>12.1</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Prospect">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Providence">
+    <latitude>12.05</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Pyrénées">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Radix">
+    <latitude>12.05</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Ravine">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Retreat">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Richmond Hill">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Richmond">
+    <latitude>12.1</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="River Sallee">
+    <latitude>12.2</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Rivière Sallee">
+    <latitude>12.2</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Rose Hill">
+    <latitude>12.2</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Rosemont">
+    <latitude>12.15</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Ruth Howard">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Saint Cloud">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Saint Cyr">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Saint David's">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Saint George">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Saint George's">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Saint James">
+    <latitude>12.1</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Saint John">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Saint Margaret">
+    <latitude>12.1</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Saint Mark">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Saint Marks">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Saint Mark Village">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Saint Mary">
+    <latitude>12.15</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Saint Omer">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Saint Paul's">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Sans Souci">
+    <latitude>12.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Sauteurs">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Sautiers">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Simon">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Six Roads">
+    <latitude>12.4666667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Snug Corner">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Soubise">
+    <latitude>12.1</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Springs">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Syracuse">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Tanteen">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Telescope">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Tempe">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Temple">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Terre Cannes">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Thebaide">
+    <latitude>12.05</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Thebaid">
+    <latitude>12.05</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="The Bocas">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="The Cliff">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="The Lance">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="The Lime">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="The Park">
+    <latitude>12.05</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Tivoli">
+    <latitude>12.1666667</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Trevellan">
+    <latitude>12.2166667</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Tricolar">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="True Blue">
+    <latitude>12.0</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Union">
+    <latitude>12.1</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Union Village">
+    <latitude>12.1</latitude>
+    <longitude>-61.6333333</longitude>
+  </city>
+  <city name="Upper Capitol">
+    <latitude>12.1166667</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Upper Conference">
+    <latitude>12.15</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Upper La Tante">
+    <latitude>12.05</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Upper La Taste">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Upper Pearls">
+    <latitude>12.15</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Upper Pearl">
+    <latitude>12.15</latitude>
+    <longitude>-61.6166667</longitude>
+  </city>
+  <city name="Vendôme">
+    <latitude>12.0666667</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Victoria">
+    <latitude>12.1833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Vincennes">
+    <latitude>12.05</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Vineyard">
+    <latitude>12.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Waltham">
+    <latitude>12.2</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Welcome Hall">
+    <latitude>12.2</latitude>
+    <longitude>-61.65</longitude>
+  </city>
+  <city name="Westerhall Land Settlement">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Westerhall Point">
+    <latitude>12.0</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Westerhall">
+    <latitude>12.0</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="White Gun">
+    <latitude>12.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Willis">
+    <latitude>12.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Windsor Castle">
+    <latitude>12.0333333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Windsor Forest">
+    <latitude>12.05</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Windsor">
+    <latitude>12.1333333</latitude>
+    <longitude>-61.6666667</longitude>
+  </city>
+  <city name="Windward">
+    <latitude>12.5166667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Woborn">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Woburn">
+    <latitude>12.0166667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+</country>

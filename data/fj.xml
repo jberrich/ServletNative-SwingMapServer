@@ -1,0 +1,5819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="fj" name="Fidji (République des)">
+  <city name="Ahau">
+    <latitude>-12.5</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Alava">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.2166667</longitude>
+  </city>
+  <city name="Ambatha">
+    <latitude>-17.6666667</latitude>
+    <longitude>177.5333333</longitude>
+  </city>
+  <city name="Andako">
+    <latitude>-19.1833333</latitude>
+    <longitude>179.75</longitude>
+  </city>
+  <city name="Arua">
+    <latitude>-19.1666667</latitude>
+    <longitude>179.75</longitude>
+  </city>
+  <city name="Assawa">
+    <latitude>-16.1666667</latitude>
+    <longitude>-179.9833333</longitude>
+  </city>
+  <city name="Atopisi">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Au Soso">
+    <latitude>-17.75</latitude>
+    <longitude>178.75</longitude>
+  </city>
+  <city name="Avea">
+    <latitude>-17.2</latitude>
+    <longitude>-178.9</longitude>
+  </city>
+  <city name="Bega">
+    <latitude>-18.1</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Beka">
+    <latitude>-18.1</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Biagunu">
+    <latitude>-16.45</latitude>
+    <longitude>179.7333333</longitude>
+  </city>
+  <city name="Boiling Springs">
+    <latitude>-16.7833333</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Bouwanga">
+    <latitude>-18.5666667</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Bowanka">
+    <latitude>-18.5666667</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Buratu">
+    <latitude>-18.05</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Chomah">
+    <latitude>-19.0333333</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Dagai">
+    <latitude>-19.1</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Dalice">
+    <latitude>-17.8</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Daviqele">
+    <latitude>-19.15</latitude>
+    <longitude>178.0</longitude>
+  </city>
+  <city name="Delaiyadua">
+    <latitude>-17.5666667</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Dogowali">
+    <latitude>-18.2666667</latitude>
+    <longitude>177.9333333</longitude>
+  </city>
+  <city name="Draiba">
+    <latitude>-17.7</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Dravuni">
+    <latitude>-17.9166667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Drekena">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Driba">
+    <latitude>-17.7</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Drio drio">
+    <latitude>-17.95</latitude>
+    <longitude>177.9</longitude>
+  </city>
+  <city name="Ekubu">
+    <latitude>-18.5166667</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Ekumbu">
+    <latitude>-18.5166667</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Else'e">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.0833333</longitude>
+  </city>
+  <city name="Elsio">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Emuri">
+    <latitude>-18.0666667</latitude>
+    <longitude>177.3833333</longitude>
+  </city>
+  <city name="Enduanasali">
+    <latitude>-18.15</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Etumba">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Eveve">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1</longitude>
+  </city>
+  <city name="Fafaisina">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1333333</longitude>
+  </city>
+  <city name="Fapufa">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Feavai">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Feavarere">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Fort Carnarvon">
+    <latitude>-17.8833333</latitude>
+    <longitude>177.7833333</longitude>
+  </city>
+  <city name="Galligarua">
+    <latitude>-19.1666667</latitude>
+    <longitude>179.7833333</longitude>
+  </city>
+  <city name="Granby Harbour">
+    <latitude>-18.25</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Haga">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0833333</longitude>
+  </city>
+  <city name="Hofvea">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Hua">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.1</longitude>
+  </city>
+  <city name="Itumuta">
+    <latitude>-12.5</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Ituteu">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Jolmea">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Juju">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0833333</longitude>
+  </city>
+  <city name="Kaivala">
+    <latitude>-18.9666667</latitude>
+    <longitude>178.4166667</longitude>
+  </city>
+  <city name="Kalambo">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.4833333</longitude>
+  </city>
+  <city name="Kaleta Levu">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Kaloka Levu">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Kalokolevu">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Kalvaka">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1166667</longitude>
+  </city>
+  <city name="Kamba">
+    <latitude>-18.0</latitude>
+    <longitude>178.7</longitude>
+  </city>
+  <city name="Kambariki">
+    <latitude>-19.15</latitude>
+    <longitude>178.0333333</longitude>
+  </city>
+  <city name="Kambisi">
+    <latitude>-18.0666667</latitude>
+    <longitude>177.3666667</longitude>
+  </city>
+  <city name="Kana">
+    <latitude>-17.7833333</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Kanakana">
+    <latitude>-16.6166667</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Kanathea">
+    <latitude>-16.9666667</latitude>
+    <longitude>179.9</longitude>
+  </city>
+  <city name="Kandavu">
+    <latitude>-19.0333333</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Kande">
+    <latitude>-17.3666667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Kandi">
+    <latitude>-16.8166667</latitude>
+    <longitude>-179.85</longitude>
+  </city>
+  <city name="Karoko">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.9166667</longitude>
+  </city>
+  <city name="Karomaci">
+    <latitude>-19.1333333</latitude>
+    <longitude>179.7666667</longitude>
+  </city>
+  <city name="Kasaleka">
+    <latitude>-18.95</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Kasavu">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Kasenkula">
+    <latitude>-18.1666667</latitude>
+    <longitude>177.4666667</longitude>
+  </city>
+  <city name="Kaunakoro">
+    <latitude>-18.95</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Kavala">
+    <latitude>-18.9666667</latitude>
+    <longitude>178.4166667</longitude>
+  </city>
+  <city name="Kavula">
+    <latitude>-16.7333333</latitude>
+    <longitude>178.75</longitude>
+  </city>
+  <city name="Keiasi">
+    <latitude>-17.8833333</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Keiaski">
+    <latitude>-17.8833333</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Keiyasi">
+    <latitude>-17.8833333</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Kendra">
+    <latitude>-16.25</latitude>
+    <longitude>179.8166667</longitude>
+  </city>
+  <city name="Kese">
+    <latitude>-17.1333333</latitude>
+    <longitude>177.25</longitude>
+  </city>
+  <city name="Ketei">
+    <latitude>-18.95</latitude>
+    <longitude>-179.8166667</longitude>
+  </city>
+  <city name="Keteira">
+    <latitude>-18.6166667</latitude>
+    <longitude>179.9</longitude>
+  </city>
+  <city name="Keua">
+    <latitude>-12.5</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Kiombo">
+    <latitude>-16.9166667</latitude>
+    <longitude>179.0166667</longitude>
+  </city>
+  <city name="Kiti-i-ra">
+    <latitude>-18.6166667</latitude>
+    <longitude>179.9</longitude>
+  </city>
+  <city name="Kiura">
+    <latitude>-18.05</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Kiuva">
+    <latitude>-18.05</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Kolokolevu">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Komari">
+    <latitude>-18.2166667</latitude>
+    <longitude>177.7666667</longitude>
+  </city>
+  <city name="Komave">
+    <latitude>-18.2166667</latitude>
+    <longitude>177.7666667</longitude>
+  </city>
+  <city name="Korobamba">
+    <latitude>-17.8</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Koroinasolo">
+    <latitude>-16.75</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Koroivonu">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Koro i Vunu">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Koroiyatha">
+    <latitude>-17.7333333</latitude>
+    <longitude>177.4666667</longitude>
+  </city>
+  <city name="Koro">
+    <latitude>-17.7166667</latitude>
+    <longitude>177.9166667</longitude>
+  </city>
+  <city name="Koro Kula">
+    <latitude>-17.35</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Korokula">
+    <latitude>-17.9833333</latitude>
+    <longitude>177.2833333</longitude>
+  </city>
+  <city name="Korolevu">
+    <latitude>-17.95</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Koromathi">
+    <latitude>-19.1333333</latitude>
+    <longitude>179.7666667</longitude>
+  </city>
+  <city name="Koro Nandi">
+    <latitude>-16.95</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Koronatonga">
+    <latitude>-16.6333333</latitude>
+    <longitude>179.5333333</longitude>
+  </city>
+  <city name="Koronggangga">
+    <latitude>-17.4833333</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Koronisangana">
+    <latitude>-17.9833333</latitude>
+    <longitude>177.6333333</longitude>
+  </city>
+  <city name="Koronivonu">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Koro-Ono">
+    <latitude>-20.6833333</latitude>
+    <longitude>-178.7166667</longitude>
+  </city>
+  <city name="Korosi">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.45</longitude>
+  </city>
+  <city name="Korosuli">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Korotasere">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Koro Tavea">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Korothirithiri">
+    <latitude>-18.0</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Korotolu">
+    <latitude>-18.65</latitude>
+    <longitude>-178.4833333</longitude>
+  </city>
+  <city name="Korotonga">
+    <latitude>-18.1666667</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Korotongo">
+    <latitude>-18.1666667</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Korotumbu">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.2</longitude>
+  </city>
+  <city name="Koro Vaca">
+    <latitude>-17.7333333</latitude>
+    <longitude>177.4666667</longitude>
+  </city>
+  <city name="Korovatu">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Korovisilou">
+    <latitude>-18.25</latitude>
+    <longitude>177.8833333</longitude>
+  </city>
+  <city name="Korovou">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Korovuli">
+    <latitude>-16.5</latitude>
+    <longitude>179.1666667</longitude>
+  </city>
+  <city name="Korovuto">
+    <latitude>-17.8333333</latitude>
+    <longitude>177.3833333</longitude>
+  </city>
+  <city name="Korovutu">
+    <latitude>-17.8333333</latitude>
+    <longitude>177.3833333</longitude>
+  </city>
+  <city name="Korowiri">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Koroyatha">
+    <latitude>-17.7333333</latitude>
+    <longitude>177.4666667</longitude>
+  </city>
+  <city name="Kothoma">
+    <latitude>-16.7833333</latitude>
+    <longitude>-179.7666667</longitude>
+  </city>
+  <city name="Ko-vaua">
+    <latitude>-18.6166667</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Kovo Vu">
+    <latitude>-18.25</latitude>
+    <longitude>177.9666667</longitude>
+  </city>
+  <city name="Kubuna">
+    <latitude>-18.0333333</latitude>
+    <longitude>177.3</longitude>
+  </city>
+  <city name="Kumbuna">
+    <latitude>-18.0333333</latitude>
+    <longitude>177.3</longitude>
+  </city>
+  <city name="Kumi">
+    <latitude>-17.8833333</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Labasa">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Lakemba">
+    <latitude>-16.2</latitude>
+    <longitude>179.7</longitude>
+  </city>
+  <city name="Lala">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.75</longitude>
+  </city>
+  <city name="Lalati">
+    <latitude>-18.3833333</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Lambasa">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Lambasa Mill">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Lambase">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Lambassa">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Lameta">
+    <latitude>-18.0166667</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Lami">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Lamini">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.9666667</longitude>
+  </city>
+  <city name="Lamiti">
+    <latitude>-18.0166667</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Langgere">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Langi">
+    <latitude>-16.2333333</latitude>
+    <longitude>179.85</longitude>
+  </city>
+  <city name="Lasakau">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Laselase">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Laseleva">
+    <latitude>-17.75</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Laselevu">
+    <latitude>-17.75</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Laucala">
+    <latitude>-18.15</latitude>
+    <longitude>178.5166667</longitude>
+  </city>
+  <city name="Lau">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Lauthala Bay">
+    <latitude>-18.15</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Lauthala">
+    <latitude>-18.15</latitude>
+    <longitude>178.5166667</longitude>
+  </city>
+  <city name="Lautoka">
+    <latitude>-17.6166667</latitude>
+    <longitude>177.4666667</longitude>
+  </city>
+  <city name="Lauwaki">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Laveine">
+    <latitude>-16.8666667</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Lavena">
+    <latitude>-16.8666667</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Lawai">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Lawake">
+    <latitude>-17.8333333</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Lawaki">
+    <latitude>-17.65</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Lawangga">
+    <latitude>-18.15</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Lawaqa">
+    <latitude>-18.15</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Lekanai">
+    <latitude>-17.95</latitude>
+    <longitude>179.3166667</longitude>
+  </city>
+  <city name="Lekutu">
+    <latitude>-16.6666667</latitude>
+    <longitude>178.7166667</longitude>
+  </city>
+  <city name="Lekutulevu">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.4833333</longitude>
+  </city>
+  <city name="Levoni">
+    <latitude>-17.7</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Levukaindaku">
+    <latitude>-19.1833333</latitude>
+    <longitude>179.7666667</longitude>
+  </city>
+  <city name="Levuka">
+    <latitude>-17.6833333</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Levukana">
+    <latitude>-17.2666667</latitude>
+    <longitude>-178.9666667</longitude>
+  </city>
+  <city name="Lewa">
+    <latitude>-17.65</latitude>
+    <longitude>177.9333333</longitude>
+  </city>
+  <city name="Leya">
+    <latitude>-16.7</latitude>
+    <longitude>179.6333333</longitude>
+  </city>
+  <city name="Ligau levu">
+    <latitude>-16.3333333</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Liku">
+    <latitude>-18.0</latitude>
+    <longitude>-179.05</longitude>
+  </city>
+  <city name="Lindiasinga">
+    <latitude>-16.35</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Lingaulevu">
+    <latitude>-16.3333333</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Lingau">
+    <latitude>-16.2333333</latitude>
+    <longitude>179.0833333</longitude>
+  </city>
+  <city name="Lithawa">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Loa">
+    <latitude>-16.6833333</latitude>
+    <longitude>179.8166667</longitude>
+  </city>
+  <city name="Lokia">
+    <latitude>-18.1</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Loloa">
+    <latitude>-17.95</latitude>
+    <longitude>179.2833333</longitude>
+  </city>
+  <city name="Lomai">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Lomainasau">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Lomaji">
+    <latitude>-17.7166667</latitude>
+    <longitude>-179.3</longitude>
+  </city>
+  <city name="Lomaloma">
+    <latitude>-17.2833333</latitude>
+    <longitude>-178.9833333</longitude>
+  </city>
+  <city name="Lomanikaya">
+    <latitude>-18.5333333</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Lomanikoro">
+    <latitude>-18.1</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Lomatandra">
+    <latitude>-17.4666667</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Lomati">
+    <latitude>-18.95</latitude>
+    <longitude>-178.9833333</longitude>
+  </city>
+  <city name="Lomawai">
+    <latitude>-18.0333333</latitude>
+    <longitude>177.3</longitude>
+  </city>
+  <city name="Lombau">
+    <latitude>-18.1666667</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Lomiti">
+    <latitude>-18.0166667</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Lomo-lomo">
+    <latitude>-17.2833333</latitude>
+    <longitude>-178.9833333</longitude>
+  </city>
+  <city name="Lomolomo">
+    <latitude>-17.7</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Londoni">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Longani">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Lopo">
+    <latitude>-12.5</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Losa">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0</longitude>
+  </city>
+  <city name="Lovoni">
+    <latitude>-17.7</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Lovoninggai">
+    <latitude>-16.7666667</latitude>
+    <longitude>179.4833333</longitude>
+  </city>
+  <city name="Lovonivonu">
+    <latitude>-16.7833333</latitude>
+    <longitude>-179.9833333</longitude>
+  </city>
+  <city name="Lovu">
+    <latitude>-18.1166667</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Lungani">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Lutukina">
+    <latitude>-16.65</latitude>
+    <longitude>179.0</longitude>
+  </city>
+  <city name="Lutu">
+    <latitude>-17.8</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Luvunivuaka">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.5166667</longitude>
+  </city>
+  <city name="Maftoa">
+    <latitude>-12.5</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Maiambi">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Makolei">
+    <latitude>-16.9833333</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Makomako">
+    <latitude>-16.5</latitude>
+    <longitude>179.2333333</longitude>
+  </city>
+  <city name="Malailombau">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Malaka">
+    <latitude>-17.2333333</latitude>
+    <longitude>-178.9666667</longitude>
+  </city>
+  <city name="Malakati">
+    <latitude>-16.9</latitude>
+    <longitude>177.4166667</longitude>
+  </city>
+  <city name="Malake">
+    <latitude>-16.5</latitude>
+    <longitude>179.65</longitude>
+  </city>
+  <city name="Malaki">
+    <latitude>-16.5</latitude>
+    <longitude>179.65</longitude>
+  </city>
+  <city name="Mala">
+    <latitude>-17.7333333</latitude>
+    <longitude>177.5833333</longitude>
+  </city>
+  <city name="Malambi">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Malau">
+    <latitude>-16.3666667</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Malawai">
+    <latitude>-18.0</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Malevu">
+    <latitude>-17.1333333</latitude>
+    <longitude>177.25</longitude>
+  </city>
+  <city name="Maloku">
+    <latitude>-18.5666667</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Malomalo">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.3666667</longitude>
+  </city>
+  <city name="Malsa'a">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Mambula">
+    <latitude>-17.7666667</latitude>
+    <longitude>-179.35</longitude>
+  </city>
+  <city name="Manuku">
+    <latitude>-17.8</latitude>
+    <longitude>179.1833333</longitude>
+  </city>
+  <city name="Manu">
+    <latitude>-17.65</latitude>
+    <longitude>178.2833333</longitude>
+  </city>
+  <city name="Marama">
+    <latitude>-12.5</latitude>
+    <longitude>177.1333333</longitude>
+  </city>
+  <city name="Marou">
+    <latitude>-17.1166667</latitude>
+    <longitude>177.2666667</longitude>
+  </city>
+  <city name="Matailambasa">
+    <latitude>-16.3666667</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Matailombau">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Matai">
+    <latitude>-17.8833333</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Matainananu">
+    <latitude>-17.5666667</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Matainasau">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Matainimoli">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Matainotho">
+    <latitude>-18.05</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Mataithangi">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.0833333</longitude>
+  </city>
+  <city name="Mataithang">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.0833333</longitude>
+  </city>
+  <city name="Matakula">
+    <latitude>-18.2333333</latitude>
+    <longitude>177.7833333</longitude>
+  </city>
+  <city name="Mataleka">
+    <latitude>-17.9</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Matalolo">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Matamaivere">
+    <latitude>-17.95</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Matameivere">
+    <latitude>-17.95</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Matanangata">
+    <latitude>-17.5</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Mataniwai">
+    <latitude>-16.3333333</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Matanuku">
+    <latitude>-19.1666667</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Matasawalevu">
+    <latitude>-19.0</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Mataso">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Matathauthau">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Matathawalevu">
+    <latitude>-16.95</latitude>
+    <longitude>177.3666667</longitude>
+  </city>
+  <city name="Matathula">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Mataveikai">
+    <latitude>-17.4833333</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Matavuralevu">
+    <latitude>-18.25</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Matawailevu">
+    <latitude>-17.8666667</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Matayalevu">
+    <latitude>-17.0</latitude>
+    <longitude>177.3333333</longitude>
+  </city>
+  <city name="Mathuata-i-Wai">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.0833333</longitude>
+  </city>
+  <city name="Matokana">
+    <latitude>-20.6833333</latitude>
+    <longitude>-178.7166667</longitude>
+  </city>
+  <city name="Mau">
+    <latitude>-18.1833333</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Maumi">
+    <latitude>-18.0</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Mavana">
+    <latitude>-17.2166667</latitude>
+    <longitude>-178.9333333</longitude>
+  </city>
+  <city name="Mavua">
+    <latitude>-18.0166667</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Mbaindamundamu">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Mbalekinanga">
+    <latitude>-17.6666667</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Mbalenambelo">
+    <latitude>-18.1666667</latitude>
+    <longitude>177.6166667</longitude>
+  </city>
+  <city name="Mbalesere">
+    <latitude>-17.6</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Mbalevuto">
+    <latitude>-17.65</latitude>
+    <longitude>177.7166667</longitude>
+  </city>
+  <city name="Mba">
+    <latitude>-17.5333333</latitude>
+    <longitude>177.7</longitude>
+  </city>
+  <city name="Mbangasau">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.7333333</longitude>
+  </city>
+  <city name="Mbangata">
+    <latitude>-16.6666667</latitude>
+    <longitude>179.3</longitude>
+  </city>
+  <city name="Mbanikea">
+    <latitude>-16.7666667</latitude>
+    <longitude>178.75</longitude>
+  </city>
+  <city name="Mbanikeya">
+    <latitude>-16.7666667</latitude>
+    <longitude>178.75</longitude>
+  </city>
+  <city name="Mbariki">
+    <latitude>-19.15</latitude>
+    <longitude>178.0333333</longitude>
+  </city>
+  <city name="Mbarotu">
+    <latitude>-17.4833333</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Mbatimaoli">
+    <latitude>-17.7</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Mbatinikama">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Mbatiri">
+    <latitude>-16.6</latitude>
+    <longitude>179.0333333</longitude>
+  </city>
+  <city name="Mbaulevu">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Mbau">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Mbavu">
+    <latitude>-17.95</latitude>
+    <longitude>177.2833333</longitude>
+  </city>
+  <city name="Mbemana">
+    <latitude>-17.9666667</latitude>
+    <longitude>177.7166667</longitude>
+  </city>
+  <city name="Mbengga">
+    <latitude>-18.1</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Mbiaungunu">
+    <latitude>-16.45</latitude>
+    <longitude>179.7333333</longitude>
+  </city>
+  <city name="Mbiausevu">
+    <latitude>-18.1833333</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Mboitathi">
+    <latitude>-17.25</latitude>
+    <longitude>-178.9333333</longitude>
+  </city>
+  <city name="Mboma">
+    <latitude>-16.8166667</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Mbotenaulu">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Mbouma">
+    <latitude>-16.8166667</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Mboumba">
+    <latitude>-16.8166667</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Mboutini">
+    <latitude>-16.3333333</latitude>
+    <longitude>179.8166667</longitude>
+  </city>
+  <city name="Mbouwangga">
+    <latitude>-18.5666667</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Mbualu">
+    <latitude>-18.8833333</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Mbua">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.0833333</longitude>
+  </city>
+  <city name="Mbuinduna">
+    <latitude>-18.0</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Mbukama">
+    <latitude>-16.7666667</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Mbuke Levuira">
+    <latitude>-19.1333333</latitude>
+    <longitude>177.9666667</longitude>
+  </city>
+  <city name="Mbukuya">
+    <latitude>-17.7833333</latitude>
+    <longitude>177.7666667</longitude>
+  </city>
+  <city name="Mbulia">
+    <latitude>-18.85</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Mbulileka">
+    <latitude>-16.45</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Mbuliya">
+    <latitude>-18.85</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Mbulumbulu">
+    <latitude>-16.3666667</latitude>
+    <longitude>179.45</longitude>
+  </city>
+  <city name="Mbuma">
+    <latitude>-16.8166667</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Mbunduna">
+    <latitude>-18.0</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Mburelevu">
+    <latitude>-17.6666667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Mburembasanga">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Mburembau">
+    <latitude>-17.5666667</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Mburenitu">
+    <latitude>-17.5333333</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Mburenivalu">
+    <latitude>-17.7</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Mburerua">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Mburetu">
+    <latitude>-18.05</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Mbusa">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Mbuthalevu">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.45</longitude>
+  </city>
+  <city name="Mbutha">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.8166667</longitude>
+  </city>
+  <city name="Mea">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Melimeli">
+    <latitude>-18.2</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Moala">
+    <latitude>-17.8166667</latitude>
+    <longitude>177.3833333</longitude>
+  </city>
+  <city name="Mofmanu">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Mokani">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Mokoisa">
+    <latitude>-19.1</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Momi">
+    <latitude>-17.9166667</latitude>
+    <longitude>177.2833333</longitude>
+  </city>
+  <city name="Mongumongua">
+    <latitude>-18.25</latitude>
+    <longitude>177.8333333</longitude>
+  </city>
+  <city name="Monothaki">
+    <latitude>-19.15</latitude>
+    <longitude>-178.5833333</longitude>
+  </city>
+  <city name="Monu Ku">
+    <latitude>-19.15</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Motomoto">
+    <latitude>-17.8</latitude>
+    <longitude>177.4166667</longitude>
+  </city>
+  <city name="Motusa">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Mouta">
+    <latitude>-16.2833333</latitude>
+    <longitude>179.55</longitude>
+  </city>
+  <city name="Muaira">
+    <latitude>-17.1333333</latitude>
+    <longitude>177.25</longitude>
+  </city>
+  <city name="Muaivuso">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Mualevu">
+    <latitude>-17.2333333</latitude>
+    <longitude>-178.9333333</longitude>
+  </city>
+  <city name="Mua">
+    <latitude>-17.8</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Muamua">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Muana-i-Ra">
+    <latitude>-19.15</latitude>
+    <longitude>-178.5833333</longitude>
+  </city>
+  <city name="Muanaira">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6666667</longitude>
+  </city>
+  <city name="Muana-i-Thake">
+    <latitude>-19.15</latitude>
+    <longitude>-178.5833333</longitude>
+  </city>
+  <city name="Muanaithake">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Muana">
+    <latitude>-18.05</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Muanikau">
+    <latitude>-18.15</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Muani">
+    <latitude>-19.15</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Muaninuku">
+    <latitude>-19.15</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Muaniseva">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.7666667</longitude>
+  </city>
+  <city name="Muanisolo">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.2666667</longitude>
+  </city>
+  <city name="Muanivatu">
+    <latitude>-18.15</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Muanivuso">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Mudu">
+    <latitude>-17.3833333</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Mundu">
+    <latitude>-17.3833333</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Muneran">
+    <latitude>-19.15</latitude>
+    <longitude>-178.5833333</longitude>
+  </city>
+  <city name="Murimuri">
+    <latitude>-19.1333333</latitude>
+    <longitude>179.75</longitude>
+  </city>
+  <city name="Muundu">
+    <latitude>-17.3833333</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Nabotini">
+    <latitude>-18.2333333</latitude>
+    <longitude>177.8166667</longitude>
+  </city>
+  <city name="Nabukalukiu">
+    <latitude>-17.9833333</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Nabukeleva">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Nabuli">
+    <latitude>-18.1</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Nabuna">
+    <latitude>-17.25</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Nacamaki">
+    <latitude>-17.25</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Nacavanadi">
+    <latitude>-17.9833333</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Nadarivatu">
+    <latitude>-17.5666667</latitude>
+    <longitude>177.9666667</longitude>
+  </city>
+  <city name="Nadaro">
+    <latitude>-17.95</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nadi">
+    <latitude>-17.8</latitude>
+    <longitude>177.4166667</longitude>
+  </city>
+  <city name="Naduri">
+    <latitude>-16.45</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Naevuevu">
+    <latitude>-18.15</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Nagaidamu">
+    <latitude>-17.3166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Nagumu">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.0166667</longitude>
+  </city>
+  <city name="Naiborebore">
+    <latitude>-17.9</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Naigani">
+    <latitude>-17.7833333</latitude>
+    <longitude>179.1666667</longitude>
+  </city>
+  <city name="Naiiviivi">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.7833333</longitude>
+  </city>
+  <city name="Naikawangga">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Naikorokoro">
+    <latitude>-17.7</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Naila">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Nailanga">
+    <latitude>-17.5166667</latitude>
+    <longitude>177.6666667</longitude>
+  </city>
+  <city name="Nailawa">
+    <latitude>-17.4833333</latitude>
+    <longitude>178.2166667</longitude>
+  </city>
+  <city name="Nailenga">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Naililili">
+    <latitude>-18.1</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Nailou">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.9</longitude>
+  </city>
+  <city name="Nailuva">
+    <latitude>-17.6</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Naimalavau">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Naimasimasi">
+    <latitude>-17.9166667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Naimbalembale">
+    <latitude>-16.7666667</latitude>
+    <longitude>179.55</longitude>
+  </city>
+  <city name="Naimbita">
+    <latitude>-17.6666667</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Naimborembore">
+    <latitude>-17.9</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nainderi">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.3666667</longitude>
+  </city>
+  <city name="Naindi">
+    <latitude>-16.8</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Naindiri">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.3666667</longitude>
+  </city>
+  <city name="Naingani">
+    <latitude>-17.5833333</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Naingganggi">
+    <latitude>-16.75</latitude>
+    <longitude>179.1166667</longitude>
+  </city>
+  <city name="Naioti">
+    <latitude>-18.8333333</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Nairukuruku">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.2833333</longitude>
+  </city>
+  <city name="Naisaumbua">
+    <latitude>-17.9</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Naisaumua">
+    <latitude>-17.9</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Naisausau">
+    <latitude>-17.95</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Naiserelangi">
+    <latitude>-17.45</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Naisomua">
+    <latitude>-17.9</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Naisonggo">
+    <latitude>-17.95</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Naisongovau">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Naisumbua">
+    <latitude>-17.9</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Naitauvoli">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.2166667</longitude>
+  </city>
+  <city name="Naithambethambe">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Naithekoro">
+    <latitude>-16.8</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Naitonitoni">
+    <latitude>-18.2333333</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Naitutu">
+    <latitude>-17.85</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Naivaka">
+    <latitude>-16.65</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Naivakarauniniu">
+    <latitude>-18.9666667</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Naivakareuniniu">
+    <latitude>-18.9666667</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Naivakathau">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.6333333</longitude>
+  </city>
+  <city name="Naivikisara">
+    <latitude>-18.1</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Naivilathalatha">
+    <latitude>-16.75</latitude>
+    <longitude>179.5333333</longitude>
+  </city>
+  <city name="Naivilatha">
+    <latitude>-18.1</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Naivindamu">
+    <latitude>-19.1166667</latitude>
+    <longitude>-178.6</longitude>
+  </city>
+  <city name="Na Ivisaro">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Naiviteitei">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Naivithula">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Naivotho">
+    <latitude>-17.5833333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Naivuruvuru">
+    <latitude>-17.8666667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Naivuthini">
+    <latitude>-17.85</latitude>
+    <longitude>178.2666667</longitude>
+  </city>
+  <city name="Naivutu">
+    <latitude>-17.5333333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Naivuvuni">
+    <latitude>-17.3833333</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Naiyalayala">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Nakaile">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Na-kalau">
+    <latitude>-16.5333333</latitude>
+    <longitude>178.8833333</longitude>
+  </city>
+  <city name="Nakalava">
+    <latitude>-18.0833333</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Nakalavo">
+    <latitude>-18.0833333</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Nakalawatha">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Nakalou">
+    <latitude>-16.5333333</latitude>
+    <longitude>178.8833333</longitude>
+  </city>
+  <city name="Nakama">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Nakambuta">
+    <latitude>-18.1166667</latitude>
+    <longitude>177.5333333</longitude>
+  </city>
+  <city name="Nakanakana">
+    <latitude>-16.6166667</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Nakanathangi">
+    <latitude>-16.6</latitude>
+    <longitude>179.0</longitude>
+  </city>
+  <city name="Nakarabo">
+    <latitude>-16.55</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Nakarambo">
+    <latitude>-16.55</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Na Kasaleka">
+    <latitude>-18.95</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nakasa">
+    <latitude>-16.7</latitude>
+    <longitude>179.2</longitude>
+  </city>
+  <city name="Na Kasasara">
+    <latitude>-19.05</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Nakaungasele">
+    <latitude>-18.95</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nakavika">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Nakavu">
+    <latitude>-18.2</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Nakawakawa">
+    <latitude>-16.85</latitude>
+    <longitude>178.8666667</longitude>
+  </city>
+  <city name="Nakawanga">
+    <latitude>-16.35</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Nakelikoso">
+    <latitude>-16.3333333</latitude>
+    <longitude>179.5833333</longitude>
+  </city>
+  <city name="Nakelo">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nakini">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Nakodu">
+    <latitude>-17.3666667</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Nakombo">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.75</longitude>
+  </city>
+  <city name="Nakondu-i-sawana">
+    <latitude>-17.3666667</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Nakondu">
+    <latitude>-17.3666667</latitude>
+    <longitude>179.4166667</longitude>
+  </city>
+  <city name="Na Koro Ere">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Nakoroivau">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nakorokula">
+    <latitude>-17.35</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Nakorolevu">
+    <latitude>-17.95</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nakoro">
+    <latitude>-18.95</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nakoronawa">
+    <latitude>-18.95</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nakorotiki">
+    <latitude>-16.85</latitude>
+    <longitude>178.8833333</longitude>
+  </city>
+  <city name="Nakoroutari">
+    <latitude>-16.5333333</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Nakorovou">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nakorowaiwai">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Nakoso">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.3</longitude>
+  </city>
+  <city name="Nakuku">
+    <latitude>-16.6</latitude>
+    <longitude>179.5166667</longitude>
+  </city>
+  <city name="Nakula">
+    <latitude>-16.7666667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Nakuriwai">
+    <latitude>-18.1</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nakusa">
+    <latitude>-16.1833333</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Nakwava">
+    <latitude>-18.2</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Nalalawa">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.2666667</longitude>
+  </city>
+  <city name="Nalase">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Nalauwaki">
+    <latitude>-17.2833333</latitude>
+    <longitude>177.1166667</longitude>
+  </city>
+  <city name="Naleile">
+    <latitude>-17.25</latitude>
+    <longitude>-178.9666667</longitude>
+  </city>
+  <city name="Nalele">
+    <latitude>-18.0833333</latitude>
+    <longitude>177.35</longitude>
+  </city>
+  <city name="Nalembalemba">
+    <latitude>-17.95</latitude>
+    <longitude>177.6833333</longitude>
+  </city>
+  <city name="Naloaloa">
+    <latitude>-16.6833333</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Nalotawa">
+    <latitude>-17.6333333</latitude>
+    <longitude>177.6166667</longitude>
+  </city>
+  <city name="Naloto">
+    <latitude>-17.85</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Nalotu">
+    <latitude>-19.0666667</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Nalutu">
+    <latitude>-16.0833333</latitude>
+    <longitude>-179.15</longitude>
+  </city>
+  <city name="Na Luvunavuaka">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.5166667</longitude>
+  </city>
+  <city name="Naluwai">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Namalata">
+    <latitude>-19.05</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Namalavou">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Namama">
+    <latitude>-16.45</latitude>
+    <longitude>179.1333333</longitude>
+  </city>
+  <city name="Namanda">
+    <latitude>-18.1833333</latitude>
+    <longitude>177.6166667</longitude>
+  </city>
+  <city name="Namandi">
+    <latitude>-18.1</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Namanggumanggua">
+    <latitude>-18.25</latitude>
+    <longitude>177.8333333</longitude>
+  </city>
+  <city name="Namanusa">
+    <latitude>-19.1333333</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Namarai">
+    <latitude>-17.5166667</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Namara">
+    <latitude>-19.0333333</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Na-maria">
+    <latitude>-17.5166667</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Namatakula">
+    <latitude>-18.2333333</latitude>
+    <longitude>177.7833333</longitude>
+  </city>
+  <city name="Namata">
+    <latitude>-17.9833333</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Namatana">
+    <latitude>-17.85</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Namathu">
+    <latitude>-17.35</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Namatiu">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.4166667</longitude>
+  </city>
+  <city name="Nambaitavo">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Nambalambala">
+    <latitude>-17.5</latitude>
+    <longitude>178.1833333</longitude>
+  </city>
+  <city name="Nambalembale">
+    <latitude>-16.6666667</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Nambathe">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Nambathi">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Nambau">
+    <latitude>-18.0833333</latitude>
+    <longitude>177.3833333</longitude>
+  </city>
+  <city name="Nambauto">
+    <latitude>-16.7666667</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Nambavatu">
+    <latitude>-16.6</latitude>
+    <longitude>178.9166667</longitude>
+  </city>
+  <city name="Nambawangga">
+    <latitude>-17.7</latitude>
+    <longitude>177.95</longitude>
+  </city>
+  <city name="Nambekavu">
+    <latitude>-16.5333333</latitude>
+    <longitude>178.8833333</longitude>
+  </city>
+  <city name="Nambena">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Nambila">
+    <latitude>-17.8666667</latitude>
+    <longitude>177.2666667</longitude>
+  </city>
+  <city name="Nambiti">
+    <latitude>-16.6</latitude>
+    <longitude>178.9</longitude>
+  </city>
+  <city name="Nambitu">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nambothiwa">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6333333</longitude>
+  </city>
+  <city name="Nambouono">
+    <latitude>-16.15</latitude>
+    <longitude>180.0</longitude>
+  </city>
+  <city name="Nambouthiwa">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6333333</longitude>
+  </city>
+  <city name="Namboutini">
+    <latitude>-18.2333333</latitude>
+    <longitude>177.8166667</longitude>
+  </city>
+  <city name="Nambouva">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nambouwalu">
+    <latitude>-18.0</latitude>
+    <longitude>178.7</longitude>
+  </city>
+  <city name="Nambouwangga">
+    <latitude>-17.7</latitude>
+    <longitude>177.95</longitude>
+  </city>
+  <city name="Na-mbowono">
+    <latitude>-16.45</latitude>
+    <longitude>179.1</longitude>
+  </city>
+  <city name="Nambua">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Nambukaluka">
+    <latitude>-17.9833333</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Nambukandongo">
+    <latitude>-16.45</latitude>
+    <longitude>179.1166667</longitude>
+  </city>
+  <city name="Nambukandra">
+    <latitude>-17.55</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Nambukavesi">
+    <latitude>-18.1666667</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Nambukelevuira">
+    <latitude>-19.1333333</latitude>
+    <longitude>177.9666667</longitude>
+  </city>
+  <city name="Nambukelevu">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Nambukeru">
+    <latitude>-16.85</latitude>
+    <longitude>177.4666667</longitude>
+  </city>
+  <city name="Nambula">
+    <latitude>-17.55</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Nambuli">
+    <latitude>-18.1</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Nambulini">
+    <latitude>-17.6666667</latitude>
+    <longitude>178.2833333</longitude>
+  </city>
+  <city name="Nambumbu">
+    <latitude>-16.2</latitude>
+    <longitude>179.7166667</longitude>
+  </city>
+  <city name="Nambuna">
+    <latitude>-18.1</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nambundrau">
+    <latitude>-18.1</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nambuniganitu">
+    <latitude>-17.9</latitude>
+    <longitude>177.8833333</longitude>
+  </city>
+  <city name="Nambuniyanitu">
+    <latitude>-17.9</latitude>
+    <longitude>177.8833333</longitude>
+  </city>
+  <city name="Nambutumbutu">
+    <latitude>-16.3</latitude>
+    <longitude>179.6333333</longitude>
+  </city>
+  <city name="Nambuyasa">
+    <latitude>-17.6333333</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Nameka">
+    <latitude>-17.85</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Namoala">
+    <latitude>-18.6166667</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Namoli">
+    <latitude>-16.45</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Na-Momo">
+    <latitude>-16.7</latitude>
+    <longitude>179.2</longitude>
+  </city>
+  <city name="Namono">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Namosau Government Station">
+    <latitude>-17.5333333</latitude>
+    <longitude>177.6666667</longitude>
+  </city>
+  <city name="Namosau">
+    <latitude>-17.5333333</latitude>
+    <longitude>177.6666667</longitude>
+  </city>
+  <city name="Namosi">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Namotomoto">
+    <latitude>-17.8</latitude>
+    <longitude>177.4166667</longitude>
+  </city>
+  <city name="Namuaimanda">
+    <latitude>-17.4</latitude>
+    <longitude>178.2666667</longitude>
+  </city>
+  <city name="Namuamua">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Namuana">
+    <latitude>-19.05</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Namuavoivoi">
+    <latitude>-16.7166667</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Namukalau">
+    <latitude>-16.2</latitude>
+    <longitude>179.75</longitude>
+  </city>
+  <city name="Namuka">
+    <latitude>-18.85</latitude>
+    <longitude>-178.6333333</longitude>
+  </city>
+  <city name="Namulomulo">
+    <latitude>-17.8166667</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Namuriwai">
+    <latitude>-17.4666667</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Nanani">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nananivatu">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Nananu">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nandakuni">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Nandakura">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Na Ndala">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Nandali">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Nandal">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Nandarathi">
+    <latitude>-16.55</latitude>
+    <longitude>179.7833333</longitude>
+  </city>
+  <city name="Nandariva">
+    <latitude>-17.5666667</latitude>
+    <longitude>177.9666667</longitude>
+  </city>
+  <city name="Nandarivatu">
+    <latitude>-17.5666667</latitude>
+    <longitude>177.9666667</longitude>
+  </city>
+  <city name="Nandaro">
+    <latitude>-17.95</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nandawa">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Nandelei">
+    <latitude>-17.55</latitude>
+    <longitude>177.9</longitude>
+  </city>
+  <city name="Nandele">
+    <latitude>-17.55</latitude>
+    <longitude>177.9</longitude>
+  </city>
+  <city name="Nandevo">
+    <latitude>-17.8333333</latitude>
+    <longitude>177.7833333</longitude>
+  </city>
+  <city name="Nandilo">
+    <latitude>-16.7833333</latitude>
+    <longitude>-179.7833333</longitude>
+  </city>
+  <city name="Nandi">
+    <latitude>-17.8</latitude>
+    <longitude>177.4166667</longitude>
+  </city>
+  <city name="Nandioka">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nandiondio">
+    <latitude>-16.75</latitude>
+    <longitude>-179.7166667</longitude>
+  </city>
+  <city name="Nandivakarua">
+    <latitude>-16.8666667</latitude>
+    <longitude>179.0166667</longitude>
+  </city>
+  <city name="Nandoi">
+    <latitude>-18.1</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nandoli">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.0333333</longitude>
+  </city>
+  <city name="Nandongo">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.5833333</longitude>
+  </city>
+  <city name="Nandoria">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Nandrala">
+    <latitude>-18.1166667</latitude>
+    <longitude>177.5666667</longitude>
+  </city>
+  <city name="Nandrau">
+    <latitude>-17.7166667</latitude>
+    <longitude>177.95</longitude>
+  </city>
+  <city name="Nandromai">
+    <latitude>-18.1166667</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Nandronga">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Nandroumai">
+    <latitude>-18.1166667</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Nandrunga">
+    <latitude>-17.7166667</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Nandrungu">
+    <latitude>-17.7166667</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Nandua">
+    <latitude>-16.8166667</latitude>
+    <longitude>178.9166667</longitude>
+  </city>
+  <city name="Nanduna">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Nanduri">
+    <latitude>-16.45</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Nanduru">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nanduruyasi">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Nangaindamu">
+    <latitude>-17.3166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Nangandoa">
+    <latitude>-16.8833333</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Nangandua">
+    <latitude>-16.8833333</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Nangasauva">
+    <latitude>-16.1666667</latitude>
+    <longitude>179.9833333</longitude>
+  </city>
+  <city name="Nangatangata">
+    <latitude>-17.6833333</latitude>
+    <longitude>177.9333333</longitude>
+  </city>
+  <city name="Nangavungavu">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Nangera">
+    <latitude>-18.8833333</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Nanggaindamu">
+    <latitude>-17.3166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Nanggainggai">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.9</longitude>
+  </city>
+  <city name="Nanggali">
+    <latitude>-17.95</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nanggalotu">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Nanggara">
+    <latitude>-18.8833333</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Nanggarani">
+    <latitude>-18.1</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nanggaravutu">
+    <latitude>-16.5333333</latitude>
+    <longitude>179.8</longitude>
+  </city>
+  <city name="Nanggarawai">
+    <latitude>-17.9833333</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Nanggelewai">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Nanggia">
+    <latitude>-17.6833333</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Nanggumu">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.0166667</longitude>
+  </city>
+  <city name="Na Ngilangilo">
+    <latitude>-17.45</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Nangilongilo">
+    <latitude>-17.45</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Nangingi">
+    <latitude>-16.8</latitude>
+    <longitude>179.4833333</longitude>
+  </city>
+  <city name="Nangumu">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.0166667</longitude>
+  </city>
+  <city name="Nanivunda">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.1666667</longitude>
+  </city>
+  <city name="Nanoko">
+    <latitude>-17.7666667</latitude>
+    <longitude>177.85</longitude>
+  </city>
+  <city name="Nanokonoko">
+    <latitude>-17.4166667</latitude>
+    <longitude>178.2166667</longitude>
+  </city>
+  <city name="Nanukuloa">
+    <latitude>-17.45</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Nanuku">
+    <latitude>-16.85</latitude>
+    <longitude>178.8666667</longitude>
+  </city>
+  <city name="Nanutha">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.7</longitude>
+  </city>
+  <city name="Nanuthe">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.7</longitude>
+  </city>
+  <city name="Naothombau">
+    <latitude>-17.5166667</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Naqaidamu">
+    <latitude>-17.3166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Naqumu">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.0166667</longitude>
+  </city>
+  <city name="Naraiyawa">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Narara">
+    <latitude>-17.4166667</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Nararavou">
+    <latitude>-17.5666667</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Narata">
+    <latitude>-17.9666667</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Naravuka">
+    <latitude>-16.6166667</latitude>
+    <longitude>179.1</longitude>
+  </city>
+  <city name="Nardroumai">
+    <latitude>-18.1166667</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Nareva">
+    <latitude>-17.8</latitude>
+    <longitude>177.4</longitude>
+  </city>
+  <city name="Narewa">
+    <latitude>-17.3666667</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Narikosa">
+    <latitude>-17.5</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Narikoso">
+    <latitude>-18.9166667</latitude>
+    <longitude>178.5166667</longitude>
+  </city>
+  <city name="Nariri">
+    <latitude>-17.6</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Narir">
+    <latitude>-17.6</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Naroi">
+    <latitude>-18.5666667</latitude>
+    <longitude>179.95</longitude>
+  </city>
+  <city name="Narokorokoyawa">
+    <latitude>-17.85</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Naroro">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Narothake">
+    <latitude>-18.1</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Narothivo">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Na-rua">
+    <latitude>-16.4833333</latitude>
+    <longitude>178.9666667</longitude>
+  </city>
+  <city name="Narukua">
+    <latitude>-18.6166667</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Naruwai">
+    <latitude>-16.85</latitude>
+    <longitude>178.6666667</longitude>
+  </city>
+  <city name="Nasaimbitu">
+    <latitude>-17.7</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nasaiyani">
+    <latitude>-17.5</latitude>
+    <longitude>178.0</longitude>
+  </city>
+  <city name="Nasalai">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.65</longitude>
+  </city>
+  <city name="Nasalau">
+    <latitude>-18.15</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Nasalia">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Nasama">
+    <latitude>-18.15</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Nasanga">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Nasanggalau">
+    <latitude>-18.1833333</latitude>
+    <longitude>-178.8</longitude>
+  </city>
+  <city name="Nasao">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Nasarowangga">
+    <latitude>-16.65</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Nasasaivua">
+    <latitude>-16.9</latitude>
+    <longitude>179.05</longitude>
+  </city>
+  <city name="Nasasa">
+    <latitude>-16.3833333</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Nasaumatua">
+    <latitude>-17.6833333</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Nasau">
+    <latitude>-18.6666667</latitude>
+    <longitude>-178.5</longitude>
+  </city>
+  <city name="Nasauthoko">
+    <latitude>-17.8833333</latitude>
+    <longitude>177.7</longitude>
+  </city>
+  <city name="Nasautoka">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nasauva">
+    <latitude>-16.1666667</latitude>
+    <longitude>179.9833333</longitude>
+  </city>
+  <city name="Nasauvere">
+    <latitude>-17.8833333</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Nasauvuki">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.75</longitude>
+  </city>
+  <city name="Nasava">
+    <latitude>-17.8833333</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Nasavu">
+    <latitude>-17.85</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Nasawana">
+    <latitude>-16.9166667</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Nasawasa">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.1666667</longitude>
+  </city>
+  <city name="Nasealevu">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.25</longitude>
+  </city>
+  <city name="Nasea">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Naseile">
+    <latitude>-18.95</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Nasekula">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Naselai">
+    <latitude>-18.05</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Naselesele">
+    <latitude>-16.7</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Nasengai">
+    <latitude>-19.15</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Naseri Lengi">
+    <latitude>-17.45</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Nasesara">
+    <latitude>-17.75</latitude>
+    <longitude>178.75</longitude>
+  </city>
+  <city name="Nasese">
+    <latitude>-18.2666667</latitude>
+    <longitude>178.0</longitude>
+  </city>
+  <city name="Naseula">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Naseuvou">
+    <latitude>-18.0</latitude>
+    <longitude>178.2166667</longitude>
+  </city>
+  <city name="Naseva">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Nasewana">
+    <latitude>-16.9166667</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Naseyani">
+    <latitude>-17.5</latitude>
+    <longitude>178.0</longitude>
+  </city>
+  <city name="Nasigatoka">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Nasilai">
+    <latitude>-18.05</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nasingasinga">
+    <latitude>-16.6333333</latitude>
+    <longitude>178.9</longitude>
+  </city>
+  <city name="Na Singatoka">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Nasinu">
+    <latitude>-17.5666667</latitude>
+    <longitude>178.4833333</longitude>
+  </city>
+  <city name="Nasiriti">
+    <latitude>-17.7</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Nasirotu">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Nasivikoso">
+    <latitude>-17.8166667</latitude>
+    <longitude>177.7166667</longitude>
+  </city>
+  <city name="Nasoki">
+    <latitude>-18.6333333</latitude>
+    <longitude>179.9</longitude>
+  </city>
+  <city name="Nasoli">
+    <latitude>-17.8666667</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Nasolo">
+    <latitude>-16.95</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Nasomo">
+    <latitude>-17.5333333</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Nasonggo">
+    <latitude>-17.6666667</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Nasovatava">
+    <latitude>-18.0166667</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Nasovivi">
+    <latitude>-16.2166667</latitude>
+    <longitude>179.6833333</longitude>
+  </city>
+  <city name="Nassaya">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.05</longitude>
+  </city>
+  <city name="Nasukainai">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Nasukamai">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Nasuva">
+    <latitude>-16.55</latitude>
+    <longitude>179.1833333</longitude>
+  </city>
+  <city name="Natalau">
+    <latitude>-17.7166667</latitude>
+    <longitude>177.4666667</longitude>
+  </city>
+  <city name="Nataleira">
+    <latitude>-17.6</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Natambua Government Station">
+    <latitude>-17.6333333</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Natambua">
+    <latitude>-17.6333333</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Nataria">
+    <latitude>-16.7833333</latitude>
+    <longitude>-179.7833333</longitude>
+  </city>
+  <city name="Natauloa">
+    <latitude>-17.7833333</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Nataveya">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Natawa">
+    <latitude>-17.3166667</latitude>
+    <longitude>177.15</longitude>
+  </city>
+  <city name="Nate va">
+    <latitude>-16.6</latitude>
+    <longitude>179.7333333</longitude>
+  </city>
+  <city name="Natewa">
+    <latitude>-16.6</latitude>
+    <longitude>179.7333333</longitude>
+  </city>
+  <city name="Nathamaki">
+    <latitude>-17.25</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Nathanga">
+    <latitude>-17.3166667</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Nathaurokovi">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.1666667</longitude>
+  </city>
+  <city name="Nathavanandi">
+    <latitude>-17.9833333</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Nathekoro">
+    <latitude>-16.8</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Natheva">
+    <latitude>-18.4166667</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Nathokaika">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Nathokeka">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Nathokula">
+    <latitude>-18.05</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Nathokulati">
+    <latitude>-16.2666667</latitude>
+    <longitude>179.55</longitude>
+  </city>
+  <city name="Nathomaki">
+    <latitude>-17.25</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Nathombo">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Nathomoto">
+    <latitude>-19.05</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Nathovu">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Nathula">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.6833333</longitude>
+  </city>
+  <city name="Nathuru">
+    <latitude>-18.1</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Natia">
+    <latitude>-17.1333333</latitude>
+    <longitude>176.9333333</longitude>
+  </city>
+  <city name="Nativi">
+    <latitude>-17.5</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Natoaika">
+    <latitude>-17.95</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Natokalau">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.8166667</longitude>
+  </city>
+  <city name="Natokalou">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.8166667</longitude>
+  </city>
+  <city name="Natongandravo">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Natongandravu">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Natua">
+    <latitude>-16.5333333</latitude>
+    <longitude>179.1333333</longitude>
+  </city>
+  <city name="Natuatuacoko">
+    <latitude>-17.8833333</latitude>
+    <longitude>177.7833333</longitude>
+  </city>
+  <city name="Natuatuathoko">
+    <latitude>-17.8833333</latitude>
+    <longitude>177.7833333</longitude>
+  </city>
+  <city name="Natuma">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Natumua">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Natunuka">
+    <latitude>-17.45</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Natunuku">
+    <latitude>-17.45</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Naturu">
+    <latitude>-18.9</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Na tuta tuta">
+    <latitude>-17.4833333</latitude>
+    <longitude>177.6833333</longitude>
+  </city>
+  <city name="Natutu">
+    <latitude>-17.4833333</latitude>
+    <longitude>177.6833333</longitude>
+  </city>
+  <city name="Natuva">
+    <latitude>-17.85</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Na Tuva">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Natuvu">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.75</longitude>
+  </city>
+  <city name="Naua">
+    <latitude>-16.2333333</latitude>
+    <longitude>179.65</longitude>
+  </city>
+  <city name="Nauidamu">
+    <latitude>-16.5166667</latitude>
+    <longitude>178.9166667</longitude>
+  </city>
+  <city name="Naulu">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Nauluvatu">
+    <latitude>-17.95</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Nauouo">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.8166667</longitude>
+  </city>
+  <city name="Naurea">
+    <latitude>-17.6</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Nauria">
+    <latitude>-17.6</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Nausori">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Nauthiwai">
+    <latitude>-18.95</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Navaga">
+    <latitude>-17.3166667</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Navai">
+    <latitude>-17.6166667</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Navakaka">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.4666667</longitude>
+  </city>
+  <city name="Navaka">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Navakasali">
+    <latitude>-16.8</latitude>
+    <longitude>178.8833333</longitude>
+  </city>
+  <city name="Navakasombu">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.1666667</longitude>
+  </city>
+  <city name="Navakathoa">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.85</longitude>
+  </city>
+  <city name="Navakawau">
+    <latitude>-17.0</latitude>
+    <longitude>179.95</longitude>
+  </city>
+  <city name="Navakuru">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Navala">
+    <latitude>-17.6666667</latitude>
+    <longitude>177.8166667</longitude>
+  </city>
+  <city name="Navanga">
+    <latitude>-17.3166667</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Na Vasi">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Navata">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.0166667</longitude>
+  </city>
+  <city name="Navatu">
+    <latitude>-18.6</latitude>
+    <longitude>179.9</longitude>
+  </city>
+  <city name="Navatuvula">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Navatuyamba">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Navaundra">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Navave">
+    <latitude>-17.0</latitude>
+    <longitude>178.7166667</longitude>
+  </city>
+  <city name="Naveimavu">
+    <latitude>-17.95</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Naveindrendre">
+    <latitude>-16.2166667</latitude>
+    <longitude>179.6166667</longitude>
+  </city>
+  <city name="Naveithovatu">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Navetau">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.6833333</longitude>
+  </city>
+  <city name="Naveyango">
+    <latitude>-17.9666667</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Navidamou">
+    <latitude>-16.5166667</latitude>
+    <longitude>178.9166667</longitude>
+  </city>
+  <city name="Navidamu">
+    <latitude>-16.5166667</latitude>
+    <longitude>178.9166667</longitude>
+  </city>
+  <city name="Navilawa">
+    <latitude>-17.6833333</latitude>
+    <longitude>177.5833333</longitude>
+  </city>
+  <city name="Navindamou">
+    <latitude>-16.5166667</latitude>
+    <longitude>178.9166667</longitude>
+  </city>
+  <city name="Navindamu">
+    <latitude>-19.1166667</latitude>
+    <longitude>-178.6</longitude>
+  </city>
+  <city name="Navindom">
+    <latitude>-19.1166667</latitude>
+    <longitude>-178.6</longitude>
+  </city>
+  <city name="Navinggiri">
+    <latitude>-16.6666667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Navitilevu">
+    <latitude>-17.5833333</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Navivanga">
+    <latitude>-17.5833333</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Naviyango">
+    <latitude>-17.5833333</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Navolau">
+    <latitude>-17.8666667</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Navora">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Navotua">
+    <latitude>-16.8666667</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Navua">
+    <latitude>-18.2166667</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Navuandra">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Navuatu">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Navuavuni">
+    <latitude>-17.3833333</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Navuevu">
+    <latitude>-18.15</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Navukailagi">
+    <latitude>-17.95</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Navukailangi">
+    <latitude>-17.95</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Navukembuli">
+    <latitude>-16.2833333</latitude>
+    <longitude>179.6</longitude>
+  </city>
+  <city name="Navukimbuli">
+    <latitude>-16.2833333</latitude>
+    <longitude>179.6</longitude>
+  </city>
+  <city name="Navuloa">
+    <latitude>-17.7</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Navunievu">
+    <latitude>-16.8</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Navuniivi">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Navunikambi">
+    <latitude>-18.05</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Navunimono">
+    <latitude>-17.8666667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Navunisole">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Navunitogoloa">
+    <latitude>-17.3666667</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Navuniyaro">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Navuniyasi">
+    <latitude>-17.8</latitude>
+    <longitude>178.2666667</longitude>
+  </city>
+  <city name="Navuniyevo">
+    <latitude>-16.8</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Navurevure">
+    <latitude>-17.9833333</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Navuruvuru">
+    <latitude>-17.8666667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Navuso">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.5166667</longitude>
+  </city>
+  <city name="Navuti">
+    <latitude>-17.75</latitude>
+    <longitude>178.75</longitude>
+  </city>
+  <city name="Navutoka">
+    <latitude>-17.55</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Navuto">
+    <latitude>-17.9</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Navutulevu">
+    <latitude>-18.2333333</latitude>
+    <longitude>177.8</longitude>
+  </city>
+  <city name="Navutu">
+    <latitude>-18.0166667</latitude>
+    <longitude>177.3333333</longitude>
+  </city>
+  <city name="Nawailevu">
+    <latitude>-16.7333333</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Nawai">
+    <latitude>-16.7</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Na wai nde">
+    <latitude>-16.9833333</latitude>
+    <longitude>178.7833333</longitude>
+  </city>
+  <city name="Nawaindo">
+    <latitude>-16.9833333</latitude>
+    <longitude>178.7833333</longitude>
+  </city>
+  <city name="Nawairambe">
+    <latitude>-17.95</latitude>
+    <longitude>177.8</longitude>
+  </city>
+  <city name="Nawaka">
+    <latitude>-17.8166667</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Nawala">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Nawamangimangi">
+    <latitude>-18.1</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Nawamangi">
+    <latitude>-18.1</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Na Wangarua">
+    <latitude>-17.4833333</latitude>
+    <longitude>177.6666667</longitude>
+  </city>
+  <city name="Nawanggabena">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Nawanggambena">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Nawanggandamu">
+    <latitude>-17.9333333</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Nawanggarua">
+    <latitude>-17.4833333</latitude>
+    <longitude>177.6666667</longitude>
+  </city>
+  <city name="Nawatha">
+    <latitude>-16.9</latitude>
+    <longitude>178.6666667</longitude>
+  </city>
+  <city name="Nawau">
+    <latitude>-17.9333333</latitude>
+    <longitude>177.3333333</longitude>
+  </city>
+  <city name="Naweni">
+    <latitude>-16.8</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Nawi">
+    <latitude>-16.7</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Nayarailangi">
+    <latitude>-16.6166667</latitude>
+    <longitude>179.0666667</longitude>
+  </city>
+  <city name="Nayarambale">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.5333333</longitude>
+  </city>
+  <city name="Nayaulevu">
+    <latitude>-17.5</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Nayavuira">
+    <latitude>-17.45</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Nayavutoka">
+    <latitude>-17.55</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Nayawa">
+    <latitude>-18.15</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Ndakuiloa">
+    <latitude>-18.45</latitude>
+    <longitude>-178.4833333</longitude>
+  </city>
+  <city name="Ndakuilomaloma">
+    <latitude>-17.3</latitude>
+    <longitude>-179.0</longitude>
+  </city>
+  <city name="Ndakuimbengga">
+    <latitude>-18.4166667</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Ndakuinuku">
+    <latitude>-17.75</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Ndakuirase">
+    <latitude>-17.2</latitude>
+    <longitude>-178.9666667</longitude>
+  </city>
+  <city name="Ndakuivuna">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Ndaku">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.7833333</longitude>
+  </city>
+  <city name="Ndakundaku">
+    <latitude>-16.5833333</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Ndakunimba">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.85</longitude>
+  </city>
+  <city name="Ndakuni">
+    <latitude>-18.4</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Ndalithe">
+    <latitude>-17.8</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Ndalithi">
+    <latitude>-17.8</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Ndalomo">
+    <latitude>-16.8</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Ndama">
+    <latitude>-16.8666667</latitude>
+    <longitude>178.65</longitude>
+  </city>
+  <city name="Ndangai">
+    <latitude>-19.1</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Ndaria">
+    <latitude>-16.85</latitude>
+    <longitude>178.9</longitude>
+  </city>
+  <city name="Ndatithoni">
+    <latitude>-17.2166667</latitude>
+    <longitude>-178.9666667</longitude>
+  </city>
+  <city name="Ndavinggele">
+    <latitude>-19.15</latitude>
+    <longitude>178.0</longitude>
+  </city>
+  <city name="Ndawa">
+    <latitude>-16.6</latitude>
+    <longitude>179.7166667</longitude>
+  </city>
+  <city name="Ndawara">
+    <latitude>-16.8</latitude>
+    <longitude>179.0166667</longitude>
+  </city>
+  <city name="Ndawasamu">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Ndeiandamanu">
+    <latitude>-17.95</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Ndelailasakau">
+    <latitude>-18.0</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Ndelaitonga">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Ndelaivandra">
+    <latitude>-16.2</latitude>
+    <longitude>179.6166667</longitude>
+  </city>
+  <city name="Ndelaiyandua">
+    <latitude>-17.5666667</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Ndelakando">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.4833333</longitude>
+  </city>
+  <city name="Ndelalasakau">
+    <latitude>-18.0</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Ndela na manu">
+    <latitude>-17.95</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Ndelandamanu">
+    <latitude>-17.95</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Ndenimanu">
+    <latitude>-16.8166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Ndevoira">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Ndevo">
+    <latitude>-17.9666667</latitude>
+    <longitude>-179.0333333</longitude>
+  </city>
+  <city name="Ndiloi">
+    <latitude>-16.6333333</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Ndilo">
+    <latitude>-16.7833333</latitude>
+    <longitude>-179.7833333</longitude>
+  </city>
+  <city name="Ndiondio">
+    <latitude>-16.75</latitude>
+    <longitude>-179.7166667</longitude>
+  </city>
+  <city name="Ndoi">
+    <latitude>-20.6333333</latitude>
+    <longitude>-178.7</longitude>
+  </city>
+  <city name="Ndomokavu">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.55</longitude>
+  </city>
+  <city name="Ndongobuki">
+    <latitude>-16.2333333</latitude>
+    <longitude>179.7666667</longitude>
+  </city>
+  <city name="Ndongoloa">
+    <latitude>-17.5666667</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Ndongotuki">
+    <latitude>-16.2333333</latitude>
+    <longitude>179.7666667</longitude>
+  </city>
+  <city name="Ndongowali">
+    <latitude>-18.2666667</latitude>
+    <longitude>177.9333333</longitude>
+  </city>
+  <city name="Ndraimba">
+    <latitude>-17.7</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Ndrambuta">
+    <latitude>-17.9166667</latitude>
+    <longitude>177.9</longitude>
+  </city>
+  <city name="Ndraumbuta">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Ndrauniivi">
+    <latitude>-17.4166667</latitude>
+    <longitude>178.0</longitude>
+  </city>
+  <city name="Ndraunindakua">
+    <latitude>-17.75</latitude>
+    <longitude>178.2166667</longitude>
+  </city>
+  <city name="Ndravawalu">
+    <latitude>-19.0</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Ndravo">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Ndravualu">
+    <latitude>-18.9333333</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Ndravuni">
+    <latitude>-17.9166667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Ndravuwalu">
+    <latitude>-18.9333333</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Ndrekena">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Ndrekeniwai">
+    <latitude>-17.7</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Ndreketilailai">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.4666667</longitude>
+  </city>
+  <city name="Ndreketi">
+    <latitude>-16.7</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Ndriti">
+    <latitude>-16.8833333</latitude>
+    <longitude>178.7333333</longitude>
+  </city>
+  <city name="Ndromoninuku">
+    <latitude>-16.7833333</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Ndromuna">
+    <latitude>-18.0</latitude>
+    <longitude>178.7</longitude>
+  </city>
+  <city name="Ndromuninuku">
+    <latitude>-16.7833333</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Ndrue">
+    <latitude>-19.0</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Ngaleine">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.85</longitude>
+  </city>
+  <city name="Ngaligali">
+    <latitude>-18.9333333</latitude>
+    <longitude>-178.9333333</longitude>
+  </city>
+  <city name="Ngalingali">
+    <latitude>-18.9333333</latitude>
+    <longitude>-178.9333333</longitude>
+  </city>
+  <city name="Ngaloa">
+    <latitude>-18.2666667</latitude>
+    <longitude>178.0</longitude>
+  </city>
+  <city name="Ngaravutu">
+    <latitude>-16.5333333</latitude>
+    <longitude>179.8</longitude>
+  </city>
+  <city name="Ngasauva">
+    <latitude>-16.1666667</latitude>
+    <longitude>179.9833333</longitude>
+  </city>
+  <city name="Ngasele">
+    <latitude>-18.95</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Ngeleni">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.85</longitude>
+  </city>
+  <city name="Nggaliira">
+    <latitude>-19.15</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Nggalikarua">
+    <latitude>-19.1666667</latitude>
+    <longitude>179.7833333</longitude>
+  </city>
+  <city name="Nggalira">
+    <latitude>-19.15</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Nggarani">
+    <latitude>-17.95</latitude>
+    <longitude>179.2833333</longitude>
+  </city>
+  <city name="Nggaranivai">
+    <latitude>-16.2166667</latitude>
+    <longitude>179.8333333</longitude>
+  </city>
+  <city name="Nggaravutu">
+    <latitude>-16.5333333</latitude>
+    <longitude>179.8</longitude>
+  </city>
+  <city name="Nggathavula">
+    <latitude>-16.8666667</latitude>
+    <longitude>179.9666667</longitude>
+  </city>
+  <city name="Nggathavulu">
+    <latitude>-16.8666667</latitude>
+    <longitude>179.9666667</longitude>
+  </city>
+  <city name="Nggelekuro">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Nggelemumu">
+    <latitude>-16.4</latitude>
+    <longitude>179.4666667</longitude>
+  </city>
+  <city name="Nggelendamu">
+    <latitude>-18.0</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Nggeleni">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.85</longitude>
+  </city>
+  <city name="Nggelethimbi">
+    <latitude>-17.5833333</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Nggelewara">
+    <latitude>-16.25</latitude>
+    <longitude>179.6166667</longitude>
+  </city>
+  <city name="Nggilai">
+    <latitude>-18.1833333</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Nggoma">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Ngunu">
+    <latitude>-17.0833333</latitude>
+    <longitude>177.25</longitude>
+  </city>
+  <city name="Ngusuitoto">
+    <latitude>-18.25</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Nia Vakamothe">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Nikorokoro">
+    <latitude>-18.9833333</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Nirikoso">
+    <latitude>-18.9166667</latitude>
+    <longitude>178.5166667</longitude>
+  </city>
+  <city name="Niumbasanga">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.75</longitude>
+  </city>
+  <city name="Niundua">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Niurua">
+    <latitude>-16.4833333</latitude>
+    <longitude>178.9666667</longitude>
+  </city>
+  <city name="Niutoto">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Nivotavota">
+    <latitude>-19.0</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Noatau">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1333333</longitude>
+  </city>
+  <city name="Nogilai">
+    <latitude>-18.1833333</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Nokulau">
+    <latitude>-17.65</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Nondaulau">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.4</longitude>
+  </city>
+  <city name="Noraimba">
+    <latitude>-17.8666667</latitude>
+    <longitude>177.7666667</longitude>
+  </city>
+  <city name="Novalau">
+    <latitude>-17.3833333</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Nuanakira">
+    <latitude>-17.45</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Nukelo">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Nukudum">
+    <latitude>-16.5166667</latitude>
+    <longitude>178.9166667</longitude>
+  </city>
+  <city name="Nukudumu">
+    <latitude>-16.5166667</latitude>
+    <longitude>178.9166667</longitude>
+  </city>
+  <city name="Nukuilau">
+    <latitude>-17.9</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Nukui">
+    <latitude>-18.15</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nukulau">
+    <latitude>-17.65</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Nukuloa">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Nuku Loa">
+    <latitude>-17.45</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Nukumbalavu">
+    <latitude>-16.8166667</latitude>
+    <longitude>179.3166667</longitude>
+  </city>
+  <city name="Nukundamu">
+    <latitude>-16.1666667</latitude>
+    <longitude>179.9666667</longitude>
+  </city>
+  <city name="Nuku-ndum">
+    <latitude>-16.1666667</latitude>
+    <longitude>179.9666667</longitude>
+  </city>
+  <city name="Nuku">
+    <latitude>-17.8</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Nuku nuku">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Nukunuku">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Nukusa">
+    <latitude>-16.1833333</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Nukusere">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Nukusiri">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Nukutothia">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Nukutumbu">
+    <latitude>-18.1</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Nukuvou">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Numbathe">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Numbumakita">
+    <latitude>-17.65</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Numbunikavula">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Numbuniyavula">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Numbu">
+    <latitude>-16.2833333</latitude>
+    <longitude>179.6333333</longitude>
+  </city>
+  <city name="Numbutautau">
+    <latitude>-17.7833333</latitude>
+    <longitude>177.9166667</longitude>
+  </city>
+  <city name="Numbutumbutu">
+    <latitude>-16.3</latitude>
+    <longitude>179.6333333</longitude>
+  </city>
+  <city name="Numbuyani">
+    <latitude>-16.6666667</latitude>
+    <longitude>178.7333333</longitude>
+  </city>
+  <city name="Numbuyanitu">
+    <latitude>-17.9</latitude>
+    <longitude>177.8833333</longitude>
+  </city>
+  <city name="Nunguni">
+    <latitude>-17.9166667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Ohu">
+    <latitude>-12.5</latitude>
+    <longitude>177.1333333</longitude>
+  </city>
+  <city name="Oinafa">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.1166667</longitude>
+  </city>
+  <city name="Oloa">
+    <latitude>-16.6833333</latitude>
+    <longitude>179.8166667</longitude>
+  </city>
+  <city name="Olosenga">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.7333333</longitude>
+  </city>
+  <city name="Olosinga">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.7333333</longitude>
+  </city>
+  <city name="Ongea">
+    <latitude>-19.15</latitude>
+    <longitude>-178.4</longitude>
+  </city>
+  <city name="Ono Levu">
+    <latitude>-20.6666667</latitude>
+    <longitude>-178.6833333</longitude>
+  </city>
+  <city name="Ovaiau">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Ovalau">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Ovea">
+    <latitude>-17.9833333</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Owundu">
+    <latitude>-18.9833333</latitude>
+    <longitude>-178.9</longitude>
+  </city>
+  <city name="Pangai">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.8333333</longitude>
+  </city>
+  <city name="Paolo">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.1</longitude>
+  </city>
+  <city name="Paptea">
+    <latitude>-12.5</latitude>
+    <longitude>177.1333333</longitude>
+  </city>
+  <city name="Penang">
+    <latitude>-17.3666667</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Pephahua">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.0833333</longitude>
+  </city>
+  <city name="Poiva">
+    <latitude>-12.5</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Qarani">
+    <latitude>-17.95</latitude>
+    <longitude>179.2833333</longitude>
+  </city>
+  <city name="Rairaiwangga">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Raiwai">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Raiwanga">
+    <latitude>-18.05</latitude>
+    <longitude>177.5666667</longitude>
+  </city>
+  <city name="Raiwangga">
+    <latitude>-18.05</latitude>
+    <longitude>177.5666667</longitude>
+  </city>
+  <city name="Rakiraki">
+    <latitude>-18.9333333</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Raksawa">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Rambulu">
+    <latitude>-17.4333333</latitude>
+    <longitude>177.95</longitude>
+  </city>
+  <city name="Raralevu">
+    <latitude>-18.0</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Rarama">
+    <latitude>-18.95</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Raranimbulumbulu">
+    <latitude>-16.3666667</latitude>
+    <longitude>179.45</longitude>
+  </city>
+  <city name="Rararua">
+    <latitude>-17.9666667</latitude>
+    <longitude>177.55</longitude>
+  </city>
+  <city name="Rauribu">
+    <latitude>-16.2833333</latitude>
+    <longitude>179.7166667</longitude>
+  </city>
+  <city name="Rauriko">
+    <latitude>-16.2833333</latitude>
+    <longitude>179.7166667</longitude>
+  </city>
+  <city name="Rave-rave">
+    <latitude>-16.9</latitude>
+    <longitude>179.0</longitude>
+  </city>
+  <city name="Raviravi">
+    <latitude>-18.3833333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Ravitaki">
+    <latitude>-19.1333333</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Rewangga">
+    <latitude>-18.05</latitude>
+    <longitude>177.5666667</longitude>
+  </city>
+  <city name="Rewasa">
+    <latitude>-17.4</latitude>
+    <longitude>178.1833333</longitude>
+  </city>
+  <city name="Rewasau">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Richmond">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Rokovuaka">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.2666667</longitude>
+  </city>
+  <city name="Rukua">
+    <latitude>-18.4</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Rukurukeluvu">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Rukurukulevu">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Rukuruku">
+    <latitude>-17.65</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Saivou">
+    <latitude>-16.6</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Salevukoso">
+    <latitude>-16.1833333</latitude>
+    <longitude>179.6166667</longitude>
+  </city>
+  <city name="Salialevu">
+    <latitude>-16.9666667</latitude>
+    <longitude>180.0</longitude>
+  </city>
+  <city name="Saliandrau">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Salia">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.85</longitude>
+  </city>
+  <city name="Salvaka">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Samambula East">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Samambula North">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Samambula">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Sambata">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Sanasana">
+    <latitude>-18.1166667</latitude>
+    <longitude>177.3333333</longitude>
+  </city>
+  <city name="Sandro">
+    <latitude>-18.25</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Sanggani">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.7166667</longitude>
+  </city>
+  <city name="Saolei">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Saolo">
+    <latitude>-16.8666667</latitude>
+    <longitude>178.8666667</longitude>
+  </city>
+  <city name="Sarava">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.5166667</longitude>
+  </city>
+  <city name="Sarawangga">
+    <latitude>-16.65</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Saru">
+    <latitude>-17.6166667</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Sasa">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.1666667</longitude>
+  </city>
+  <city name="Satulaki">
+    <latitude>-16.55</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Saukama">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0833333</longitude>
+  </city>
+  <city name="Saumakia">
+    <latitude>-17.8</latitude>
+    <longitude>178.2666667</longitude>
+  </city>
+  <city name="Saunaka">
+    <latitude>-17.8</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Sauniviuto">
+    <latitude>-18.25</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Sautambu">
+    <latitude>-17.9833333</latitude>
+    <longitude>177.6333333</longitude>
+  </city>
+  <city name="Sautiki">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Sauvakarua">
+    <latitude>-17.8166667</latitude>
+    <longitude>177.9166667</longitude>
+  </city>
+  <city name="Savuna">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.7333333</longitude>
+  </city>
+  <city name="Savu Sau">
+    <latitude>-16.65</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Savu">
+    <latitude>-17.9166667</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Savusavuitangga">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Savusavu">
+    <latitude>-16.65</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Sawaieke">
+    <latitude>-17.9833333</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Sawakasa">
+    <latitude>-17.75</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Sawanikula">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Sawani">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Sawa">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Sawayake">
+    <latitude>-17.9833333</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Saweni">
+    <latitude>-17.9</latitude>
+    <longitude>177.8</longitude>
+  </city>
+  <city name="Seavathi">
+    <latitude>-16.5</latitude>
+    <longitude>179.55</longitude>
+  </city>
+  <city name="Semo">
+    <latitude>-18.0833333</latitude>
+    <longitude>177.3833333</longitude>
+  </city>
+  <city name="Serea">
+    <latitude>-17.85</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Serua">
+    <latitude>-18.2833333</latitude>
+    <longitude>177.9333333</longitude>
+  </city>
+  <city name="Seseninga">
+    <latitude>-16.55</latitude>
+    <longitude>178.8833333</longitude>
+  </city>
+  <city name="Sese">
+    <latitude>-16.3666667</latitude>
+    <longitude>179.7833333</longitude>
+  </city>
+  <city name="Sevathi">
+    <latitude>-16.5</latitude>
+    <longitude>179.55</longitude>
+  </city>
+  <city name="Sikituru">
+    <latitude>-17.8</latitude>
+    <longitude>177.4</longitude>
+  </city>
+  <city name="Silana">
+    <latitude>-17.5833333</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Singatoka">
+    <latitude>-18.1</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Singatoke">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Singuma">
+    <latitude>-17.95</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Sinuvaca">
+    <latitude>-17.3333333</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Sinuvatha">
+    <latitude>-17.3333333</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Sisila">
+    <latitude>-17.5833333</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Sisili">
+    <latitude>-16.9333333</latitude>
+    <longitude>177.4</longitude>
+  </city>
+  <city name="Soa">
+    <latitude>-17.65</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Soievu">
+    <latitude>-17.7666667</latitude>
+    <longitude>177.1833333</longitude>
+  </city>
+  <city name="Solevu Mission">
+    <latitude>-17.0</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Solevu">
+    <latitude>-16.9833333</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Solianga">
+    <latitude>-18.3833333</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Soliyanga">
+    <latitude>-18.3833333</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Solondamu">
+    <latitude>-19.0666667</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Solo Tavine">
+    <latitude>-18.9833333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Solotavui">
+    <latitude>-18.9833333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Somosomo">
+    <latitude>-18.0166667</latitude>
+    <longitude>179.25</longitude>
+  </city>
+  <city name="Somo Somo">
+    <latitude>-18.2333333</latitude>
+    <longitude>177.8166667</longitude>
+  </city>
+  <city name="Songombiau">
+    <latitude>-16.2666667</latitude>
+    <longitude>179.55</longitude>
+  </city>
+  <city name="Sorokomba">
+    <latitude>-17.4833333</latitude>
+    <longitude>177.7</longitude>
+  </city>
+  <city name="Soso">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Sote">
+    <latitude>-17.8833333</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Sueni">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Suliyanga">
+    <latitude>-18.3833333</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Sumi">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1</longitude>
+  </city>
+  <city name="Suva City">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.4166667</longitude>
+  </city>
+  <city name="Suvalailai">
+    <latitude>-18.1</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Suva">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.4166667</longitude>
+  </city>
+  <city name="Suvaviti">
+    <latitude>-18.1</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Suvavou">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.4166667</longitude>
+  </city>
+  <city name="Tai">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Talaulia">
+    <latitude>-19.1166667</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Talethake">
+    <latitude>-17.5</latitude>
+    <longitude>177.7</longitude>
+  </city>
+  <city name="Tamavua Heights">
+    <latitude>-18.1</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Tamavua">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Tambalei">
+    <latitude>-17.75</latitude>
+    <longitude>177.7666667</longitude>
+  </city>
+  <city name="Tambia">
+    <latitude>-16.45</latitude>
+    <longitude>179.25</longitude>
+  </city>
+  <city name="Tambulei">
+    <latitude>-17.75</latitude>
+    <longitude>177.7666667</longitude>
+  </city>
+  <city name="Tambungguto">
+    <latitude>-17.75</latitude>
+    <longitude>177.7833333</longitude>
+  </city>
+  <city name="Tambuya">
+    <latitude>-19.15</latitude>
+    <longitude>178.0666667</longitude>
+  </city>
+  <city name="Tamura">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Tamusua">
+    <latitude>-16.8333333</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Tangala">
+    <latitude>-16.4666667</latitude>
+    <longitude>179.7166667</longitude>
+  </city>
+  <city name="Tangangge">
+    <latitude>-18.2</latitude>
+    <longitude>177.6666667</longitude>
+  </city>
+  <city name="Tanganghi">
+    <latitude>-18.2</latitude>
+    <longitude>177.6666667</longitude>
+  </city>
+  <city name="Tangangi">
+    <latitude>-18.2</latitude>
+    <longitude>177.6666667</longitude>
+  </city>
+  <city name="Tarakua">
+    <latitude>-17.7166667</latitude>
+    <longitude>-179.35</longitude>
+  </city>
+  <city name="Tarokua">
+    <latitude>-17.7166667</latitude>
+    <longitude>-179.35</longitude>
+  </city>
+  <city name="Tarokua Village">
+    <latitude>-17.7166667</latitude>
+    <longitude>-179.35</longitude>
+  </city>
+  <city name="Tarua">
+    <latitude>-17.45</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Tarukua">
+    <latitude>-17.7166667</latitude>
+    <longitude>-179.35</longitude>
+  </city>
+  <city name="Tathelevu">
+    <latitude>-16.7666667</latitude>
+    <longitude>179.6166667</longitude>
+  </city>
+  <city name="Tathilau">
+    <latitude>-16.2</latitude>
+    <longitude>179.5833333</longitude>
+  </city>
+  <city name="Tathilevu">
+    <latitude>-16.7666667</latitude>
+    <longitude>179.6166667</longitude>
+  </city>
+  <city name="Tathi">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Taulevu">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3</longitude>
+  </city>
+  <city name="Taunovo">
+    <latitude>-18.5166667</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Tau">
+    <latitude>-17.9666667</latitude>
+    <longitude>177.2833333</longitude>
+  </city>
+  <city name="Tavea">
+    <latitude>-16.6166667</latitude>
+    <longitude>178.7333333</longitude>
+  </city>
+  <city name="Tavia">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Taviya">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Tavua">
+    <latitude>-17.3</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Tavuka">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Tavuki">
+    <latitude>-19.0833333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Tavulomo">
+    <latitude>-16.8833333</latitude>
+    <longitude>178.65</longitude>
+  </city>
+  <city name="Tawake">
+    <latitude>-16.25</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Tawaki">
+    <latitude>-16.25</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Tawapa">
+    <latitude>-19.1</latitude>
+    <longitude>178.0333333</longitude>
+  </city>
+  <city name="Tawatawandi">
+    <latitude>-17.9833333</latitude>
+    <longitude>177.6166667</longitude>
+  </city>
+  <city name="Tawava">
+    <latitude>-19.1</latitude>
+    <longitude>178.0333333</longitude>
+  </city>
+  <city name="Tethi">
+    <latitude>-16.8</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Tevai">
+    <latitude>-19.1333333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Thakova">
+    <latitude>-18.6333333</latitude>
+    <longitude>179.8833333</longitude>
+  </city>
+  <city name="Thalia">
+    <latitude>-18.2166667</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Thalira">
+    <latitude>-19.15</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Thaumbati">
+    <latitude>-18.1</latitude>
+    <longitude>178.4833333</longitude>
+  </city>
+  <city name="Thautata">
+    <latitude>-18.0</latitude>
+    <longitude>178.6333333</longitude>
+  </city>
+  <city name="Thava Levu">
+    <latitude>-17.3</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Thavanga">
+    <latitude>-17.0</latitude>
+    <longitude>178.7833333</longitude>
+  </city>
+  <city name="Thava">
+    <latitude>-17.3</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Thavonga">
+    <latitude>-17.0</latitude>
+    <longitude>178.7833333</longitude>
+  </city>
+  <city name="Thavu">
+    <latitude>-17.3</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Thawandevo">
+    <latitude>-16.2166667</latitude>
+    <longitude>179.6666667</longitude>
+  </city>
+  <city name="Thawara">
+    <latitude>-16.2333333</latitude>
+    <longitude>179.85</longitude>
+  </city>
+  <city name="Thawaro">
+    <latitude>-16.2333333</latitude>
+    <longitude>179.85</longitude>
+  </city>
+  <city name="The Domain">
+    <latitude>-18.15</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Thevai">
+    <latitude>-19.1333333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Thikombia">
+    <latitude>-17.2833333</latitude>
+    <longitude>-178.7833333</longitude>
+  </city>
+  <city name="Tholoisuva">
+    <latitude>-18.05</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Thongea">
+    <latitude>-16.8166667</latitude>
+    <longitude>178.9</longitude>
+  </city>
+  <city name="Thulanuku">
+    <latitude>-18.2666667</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Thuvu">
+    <latitude>-17.7</latitude>
+    <longitude>177.8333333</longitude>
+  </city>
+  <city name="Tia">
+    <latitude>-12.5</latitude>
+    <longitude>177.05</longitude>
+  </city>
+  <city name="Tilivalevu">
+    <latitude>-18.0833333</latitude>
+    <longitude>177.4833333</longitude>
+  </city>
+  <city name="Tiliva">
+    <latitude>-18.9666667</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Tioma">
+    <latitude>-19.0333333</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Tokala">
+    <latitude>-19.1166667</latitude>
+    <longitude>179.7833333</longitude>
+  </city>
+  <city name="Tokalau">
+    <latitude>-18.9333333</latitude>
+    <longitude>-178.9666667</longitude>
+  </city>
+  <city name="Tokalou">
+    <latitude>-19.1166667</latitude>
+    <longitude>179.7833333</longitude>
+  </city>
+  <city name="Toki">
+    <latitude>-17.65</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Tokolau">
+    <latitude>-17.7333333</latitude>
+    <longitude>-179.3</longitude>
+  </city>
+  <city name="Toko">
+    <latitude>-17.7833333</latitude>
+    <longitude>177.6</longitude>
+  </city>
+  <city name="Tokou">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Toliera">
+    <latitude>-17.6</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Tombu">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.2666667</longitude>
+  </city>
+  <city name="Tonga">
+    <latitude>-17.9833333</latitude>
+    <longitude>177.6</longitude>
+  </city>
+  <city name="Tongaviri">
+    <latitude>-17.4</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Tonge">
+    <latitude>-17.6333333</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Tongo">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.75</longitude>
+  </city>
+  <city name="Tongovere">
+    <latitude>-18.1</latitude>
+    <longitude>177.4166667</longitude>
+  </city>
+  <city name="Tongowere">
+    <latitude>-17.4</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Tonuva">
+    <latitude>-17.9666667</latitude>
+    <longitude>177.7166667</longitude>
+  </city>
+  <city name="Tonuve">
+    <latitude>-17.9666667</latitude>
+    <longitude>177.7166667</longitude>
+  </city>
+  <city name="Toorak">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Tore">
+    <latitude>-17.95</latitude>
+    <longitude>177.5666667</longitude>
+  </city>
+  <city name="Totongo">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.75</longitude>
+  </city>
+  <city name="Toumbo">
+    <latitude>-18.2333333</latitude>
+    <longitude>-178.8</longitude>
+  </city>
+  <city name="Tovulailai">
+    <latitude>-17.8166667</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Tovu">
+    <latitude>-18.95</latitude>
+    <longitude>-179.8166667</longitude>
+  </city>
+  <city name="Tovutovu">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Tuai">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0833333</longitude>
+  </city>
+  <city name="Tuakoi">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Tuapona">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1166667</longitude>
+  </city>
+  <city name="Tuatua">
+    <latitude>-17.3</latitude>
+    <longitude>179.45</longitude>
+  </city>
+  <city name="Tukavesi">
+    <latitude>-16.6333333</latitude>
+    <longitude>179.8333333</longitude>
+  </city>
+  <city name="Tulaulia">
+    <latitude>-19.1166667</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Tumavia">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Tumbairata">
+    <latitude>-18.0</latitude>
+    <longitude>177.5833333</longitude>
+  </city>
+  <city name="Tumbalevu">
+    <latitude>-17.95</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Tumbenasolo">
+    <latitude>-17.8666667</latitude>
+    <longitude>177.6</longitude>
+  </city>
+  <city name="Tumbou">
+    <latitude>-18.2333333</latitude>
+    <longitude>-178.8</longitude>
+  </city>
+  <city name="Tuniloa">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.8166667</longitude>
+  </city>
+  <city name="Tunoloa">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.8166667</longitude>
+  </city>
+  <city name="Tuvutha">
+    <latitude>-17.6833333</latitude>
+    <longitude>-178.8166667</longitude>
+  </city>
+  <city name="Tuvu">
+    <latitude>-17.95</latitude>
+    <longitude>177.7</longitude>
+  </city>
+  <city name="Uanheta">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1</longitude>
+  </city>
+  <city name="Ujia">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1</longitude>
+  </city>
+  <city name="Uluimbau">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Ului Mhau">
+    <latitude>-17.7833333</latitude>
+    <longitude>178.7666667</longitude>
+  </city>
+  <city name="Undu">
+    <latitude>-18.9833333</latitude>
+    <longitude>-178.9</longitude>
+  </city>
+  <city name="Upu">
+    <latitude>-12.5</latitude>
+    <longitude>177.0333333</longitude>
+  </city>
+  <city name="Urata">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Uruone">
+    <latitude>-17.2666667</latitude>
+    <longitude>-178.9833333</longitude>
+  </city>
+  <city name="Uthiwai-na-Tamavua">
+    <latitude>-18.1</latitude>
+    <longitude>178.45</longitude>
+  </city>
+  <city name="Uthunivanua">
+    <latitude>-17.85</latitude>
+    <longitude>178.6333333</longitude>
+  </city>
+  <city name="Uto">
+    <latitude>-17.9333333</latitude>
+    <longitude>177.4666667</longitude>
+  </city>
+  <city name="Ututu">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1333333</longitude>
+  </city>
+  <city name="Utu">
+    <latitude>-12.5166667</latitude>
+    <longitude>177.1166667</longitude>
+  </city>
+  <city name="Vagadace">
+    <latitude>-17.6833333</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Vagandathe">
+    <latitude>-17.6833333</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Vailaka">
+    <latitude>-17.3833333</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Vaileka">
+    <latitude>-17.3833333</latitude>
+    <longitude>178.15</longitude>
+  </city>
+  <city name="Vaindoko">
+    <latitude>-17.4166667</latitude>
+    <longitude>178.25</longitude>
+  </city>
+  <city name="Vairama">
+    <latitude>-12.4833333</latitude>
+    <longitude>177.1</longitude>
+  </city>
+  <city name="Vaivunu">
+    <latitude>-18.25</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Vakambuli">
+    <latitude>-17.6166667</latitude>
+    <longitude>177.5666667</longitude>
+  </city>
+  <city name="Vakano">
+    <latitude>-18.1833333</latitude>
+    <longitude>-178.7833333</longitude>
+  </city>
+  <city name="Vakativa">
+    <latitude>-16.6833333</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Vakawau">
+    <latitude>-17.0</latitude>
+    <longitude>179.95</longitude>
+  </city>
+  <city name="Valeni">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.1333333</longitude>
+  </city>
+  <city name="Valenthi">
+    <latitude>-16.7833333</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Valethi Government Station">
+    <latitude>-16.7833333</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Valethi">
+    <latitude>-16.7833333</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Valovoni">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.65</longitude>
+  </city>
+  <city name="Vambea">
+    <latitude>-18.9166667</latitude>
+    <longitude>178.4833333</longitude>
+  </city>
+  <city name="Vambia">
+    <latitude>-18.9166667</latitude>
+    <longitude>178.4833333</longitude>
+  </city>
+  <city name="Vandrai">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.6666667</longitude>
+  </city>
+  <city name="Vandrakula">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Vandra">
+    <latitude>-18.6</latitude>
+    <longitude>179.85</longitude>
+  </city>
+  <city name="Vandravandra">
+    <latitude>-18.1166667</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Vangai">
+    <latitude>-16.7666667</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Vangandathe">
+    <latitude>-17.6833333</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Vangandathi">
+    <latitude>-17.6833333</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Vangandra">
+    <latitude>-17.9833333</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Vanuakula">
+    <latitude>-17.95</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Vanua-kula">
+    <latitude>-17.4333333</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Vanualevu">
+    <latitude>-18.1</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Vanua Levu">
+    <latitude>-19.15</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Vanuandina">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Vanuaso">
+    <latitude>-17.9666667</latitude>
+    <longitude>179.3166667</longitude>
+  </city>
+  <city name="Vanuavatu">
+    <latitude>-18.3666667</latitude>
+    <longitude>-179.2666667</longitude>
+  </city>
+  <city name="Vanuavou">
+    <latitude>-16.5</latitude>
+    <longitude>179.6333333</longitude>
+  </city>
+  <city name="Vanuavo">
+    <latitude>-16.5</latitude>
+    <longitude>179.6333333</longitude>
+  </city>
+  <city name="Vanumbua">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.3333333</longitude>
+  </city>
+  <city name="Varoka">
+    <latitude>-17.5333333</latitude>
+    <longitude>177.6833333</longitude>
+  </city>
+  <city name="Vatani">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.6833333</longitude>
+  </city>
+  <city name="Vatau Karasa">
+    <latitude>-18.1833333</latitude>
+    <longitude>177.6</longitude>
+  </city>
+  <city name="Vathaleya">
+    <latitude>-19.0333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Vatoa">
+    <latitude>-19.8333333</latitude>
+    <longitude>-178.2333333</longitude>
+  </city>
+  <city name="Vatolotolo">
+    <latitude>-16.75</latitude>
+    <longitude>179.9</longitude>
+  </city>
+  <city name="Vatukalo">
+    <latitude>-17.65</latitude>
+    <longitude>178.8166667</longitude>
+  </city>
+  <city name="Vatukarasa">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Vatukathevatheva">
+    <latitude>-17.4166667</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Vatukoula">
+    <latitude>-17.5166667</latitude>
+    <longitude>177.85</longitude>
+  </city>
+  <city name="Vatukutha">
+    <latitude>-16.5833333</latitude>
+    <longitude>179.5166667</longitude>
+  </city>
+  <city name="Vatu-lei-le">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.3166667</longitude>
+  </city>
+  <city name="Vatu Leile">
+    <latitude>-17.25</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Vatulele">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.3166667</longitude>
+  </city>
+  <city name="Vatuloa">
+    <latitude>-16.4833333</latitude>
+    <longitude>179.6833333</longitude>
+  </city>
+  <city name="Vatulovona">
+    <latitude>-16.5</latitude>
+    <longitude>179.3333333</longitude>
+  </city>
+  <city name="Vatumbalavu">
+    <latitude>-17.8833333</latitude>
+    <longitude>177.8166667</longitude>
+  </city>
+  <city name="Vatuolalai">
+    <latitude>-18.2</latitude>
+    <longitude>177.7</longitude>
+  </city>
+  <city name="Vaturua">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Vatuseikiyasawa">
+    <latitude>-17.4</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Vatusongosongo">
+    <latitude>-16.7666667</latitude>
+    <longitude>-179.7833333</longitude>
+  </city>
+  <city name="Vatutandova">
+    <latitude>-16.4333333</latitude>
+    <longitude>179.2833333</longitude>
+  </city>
+  <city name="Vatutavui">
+    <latitude>-17.45</latitude>
+    <longitude>177.75</longitude>
+  </city>
+  <city name="Vatutu">
+    <latitude>-17.8166667</latitude>
+    <longitude>177.45</longitude>
+  </city>
+  <city name="Vatu">
+    <latitude>-16.2</latitude>
+    <longitude>179.9333333</longitude>
+  </city>
+  <city name="Vatuvonu">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.0666667</longitude>
+  </city>
+  <city name="Vatuvula">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Vatuwangga">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Vatuyamba">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Vaua">
+    <latitude>-18.6166667</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Vavalangi">
+    <latitude>-16.3</latitude>
+    <longitude>179.45</longitude>
+  </city>
+  <city name="Veindik">
+    <latitude>-18.0666667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Veindrala">
+    <latitude>-17.4833333</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Veinugga">
+    <latitude>-17.85</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Veinungga">
+    <latitude>-17.85</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Veiuto">
+    <latitude>-18.15</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Veivatuloa">
+    <latitude>-18.2</latitude>
+    <longitude>178.2166667</longitude>
+  </city>
+  <city name="Vendrala">
+    <latitude>-17.4833333</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Verata">
+    <latitude>-18.0</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Verevere">
+    <latitude>-17.55</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Vese">
+    <latitude>-16.3333333</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Vesi">
+    <latitude>-16.3333333</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Viani">
+    <latitude>-16.75</latitude>
+    <longitude>179.5833333</longitude>
+  </city>
+  <city name="Vianutha">
+    <latitude>-16.7833333</latitude>
+    <longitude>-179.7166667</longitude>
+  </city>
+  <city name="Vindawa">
+    <latitude>-16.8166667</latitude>
+    <longitude>-179.8666667</longitude>
+  </city>
+  <city name="Vinungga">
+    <latitude>-17.85</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Vione">
+    <latitude>-17.95</latitude>
+    <longitude>179.3</longitude>
+  </city>
+  <city name="Viria">
+    <latitude>-17.9166667</latitude>
+    <longitude>178.4166667</longitude>
+  </city>
+  <city name="Visama">
+    <latitude>-18.05</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Visa">
+    <latitude>-17.95</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Viseisei">
+    <latitude>-17.6833333</latitude>
+    <longitude>177.4166667</longitude>
+  </city>
+  <city name="Visonggo">
+    <latitude>-16.2166667</latitude>
+    <longitude>179.6666667</longitude>
+  </city>
+  <city name="Vi-songu">
+    <latitude>-16.2166667</latitude>
+    <longitude>179.6666667</longitude>
+  </city>
+  <city name="Visoto">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Vitawa">
+    <latitude>-17.3666667</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Vitina">
+    <latitude>-16.3166667</latitude>
+    <longitude>179.7166667</longitude>
+  </city>
+  <city name="Vitongo">
+    <latitude>-17.6</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Vivili">
+    <latitude>-16.8</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Viwa">
+    <latitude>-17.95</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Volinangerua">
+    <latitude>-17.9666667</latitude>
+    <longitude>177.7166667</longitude>
+  </city>
+  <city name="Volivoli">
+    <latitude>-18.1666667</latitude>
+    <longitude>177.4833333</longitude>
+  </city>
+  <city name="Vorovoro">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.4833333</longitude>
+  </city>
+  <city name="Votualailai">
+    <latitude>-18.2</latitude>
+    <longitude>177.7</longitude>
+  </city>
+  <city name="Votua">
+    <latitude>-16.6666667</latitude>
+    <longitude>178.7166667</longitude>
+  </city>
+  <city name="Voua">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.4333333</longitude>
+  </city>
+  <city name="Vou-nuku">
+    <latitude>-18.5833333</latitude>
+    <longitude>179.9166667</longitude>
+  </city>
+  <city name="Vuake">
+    <latitude>-16.9666667</latitude>
+    <longitude>177.35</longitude>
+  </city>
+  <city name="Vuandomo">
+    <latitude>-16.7166667</latitude>
+    <longitude>179.3166667</longitude>
+  </city>
+  <city name="Vua">
+    <latitude>-16.3666667</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Vuinakawakawa">
+    <latitude>-16.5166667</latitude>
+    <longitude>179.3166667</longitude>
+  </city>
+  <city name="Vuinandi">
+    <latitude>-16.6</latitude>
+    <longitude>179.55</longitude>
+  </city>
+  <city name="Vuinanggalutu">
+    <latitude>-16.6333333</latitude>
+    <longitude>178.9833333</longitude>
+  </city>
+  <city name="Vuinmono">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Vuiranggilai">
+    <latitude>-16.55</latitude>
+    <longitude>179.2333333</longitude>
+  </city>
+  <city name="Vukavu">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Vulovi">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Vuluna">
+    <latitude>-17.1833333</latitude>
+    <longitude>-178.9666667</longitude>
+  </city>
+  <city name="Vuma">
+    <latitude>-17.6666667</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Vunambua">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.3333333</longitude>
+  </city>
+  <city name="Vunamoli">
+    <latitude>-17.95</latitude>
+    <longitude>177.4833333</longitude>
+  </city>
+  <city name="Vunanggoru">
+    <latitude>-17.9833333</latitude>
+    <longitude>177.65</longitude>
+  </city>
+  <city name="Vunanitu">
+    <latitude>-18.1833333</latitude>
+    <longitude>177.6166667</longitude>
+  </city>
+  <city name="Vunaniu">
+    <latitude>-18.25</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Vuna Nui">
+    <latitude>-18.25</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Vunatoto">
+    <latitude>-17.95</latitude>
+    <longitude>177.8666667</longitude>
+  </city>
+  <city name="Vunatovau">
+    <latitude>-18.1</latitude>
+    <longitude>177.4833333</longitude>
+  </city>
+  <city name="Vunavutu">
+    <latitude>-18.1666667</latitude>
+    <longitude>177.5</longitude>
+  </city>
+  <city name="Vunayasi">
+    <latitude>-17.8166667</latitude>
+    <longitude>177.4166667</longitude>
+  </city>
+  <city name="Vunayawa">
+    <latitude>-18.1333333</latitude>
+    <longitude>177.6333333</longitude>
+  </city>
+  <city name="Vunievu">
+    <latitude>-16.8</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Vuniivisavu">
+    <latitude>-17.7</latitude>
+    <longitude>178.8</longitude>
+  </city>
+  <city name="Vunikondi">
+    <latitude>-16.1333333</latitude>
+    <longitude>180.0</longitude>
+  </city>
+  <city name="Vunikura">
+    <latitude>-16.6833333</latitude>
+    <longitude>179.8666667</longitude>
+  </city>
+  <city name="Vunilangi">
+    <latitude>-16.75</latitude>
+    <longitude>179.65</longitude>
+  </city>
+  <city name="Vunimanggo">
+    <latitude>-18.2666667</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Vunimbau">
+    <latitude>-18.05</latitude>
+    <longitude>178.1333333</longitude>
+  </city>
+  <city name="Vunimoli">
+    <latitude>-16.45</latitude>
+    <longitude>179.2333333</longitude>
+  </city>
+  <city name="Vunimono">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.5333333</longitude>
+  </city>
+  <city name="Vunindamoli">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Vunindawa Government Station">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Vunindawa">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Vunindongoloa">
+    <latitude>-16.6666667</latitude>
+    <longitude>179.5</longitude>
+  </city>
+  <city name="Vunindumba">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.2833333</longitude>
+  </city>
+  <city name="Vuniniundrovu">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.5</longitude>
+  </city>
+  <city name="Vunisea Station">
+    <latitude>-19.05</latitude>
+    <longitude>178.1666667</longitude>
+  </city>
+  <city name="Vunisea">
+    <latitude>-18.05</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Vunisei">
+    <latitude>-18.05</latitude>
+    <longitude>178.55</longitude>
+  </city>
+  <city name="Vunisimu">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Vunisinga">
+    <latitude>-17.8166667</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Vunisinu">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Vunisotho">
+    <latitude>-18.1666667</latitude>
+    <longitude>178.2833333</longitude>
+  </city>
+  <city name="Vuni-ta-moli">
+    <latitude>-16.7333333</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Vunivaivai">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.5833333</longitude>
+  </city>
+  <city name="Vunivatu">
+    <latitude>-16.3</latitude>
+    <longitude>179.5166667</longitude>
+  </city>
+  <city name="Vunivau">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Vunivesi">
+    <latitude>-16.6666667</latitude>
+    <longitude>179.3</longitude>
+  </city>
+  <city name="Vunivota">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.5666667</longitude>
+  </city>
+  <city name="Vunivundi">
+    <latitude>-16.45</latitude>
+    <longitude>179.7333333</longitude>
+  </city>
+  <city name="Vunivuthea">
+    <latitude>-16.8</latitude>
+    <longitude>-179.85</longitude>
+  </city>
+  <city name="Vunivutu">
+    <latitude>-16.3</latitude>
+    <longitude>179.5166667</longitude>
+  </city>
+  <city name="Vuniwai">
+    <latitude>-16.4</latitude>
+    <longitude>179.7666667</longitude>
+  </city>
+  <city name="Vuniyaumunu">
+    <latitude>-17.5166667</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Vunuku">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Vuo">
+    <latitude>-16.3666667</latitude>
+    <longitude>179.3833333</longitude>
+  </city>
+  <city name="Vuru vuru">
+    <latitude>-17.8666667</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Vusama">
+    <latitude>-18.0833333</latitude>
+    <longitude>177.3166667</longitude>
+  </city>
+  <city name="Vusamu">
+    <latitude>-18.0833333</latitude>
+    <longitude>177.3166667</longitude>
+  </city>
+  <city name="Vusanatu">
+    <latitude>-16.6</latitude>
+    <longitude>179.7333333</longitude>
+  </city>
+  <city name="Vusaratu">
+    <latitude>-16.6</latitude>
+    <longitude>179.7333333</longitude>
+  </city>
+  <city name="Vusasivo">
+    <latitude>-16.5666667</latitude>
+    <longitude>179.7666667</longitude>
+  </city>
+  <city name="Vusua">
+    <latitude>-17.95</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Vuthi">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Vuthuna">
+    <latitude>-17.8166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Vutivuti">
+    <latitude>-18.1666667</latitude>
+    <longitude>177.4833333</longitude>
+  </city>
+  <city name="Vutu Levu">
+    <latitude>-18.2333333</latitude>
+    <longitude>177.8</longitude>
+  </city>
+  <city name="Vutuma">
+    <latitude>-17.8166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Vutuna">
+    <latitude>-17.8166667</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Vuya">
+    <latitude>-17.0</latitude>
+    <longitude>178.7333333</longitude>
+  </city>
+  <city name="Wai Dravu">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.65</longitude>
+  </city>
+  <city name="Waikama">
+    <latitude>-18.0166667</latitude>
+    <longitude>179.2666667</longitude>
+  </city>
+  <city name="Waikete">
+    <latitude>-18.05</latitude>
+    <longitude>178.6166667</longitude>
+  </city>
+  <city name="Waikumbukumbu">
+    <latitude>-17.55</latitude>
+    <longitude>177.95</longitude>
+  </city>
+  <city name="Wailanga">
+    <latitude>-16.7333333</latitude>
+    <longitude>-179.9333333</longitude>
+  </city>
+  <city name="Wailevu">
+    <latitude>-17.6833333</latitude>
+    <longitude>178.3333333</longitude>
+  </city>
+  <city name="Wailoku">
+    <latitude>-18.1</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Wailotua">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.4</longitude>
+  </city>
+  <city name="Waimbalavu">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.2333333</longitude>
+  </city>
+  <city name="Waimbasanga">
+    <latitude>-17.8</latitude>
+    <longitude>178.1</longitude>
+  </city>
+  <city name="Waimbongi">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Wainandiro">
+    <latitude>-18.1166667</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Wainasomo">
+    <latitude>-17.9666667</latitude>
+    <longitude>179.3166667</longitude>
+  </city>
+  <city name="Wainawangga">
+    <latitude>-17.9833333</latitude>
+    <longitude>178.2833333</longitude>
+  </city>
+  <city name="Waindo">
+    <latitude>-16.9833333</latitude>
+    <longitude>178.7833333</longitude>
+  </city>
+  <city name="Waindrathia">
+    <latitude>-17.8333333</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Waingganaki">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.3666667</longitude>
+  </city>
+  <city name="Wainggori">
+    <latitude>-18.45</latitude>
+    <longitude>-178.4666667</longitude>
+  </city>
+  <city name="Wainiika">
+    <latitude>-16.2166667</latitude>
+    <longitude>179.9166667</longitude>
+  </city>
+  <city name="Wainika">
+    <latitude>-16.2166667</latitude>
+    <longitude>179.9166667</longitude>
+  </city>
+  <city name="Wainikia">
+    <latitude>-17.95</latitude>
+    <longitude>178.4166667</longitude>
+  </city>
+  <city name="Wainilotulevu">
+    <latitude>-18.0833333</latitude>
+    <longitude>178.0166667</longitude>
+  </city>
+  <city name="Wainimakatu">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Wainimakutu">
+    <latitude>-17.9666667</latitude>
+    <longitude>178.0833333</longitude>
+  </city>
+  <city name="Wainingandru">
+    <latitude>-16.3166667</latitude>
+    <longitude>179.8166667</longitude>
+  </city>
+  <city name="Wainisikia">
+    <latitude>-17.9333333</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Wainiyambia">
+    <latitude>-18.2666667</latitude>
+    <longitude>178.0333333</longitude>
+  </city>
+  <city name="Wairiki">
+    <latitude>-16.9333333</latitude>
+    <longitude>178.6666667</longitude>
+  </city>
+  <city name="Wairuarua">
+    <latitude>-17.7166667</latitude>
+    <longitude>178.2</longitude>
+  </city>
+  <city name="Wairuku">
+    <latitude>-17.6333333</latitude>
+    <longitude>178.2166667</longitude>
+  </city>
+  <city name="Waisali">
+    <latitude>-16.65</latitude>
+    <longitude>179.2333333</longitude>
+  </city>
+  <city name="Waisa">
+    <latitude>-17.8</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Waisomo">
+    <latitude>-17.7333333</latitude>
+    <longitude>178.2166667</longitude>
+  </city>
+  <city name="Waitambu">
+    <latitude>-16.8166667</latitude>
+    <longitude>-179.85</longitude>
+  </city>
+  <city name="Waithoka">
+    <latitude>-18.0166667</latitude>
+    <longitude>178.65</longitude>
+  </city>
+  <city name="Waitoga">
+    <latitude>-17.8</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Waitonga">
+    <latitude>-17.8</latitude>
+    <longitude>179.4333333</longitude>
+  </city>
+  <city name="Waitovu">
+    <latitude>-17.6666667</latitude>
+    <longitude>178.8333333</longitude>
+  </city>
+  <city name="Waito">
+    <latitude>-17.8</latitude>
+    <longitude>178.4666667</longitude>
+  </city>
+  <city name="Waivaka">
+    <latitude>-18.0333333</latitude>
+    <longitude>178.1833333</longitude>
+  </city>
+  <city name="Waivou">
+    <latitude>-18.1</latitude>
+    <longitude>178.5666667</longitude>
+  </city>
+  <city name="Waivunia">
+    <latitude>-16.7833333</latitude>
+    <longitude>179.4</longitude>
+  </city>
+  <city name="Waivunu">
+    <latitude>-18.25</latitude>
+    <longitude>177.9833333</longitude>
+  </city>
+  <city name="Waiyanitu">
+    <latitude>-18.1833333</latitude>
+    <longitude>178.1166667</longitude>
+  </city>
+  <city name="Waiyevo Government Station">
+    <latitude>-16.8</latitude>
+    <longitude>-179.9833333</longitude>
+  </city>
+  <city name="Waiyevo">
+    <latitude>-16.8</latitude>
+    <longitude>-179.9833333</longitude>
+  </city>
+  <city name="Waiyevu">
+    <latitude>-16.8</latitude>
+    <longitude>-179.9833333</longitude>
+  </city>
+  <city name="Walu Bay">
+    <latitude>-18.1333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Wanosi">
+    <latitude>-17.85</latitude>
+    <longitude>177.7166667</longitude>
+  </city>
+  <city name="Warua">
+    <latitude>-18.1</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Wathiwathi">
+    <latitude>-18.25</latitude>
+    <longitude>-178.7833333</longitude>
+  </city>
+  <city name="Wavu">
+    <latitude>-16.6</latitude>
+    <longitude>179.5333333</longitude>
+  </city>
+  <city name="Wayalevu">
+    <latitude>-17.2666667</latitude>
+    <longitude>177.15</longitude>
+  </city>
+  <city name="Welangi">
+    <latitude>-16.7333333</latitude>
+    <longitude>-179.9333333</longitude>
+  </city>
+  <city name="Yadua">
+    <latitude>-18.0833333</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Yakani">
+    <latitude>-17.1333333</latitude>
+    <longitude>176.9333333</longitude>
+  </city>
+  <city name="Yakita">
+    <latitude>-19.0666667</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Yako">
+    <latitude>-17.8666667</latitude>
+    <longitude>177.3333333</longitude>
+  </city>
+  <city name="Yalava">
+    <latitude>-16.4166667</latitude>
+    <longitude>179.2166667</longitude>
+  </city>
+  <city name="Yale">
+    <latitude>-18.8333333</latitude>
+    <longitude>178.35</longitude>
+  </city>
+  <city name="Yaloku">
+    <latitude>-17.6666667</latitude>
+    <longitude>177.6333333</longitude>
+  </city>
+  <city name="Yalombi">
+    <latitude>-17.3</latitude>
+    <longitude>177.1166667</longitude>
+  </city>
+  <city name="Yambatha">
+    <latitude>-17.6666667</latitude>
+    <longitude>177.5333333</longitude>
+  </city>
+  <city name="Yandrana">
+    <latitude>-18.2</latitude>
+    <longitude>-178.7666667</longitude>
+  </city>
+  <city name="Yandro">
+    <latitude>-18.2</latitude>
+    <longitude>-178.7666667</longitude>
+  </city>
+  <city name="Yandua">
+    <latitude>-18.0833333</latitude>
+    <longitude>179.3666667</longitude>
+  </city>
+  <city name="Yangganga">
+    <latitude>-16.6</latitude>
+    <longitude>178.6</longitude>
+  </city>
+  <city name="Yanutha">
+    <latitude>-17.7666667</latitude>
+    <longitude>178.7833333</longitude>
+  </city>
+  <city name="Yanuya">
+    <latitude>-17.6</latitude>
+    <longitude>177.0666667</longitude>
+  </city>
+  <city name="Yarawa">
+    <latitude>-18.25</latitude>
+    <longitude>177.95</longitude>
+  </city>
+  <city name="Yaroi">
+    <latitude>-16.7666667</latitude>
+    <longitude>179.35</longitude>
+  </city>
+  <city name="Yarovundi">
+    <latitude>-17.6166667</latitude>
+    <longitude>178.7833333</longitude>
+  </city>
+  <city name="Yaro">
+    <latitude>-18.95</latitude>
+    <longitude>178.3833333</longitude>
+  </city>
+  <city name="Yasawairara">
+    <latitude>-16.7166667</latitude>
+    <longitude>177.5833333</longitude>
+  </city>
+  <city name="Yasawairo">
+    <latitude>-16.7166667</latitude>
+    <longitude>177.5833333</longitude>
+  </city>
+  <city name="Yasawa">
+    <latitude>-16.1666667</latitude>
+    <longitude>-179.9833333</longitude>
+  </city>
+  <city name="Yathalea">
+    <latitude>-19.0333333</latitude>
+    <longitude>178.4333333</longitude>
+  </city>
+  <city name="Yavitu">
+    <latitude>-19.0166667</latitude>
+    <longitude>178.3166667</longitude>
+  </city>
+  <city name="Yavulo">
+    <latitude>-18.15</latitude>
+    <longitude>177.5166667</longitude>
+  </city>
+  <city name="Yavuna">
+    <latitude>-17.8333333</latitude>
+    <longitude>177.5333333</longitude>
+  </city>
+  <city name="Yavusania">
+    <latitude>-17.8166667</latitude>
+    <longitude>177.4</longitude>
+  </city>
+  <city name="Yavu">
+    <latitude>-17.7833333</latitude>
+    <longitude>179.15</longitude>
+  </city>
+  <city name="Yawi">
+    <latitude>-19.0666667</latitude>
+    <longitude>178.05</longitude>
+  </city>
+  <city name="Ysava">
+    <latitude>-16.1666667</latitude>
+    <longitude>-179.9833333</longitude>
+  </city>
+</country>

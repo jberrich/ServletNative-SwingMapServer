@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="ag" name="Antigua et Barbuda">
+  <city name="Aberdeen">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Aberdeen Village">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="All Saints">
+    <latitude>17.05</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="All Saints Village">
+    <latitude>17.05</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Barnes Hill">
+    <latitude>17.15</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Barnes Hill Village">
+    <latitude>17.15</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Bats Cave">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Belmont">
+    <latitude>17.1</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Bendals">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Bendals Village">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Bethesda">
+    <latitude>17.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Bethesda Village">
+    <latitude>17.05</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Betty's Hope">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Big Duers">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Bishops">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Blakes">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Blubber Valley">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Bolands">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Boland Village">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Bolans">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Boon House">
+    <latitude>17.1666667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Branns Hamlet">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Buckleys">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Burkes">
+    <latitude>17.05</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Cades Bay">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Carlisle">
+    <latitude>17.1333333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Carlisle's Estate">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Cassada Gardens">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Cedar Grove">
+    <latitude>17.1666667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Cedar Grove Village">
+    <latitude>17.1666667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Cedar Hall">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Cedar Valley Mill">
+    <latitude>17.1333333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Christian Hill">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Clare Hall">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Claremont">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Clarence House">
+    <latitude>17.0</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Cobbs Cross">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Cochranes">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Cocoa Hall">
+    <latitude>17.1</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Coconut Hall">
+    <latitude>17.1</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Codrington">
+    <latitude>17.6333333</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Codrington Village">
+    <latitude>17.6333333</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Collins">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Comfort Hall">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Crab Hill">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Crab Hill Village">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Creekside">
+    <latitude>17.1</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Crosbies">
+    <latitude>17.1666667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Delaps">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Doigs">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Dulcina">
+    <latitude>17.5833333</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Ebenezer">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Emanuel">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="English Harbour Town">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Falmouth">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Far Hill Village">
+    <latitude>17.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Ffryes">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Fitches Creek">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Fitzroy Town">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Five Islands Village">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Freeman">
+    <latitude>17.05</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Freemans">
+    <latitude>17.05</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Freemanville">
+    <latitude>17.05</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Freemonville">
+    <latitude>17.05</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Freetown">
+    <latitude>17.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Freetown Village">
+    <latitude>17.05</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Frryes">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Gambles">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Gaynors">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Gilberts">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Glanvilles">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Glebe">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Golden Grove">
+    <latitude>17.1</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Grants">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Gray House">
+    <latitude>17.1</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Gray House Village">
+    <latitude>17.1</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Grays">
+    <latitude>17.1</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Grays Hill">
+    <latitude>17.1</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Green Bay">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Gunthorpes">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Hamiltons">
+    <latitude>17.05</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Hamiltons Village">
+    <latitude>17.05</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Harveys">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Herberts">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Jennings">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Jennings Village">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="John Hughes">
+    <latitude>17.05</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Johnson Point">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Johnson Point Village">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Johnsons Point">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8833333</longitude>
+  </city>
+  <city name="Lavingtons">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Liberta">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Liberta Village">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Little Duer">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Little Duers">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Long Lane">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Lower Lyons">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Lyon">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Lyons">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mathew">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Matthews">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Mayers">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Mercers Creek">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Mill Reef Club">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Montpelier">
+    <latitude>17.05</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Morris Loobys">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Mount William">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Mount Williem">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="New Division">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Newfield">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Newfield Village">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="New Winthorpes">
+    <latitude>17.15</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Old Road">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Old Road Town">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Old Road Village">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Orange Valley Mill">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Osbourn">
+    <latitude>17.1333333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Painter Village">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Pares">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Pares Village">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="Parham">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Parrys">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Pattersons Dwelling House">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Pattersons">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="Paynter">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Paynters">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Piggotts">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Pigots Village">
+    <latitude>17.1333333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Pigotts">
+    <latitude>17.1333333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Potters">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Potters Village">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Renfrew">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Rotten Town">
+    <latitude>17.0166667</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Saint John">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Saint John's">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.85</longitude>
+  </city>
+  <city name="Saint Johnstone Village">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Saint Johnston">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Saint Johnston Village">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Saint Lukes">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Saint Lukes Village">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Saint Mark's">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Saint Marks Village">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Saint Philips">
+    <latitude>17.05</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Sawcolts">
+    <latitude>17.05</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Seaforth">
+    <latitude>17.1</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Seaforths">
+    <latitude>17.1</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Seatons">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Seatons Village">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Sea View Farm">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Seton Village">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Sign">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Simpson">
+    <latitude>17.05</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="Spencers">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Sutherlands Development">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Sweets">
+    <latitude>17.05</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Sweets Village">
+    <latitude>17.05</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Swetes">
+    <latitude>17.05</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Swetes Village">
+    <latitude>17.05</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Table Hill Gordon">
+    <latitude>17.05</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="The Brook">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="The Caves">
+    <latitude>17.6833333</latitude>
+    <longitude>-61.7833333</longitude>
+  </city>
+  <city name="The Diamond">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.75</longitude>
+  </city>
+  <city name="The Garden">
+    <latitude>17.0666667</latitude>
+    <longitude>-61.7333333</longitude>
+  </city>
+  <city name="The Grove">
+    <latitude>17.1</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Tomlinson">
+    <latitude>17.1166667</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Urlings">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Urlins">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+  <city name="Vernons">
+    <latitude>17.1</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Watsons">
+    <latitude>17.05</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Watson">
+    <latitude>17.05</latitude>
+    <longitude>-61.6833333</longitude>
+  </city>
+  <city name="Weatherills">
+    <latitude>17.1666667</latitude>
+    <longitude>-61.8333333</longitude>
+  </city>
+  <city name="Wickhams">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Wickham">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Willikie's">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Willikies">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.7</longitude>
+  </city>
+  <city name="Willis Freemans">
+    <latitude>17.05</latitude>
+    <longitude>-61.7666667</longitude>
+  </city>
+  <city name="Willock Village">
+    <latitude>17.1666667</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Willoughby">
+    <latitude>17.0333333</latitude>
+    <longitude>-61.7166667</longitude>
+  </city>
+  <city name="Winthorpes Village">
+    <latitude>17.15</latitude>
+    <longitude>-61.8</longitude>
+  </city>
+  <city name="Woods">
+    <latitude>17.1333333</latitude>
+    <longitude>-61.8166667</longitude>
+  </city>
+  <city name="Yorks">
+    <latitude>17.0833333</latitude>
+    <longitude>-61.8666667</longitude>
+  </city>
+</country>

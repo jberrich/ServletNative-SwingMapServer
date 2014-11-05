@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="li" name="Liechtenstein">
+  <city name="Balzers">
+    <latitude>47.0666667</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Bendern">
+    <latitude>47.2166667</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Blanken">
+    <latitude>47.1833333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Ebaholz">
+    <latitude>47.15</latitude>
+    <longitude>9.5166667</longitude>
+  </city>
+  <city name="Ebenholz">
+    <latitude>47.15</latitude>
+    <longitude>9.5166667</longitude>
+  </city>
+  <city name="Eschen">
+    <latitude>47.2166667</latitude>
+    <longitude>9.5166667</longitude>
+  </city>
+  <city name="Gaflei">
+    <latitude>47.1333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Gambrin">
+    <latitude>47.2166667</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Gamprin-Bendern">
+    <latitude>47.2166667</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Gamprin">
+    <latitude>47.2166667</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Hinterer Schellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Hinterschellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Hinter-Schellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Mäls">
+    <latitude>47.05</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Masescha">
+    <latitude>47.1333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Mauern">
+    <latitude>47.2166667</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Mauren">
+    <latitude>47.2166667</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Mittlerer Schellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Mittlerschellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Mittler-Schellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Möliholz">
+    <latitude>47.15</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Mühleholz">
+    <latitude>47.15</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Nendeln">
+    <latitude>47.2</latitude>
+    <longitude>9.55</longitude>
+  </city>
+  <city name="Planken">
+    <latitude>47.1833333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Rotaboda">
+    <latitude>47.125</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Rotenboden">
+    <latitude>47.125</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Rugell">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5166667</longitude>
+  </city>
+  <city name="Ruggell">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5166667</longitude>
+  </city>
+  <city name="Schaan">
+    <latitude>47.1666667</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Schaanwald">
+    <latitude>47.2166667</latitude>
+    <longitude>9.5666667</longitude>
+  </city>
+  <city name="Schan">
+    <latitude>47.1666667</latitude>
+    <longitude>9.5</longitude>
+  </city>
+  <city name="Schellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Silum">
+    <latitude>47.1333333</latitude>
+    <longitude>9.55</longitude>
+  </city>
+  <city name="Sücka">
+    <latitude>47.1166667</latitude>
+    <longitude>9.5666667</longitude>
+  </city>
+  <city name="Triesenberg">
+    <latitude>47.1166667</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Triesen">
+    <latitude>47.1</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Vaduz">
+    <latitude>47.1333333</latitude>
+    <longitude>9.5166667</longitude>
+  </city>
+  <city name="Vorderer Schellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Vorderschellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Vorder-Schellenberg">
+    <latitude>47.2333333</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Wangerbärg">
+    <latitude>47.1</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+  <city name="Wangerberg">
+    <latitude>47.1</latitude>
+    <longitude>9.5333333</longitude>
+  </city>
+</country>

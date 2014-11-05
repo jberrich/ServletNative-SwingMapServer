@@ -1,0 +1,4403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="mr" name="Mauritanie">
+  <city name="Abari">
+    <latitude>16.3666667</latitude>
+    <longitude>-13.9833333</longitude>
+  </city>
+  <city name="Abaye">
+    <latitude>16.6166667</latitude>
+    <longitude>-14.25</longitude>
+  </city>
+  <city name="Abdallah Diori">
+    <latitude>16.2833333</latitude>
+    <longitude>-13.9</longitude>
+  </city>
+  <city name="Abdel Begrou">
+    <latitude>15.5666667</latitude>
+    <longitude>-7.1166667</longitude>
+  </city>
+  <city name="Adabaï">
+    <latitude>16.7166667</latitude>
+    <longitude>-14.9666667</longitude>
+  </city>
+  <city name="Adabaï Deïli">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.8333333</longitude>
+  </city>
+  <city name="Adabaï Doulel">
+    <latitude>16.2333333</latitude>
+    <longitude>-13.7</longitude>
+  </city>
+  <city name="Adabaï Idaouach">
+    <latitude>16.5833333</latitude>
+    <longitude>-12.8</longitude>
+  </city>
+  <city name="Adabaye">
+    <latitude>16.7166667</latitude>
+    <longitude>-14.9666667</longitude>
+  </city>
+  <city name="Adabaye Ideouache">
+    <latitude>16.5833333</latitude>
+    <longitude>-12.8</longitude>
+  </city>
+  <city name="'Adel Bagrou">
+    <latitude>15.5666667</latitude>
+    <longitude>-7.1166667</longitude>
+  </city>
+  <city name="Ador">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.95</longitude>
+  </city>
+  <city name="Aéré Golléré">
+    <latitude>16.4166667</latitude>
+    <longitude>-14.0166667</longitude>
+  </city>
+  <city name="Aéré Mbar">
+    <latitude>16.4166667</latitude>
+    <longitude>-14.0666667</longitude>
+  </city>
+  <city name="Afnia">
+    <latitude>16.6833333</latitude>
+    <longitude>-14.3166667</longitude>
+  </city>
+  <city name="Afraré">
+    <latitude>15.2166667</latitude>
+    <longitude>-10.95</longitude>
+  </city>
+  <city name="Agmâmîne">
+    <latitude>15.8666667</latitude>
+    <longitude>-11.55</longitude>
+  </city>
+  <city name="Agnétir">
+    <latitude>15.9666667</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="Agouanit">
+    <latitude>15.6333333</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="Agouanitt">
+    <latitude>15.6333333</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="Agouémit">
+    <latitude>15.5666667</latitude>
+    <longitude>-12.3333333</longitude>
+  </city>
+  <city name="Agouénit">
+    <latitude>16.7166667</latitude>
+    <longitude>-7.55</longitude>
+  </city>
+  <city name="Agreyate">
+    <latitude>15.6</latitude>
+    <longitude>-12.7833333</longitude>
+  </city>
+  <city name="Agueni">
+    <latitude>20.5166667</latitude>
+    <longitude>-13.1666667</longitude>
+  </city>
+  <city name="Aguenni">
+    <latitude>20.5166667</latitude>
+    <longitude>-13.1666667</longitude>
+  </city>
+  <city name="Aguini">
+    <latitude>16.8333333</latitude>
+    <longitude>-13.05</longitude>
+  </city>
+  <city name="Aguinni">
+    <latitude>16.8333333</latitude>
+    <longitude>-13.05</longitude>
+  </city>
+  <city name="Agwenit">
+    <latitude>16.7166667</latitude>
+    <longitude>-7.55</longitude>
+  </city>
+  <city name="Ahel Aïmar">
+    <latitude>15.65</latitude>
+    <longitude>-11.3</longitude>
+  </city>
+  <city name="Ahel Aoubak">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.3166667</longitude>
+  </city>
+  <city name="Ahel Cheïheb">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.4333333</longitude>
+  </city>
+  <city name="Ahel el Jeïlani">
+    <latitude>15.9833333</latitude>
+    <longitude>-11.75</longitude>
+  </city>
+  <city name="Aïdou">
+    <latitude>15.3166667</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Aïmé Msira">
+    <latitude>15.7333333</latitude>
+    <longitude>-9.3166667</longitude>
+  </city>
+  <city name="Aime Msirate">
+    <latitude>15.7333333</latitude>
+    <longitude>-9.3166667</longitude>
+  </city>
+  <city name="Aïmoré">
+    <latitude>16.55</latitude>
+    <longitude>-12.9166667</longitude>
+  </city>
+  <city name="'Aïn Ben Tili">
+    <latitude>25.9333333</latitude>
+    <longitude>-9.5833333</longitude>
+  </city>
+  <city name="Aïn Bentilli">
+    <latitude>25.9333333</latitude>
+    <longitude>-9.5833333</longitude>
+  </city>
+  <city name="Aïn Taiss">
+    <latitude>15.6333333</latitude>
+    <longitude>-11.1666667</longitude>
+  </city>
+  <city name="'Aïn Tass">
+    <latitude>15.6333333</latitude>
+    <longitude>-11.1666667</longitude>
+  </city>
+  <city name="Aïoun el Atrouss">
+    <latitude>16.6666667</latitude>
+    <longitude>-9.6166667</longitude>
+  </city>
+  <city name="Ajar Sarakolé">
+    <latitude>15.5166667</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Ajar Toucouleur">
+    <latitude>15.5166667</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Akaouini">
+    <latitude>15.7166667</latitude>
+    <longitude>-9.8333333</longitude>
+  </city>
+  <city name="Aka Wini">
+    <latitude>15.7166667</latitude>
+    <longitude>-9.8333333</longitude>
+  </city>
+  <city name="Akjoujt">
+    <latitude>19.75</latitude>
+    <longitude>-14.3833333</longitude>
+  </city>
+  <city name="Akjout">
+    <latitude>19.75</latitude>
+    <longitude>-14.3833333</longitude>
+  </city>
+  <city name="Akouaoui">
+    <latitude>15.5333333</latitude>
+    <longitude>-10.05</longitude>
+  </city>
+  <city name="Akouawi">
+    <latitude>15.5333333</latitude>
+    <longitude>-10.05</longitude>
+  </city>
+  <city name="Alaïna">
+    <latitude>15.4333333</latitude>
+    <longitude>-10.4666667</longitude>
+  </city>
+  <city name="Alanguidé">
+    <latitude>15.2</latitude>
+    <longitude>-10.9166667</longitude>
+  </city>
+  <city name="Aleg">
+    <latitude>17.05</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="'Aleïb">
+    <latitude>16.9333333</latitude>
+    <longitude>-12.6833333</longitude>
+  </city>
+  <city name="'Ali Baïdi">
+    <latitude>16.2333333</latitude>
+    <longitude>-13.8333333</longitude>
+  </city>
+  <city name="Amadi Fakourou">
+    <latitude>16.0666667</latitude>
+    <longitude>-12.9166667</longitude>
+  </city>
+  <city name="Amadou Moussa">
+    <latitude>16.1666667</latitude>
+    <longitude>-13.35</longitude>
+  </city>
+  <city name="Amagué Bédia">
+    <latitude>15.25</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="Amaké">
+    <latitude>15.45</latitude>
+    <longitude>-9.7666667</longitude>
+  </city>
+  <city name="Amchola">
+    <latitude>15.9833333</latitude>
+    <longitude>-12.0333333</longitude>
+  </city>
+  <city name="Amchotone">
+    <latitude>15.9333333</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="Amerj Arr">
+    <latitude>16.1166667</latitude>
+    <longitude>-7.2666667</longitude>
+  </city>
+  <city name="Amriyé">
+    <latitude>15.95</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Ando Réo">
+    <latitude>16.6333333</latitude>
+    <longitude>-14.6333333</longitude>
+  </city>
+  <city name="Aniétir">
+    <latitude>15.9666667</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="Aouinat">
+    <latitude>16.15</latitude>
+    <longitude>-13.4</longitude>
+  </city>
+  <city name="'Aouînât">
+    <latitude>15.4</latitude>
+    <longitude>-11.8166667</longitude>
+  </city>
+  <city name="'Aouînet Némadi">
+    <latitude>15.5166667</latitude>
+    <longitude>-8.15</longitude>
+  </city>
+  <city name="Aoujeft">
+    <latitude>20.0333333</latitude>
+    <longitude>-13.05</longitude>
+  </city>
+  <city name="Aouré Baoudé">
+    <latitude>15.4833333</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Archâne">
+    <latitude>15.45</latitude>
+    <longitude>-12.5166667</longitude>
+  </city>
+  <city name="Aré Koka">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Aroueïji">
+    <latitude>16.0166667</latitude>
+    <longitude>-12.0333333</longitude>
+  </city>
+  <city name="Arsane">
+    <latitude>15.4166667</latitude>
+    <longitude>-12.3166667</longitude>
+  </city>
+  <city name="Arsane Maure">
+    <latitude>15.4166667</latitude>
+    <longitude>-12.3833333</longitude>
+  </city>
+  <city name="Artémou">
+    <latitude>15.5166667</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Atâr">
+    <latitude>20.5166667</latitude>
+    <longitude>-13.05</longitude>
+  </city>
+  <city name="Atem">
+    <latitude>16.3333333</latitude>
+    <longitude>-13.7166667</longitude>
+  </city>
+  <city name="Atîla">
+    <latitude>15.85</latitude>
+    <longitude>-11.1333333</longitude>
+  </city>
+  <city name="Atta'îne">
+    <latitude>16.0833333</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Attêïn">
+    <latitude>16.0833333</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Avoïnat">
+    <latitude>16.15</latitude>
+    <longitude>-13.4</longitude>
+  </city>
+  <city name="Awïnatt">
+    <latitude>15.4</latitude>
+    <longitude>-11.8166667</longitude>
+  </city>
+  <city name="Awinet Némadi">
+    <latitude>15.5166667</latitude>
+    <longitude>-8.15</longitude>
+  </city>
+  <city name="'Ayoûn el 'Atroûs">
+    <latitude>16.6666667</latitude>
+    <longitude>-9.6166667</longitude>
+  </city>
+  <city name="Bababé">
+    <latitude>16.3333333</latitude>
+    <longitude>-13.95</longitude>
+  </city>
+  <city name="Bacikounou">
+    <latitude>15.8666667</latitude>
+    <longitude>-5.95</longitude>
+  </city>
+  <city name="Badaa">
+    <latitude>16.5333333</latitude>
+    <longitude>-13.0666667</longitude>
+  </city>
+  <city name="Badinké">
+    <latitude>15.3333333</latitude>
+    <longitude>-12.9</longitude>
+  </city>
+  <city name="Baédiam">
+    <latitude>15.05</latitude>
+    <longitude>-11.85</longitude>
+  </city>
+  <city name="Baédiamé">
+    <latitude>15.05</latitude>
+    <longitude>-11.85</longitude>
+  </city>
+  <city name="Bagoudine">
+    <latitude>16.25</latitude>
+    <longitude>-13.7166667</longitude>
+  </city>
+  <city name="Bahara">
+    <latitude>16.5666667</latitude>
+    <longitude>-12.9666667</longitude>
+  </city>
+  <city name="Bandiougou">
+    <latitude>15.2166667</latitude>
+    <longitude>-11.9166667</longitude>
+  </city>
+  <city name="Bango">
+    <latitude>15.75</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Bara">
+    <latitude>15.95</latitude>
+    <longitude>-11.5166667</longitude>
+  </city>
+  <city name="Baraïni">
+    <latitude>15.6166667</latitude>
+    <longitude>-9.55</longitude>
+  </city>
+  <city name="Barbarak">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.8166667</longitude>
+  </city>
+  <city name="Bargatanni">
+    <latitude>16.8166667</latitude>
+    <longitude>-10.75</longitude>
+  </city>
+  <city name="Bargou">
+    <latitude>15.1333333</latitude>
+    <longitude>-11.8666667</longitude>
+  </city>
+  <city name="Barkéol">
+    <latitude>16.65</latitude>
+    <longitude>-12.5</longitude>
+  </city>
+  <city name="Barkéol el Akhdar">
+    <latitude>16.6</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Barkéol El Arhdar">
+    <latitude>16.6</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Barkéouol">
+    <latitude>16.65</latitude>
+    <longitude>-13.0333333</longitude>
+  </city>
+  <city name="Barogal">
+    <latitude>16.1166667</latitude>
+    <longitude>-13.5</longitude>
+  </city>
+  <city name="Bassikounou">
+    <latitude>15.8666667</latitude>
+    <longitude>-5.95</longitude>
+  </city>
+  <city name="Bassi Nguidi">
+    <latitude>16.6666667</latitude>
+    <longitude>-13.1333333</longitude>
+  </city>
+  <city name="Baté Layé">
+    <latitude>16.5</latitude>
+    <longitude>-13.8833333</longitude>
+  </city>
+  <city name="Beïla">
+    <latitude>18.1772222</latitude>
+    <longitude>-15.8755556</longitude>
+  </city>
+  <city name="Beïlogué Yéro">
+    <latitude>15.7333333</latitude>
+    <longitude>-12.7666667</longitude>
+  </city>
+  <city name="Beïlougué Bolol">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.7666667</longitude>
+  </city>
+  <city name="Beïlougué Démoundé">
+    <latitude>15.6666667</latitude>
+    <longitude>-12.6833333</longitude>
+  </city>
+  <city name="Beïlougué Litama">
+    <latitude>15.6833333</latitude>
+    <longitude>-12.75</longitude>
+  </city>
+  <city name="Beïlougué Yéro">
+    <latitude>15.7333333</latitude>
+    <longitude>-12.7666667</longitude>
+  </city>
+  <city name="Bélane">
+    <latitude>16.6166667</latitude>
+    <longitude>-14.6</longitude>
+  </city>
+  <city name="Bélédendi">
+    <latitude>15.45</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Bélel Abdi">
+    <latitude>16.2333333</latitude>
+    <longitude>-13.7833333</longitude>
+  </city>
+  <city name="Bélel Gaodi">
+    <latitude>16.35</latitude>
+    <longitude>-13.7</longitude>
+  </city>
+  <city name="Belnabé">
+    <latitude>16.15</latitude>
+    <longitude>-13.55</longitude>
+  </city>
+  <city name="Benibafat">
+    <latitude>16.4833333</latitude>
+    <longitude>-7.5166667</longitude>
+  </city>
+  <city name="Bérélé">
+    <latitude>15.3</latitude>
+    <longitude>-11.9833333</longitude>
+  </city>
+  <city name="Bergatanni">
+    <latitude>16.8166667</latitude>
+    <longitude>-10.75</longitude>
+  </city>
+  <city name="Betselba">
+    <latitude>14.9</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Bezeïr">
+    <latitude>15.5</latitude>
+    <longitude>-10.1</longitude>
+  </city>
+  <city name="Bidiské">
+    <latitude>15.6</latitude>
+    <longitude>-12.55</longitude>
+  </city>
+  <city name="Binndiamou">
+    <latitude>15.15</latitude>
+    <longitude>-10.9</longitude>
+  </city>
+  <city name="Bir el Moghreïn">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Moghreim">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Moghrein">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Moghreïne">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Moghrin">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bîr Mogreïn">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Morhrein">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Oum el Grein">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Oum Grein">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Oum Greïne">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Bir Umm Grain">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Blajemile">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.1833333</longitude>
+  </city>
+  <city name="Blajmil">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.1833333</longitude>
+  </city>
+  <city name="Blemhar">
+    <latitude>16.1666667</latitude>
+    <longitude>-8.3666667</longitude>
+  </city>
+  <city name="Bodiédié">
+    <latitude>16.4</latitude>
+    <longitude>-13.7833333</longitude>
+  </city>
+  <city name="Boediam">
+    <latitude>15.05</latitude>
+    <longitude>-11.85</longitude>
+  </city>
+  <city name="Bofal">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.8</longitude>
+  </city>
+  <city name="Boghé">
+    <latitude>16.5833333</latitude>
+    <longitude>-14.2666667</longitude>
+  </city>
+  <city name="Bogué">
+    <latitude>16.5833333</latitude>
+    <longitude>-14.2666667</longitude>
+  </city>
+  <city name="Bogué Dow">
+    <latitude>16.6</latitude>
+    <longitude>-14.2666667</longitude>
+  </city>
+  <city name="Boguel Fadoua">
+    <latitude>15.4166667</latitude>
+    <longitude>-12.8833333</longitude>
+  </city>
+  <city name="Boitiek Elali">
+    <latitude>15.7</latitude>
+    <longitude>-12.5333333</longitude>
+  </city>
+  <city name="Boitiek Eliémane">
+    <latitude>15.7333333</latitude>
+    <longitude>-12.55</longitude>
+  </city>
+  <city name="Bokédianbi">
+    <latitude>14.8333333</latitude>
+    <longitude>-11.8833333</longitude>
+  </city>
+  <city name="Boki Hamet">
+    <latitude>15.2666667</latitude>
+    <longitude>-12.8</longitude>
+  </city>
+  <city name="Bokol">
+    <latitude>16.0833333</latitude>
+    <longitude>-12.1666667</longitude>
+  </city>
+  <city name="Bolol Doggo">
+    <latitude>16.4833333</latitude>
+    <longitude>-14.1333333</longitude>
+  </city>
+  <city name="Bolol Dogo">
+    <latitude>16.4833333</latitude>
+    <longitude>-14.1333333</longitude>
+  </city>
+  <city name="Bondi">
+    <latitude>15.4333333</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Bondiéri">
+    <latitude>16.6666667</latitude>
+    <longitude>-14.2833333</longitude>
+  </city>
+  <city name="Borélé">
+    <latitude>15.4333333</latitude>
+    <longitude>-9.5333333</longitude>
+  </city>
+  <city name="Borié">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.1166667</longitude>
+  </city>
+  <city name="Botoula Taring">
+    <latitude>16.0</latitude>
+    <longitude>-12.4666667</longitude>
+  </city>
+  <city name="Boû Amama">
+    <latitude>15.8666667</latitude>
+    <longitude>-12.0833333</longitude>
+  </city>
+  <city name="Bou Amana">
+    <latitude>15.8666667</latitude>
+    <longitude>-12.0833333</longitude>
+  </city>
+  <city name="Bouanzé">
+    <latitude>15.8166667</latitude>
+    <longitude>-12.2333333</longitude>
+  </city>
+  <city name="Bouara">
+    <latitude>16.6</latitude>
+    <longitude>-13.0333333</longitude>
+  </city>
+  <city name="Bou Aslété">
+    <latitude>15.8166667</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Boû Bakar">
+    <latitude>15.7833333</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Boubou Aoudi">
+    <latitude>16.3</latitude>
+    <longitude>-13.7166667</longitude>
+  </city>
+  <city name="Boubou Karli">
+    <latitude>16.65</latitude>
+    <longitude>-14.35</longitude>
+  </city>
+  <city name="Bouda">
+    <latitude>15.9</latitude>
+    <longitude>-11.6333333</longitude>
+  </city>
+  <city name="Boudama Peul">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.4166667</longitude>
+  </city>
+  <city name="Boudiébaya">
+    <latitude>15.5833333</latitude>
+    <longitude>-11.7</longitude>
+  </city>
+  <city name="Bouélé">
+    <latitude>15.2333333</latitude>
+    <longitude>-11.9833333</longitude>
+  </city>
+  <city name="Bouérik">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.35</longitude>
+  </city>
+  <city name="Boufal">
+    <latitude>16.8833333</latitude>
+    <longitude>-13.3166667</longitude>
+  </city>
+  <city name="Boû Gâdoûm">
+    <latitude>15.8833333</latitude>
+    <longitude>-7.3666667</longitude>
+  </city>
+  <city name="Boû Gamoul">
+    <latitude>16.55</latitude>
+    <longitude>-12.9833333</longitude>
+  </city>
+  <city name="Bougoudré">
+    <latitude>15.4333333</latitude>
+    <longitude>-10.05</longitude>
+  </city>
+  <city name="Bouguérha">
+    <latitude>15.3833333</latitude>
+    <longitude>-15.5</longitude>
+  </city>
+  <city name="Boukéréya">
+    <latitude>15.6</latitude>
+    <longitude>-10.8</longitude>
+  </city>
+  <city name="Boulanouar">
+    <latitude>21.2666667</latitude>
+    <longitude>-16.5</longitude>
+  </city>
+  <city name="Boû Lanouâr">
+    <latitude>21.2666667</latitude>
+    <longitude>-16.5</longitude>
+  </city>
+  <city name="Bouli Borbo">
+    <latitude>15.3333333</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Bouly">
+    <latitude>15.3166667</latitude>
+    <longitude>-11.8</longitude>
+  </city>
+  <city name="Boumdeït">
+    <latitude>17.4333333</latitude>
+    <longitude>-11.35</longitude>
+  </city>
+  <city name="Bounoir">
+    <latitude>15.65</latitude>
+    <longitude>-10.0</longitude>
+  </city>
+  <city name="Bounouar">
+    <latitude>15.65</latitude>
+    <longitude>-10.0</longitude>
+  </city>
+  <city name="Bounououara">
+    <latitude>15.6333333</latitude>
+    <longitude>-10.0</longitude>
+  </city>
+  <city name="Bounouwara">
+    <latitude>15.6333333</latitude>
+    <longitude>-10.0</longitude>
+  </city>
+  <city name="Bourélé">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Bouroudji">
+    <latitude>15.0166667</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Bourougoudoun">
+    <latitude>15.6</latitude>
+    <longitude>-10.15</longitude>
+  </city>
+  <city name="Bousseï Adé">
+    <latitude>15.6166667</latitude>
+    <longitude>-10.0</longitude>
+  </city>
+  <city name="Boû Steïlé">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.0833333</longitude>
+  </city>
+  <city name="Boutanda">
+    <latitude>14.95</latitude>
+    <longitude>-12.35</longitude>
+  </city>
+  <city name="Boutel Ahir">
+    <latitude>15.9833333</latitude>
+    <longitude>-9.8166667</longitude>
+  </city>
+  <city name="Boû Tézékreï">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.0166667</longitude>
+  </city>
+  <city name="Boutézékrèy">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.0166667</longitude>
+  </city>
+  <city name="Boutilimit">
+    <latitude>17.55</latitude>
+    <longitude>-14.7</longitude>
+  </city>
+  <city name="Boutillmit">
+    <latitude>17.55</latitude>
+    <longitude>-14.7</longitude>
+  </city>
+  <city name="Bouyal Bokar">
+    <latitude>16.25</latitude>
+    <longitude>-12.35</longitude>
+  </city>
+  <city name="Boû Zraïbié">
+    <latitude>16.85</latitude>
+    <longitude>-12.8166667</longitude>
+  </city>
+  <city name="Boyo">
+    <latitude>16.1166667</latitude>
+    <longitude>-16.5</longitude>
+  </city>
+  <city name="Braïdid">
+    <latitude>15.75</latitude>
+    <longitude>-7.85</longitude>
+  </city>
+  <city name="Braydid">
+    <latitude>15.75</latitude>
+    <longitude>-7.85</longitude>
+  </city>
+  <city name="Brenn">
+    <latitude>16.5</latitude>
+    <longitude>-15.9333333</longitude>
+  </city>
+  <city name="Breune">
+    <latitude>16.5</latitude>
+    <longitude>-15.9333333</longitude>
+  </city>
+  <city name="Cansado">
+    <latitude>20.85</latitude>
+    <longitude>-17.0333333</longitude>
+  </city>
+  <city name="Casba des Aït Maouin">
+    <latitude>19.65</latitude>
+    <longitude>-12.3166667</longitude>
+  </city>
+  <city name="Casbah des Aït Maouine">
+    <latitude>19.65</latitude>
+    <longitude>-12.3166667</longitude>
+  </city>
+  <city name="Chbariat">
+    <latitude>16.8333333</latitude>
+    <longitude>-14.9166667</longitude>
+  </city>
+  <city name="Chèbar">
+    <latitude>15.85</latitude>
+    <longitude>-7.2166667</longitude>
+  </city>
+  <city name="Chegga">
+    <latitude>25.3833333</latitude>
+    <longitude>-5.7833333</longitude>
+  </city>
+  <city name="Cheïka Louaré">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.2166667</longitude>
+  </city>
+  <city name="Chelka Ould Bannahi">
+    <latitude>15.9666667</latitude>
+    <longitude>-11.3</longitude>
+  </city>
+  <city name="Chelkhat Rhiarhoum">
+    <latitude>16.1833333</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Chelrhat Rhiarhoum">
+    <latitude>16.1833333</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Chig el Outeïdat">
+    <latitude>15.9833333</latitude>
+    <longitude>-11.35</longitude>
+  </city>
+  <city name="Chig Louteïdatt">
+    <latitude>15.9833333</latitude>
+    <longitude>-11.35</longitude>
+  </city>
+  <city name="Chinguetti">
+    <latitude>20.45</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Chkata">
+    <latitude>15.2833333</latitude>
+    <longitude>-11.0166667</longitude>
+  </city>
+  <city name="Chorfa">
+    <latitude>15.85</latitude>
+    <longitude>-12.3833333</longitude>
+  </city>
+  <city name="Choûm">
+    <latitude>21.3</latitude>
+    <longitude>-12.9833333</longitude>
+  </city>
+  <city name="Civé">
+    <latitude>15.7</latitude>
+    <longitude>-13.2</longitude>
+  </city>
+  <city name="Coppolani">
+    <latitude>18.3180556</latitude>
+    <longitude>-16.0386111</longitude>
+  </city>
+  <city name="Coumba Ndao">
+    <latitude>15.0</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Coumta N'Dao">
+    <latitude>15.0</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Crampel">
+    <latitude>24.4333333</latitude>
+    <longitude>-8.8</longitude>
+  </city>
+  <city name="Dabaï 'Aïn Memounia">
+    <latitude>15.65</latitude>
+    <longitude>-9.3</longitude>
+  </city>
+  <city name="Dabaï Amamédé">
+    <latitude>15.6333333</latitude>
+    <longitude>-9.3</longitude>
+  </city>
+  <city name="Dabaï Amidi">
+    <latitude>15.5833333</latitude>
+    <longitude>-9.2833333</longitude>
+  </city>
+  <city name="Dabaï Baï">
+    <latitude>15.45</latitude>
+    <longitude>-9.4166667</longitude>
+  </city>
+  <city name="Dabaï Dalouach">
+    <latitude>15.3666667</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Dabaï Dalwach">
+    <latitude>15.3666667</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Dabaï el Barké">
+    <latitude>15.5833333</latitude>
+    <longitude>-7.1</longitude>
+  </city>
+  <city name="Dabaï el Izradite">
+    <latitude>15.5166667</latitude>
+    <longitude>-9.3166667</longitude>
+  </city>
+  <city name="Dabaï el Média">
+    <latitude>15.55</latitude>
+    <longitude>-9.2833333</longitude>
+  </city>
+  <city name="Dabaï el Talb Moussé">
+    <latitude>15.5333333</latitude>
+    <longitude>-9.3</longitude>
+  </city>
+  <city name="Dabaï Jidou">
+    <latitude>15.6166667</latitude>
+    <longitude>-9.3</longitude>
+  </city>
+  <city name="Dabaï Jidou Oul Chett">
+    <latitude>15.5833333</latitude>
+    <longitude>-9.3</longitude>
+  </city>
+  <city name="Dabaï Keïli">
+    <latitude>15.6</latitude>
+    <longitude>-9.3166667</longitude>
+  </city>
+  <city name="Dabaï Laïssad">
+    <latitude>15.4833333</latitude>
+    <longitude>-9.5833333</longitude>
+  </city>
+  <city name="Dabaïli Souéli">
+    <latitude>15.8</latitude>
+    <longitude>-12.1333333</longitude>
+  </city>
+  <city name="Dabaï Magui">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.3833333</longitude>
+  </city>
+  <city name="Dabaï Mbaré">
+    <latitude>15.5833333</latitude>
+    <longitude>-9.2833333</longitude>
+  </city>
+  <city name="Dabaï Moussé">
+    <latitude>15.5166667</latitude>
+    <longitude>-9.4666667</longitude>
+  </city>
+  <city name="Dabaï Moutraoga">
+    <latitude>15.5666667</latitude>
+    <longitude>-9.2333333</longitude>
+  </city>
+  <city name="Dabaï Saliou">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.2166667</longitude>
+  </city>
+  <city name="Dabaï Sambayel Oré">
+    <latitude>15.6</latitude>
+    <longitude>-9.3166667</longitude>
+  </city>
+  <city name="Dabai Sanbayel Ore">
+    <latitude>15.6</latitude>
+    <longitude>-9.3166667</longitude>
+  </city>
+  <city name="Dabaï Sonkarou">
+    <latitude>15.5</latitude>
+    <longitude>-9.45</longitude>
+  </city>
+  <city name="Dabal Magui">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.3833333</longitude>
+  </city>
+  <city name="Dabé">
+    <latitude>16.15</latitude>
+    <longitude>-13.8</longitude>
+  </city>
+  <city name="Dafort">
+    <latitude>15.6666667</latitude>
+    <longitude>-12.15</longitude>
+  </city>
+  <city name="Dahakélé">
+    <latitude>15.4166667</latitude>
+    <longitude>-11.0</longitude>
+  </city>
+  <city name="Dahalagué">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.0333333</longitude>
+  </city>
+  <city name="Danguérémou">
+    <latitude>15.2833333</latitude>
+    <longitude>-12.1666667</longitude>
+  </city>
+  <city name="Danguidébé">
+    <latitude>15.2333333</latitude>
+    <longitude>-11.8833333</longitude>
+  </city>
+  <city name="Dao">
+    <latitude>15.5333333</latitude>
+    <longitude>-13.0166667</longitude>
+  </city>
+  <city name="Daoua">
+    <latitude>16.1666667</latitude>
+    <longitude>-13.7333333</longitude>
+  </city>
+  <city name="Dara">
+    <latitude>16.6</latitude>
+    <longitude>-16.15</longitude>
+  </city>
+  <city name="Dar Cheikh Abdalaye">
+    <latitude>16.7166667</latitude>
+    <longitude>-14.5</longitude>
+  </city>
+  <city name="Dar Cheïkh Abdallaï">
+    <latitude>16.7166667</latitude>
+    <longitude>-14.5</longitude>
+  </city>
+  <city name="Dar-Cheikh-Abdallaye">
+    <latitude>16.75</latitude>
+    <longitude>-14.8666667</longitude>
+  </city>
+  <city name="Dar el Barka">
+    <latitude>16.6833333</latitude>
+    <longitude>-14.7</longitude>
+  </city>
+  <city name="Debay El Barké">
+    <latitude>15.5833333</latitude>
+    <longitude>-7.1</longitude>
+  </city>
+  <city name="Débé Sorfa">
+    <latitude>15.2</latitude>
+    <longitude>-11.9166667</longitude>
+  </city>
+  <city name="Débous">
+    <latitude>15.85</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Débouss">
+    <latitude>15.85</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Déguismoli">
+    <latitude>16.6166667</latitude>
+    <longitude>-13.0666667</longitude>
+  </city>
+  <city name="Demba Lembéré">
+    <latitude>15.35</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Demba Sambel">
+    <latitude>16.0333333</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="Dénéal Samba Ombo">
+    <latitude>15.3666667</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Dérik Guirfafé">
+    <latitude>15.5166667</latitude>
+    <longitude>-11.3</longitude>
+  </city>
+  <city name="Dérik Kélilaé">
+    <latitude>15.5166667</latitude>
+    <longitude>-11.3166667</longitude>
+  </city>
+  <city name="Dernié">
+    <latitude>15.5166667</latitude>
+    <longitude>-11.15</longitude>
+  </city>
+  <city name="Désili">
+    <latitude>15.35</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Diabaye">
+    <latitude>16.7166667</latitude>
+    <longitude>-14.9666667</longitude>
+  </city>
+  <city name="Diadé">
+    <latitude>16.2333333</latitude>
+    <longitude>-7.4166667</longitude>
+  </city>
+  <city name="Diafane">
+    <latitude>16.15</latitude>
+    <longitude>-13.6166667</longitude>
+  </city>
+  <city name="Diaguili">
+    <latitude>14.85</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Diahoulel">
+    <latitude>16.7166667</latitude>
+    <longitude>-15.0833333</longitude>
+  </city>
+  <city name="Diala">
+    <latitude>15.25</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Diam Diam">
+    <latitude>15.0166667</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Diamel Vidim">
+    <latitude>16.2666667</latitude>
+    <longitude>-13.95</longitude>
+  </city>
+  <city name="Diamer">
+    <latitude>16.5166667</latitude>
+    <longitude>-16.2833333</longitude>
+  </city>
+  <city name="Diandiourou">
+    <latitude>15.9833333</latitude>
+    <longitude>-11.8333333</longitude>
+  </city>
+  <city name="Dianguina">
+    <latitude>15.3166667</latitude>
+    <longitude>-10.95</longitude>
+  </city>
+  <city name="Diaouara">
+    <latitude>16.7</latitude>
+    <longitude>-15.05</longitude>
+  </city>
+  <city name="Diaoubé">
+    <latitude>15.6166667</latitude>
+    <longitude>-12.4666667</longitude>
+  </city>
+  <city name="Diawara">
+    <latitude>16.7</latitude>
+    <longitude>-15.05</longitude>
+  </city>
+  <city name="Dida Rhoulé">
+    <latitude>15.5166667</latitude>
+    <longitude>-8.0833333</longitude>
+  </city>
+  <city name="Diéba">
+    <latitude>15.6666667</latitude>
+    <longitude>-12.55</longitude>
+  </city>
+  <city name="Diemar">
+    <latitude>16.2833333</latitude>
+    <longitude>-16.4666667</longitude>
+  </city>
+  <city name="Dieuk">
+    <latitude>16.5166667</latitude>
+    <longitude>-15.9</longitude>
+  </city>
+  <city name="Dimja">
+    <latitude>16.0333333</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Dimje">
+    <latitude>16.0</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Dindi">
+    <latitude>15.9333333</latitude>
+    <longitude>-13.3333333</longitude>
+  </city>
+  <city name="Dineker">
+    <latitude>15.5166667</latitude>
+    <longitude>-12.6</longitude>
+  </city>
+  <city name="Diogountourou">
+    <latitude>14.7666667</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Diogoutourou">
+    <latitude>14.7666667</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Dioldi">
+    <latitude>16.5833333</latitude>
+    <longitude>-15.1166667</longitude>
+  </city>
+  <city name="Dioroum">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Dios">
+    <latitude>16.1</latitude>
+    <longitude>-16.4666667</longitude>
+  </city>
+  <city name="Dioubali">
+    <latitude>15.7333333</latitude>
+    <longitude>-12.0166667</longitude>
+  </city>
+  <city name="Dioudi">
+    <latitude>16.35</latitude>
+    <longitude>-13.9666667</longitude>
+  </city>
+  <city name="Diouker">
+    <latitude>15.4833333</latitude>
+    <longitude>-9.7833333</longitude>
+  </city>
+  <city name="Dioulon">
+    <latitude>16.6666667</latitude>
+    <longitude>-14.3666667</longitude>
+  </city>
+  <city name="Diou Ould Snéléoum">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Diovol">
+    <latitude>16.0666667</latitude>
+    <longitude>-13.3833333</longitude>
+  </city>
+  <city name="Djadjebina">
+    <latitude>15.75</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Djadjibine">
+    <latitude>15.75</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Djajbine Chorfa">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.5</longitude>
+  </city>
+  <city name="Djajibine Chorfa">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.5</longitude>
+  </city>
+  <city name="Djajibine">
+    <latitude>15.75</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Djebaba Galadio">
+    <latitude>15.5833333</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Djebaba Level">
+    <latitude>15.5833333</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Djeol">
+    <latitude>16.0666667</latitude>
+    <longitude>-13.3833333</longitude>
+  </city>
+  <city name="Djereida">
+    <latitude>18.3180556</latitude>
+    <longitude>-16.0386111</longitude>
+  </city>
+  <city name="Djib">
+    <latitude>16.5666667</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Djigéni">
+    <latitude>15.7333333</latitude>
+    <longitude>-8.6666667</longitude>
+  </city>
+  <city name="Djiguéni">
+    <latitude>15.7333333</latitude>
+    <longitude>-8.6666667</longitude>
+  </city>
+  <city name="Djilalfa">
+    <latitude>15.5833333</latitude>
+    <longitude>-12.75</longitude>
+  </city>
+  <city name="Djllalfa">
+    <latitude>15.5833333</latitude>
+    <longitude>-12.75</longitude>
+  </city>
+  <city name="Djovol">
+    <latitude>16.0666667</latitude>
+    <longitude>-13.3833333</longitude>
+  </city>
+  <city name="Dolol Civré">
+    <latitude>15.5666667</latitude>
+    <longitude>-13.0666667</longitude>
+  </city>
+  <city name="Dolol">
+    <latitude>15.5666667</latitude>
+    <longitude>-13.0666667</longitude>
+  </city>
+  <city name="Dolol Sivré">
+    <latitude>15.5666667</latitude>
+    <longitude>-13.0666667</longitude>
+  </city>
+  <city name="Dolol Soubala">
+    <latitude>15.5666667</latitude>
+    <longitude>-13.0666667</longitude>
+  </city>
+  <city name="Douamkara">
+    <latitude>15.5166667</latitude>
+    <longitude>-5.5</longitude>
+  </city>
+  <city name="Douboungué">
+    <latitude>16.65</latitude>
+    <longitude>-14.2833333</longitude>
+  </city>
+  <city name="Dougoulgui">
+    <latitude>15.9333333</latitude>
+    <longitude>-11.8166667</longitude>
+  </city>
+  <city name="Douibel Batha">
+    <latitude>16.0333333</latitude>
+    <longitude>-12.6</longitude>
+  </city>
+  <city name="Doulel">
+    <latitude>15.35</latitude>
+    <longitude>-12.6833333</longitude>
+  </city>
+  <city name="Dououara">
+    <latitude>16.9166667</latitude>
+    <longitude>-14.9666667</longitude>
+  </city>
+  <city name="Dyamawali">
+    <latitude>15.5333333</latitude>
+    <longitude>-8.95</longitude>
+  </city>
+  <city name="Dyamwéli">
+    <latitude>15.5333333</latitude>
+    <longitude>-8.95</longitude>
+  </city>
+  <city name="Dyovol">
+    <latitude>16.0666667</latitude>
+    <longitude>-13.3833333</longitude>
+  </city>
+  <city name="Echkata">
+    <latitude>15.9166667</latitude>
+    <longitude>-12.3166667</longitude>
+  </city>
+  <city name="Egémanbénou">
+    <latitude>15.85</latitude>
+    <longitude>-8.6666667</longitude>
+  </city>
+  <city name="Eguémanbénou">
+    <latitude>15.85</latitude>
+    <longitude>-8.6666667</longitude>
+  </city>
+  <city name="El Abdé">
+    <latitude>16.8</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="El Aïoun">
+    <latitude>15.55</latitude>
+    <longitude>-11.1833333</longitude>
+  </city>
+  <city name="Elali Ajar">
+    <latitude>15.4833333</latitude>
+    <longitude>-12.5166667</longitude>
+  </city>
+  <city name="Elali Niaroual">
+    <latitude>15.5</latitude>
+    <longitude>-12.5</longitude>
+  </city>
+  <city name="Elali Nioroual">
+    <latitude>15.5</latitude>
+    <longitude>-12.5</longitude>
+  </city>
+  <city name="Ela Mouinessé">
+    <latitude>15.5</latitude>
+    <longitude>-11.2666667</longitude>
+  </city>
+  <city name="El 'Aoueïnât">
+    <latitude>15.75</latitude>
+    <longitude>-11.65</longitude>
+  </city>
+  <city name="El Arch">
+    <latitude>15.6</latitude>
+    <longitude>-7.15</longitude>
+  </city>
+  <city name="El Atchane">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.2833333</longitude>
+  </city>
+  <city name="El Awaïnatt">
+    <latitude>15.75</latitude>
+    <longitude>-11.65</longitude>
+  </city>
+  <city name="El 'Ayoûn">
+    <latitude>15.55</latitude>
+    <longitude>-11.1833333</longitude>
+  </city>
+  <city name="El Baghoui">
+    <latitude>15.9666667</latitude>
+    <longitude>-11.0333333</longitude>
+  </city>
+  <city name="El Bir">
+    <latitude>16.2</latitude>
+    <longitude>-13.0666667</longitude>
+  </city>
+  <city name="El Boulaïr">
+    <latitude>15.25</latitude>
+    <longitude>-12.1</longitude>
+  </city>
+  <city name="El Boussaï">
+    <latitude>15.5666667</latitude>
+    <longitude>-9.5</longitude>
+  </city>
+  <city name="El Douti">
+    <latitude>15.6</latitude>
+    <longitude>-7.9833333</longitude>
+  </city>
+  <city name="Êleib">
+    <latitude>16.9333333</latitude>
+    <longitude>-12.6833333</longitude>
+  </city>
+  <city name="Elemene Srhîr">
+    <latitude>15.4833333</latitude>
+    <longitude>-9.6</longitude>
+  </city>
+  <city name="Elemen Srir">
+    <latitude>15.4833333</latitude>
+    <longitude>-9.6</longitude>
+  </city>
+  <city name="El Erg">
+    <latitude>15.7</latitude>
+    <longitude>-11.1</longitude>
+  </city>
+  <city name="El Faraa">
+    <latitude>15.7166667</latitude>
+    <longitude>-11.65</longitude>
+  </city>
+  <city name="El Fougué">
+    <latitude>15.2333333</latitude>
+    <longitude>-12.0166667</longitude>
+  </city>
+  <city name="El Fouie">
+    <latitude>15.2833333</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="El Gèté Mbèygou">
+    <latitude>15.7833333</latitude>
+    <longitude>-7.6166667</longitude>
+  </city>
+  <city name="El Goss">
+    <latitude>16.9</latitude>
+    <longitude>-14.0833333</longitude>
+  </city>
+  <city name="El Gouessi">
+    <latitude>16.7166667</latitude>
+    <longitude>-12.9</longitude>
+  </city>
+  <city name="El Grain">
+    <latitude>15.75</latitude>
+    <longitude>-7.8333333</longitude>
+  </city>
+  <city name="El Graïr Enzaï">
+    <latitude>16.75</latitude>
+    <longitude>-10.6833333</longitude>
+  </city>
+  <city name="El Greïn">
+    <latitude>15.75</latitude>
+    <longitude>-7.8333333</longitude>
+  </city>
+  <city name="El Gueneïba">
+    <latitude>16.1333333</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="El Guèté Mbeïgou">
+    <latitude>15.7833333</latitude>
+    <longitude>-7.6166667</longitude>
+  </city>
+  <city name="El Guilène">
+    <latitude>15.6333333</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="El Haédi">
+    <latitude>16.6</latitude>
+    <longitude>-15.9</longitude>
+  </city>
+  <city name="Eli Bab">
+    <latitude>15.5166667</latitude>
+    <longitude>-10.1</longitude>
+  </city>
+  <city name="Eli Bati">
+    <latitude>15.5</latitude>
+    <longitude>-10.1166667</longitude>
+  </city>
+  <city name="Eli Souitt">
+    <latitude>15.5166667</latitude>
+    <longitude>-10.1166667</longitude>
+  </city>
+  <city name="El Izabè">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.35</longitude>
+  </city>
+  <city name="El Joumaa">
+    <latitude>15.9333333</latitude>
+    <longitude>-11.6666667</longitude>
+  </city>
+  <city name="El Kseïba">
+    <latitude>16.2166667</latitude>
+    <longitude>-13.15</longitude>
+  </city>
+  <city name="El Magali">
+    <latitude>15.9166667</latitude>
+    <longitude>-9.7666667</longitude>
+  </city>
+  <city name="El Maha">
+    <latitude>15.55</latitude>
+    <longitude>-11.7</longitude>
+  </city>
+  <city name="El Mali">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.2833333</longitude>
+  </city>
+  <city name="El Mamghar">
+    <latitude>19.3666667</latitude>
+    <longitude>-16.5166667</longitude>
+  </city>
+  <city name="El Mankous">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.75</longitude>
+  </city>
+  <city name="El Mankouss">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.75</longitude>
+  </city>
+  <city name="El Maroualeb">
+    <latitude>15.55</latitude>
+    <longitude>-9.5333333</longitude>
+  </city>
+  <city name="El Medda">
+    <latitude>19.9166667</latitude>
+    <longitude>-13.3166667</longitude>
+  </city>
+  <city name="El Meddah">
+    <latitude>19.9166667</latitude>
+    <longitude>-13.3166667</longitude>
+  </city>
+  <city name="El Memghar">
+    <latitude>19.3666667</latitude>
+    <longitude>-16.5166667</longitude>
+  </city>
+  <city name="El Memrhar">
+    <latitude>19.3666667</latitude>
+    <longitude>-16.5166667</longitude>
+  </city>
+  <city name="El Méssiel">
+    <latitude>15.5</latitude>
+    <longitude>-11.1833333</longitude>
+  </city>
+  <city name="El Meuzeu">
+    <latitude>15.6</latitude>
+    <longitude>-7.8333333</longitude>
+  </city>
+  <city name="Elminetafra">
+    <latitude>15.6666667</latitude>
+    <longitude>-10.8333333</longitude>
+  </city>
+  <city name="El Momchar">
+    <latitude>19.3666667</latitude>
+    <longitude>-16.5166667</longitude>
+  </city>
+  <city name="El Moudéré">
+    <latitude>15.95</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="El Moulali">
+    <latitude>15.85</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="El Roueïrat">
+    <latitude>16.5166667</latitude>
+    <longitude>-13.9666667</longitude>
+  </city>
+  <city name="El Srir">
+    <latitude>15.55</latitude>
+    <longitude>-9.9833333</longitude>
+  </city>
+  <city name="El Vana">
+    <latitude>15.6166667</latitude>
+    <longitude>-12.5666667</longitude>
+  </city>
+  <city name="El Zerda">
+    <latitude>15.5833333</latitude>
+    <longitude>-9.5166667</longitude>
+  </city>
+  <city name="E-n-Tatrat">
+    <latitude>16.8333333</latitude>
+    <longitude>-13.6</longitude>
+  </city>
+  <city name="Es Srhîr">
+    <latitude>15.55</latitude>
+    <longitude>-9.9833333</longitude>
+  </city>
+  <city name="Ez Zerda">
+    <latitude>15.5833333</latitude>
+    <longitude>-9.5166667</longitude>
+  </city>
+  <city name="Fadia">
+    <latitude>16.5333333</latitude>
+    <longitude>-13.0333333</longitude>
+  </city>
+  <city name="Fagyar">
+    <latitude>15.85</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Fanaye Niakouar">
+    <latitude>16.6</latitude>
+    <longitude>-15.2333333</longitude>
+  </city>
+  <city name="Fassalé">
+    <latitude>15.55</latitude>
+    <longitude>-5.5166667</longitude>
+  </city>
+  <city name="Fdeirek">
+    <latitude>22.6833333</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Fdérick">
+    <latitude>22.6833333</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Fdérik">
+    <latitude>22.6833333</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Feïtas">
+    <latitude>15.1166667</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Féréni">
+    <latitude>15.5666667</latitude>
+    <longitude>-8.9166667</longitude>
+  </city>
+  <city name="Ferkane">
+    <latitude>16.0166667</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Ferlankobé">
+    <latitude>15.5666667</latitude>
+    <longitude>-11.9</longitude>
+  </city>
+  <city name="Ferrala">
+    <latitude>16.2</latitude>
+    <longitude>-13.75</longitude>
+  </city>
+  <city name="Filké">
+    <latitude>15.9333333</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Fimbo">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.8833333</longitude>
+  </city>
+  <city name="Fimbo Paliba">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.8833333</longitude>
+  </city>
+  <city name="Flike">
+    <latitude>15.9333333</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Fofana Débé">
+    <latitude>15.6666667</latitude>
+    <longitude>-12.3833333</longitude>
+  </city>
+  <city name="Foïlé">
+    <latitude>15.6666667</latitude>
+    <longitude>-10.75</longitude>
+  </city>
+  <city name="Fora Sinérabi">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.8333333</longitude>
+  </city>
+  <city name="Fort Cappolani">
+    <latitude>18.55</latitude>
+    <longitude>-11.4166667</longitude>
+  </city>
+  <city name="Fort Gouraud">
+    <latitude>22.6833333</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Fort Goureaud">
+    <latitude>22.6833333</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Fort Repoux">
+    <latitude>19.75</latitude>
+    <longitude>-14.3833333</longitude>
+  </city>
+  <city name="Fort Trinquet">
+    <latitude>22.6833333</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Fort-Trinquet">
+    <latitude>25.2333333</latitude>
+    <longitude>-11.5833333</longitude>
+  </city>
+  <city name="Foundou">
+    <latitude>16.2166667</latitude>
+    <longitude>-13.6833333</longitude>
+  </city>
+  <city name="Fra' el 'Achoûché">
+    <latitude>16.2666667</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Fra' Ladoum">
+    <latitude>16.05</latitude>
+    <longitude>-12.2333333</longitude>
+  </city>
+  <city name="Gâ'ât Teïdouma">
+    <latitude>16.7333333</latitude>
+    <longitude>-10.7</longitude>
+  </city>
+  <city name="Gadiama">
+    <latitude>15.6166667</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Gani">
+    <latitude>16.5833333</latitude>
+    <longitude>-15.45</longitude>
+  </city>
+  <city name="Ganki">
+    <latitude>16.2166667</latitude>
+    <longitude>-13.2333333</longitude>
+  </city>
+  <city name="Ganséraké">
+    <latitude>15.35</latitude>
+    <longitude>-11.8666667</longitude>
+  </city>
+  <city name="Gaouyéré">
+    <latitude>15.8</latitude>
+    <longitude>-11.3</longitude>
+  </city>
+  <city name="Garak">
+    <latitude>16.55</latitude>
+    <longitude>-15.7666667</longitude>
+  </city>
+  <city name="Garalla">
+    <latitude>15.7666667</latitude>
+    <longitude>-11.5</longitude>
+  </city>
+  <city name="Garalol">
+    <latitude>16.2666667</latitude>
+    <longitude>-13.8666667</longitude>
+  </city>
+  <city name="Garé">
+    <latitude>15.1666667</latitude>
+    <longitude>-10.8833333</longitude>
+  </city>
+  <city name="Garli">
+    <latitude>15.6166667</latitude>
+    <longitude>-13.15</longitude>
+  </city>
+  <city name="Givé">
+    <latitude>15.7</latitude>
+    <longitude>-13.2</longitude>
+  </city>
+  <city name="Gleïbât Boukine">
+    <latitude>15.7</latitude>
+    <longitude>-9.0833333</longitude>
+  </city>
+  <city name="Godiavel Galaoual">
+    <latitude>15.25</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Godioouel Demba">
+    <latitude>15.2333333</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Godioouel Galaouel">
+    <latitude>15.25</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Godioval">
+    <latitude>14.9333333</latitude>
+    <longitude>-12.0</longitude>
+  </city>
+  <city name="Godiovol">
+    <latitude>14.9333333</latitude>
+    <longitude>-12.0</longitude>
+  </city>
+  <city name="Godiowel Demba">
+    <latitude>15.2333333</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Godiowel Galaoual">
+    <latitude>15.25</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Goouatt">
+    <latitude>15.7166667</latitude>
+    <longitude>-11.6666667</longitude>
+  </city>
+  <city name="Goulel Mouroir">
+    <latitude>15.3833333</latitude>
+    <longitude>-12.1666667</longitude>
+  </city>
+  <city name="Goupou">
+    <latitude>14.8833333</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Gouraye">
+    <latitude>14.9166667</latitude>
+    <longitude>-12.4166667</longitude>
+  </city>
+  <city name="Gourdiouma">
+    <latitude>16.2</latitude>
+    <longitude>-13.4333333</longitude>
+  </city>
+  <city name="Gourel Adama">
+    <latitude>15.1166667</latitude>
+    <longitude>-12.6</longitude>
+  </city>
+  <city name="Gourel Ali">
+    <latitude>15.5</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Gourel Amadi Boudari">
+    <latitude>15.0166667</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Gourel Baïdi Sori">
+    <latitude>15.5833333</latitude>
+    <longitude>-12.5833333</longitude>
+  </city>
+  <city name="Gourel Bakar Sy">
+    <latitude>16.5666667</latitude>
+    <longitude>-15.35</longitude>
+  </city>
+  <city name="Gourel Bamol">
+    <latitude>15.4833333</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Gourel Diaré">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Gourel Diéri">
+    <latitude>15.4333333</latitude>
+    <longitude>-12.8833333</longitude>
+  </city>
+  <city name="Gourélé">
+    <latitude>15.4833333</latitude>
+    <longitude>-12.7666667</longitude>
+  </city>
+  <city name="Gourel Farba">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Gourel Foulé">
+    <latitude>15.0833333</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Gourel Gaï">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.2833333</longitude>
+  </city>
+  <city name="Gourel Keradi">
+    <latitude>15.4833333</latitude>
+    <longitude>-12.5166667</longitude>
+  </city>
+  <city name="Gourel Kotché">
+    <latitude>15.1</latitude>
+    <longitude>-12.6833333</longitude>
+  </city>
+  <city name="Gourel Mahamoud">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.5166667</longitude>
+  </city>
+  <city name="Gourel Malalfa">
+    <latitude>15.45</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Gourel Mama Dado">
+    <latitude>16.7333333</latitude>
+    <longitude>-14.55</longitude>
+  </city>
+  <city name="Gourel Mamadou Penda">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Gourel Moussa">
+    <latitude>16.5833333</latitude>
+    <longitude>-15.1666667</longitude>
+  </city>
+  <city name="Gourel Pé">
+    <latitude>15.1</latitude>
+    <longitude>-12.5166667</longitude>
+  </city>
+  <city name="Gourel Saldé">
+    <latitude>16.5666667</latitude>
+    <longitude>-15.25</longitude>
+  </city>
+  <city name="Gourel Samba Sidi">
+    <latitude>15.5</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Gourel Sanétabé">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Gourel Somana">
+    <latitude>15.1833333</latitude>
+    <longitude>-12.7833333</longitude>
+  </city>
+  <city name="Gourel Tierna Amadou">
+    <latitude>15.2</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Gourel Tierno">
+    <latitude>15.3833333</latitude>
+    <longitude>-12.9333333</longitude>
+  </city>
+  <city name="Gouret Farba">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Goureye">
+    <latitude>16.1</latitude>
+    <longitude>-13.45</longitude>
+  </city>
+  <city name="Gourfaf">
+    <latitude>16.5</latitude>
+    <longitude>-13.1</longitude>
+  </city>
+  <city name="Goven Karé">
+    <latitude>15.2666667</latitude>
+    <longitude>-12.6166667</longitude>
+  </city>
+  <city name="Govin Karé">
+    <latitude>15.2666667</latitude>
+    <longitude>-12.6166667</longitude>
+  </city>
+  <city name="Gowatt">
+    <latitude>15.7166667</latitude>
+    <longitude>-11.6666667</longitude>
+  </city>
+  <city name="Graïr Enzaï">
+    <latitude>16.75</latitude>
+    <longitude>-10.6833333</longitude>
+  </city>
+  <city name="Guéleïbate Boukine">
+    <latitude>15.7</latitude>
+    <longitude>-9.0833333</longitude>
+  </city>
+  <city name="Gueléïbate">
+    <latitude>15.7</latitude>
+    <longitude>-9.0833333</longitude>
+  </city>
+  <city name="Guéleïbé">
+    <latitude>16.0</latitude>
+    <longitude>-12.0333333</longitude>
+  </city>
+  <city name="Guéléoil">
+    <latitude>15.5666667</latitude>
+    <longitude>-11.7833333</longitude>
+  </city>
+  <city name="Guéléoual">
+    <latitude>15.5666667</latitude>
+    <longitude>-11.7833333</longitude>
+  </city>
+  <city name="Guémou">
+    <latitude>14.85</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Guénétir">
+    <latitude>15.9166667</latitude>
+    <longitude>-12.05</longitude>
+  </city>
+  <city name="Guidakar">
+    <latitude>16.5</latitude>
+    <longitude>-15.6333333</longitude>
+  </city>
+  <city name="Guidala">
+    <latitude>16.6333333</latitude>
+    <longitude>-14.4333333</longitude>
+  </city>
+  <city name="Guidembala">
+    <latitude>16.1666667</latitude>
+    <longitude>-12.05</longitude>
+  </city>
+  <city name="Guidibiné">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Guidilol">
+    <latitude>15.4333333</latitude>
+    <longitude>-12.6</longitude>
+  </city>
+  <city name="Guiégui">
+    <latitude>15.2333333</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Guiraï">
+    <latitude>16.1</latitude>
+    <longitude>-13.45</longitude>
+  </city>
+  <city name="Guiraye">
+    <latitude>16.1</latitude>
+    <longitude>-13.45</longitude>
+  </city>
+  <city name="Guireye">
+    <latitude>16.1</latitude>
+    <longitude>-13.45</longitude>
+  </city>
+  <city name="Hadad">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.95</longitude>
+  </city>
+  <city name="Haddah">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.95</longitude>
+  </city>
+  <city name="Haéré Goléré">
+    <latitude>16.4166667</latitude>
+    <longitude>-14.0166667</longitude>
+  </city>
+  <city name="Haéré Mbar">
+    <latitude>16.4166667</latitude>
+    <longitude>-14.0666667</longitude>
+  </city>
+  <city name="Haï Médat">
+    <latitude>16.1833333</latitude>
+    <longitude>-13.8</longitude>
+  </city>
+  <city name="Haïré Goléré">
+    <latitude>16.4166667</latitude>
+    <longitude>-14.0166667</longitude>
+  </city>
+  <city name="Haïré">
+    <latitude>15.6</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="Haïré Mbar">
+    <latitude>16.4166667</latitude>
+    <longitude>-14.0666667</longitude>
+  </city>
+  <city name="Hamdallaye">
+    <latitude>15.2333333</latitude>
+    <longitude>-12.1</longitude>
+  </city>
+  <city name="Hamed Jibi">
+    <latitude>15.55</latitude>
+    <longitude>-12.55</longitude>
+  </city>
+  <city name="Hamoud">
+    <latitude>15.6166667</latitude>
+    <longitude>-11.5</longitude>
+  </city>
+  <city name="Hamouria">
+    <latitude>15.5666667</latitude>
+    <longitude>-8.7333333</longitude>
+  </city>
+  <city name="Hâmouryâ">
+    <latitude>15.5666667</latitude>
+    <longitude>-8.7333333</longitude>
+  </city>
+  <city name="Hari Hara">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.6166667</longitude>
+  </city>
+  <city name="Harouna">
+    <latitude>15.4666667</latitude>
+    <longitude>-10.1833333</longitude>
+  </city>
+  <city name="Harr">
+    <latitude>15.2833333</latitude>
+    <longitude>-12.55</longitude>
+  </city>
+  <city name="Hartane">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.15</longitude>
+  </city>
+  <city name="Hâsèï Larha">
+    <latitude>15.65</latitude>
+    <longitude>-8.05</longitude>
+  </city>
+  <city name="Hasseï Larha">
+    <latitude>15.65</latitude>
+    <longitude>-8.05</longitude>
+  </city>
+  <city name="Hasseï Sidi">
+    <latitude>16.3666667</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Hassi Bagara">
+    <latitude>15.35</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Hassi Bagra">
+    <latitude>15.8333333</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Hassi Boû Seï">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.2166667</longitude>
+  </city>
+  <city name="Hassi Chaggar">
+    <latitude>15.3666667</latitude>
+    <longitude>-12.0833333</longitude>
+  </city>
+  <city name="Hassi Chems">
+    <latitude>15.95</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Hassi-Chogar">
+    <latitude>15.3666667</latitude>
+    <longitude>-12.0833333</longitude>
+  </city>
+  <city name="Hassi Delme">
+    <latitude>15.1333333</latitude>
+    <longitude>-11.95</longitude>
+  </city>
+  <city name="Hassi el Abiod">
+    <latitude>15.9</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Hassi el Hamar">
+    <latitude>15.45</latitude>
+    <longitude>-12.0</longitude>
+  </city>
+  <city name="Hassi Guenderes">
+    <latitude>17.3166667</latitude>
+    <longitude>-16.1</longitude>
+  </city>
+  <city name="Hassi Guendres">
+    <latitude>17.3166667</latitude>
+    <longitude>-16.1</longitude>
+  </city>
+  <city name="Hassi Sidi">
+    <latitude>15.5833333</latitude>
+    <longitude>-12.2</longitude>
+  </city>
+  <city name="Houi Damour">
+    <latitude>15.4666667</latitude>
+    <longitude>-12.05</longitude>
+  </city>
+  <city name="Ibacheléne">
+    <latitude>15.85</latitude>
+    <longitude>-11.0833333</longitude>
+  </city>
+  <city name="Idaouach">
+    <latitude>15.8833333</latitude>
+    <longitude>-11.9666667</longitude>
+  </city>
+  <city name="Idawache">
+    <latitude>15.8833333</latitude>
+    <longitude>-11.9666667</longitude>
+  </city>
+  <city name="Idjil">
+    <latitude>22.6833333</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Iéro Djibel">
+    <latitude>16.0166667</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="Imijijé">
+    <latitude>16.1666667</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Iouik">
+    <latitude>19.8666667</latitude>
+    <longitude>-16.3</longitude>
+  </city>
+  <city name="Iwik">
+    <latitude>19.8666667</latitude>
+    <longitude>-16.3</longitude>
+  </city>
+  <city name="Jérikay">
+    <latitude>15.5333333</latitude>
+    <longitude>-8.7</longitude>
+  </city>
+  <city name="Jilalive">
+    <latitude>15.7333333</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Jirana">
+    <latitude>15.6</latitude>
+    <longitude>-7.0666667</longitude>
+  </city>
+  <city name="Joumanié">
+    <latitude>15.6</latitude>
+    <longitude>-8.7333333</longitude>
+  </city>
+  <city name="Jraïf">
+    <latitude>16.5</latitude>
+    <longitude>-7.1833333</longitude>
+  </city>
+  <city name="Jreïda">
+    <latitude>18.3180556</latitude>
+    <longitude>-16.0386111</longitude>
+  </city>
+  <city name="Kadi-el-Abou">
+    <latitude>16.4</latitude>
+    <longitude>-13.9833333</longitude>
+  </city>
+  <city name="Kadié Labou">
+    <latitude>16.4</latitude>
+    <longitude>-13.9833333</longitude>
+  </city>
+  <city name="Kadiel">
+    <latitude>15.7833333</latitude>
+    <longitude>-12.5166667</longitude>
+  </city>
+  <city name="Kaédi">
+    <latitude>16.15</latitude>
+    <longitude>-13.5</longitude>
+  </city>
+  <city name="Kaléourou">
+    <latitude>15.2</latitude>
+    <longitude>-10.8666667</longitude>
+  </city>
+  <city name="Kalifa">
+    <latitude>15.5833333</latitude>
+    <longitude>-5.6166667</longitude>
+  </city>
+  <city name="Kaloua">
+    <latitude>15.8</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Kalwa">
+    <latitude>15.8</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Kamor">
+    <latitude>17.0833333</latitude>
+    <longitude>-12.05</longitude>
+  </city>
+  <city name="Kankossa">
+    <latitude>15.9333333</latitude>
+    <longitude>-11.5166667</longitude>
+  </city>
+  <city name="Karakoro">
+    <latitude>15.0</latitude>
+    <longitude>-12.0</longitude>
+  </city>
+  <city name="Karka">
+    <latitude>15.6166667</latitude>
+    <longitude>-7.8166667</longitude>
+  </city>
+  <city name="Karoulou">
+    <latitude>15.4333333</latitude>
+    <longitude>-10.3833333</longitude>
+  </city>
+  <city name="Kataouane">
+    <latitude>16.0666667</latitude>
+    <longitude>-6.7666667</longitude>
+  </city>
+  <city name="Kataouan">
+    <latitude>16.0666667</latitude>
+    <longitude>-6.7666667</longitude>
+  </city>
+  <city name="Kayoutt">
+    <latitude>15.45</latitude>
+    <longitude>-11.0166667</longitude>
+  </city>
+  <city name="Kélélé">
+    <latitude>15.5666667</latitude>
+    <longitude>-10.2666667</longitude>
+  </city>
+  <city name="Kéninkoumou">
+    <latitude>15.3166667</latitude>
+    <longitude>-12.2333333</longitude>
+  </city>
+  <city name="Kerfi">
+    <latitude>15.7</latitude>
+    <longitude>-9.4833333</longitude>
+  </city>
+  <city name="Kersiniané">
+    <latitude>15.0333333</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Keurinadihé">
+    <latitude>16.4833333</latitude>
+    <longitude>-15.7333333</longitude>
+  </city>
+  <city name="Keur Kouré">
+    <latitude>16.5666667</latitude>
+    <longitude>-15.5333333</longitude>
+  </city>
+  <city name="Keur Macene">
+    <latitude>16.55</latitude>
+    <longitude>-16.2333333</longitude>
+  </city>
+  <city name="Keur Madiké">
+    <latitude>16.4833333</latitude>
+    <longitude>-15.7333333</longitude>
+  </city>
+  <city name="Keur Marsal">
+    <latitude>16.5333333</latitude>
+    <longitude>-16.2333333</longitude>
+  </city>
+  <city name="Keur Massène">
+    <latitude>16.55</latitude>
+    <longitude>-16.2333333</longitude>
+  </city>
+  <city name="Keur Mour">
+    <latitude>16.5166667</latitude>
+    <longitude>-15.55</longitude>
+  </city>
+  <city name="Keur Pèr">
+    <latitude>16.5166667</latitude>
+    <longitude>-16.2</longitude>
+  </city>
+  <city name="Khabou Guidimaka">
+    <latitude>14.75</latitude>
+    <longitude>-12.0833333</longitude>
+  </city>
+  <city name="Khabou">
+    <latitude>14.75</latitude>
+    <longitude>-12.0833333</longitude>
+  </city>
+  <city name="Kharré">
+    <latitude>16.5333333</latitude>
+    <longitude>-15.6166667</longitude>
+  </city>
+  <city name="Kîfa">
+    <latitude>16.6166667</latitude>
+    <longitude>-11.4</longitude>
+  </city>
+  <city name="Kiffa">
+    <latitude>16.6166667</latitude>
+    <longitude>-11.4</longitude>
+  </city>
+  <city name="Kilioua">
+    <latitude>15.4</latitude>
+    <longitude>-10.9666667</longitude>
+  </city>
+  <city name="Kiliwa">
+    <latitude>15.4</latitude>
+    <longitude>-10.9666667</longitude>
+  </city>
+  <city name="Kitane">
+    <latitude>15.0666667</latitude>
+    <longitude>-11.95</longitude>
+  </city>
+  <city name="Kobenni">
+    <latitude>15.8333333</latitude>
+    <longitude>-9.4666667</longitude>
+  </city>
+  <city name="Kobonni">
+    <latitude>15.8333333</latitude>
+    <longitude>-9.4666667</longitude>
+  </city>
+  <city name="Kooa">
+    <latitude>15.9</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Koou">
+    <latitude>15.9</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Koou Nimadi">
+    <latitude>16.0</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Koro">
+    <latitude>15.7</latitude>
+    <longitude>-11.7833333</longitude>
+  </city>
+  <city name="Korokoro">
+    <latitude>15.0666667</latitude>
+    <longitude>-12.4166667</longitude>
+  </city>
+  <city name="Koté">
+    <latitude>15.6833333</latitude>
+    <longitude>-11.9</longitude>
+  </city>
+  <city name="Kouidé">
+    <latitude>15.9833333</latitude>
+    <longitude>-12.5833333</longitude>
+  </city>
+  <city name="Koumba Ndao">
+    <latitude>15.0</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Koumbi Dyofi">
+    <latitude>15.6</latitude>
+    <longitude>-7.8833333</longitude>
+  </city>
+  <city name="Koumbou">
+    <latitude>15.15</latitude>
+    <longitude>-12.7833333</longitude>
+  </city>
+  <city name="Koundélé">
+    <latitude>15.7833333</latitude>
+    <longitude>-13.2666667</longitude>
+  </city>
+  <city name="Koundel Réo">
+    <latitude>15.7833333</latitude>
+    <longitude>-13.2666667</longitude>
+  </city>
+  <city name="Koundiourla">
+    <latitude>15.5333333</latitude>
+    <longitude>-5.65</longitude>
+  </city>
+  <city name="Kouroukéré Béda">
+    <latitude>15.5166667</latitude>
+    <longitude>-9.65</longitude>
+  </city>
+  <city name="Kouroukéré el Kabar">
+    <latitude>15.4666667</latitude>
+    <longitude>-9.6333333</longitude>
+  </city>
+  <city name="Kouroukéré Idoulcher">
+    <latitude>15.45</latitude>
+    <longitude>-9.6333333</longitude>
+  </city>
+  <city name="Kouroukéré">
+    <latitude>15.4666667</latitude>
+    <longitude>-9.6666667</longitude>
+  </city>
+  <city name="Koussana">
+    <latitude>15.6333333</latitude>
+    <longitude>-5.75</longitude>
+  </city>
+  <city name="Koussané">
+    <latitude>15.2</latitude>
+    <longitude>-12.55</longitude>
+  </city>
+  <city name="Kova">
+    <latitude>15.9</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Kow">
+    <latitude>15.9</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Kow Nimadi">
+    <latitude>16.0</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Kraâ Bou Mbaré">
+    <latitude>16.6666667</latitude>
+    <longitude>-13.8333333</longitude>
+  </city>
+  <city name="Krâ' Boû Mbaré">
+    <latitude>16.6666667</latitude>
+    <longitude>-13.8333333</longitude>
+  </city>
+  <city name="Ksar Chams">
+    <latitude>16.5333333</latitude>
+    <longitude>-15.6333333</longitude>
+  </city>
+  <city name="Ksar el Barka">
+    <latitude>18.4</latitude>
+    <longitude>-12.2166667</longitude>
+  </city>
+  <city name="Ksar el Khâli">
+    <latitude>20.9333333</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Ksar">
+    <latitude>18.1022222</latitude>
+    <longitude>-15.955</longitude>
+  </city>
+  <city name="Ksar Torchane">
+    <latitude>20.7</latitude>
+    <longitude>-13.0166667</longitude>
+  </city>
+  <city name="La Batterie">
+    <latitude>20.8666667</latitude>
+    <longitude>-17.0666667</longitude>
+  </city>
+  <city name="Lagafouya">
+    <latitude>15.6</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Lahouvich">
+    <latitude>16.6333333</latitude>
+    <longitude>-15.9833333</longitude>
+  </city>
+  <city name="La'ouessi">
+    <latitude>16.2666667</latitude>
+    <longitude>-12.2</longitude>
+  </city>
+  <city name="Larach">
+    <latitude>16.3833333</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Lareïch">
+    <latitude>15.5833333</latitude>
+    <longitude>-7.8333333</longitude>
+  </city>
+  <city name="Larèych">
+    <latitude>15.5833333</latitude>
+    <longitude>-7.8333333</longitude>
+  </city>
+  <city name="Léangrat">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.7</longitude>
+  </city>
+  <city name="Léa Ouémoua">
+    <latitude>15.7333333</latitude>
+    <longitude>-7.8333333</longitude>
+  </city>
+  <city name="Léa Wémwa">
+    <latitude>15.7333333</latitude>
+    <longitude>-7.8333333</longitude>
+  </city>
+  <city name="Léboudou Ouaoundé">
+    <latitude>15.25</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="Leboudou Waoundé">
+    <latitude>15.25</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="Legat">
+    <latitude>16.75</latitude>
+    <longitude>-14.8333333</longitude>
+  </city>
+  <city name="Legatt">
+    <latitude>16.75</latitude>
+    <longitude>-14.8333333</longitude>
+  </city>
+  <city name="Leggatt">
+    <latitude>16.75</latitude>
+    <longitude>-14.8333333</longitude>
+  </city>
+  <city name="Léhagid">
+    <latitude>15.5333333</latitude>
+    <longitude>-8.8833333</longitude>
+  </city>
+  <city name="Léhaguid">
+    <latitude>15.5333333</latitude>
+    <longitude>-8.8833333</longitude>
+  </city>
+  <city name="Leherik">
+    <latitude>15.7</latitude>
+    <longitude>-11.1</longitude>
+  </city>
+  <city name="Léhoueïdni">
+    <latitude>15.6666667</latitude>
+    <longitude>-11.2833333</longitude>
+  </city>
+  <city name="Le-Kséïba">
+    <latitude>16.2166667</latitude>
+    <longitude>-13.15</longitude>
+  </city>
+  <city name="Lékselba">
+    <latitude>14.9166667</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Léma">
+    <latitude>15.0666667</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Lemhaisrat">
+    <latitude>19.0333333</latitude>
+    <longitude>-16.2333333</longitude>
+  </city>
+  <city name="Lemjajta">
+    <latitude>15.9666667</latitude>
+    <longitude>-11.7333333</longitude>
+  </city>
+  <city name="Lemjatja">
+    <latitude>15.9666667</latitude>
+    <longitude>-11.7333333</longitude>
+  </city>
+  <city name="Lemrhada">
+    <latitude>16.8333333</latitude>
+    <longitude>-10.7</longitude>
+  </city>
+  <city name="Lerouérat">
+    <latitude>16.5166667</latitude>
+    <longitude>-13.9666667</longitude>
+  </city>
+  <city name="Leroug">
+    <latitude>16.75</latitude>
+    <longitude>-14.7333333</longitude>
+  </city>
+  <city name="Lévé">
+    <latitude>16.2666667</latitude>
+    <longitude>-13.6666667</longitude>
+  </city>
+  <city name="Léxelba">
+    <latitude>14.9166667</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Liguilkaïri">
+    <latitude>16.4</latitude>
+    <longitude>-13.8166667</longitude>
+  </city>
+  <city name="Lilia">
+    <latitude>16.2166667</latitude>
+    <longitude>-13.8666667</longitude>
+  </city>
+  <city name="Liradj">
+    <latitude>15.0333333</latitude>
+    <longitude>-12.5166667</longitude>
+  </city>
+  <city name="Litama">
+    <latitude>15.55</latitude>
+    <longitude>-12.5</longitude>
+  </city>
+  <city name="Livol">
+    <latitude>15.9</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Lméday">
+    <latitude>15.55</latitude>
+    <longitude>-8.7166667</longitude>
+  </city>
+  <city name="Lorhviré">
+    <latitude>15.5</latitude>
+    <longitude>-8.9333333</longitude>
+  </city>
+  <city name="Louad Touil">
+    <latitude>16.8</latitude>
+    <longitude>-14.4666667</longitude>
+  </city>
+  <city name="Louboéré">
+    <latitude>15.4666667</latitude>
+    <longitude>-11.8166667</longitude>
+  </city>
+  <city name="L'Oudeye">
+    <latitude>15.9</latitude>
+    <longitude>-11.45</longitude>
+  </city>
+  <city name="Lougat">
+    <latitude>16.75</latitude>
+    <longitude>-14.8333333</longitude>
+  </city>
+  <city name="Lougué Boudamé">
+    <latitude>15.6166667</latitude>
+    <longitude>-12.5666667</longitude>
+  </city>
+  <city name="Lougué Potié">
+    <latitude>16.8</latitude>
+    <longitude>-14.4666667</longitude>
+  </city>
+  <city name="Louguéré">
+    <latitude>15.2333333</latitude>
+    <longitude>-12.7666667</longitude>
+  </city>
+  <city name="Loumbaydi">
+    <latitude>15.6333333</latitude>
+    <longitude>-7.6333333</longitude>
+  </city>
+  <city name="Loumbol">
+    <latitude>15.5666667</latitude>
+    <longitude>-12.4</longitude>
+  </city>
+  <city name="Lououeï">
+    <latitude>15.6833333</latitude>
+    <longitude>-9.05</longitude>
+  </city>
+  <city name="Lourémé">
+    <latitude>15.7333333</latitude>
+    <longitude>-12.5833333</longitude>
+  </city>
+  <city name="Louweï">
+    <latitude>15.6833333</latitude>
+    <longitude>-9.05</longitude>
+  </city>
+  <city name="Madèl">
+    <latitude>15.6333333</latitude>
+    <longitude>-8.6333333</longitude>
+  </city>
+  <city name="Madina">
+    <latitude>15.4333333</latitude>
+    <longitude>-10.1166667</longitude>
+  </city>
+  <city name="Mafondou">
+    <latitude>16.15</latitude>
+    <longitude>-13.2166667</longitude>
+  </city>
+  <city name="Magama">
+    <latitude>15.5166667</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="Maghama">
+    <latitude>15.5166667</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="Magta-lahjar">
+    <latitude>17.0</latitude>
+    <longitude>-13.5</longitude>
+  </city>
+  <city name="Magta' Lahjar">
+    <latitude>17.0</latitude>
+    <longitude>-13.5</longitude>
+  </city>
+  <city name="Makadougou">
+    <latitude>14.9</latitude>
+    <longitude>-12.2166667</longitude>
+  </city>
+  <city name="Makhana">
+    <latitude>16.3</latitude>
+    <longitude>-13.5833333</longitude>
+  </city>
+  <city name="Makrédi">
+    <latitude>15.45</latitude>
+    <longitude>-9.6</longitude>
+  </city>
+  <city name="Mamaéli">
+    <latitude>15.1</latitude>
+    <longitude>-12.2</longitude>
+  </city>
+  <city name="Mame Diak">
+    <latitude>16.6833333</latitude>
+    <longitude>-14.7</longitude>
+  </city>
+  <city name="Mansour">
+    <latitude>15.6333333</latitude>
+    <longitude>-5.6666667</longitude>
+  </city>
+  <city name="Maoudass">
+    <latitude>15.55</latitude>
+    <longitude>-10.9166667</longitude>
+  </city>
+  <city name="Mara">
+    <latitude>15.45</latitude>
+    <longitude>-10.3666667</longitude>
+  </city>
+  <city name="Marandébé">
+    <latitude>15.15</latitude>
+    <longitude>-10.8833333</longitude>
+  </city>
+  <city name="Marané">
+    <latitude>15.2166667</latitude>
+    <longitude>-10.8333333</longitude>
+  </city>
+  <city name="Mareïfa">
+    <latitude>16.15</latitude>
+    <longitude>-13.2666667</longitude>
+  </city>
+  <city name="Marhandyé">
+    <latitude>15.5666667</latitude>
+    <longitude>-7.1166667</longitude>
+  </city>
+  <city name="Marsila">
+    <latitude>15.4833333</latitude>
+    <longitude>-9.6166667</longitude>
+  </city>
+  <city name="Massam">
+    <latitude>15.15</latitude>
+    <longitude>-11.9</longitude>
+  </city>
+  <city name="Massar">
+    <latitude>15.15</latitude>
+    <longitude>-11.9</longitude>
+  </city>
+  <city name="Mbagne">
+    <latitude>16.15</latitude>
+    <longitude>-13.7833333</longitude>
+  </city>
+  <city name="Mbahé">
+    <latitude>16.25</latitude>
+    <longitude>-13.75</longitude>
+  </city>
+  <city name="Mbalou">
+    <latitude>15.0166667</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="Mbédia Achar">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.1</longitude>
+  </city>
+  <city name="MBeida">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.1</longitude>
+  </city>
+  <city name="Mbeïdia">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.1</longitude>
+  </city>
+  <city name="Mbeïdi">
+    <latitude>16.2833333</latitude>
+    <longitude>-13.0833333</longitude>
+  </city>
+  <city name="Mbich">
+    <latitude>15.5333333</latitude>
+    <longitude>-8.75</longitude>
+  </city>
+  <city name="Mbidane Alambé">
+    <latitude>16.25</latitude>
+    <longitude>-13.4833333</longitude>
+  </city>
+  <city name="Mbomé Kawal">
+    <latitude>15.15</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Mboto">
+    <latitude>16.2333333</latitude>
+    <longitude>-13.85</longitude>
+  </city>
+  <city name="Mboul">
+    <latitude>15.8</latitude>
+    <longitude>-13.2166667</longitude>
+  </city>
+  <city name="Mbout Chorfa">
+    <latitude>16.0</latitude>
+    <longitude>-12.5666667</longitude>
+  </city>
+  <city name="Mbout">
+    <latitude>16.0333333</latitude>
+    <longitude>-12.5833333</longitude>
+  </city>
+  <city name="Médala">
+    <latitude>15.5</latitude>
+    <longitude>-5.5833333</longitude>
+  </city>
+  <city name="Médalla">
+    <latitude>15.5</latitude>
+    <longitude>-5.5833333</longitude>
+  </city>
+  <city name="Medd Allah">
+    <latitude>15.5</latitude>
+    <longitude>-5.5833333</longitude>
+  </city>
+  <city name="Mederdra">
+    <latitude>16.9166667</latitude>
+    <longitude>-15.65</longitude>
+  </city>
+  <city name="Meïlaha">
+    <latitude>15.3166667</latitude>
+    <longitude>-11.9</longitude>
+  </city>
+  <city name="Memrhar">
+    <latitude>19.3666667</latitude>
+    <longitude>-16.5166667</longitude>
+  </city>
+  <city name="Messelsé">
+    <latitude>15.4833333</latitude>
+    <longitude>-10.35</longitude>
+  </city>
+  <city name="Miloatane">
+    <latitude>15.9333333</latitude>
+    <longitude>-12.0666667</longitude>
+  </city>
+  <city name="Mils">
+    <latitude>15.8666667</latitude>
+    <longitude>-7.15</longitude>
+  </city>
+  <city name="Mkhaïzine">
+    <latitude>15.9666667</latitude>
+    <longitude>-11.25</longitude>
+  </city>
+  <city name="Modi Founti">
+    <latitude>16.8333333</latitude>
+    <longitude>-12.8333333</longitude>
+  </city>
+  <city name="Mohili">
+    <latitude>15.2</latitude>
+    <longitude>-10.9333333</longitude>
+  </city>
+  <city name="Moïbra">
+    <latitude>15.5666667</latitude>
+    <longitude>-10.0333333</longitude>
+  </city>
+  <city name="Moï Moï">
+    <latitude>16.7333333</latitude>
+    <longitude>-14.5666667</longitude>
+  </city>
+  <city name="Mokraï Mara">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Monguel Foubdé Diéri">
+    <latitude>16.3666667</latitude>
+    <longitude>-13.1166667</longitude>
+  </city>
+  <city name="Mônguel">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.1333333</longitude>
+  </city>
+  <city name="Monguel Toundé">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.1333333</longitude>
+  </city>
+  <city name="Moribougou">
+    <latitude>15.5166667</latitude>
+    <longitude>-9.4833333</longitude>
+  </city>
+  <city name="Mostaka">
+    <latitude>16.1833333</latitude>
+    <longitude>-7.4666667</longitude>
+  </city>
+  <city name="Moudiat">
+    <latitude>15.4666667</latitude>
+    <longitude>-9.5333333</longitude>
+  </city>
+  <city name="Moudjéria">
+    <latitude>17.8833333</latitude>
+    <longitude>-12.3333333</longitude>
+  </city>
+  <city name="Moudji Babangol">
+    <latitude>15.05</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Moudji Youroufa">
+    <latitude>15.05</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Mouénité">
+    <latitude>15.75</latitude>
+    <longitude>-12.55</longitude>
+  </city>
+  <city name="Mouit">
+    <latitude>16.5833333</latitude>
+    <longitude>-13.0833333</longitude>
+  </city>
+  <city name="Moujoufane">
+    <latitude>15.7166667</latitude>
+    <longitude>-7.6333333</longitude>
+  </city>
+  <city name="Moujoufan">
+    <latitude>15.7166667</latitude>
+    <longitude>-7.6333333</longitude>
+  </city>
+  <city name="Moulessimou">
+    <latitude>14.8333333</latitude>
+    <longitude>-12.3333333</longitude>
+  </city>
+  <city name="Mounguel">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.1333333</longitude>
+  </city>
+  <city name="Mounor">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.7833333</longitude>
+  </city>
+  <city name="Mourtogalgar">
+    <latitude>16.25</latitude>
+    <longitude>-13.8</longitude>
+  </city>
+  <city name="Mousfouayé">
+    <latitude>15.65</latitude>
+    <longitude>-8.6</longitude>
+  </city>
+  <city name="Mousfwayé">
+    <latitude>15.65</latitude>
+    <longitude>-8.6</longitude>
+  </city>
+  <city name="Moussala">
+    <latitude>15.2</latitude>
+    <longitude>-10.9166667</longitude>
+  </city>
+  <city name="Moussasta">
+    <latitude>15.2833333</latitude>
+    <longitude>-12.1</longitude>
+  </city>
+  <city name="Moussoufoyé">
+    <latitude>15.55</latitude>
+    <longitude>-9.5333333</longitude>
+  </city>
+  <city name="Moutahala">
+    <latitude>15.3833333</latitude>
+    <longitude>-11.9333333</longitude>
+  </city>
+  <city name="Moutogagar">
+    <latitude>16.25</latitude>
+    <longitude>-13.8</longitude>
+  </city>
+  <city name="Moutogalgar">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.8333333</longitude>
+  </city>
+  <city name="Mreïmida Beïdane">
+    <latitude>16.8</latitude>
+    <longitude>-10.7833333</longitude>
+  </city>
+  <city name="Mreïmida Harâtîne">
+    <latitude>16.8</latitude>
+    <longitude>-10.75</longitude>
+  </city>
+  <city name="Mreïmida Haratin">
+    <latitude>16.8</latitude>
+    <longitude>-10.75</longitude>
+  </city>
+  <city name="Mta Meïdit">
+    <latitude>15.65</latitude>
+    <longitude>-8.7166667</longitude>
+  </city>
+  <city name="Mta Meydit">
+    <latitude>15.65</latitude>
+    <longitude>-8.7166667</longitude>
+  </city>
+  <city name="Mzaïmid">
+    <latitude>15.6666667</latitude>
+    <longitude>-7.0333333</longitude>
+  </city>
+  <city name="Mzaymid">
+    <latitude>15.6666667</latitude>
+    <longitude>-7.0333333</longitude>
+  </city>
+  <city name="Naïlé">
+    <latitude>15.4833333</latitude>
+    <longitude>-9.4333333</longitude>
+  </city>
+  <city name="Nbâk">
+    <latitude>17.25</latitude>
+    <longitude>-14.9833333</longitude>
+  </city>
+  <city name="Nbaré">
+    <latitude>15.2333333</latitude>
+    <longitude>-10.95</longitude>
+  </city>
+  <city name="Ndam Niaraoual">
+    <latitude>15.95</latitude>
+    <longitude>-12.7833333</longitude>
+  </city>
+  <city name="Ndam Niaroual">
+    <latitude>15.95</latitude>
+    <longitude>-12.7833333</longitude>
+  </city>
+  <city name="Ndam Yalalbé">
+    <latitude>15.9333333</latitude>
+    <longitude>-12.7666667</longitude>
+  </city>
+  <city name="N'Dan">
+    <latitude>15.9</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Ndiago">
+    <latitude>16.1666667</latitude>
+    <longitude>-16.5</longitude>
+  </city>
+  <city name="Ndian Dia">
+    <latitude>16.4833333</latitude>
+    <longitude>-13.9833333</longitude>
+  </city>
+  <city name="Ndiao Réo">
+    <latitude>16.65</latitude>
+    <longitude>-14.6666667</longitude>
+  </city>
+  <city name="Ndiavaldi Bouli">
+    <latitude>16.3</latitude>
+    <longitude>-13.7833333</longitude>
+  </city>
+  <city name="Ndiavaldi Diouma">
+    <latitude>16.3166667</latitude>
+    <longitude>-13.8166667</longitude>
+  </city>
+  <city name="Ndiémar">
+    <latitude>16.2833333</latitude>
+    <longitude>-16.4666667</longitude>
+  </city>
+  <city name="Ndiéo">
+    <latitude>15.8666667</latitude>
+    <longitude>-12.0333333</longitude>
+  </city>
+  <city name="Ndiongo">
+    <latitude>16.7166667</latitude>
+    <longitude>-15.0166667</longitude>
+  </city>
+  <city name="Ndirol">
+    <latitude>16.65</latitude>
+    <longitude>-14.4166667</longitude>
+  </city>
+  <city name="Ndoumelli Débé">
+    <latitude>15.65</latitude>
+    <longitude>-11.8</longitude>
+  </city>
+  <city name="Ndoumelli">
+    <latitude>15.6166667</latitude>
+    <longitude>-11.8166667</longitude>
+  </city>
+  <city name="Ndrénawou">
+    <latitude>15.6333333</latitude>
+    <longitude>-7.2</longitude>
+  </city>
+  <city name="Néga">
+    <latitude>15.7</latitude>
+    <longitude>-9.8166667</longitude>
+  </city>
+  <city name="Nemahidi">
+    <latitude>15.95</latitude>
+    <longitude>-12.7</longitude>
+  </city>
+  <city name="Néma">
+    <latitude>16.6166667</latitude>
+    <longitude>-7.25</longitude>
+  </city>
+  <city name="Néré">
+    <latitude>15.6</latitude>
+    <longitude>-5.5666667</longitude>
+  </city>
+  <city name="Néré Oualo">
+    <latitude>16.1166667</latitude>
+    <longitude>-13.6333333</longitude>
+  </city>
+  <city name="Ngalgou">
+    <latitude>16.7</latitude>
+    <longitude>-14.5166667</longitude>
+  </city>
+  <city name="Ngapougou">
+    <latitude>16.2333333</latitude>
+    <longitude>-13.0833333</longitude>
+  </city>
+  <city name="N'Goraï">
+    <latitude>16.6333333</latitude>
+    <longitude>-14.35</longitude>
+  </city>
+  <city name="Ngorel">
+    <latitude>16.6333333</latitude>
+    <longitude>-14.35</longitude>
+  </city>
+  <city name="Niabina">
+    <latitude>16.2833333</latitude>
+    <longitude>-13.7666667</longitude>
+  </city>
+  <city name="Niarawal">
+    <latitude>15.2</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Niéleba Haouissa">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.2</longitude>
+  </city>
+  <city name="Niéléba Haouissé">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.2</longitude>
+  </city>
+  <city name="Nima">
+    <latitude>15.8</latitude>
+    <longitude>-13.2666667</longitude>
+  </city>
+  <city name="Nimjad">
+    <latitude>17.4166667</latitude>
+    <longitude>-15.6833333</longitude>
+  </city>
+  <city name="Niomel">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.35</longitude>
+  </city>
+  <city name="Nouâdhibou">
+    <latitude>20.9</latitude>
+    <longitude>-17.0666667</longitude>
+  </city>
+  <city name="Nouakchat">
+    <latitude>18.0863889</latitude>
+    <longitude>-15.9752778</longitude>
+  </city>
+  <city name="Nouakchot">
+    <latitude>18.0863889</latitude>
+    <longitude>-15.9752778</longitude>
+  </city>
+  <city name="Nouakchott">
+    <latitude>18.0863889</latitude>
+    <longitude>-15.9752778</longitude>
+  </city>
+  <city name="Nouâmghâr">
+    <latitude>19.3666667</latitude>
+    <longitude>-16.5166667</longitude>
+  </city>
+  <city name="Nouamrhar">
+    <latitude>19.3666667</latitude>
+    <longitude>-16.5166667</longitude>
+  </city>
+  <city name="Nouma">
+    <latitude>15.3666667</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="Ntabane">
+    <latitude>15.4833333</latitude>
+    <longitude>-10.8666667</longitude>
+  </city>
+  <city name="N-Tîlimît">
+    <latitude>15.6</latitude>
+    <longitude>-11.2666667</longitude>
+  </city>
+  <city name="Ntilimitt">
+    <latitude>15.6</latitude>
+    <longitude>-11.2666667</longitude>
+  </city>
+  <city name="Nuadibu">
+    <latitude>20.9</latitude>
+    <longitude>-17.0666667</longitude>
+  </city>
+  <city name="Nwanghar">
+    <latitude>19.3666667</latitude>
+    <longitude>-16.5166667</longitude>
+  </city>
+  <city name="Olo Ologo">
+    <latitude>16.65</latitude>
+    <longitude>-14.55</longitude>
+  </city>
+  <city name="Otiéré">
+    <latitude>15.6833333</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Ouadâne">
+    <latitude>20.9333333</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Ouadio">
+    <latitude>16.25</latitude>
+    <longitude>-13.4</longitude>
+  </city>
+  <city name="Oualâta">
+    <latitude>17.3</latitude>
+    <longitude>-7.0333333</longitude>
+  </city>
+  <city name="Ouali Diamtana">
+    <latitude>15.3333333</latitude>
+    <longitude>-12.8666667</longitude>
+  </city>
+  <city name="Ouali">
+    <latitude>15.3333333</latitude>
+    <longitude>-12.8666667</longitude>
+  </city>
+  <city name="Oudane">
+    <latitude>20.9333333</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Oûdeï Chrak">
+    <latitude>16.5666667</latitude>
+    <longitude>-12.8333333</longitude>
+  </city>
+  <city name="Oûdeï Lebhanis">
+    <latitude>15.6</latitude>
+    <longitude>-11.6333333</longitude>
+  </city>
+  <city name="Oûdeï">
+    <latitude>15.9</latitude>
+    <longitude>-11.45</longitude>
+  </city>
+  <city name="Oûdeï Talaba">
+    <latitude>15.6166667</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Oudelemguil">
+    <latitude>15.9166667</latitude>
+    <longitude>-12.2333333</longitude>
+  </city>
+  <city name="Oudeye Lebhanis">
+    <latitude>15.6</latitude>
+    <longitude>-11.6333333</longitude>
+  </city>
+  <city name="Oudeye Lebhaniss">
+    <latitude>15.6</latitude>
+    <longitude>-11.6333333</longitude>
+  </city>
+  <city name="Oudeye">
+    <latitude>15.9</latitude>
+    <longitude>-11.45</longitude>
+  </city>
+  <city name="Oudeye Talaba">
+    <latitude>15.6166667</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Ouechguech">
+    <latitude>16.2333333</latitude>
+    <longitude>-12.5666667</longitude>
+  </city>
+  <city name="Ouédamor Gobingoa">
+    <latitude>15.8166667</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Ouédamor Gobi">
+    <latitude>15.7833333</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Ouédamor">
+    <latitude>15.7666667</latitude>
+    <longitude>-12.6166667</longitude>
+  </city>
+  <city name="Ouéringuel">
+    <latitude>15.8333333</latitude>
+    <longitude>-11.5333333</longitude>
+  </city>
+  <city name="Ouètji">
+    <latitude>16.5</latitude>
+    <longitude>-14.1666667</longitude>
+  </city>
+  <city name="Ouiouat">
+    <latitude>15.2333333</latitude>
+    <longitude>-11.9333333</longitude>
+  </city>
+  <city name="Oujefte">
+    <latitude>20.0333333</latitude>
+    <longitude>-13.05</longitude>
+  </city>
+  <city name="Oujeft">
+    <latitude>20.0333333</latitude>
+    <longitude>-13.05</longitude>
+  </city>
+  <city name="Oulad el Hadji">
+    <latitude>16.2666667</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Oulad Ouissa">
+    <latitude>16.4833333</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Oulad Talha">
+    <latitude>16.9833333</latitude>
+    <longitude>-12.8</longitude>
+  </city>
+  <city name="Oula Gueïlé">
+    <latitude>15.5666667</latitude>
+    <longitude>-9.8333333</longitude>
+  </city>
+  <city name="Oulamantess">
+    <latitude>15.25</latitude>
+    <longitude>-10.95</longitude>
+  </city>
+  <city name="Ould Jiddou">
+    <latitude>15.5833333</latitude>
+    <longitude>-11.8</longitude>
+  </city>
+  <city name="Ould Moïlid">
+    <latitude>16.5</latitude>
+    <longitude>-12.5833333</longitude>
+  </city>
+  <city name="Ould Rami">
+    <latitude>16.1</latitude>
+    <longitude>-12.9333333</longitude>
+  </city>
+  <city name="Ould Yanja">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.7166667</longitude>
+  </city>
+  <city name="Ouled Addet">
+    <latitude>15.6333333</latitude>
+    <longitude>-12.5</longitude>
+  </city>
+  <city name="Oulombomé">
+    <latitude>15.6666667</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Oulrami-Maure">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.4166667</longitude>
+  </city>
+  <city name="Oulrami Maures">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.4166667</longitude>
+  </city>
+  <city name="Oulrami">
+    <latitude>15.15</latitude>
+    <longitude>-12.4666667</longitude>
+  </city>
+  <city name="Oumkchéra">
+    <latitude>15.6333333</latitude>
+    <longitude>-11.1333333</longitude>
+  </city>
+  <city name="Oumm el Barka">
+    <latitude>15.5833333</latitude>
+    <longitude>-10.85</longitude>
+  </city>
+  <city name="Oumm el Bohoro">
+    <latitude>15.35</latitude>
+    <longitude>-10.75</longitude>
+  </city>
+  <city name="Oumoulbarka">
+    <latitude>15.5833333</latitude>
+    <longitude>-10.85</longitude>
+  </city>
+  <city name="Oumoulbohoro">
+    <latitude>15.35</latitude>
+    <longitude>-10.75</longitude>
+  </city>
+  <city name="Oumoussoyé">
+    <latitude>15.55</latitude>
+    <longitude>-9.5333333</longitude>
+  </city>
+  <city name="Oumpou">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Ouolé">
+    <latitude>15.2833333</latitude>
+    <longitude>-10.8666667</longitude>
+  </city>
+  <city name="Ouoloum Atar">
+    <latitude>16.2</latitude>
+    <longitude>-13.65</longitude>
+  </city>
+  <city name="Ouoloum Néré">
+    <latitude>16.2</latitude>
+    <longitude>-13.65</longitude>
+  </city>
+  <city name="Ouompou">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Ourguia">
+    <latitude>16.7666667</latitude>
+    <longitude>-14.2333333</longitude>
+  </city>
+  <city name="Ouro Aïré">
+    <latitude>15.55</latitude>
+    <longitude>-12.8</longitude>
+  </city>
+  <city name="Ouro Boka">
+    <latitude>15.75</latitude>
+    <longitude>-12.6</longitude>
+  </city>
+  <city name="Ouro Boki">
+    <latitude>15.5833333</latitude>
+    <longitude>-9.8333333</longitude>
+  </city>
+  <city name="Ouro Diallo">
+    <latitude>16.3166667</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Ouro Diaoubé">
+    <latitude>15.65</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Ouro Famé">
+    <latitude>16.0666667</latitude>
+    <longitude>-12.9333333</longitude>
+  </city>
+  <city name="Ouro Fari">
+    <latitude>15.0666667</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Ouro Haïré">
+    <latitude>15.55</latitude>
+    <longitude>-12.8</longitude>
+  </city>
+  <city name="Ouro Ndom">
+    <latitude>15.55</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Ouro Sabar">
+    <latitude>16.1333333</latitude>
+    <longitude>-12.9333333</longitude>
+  </city>
+  <city name="Ouska">
+    <latitude>16.7666667</latitude>
+    <longitude>-12.9833333</longitude>
+  </city>
+  <city name="Patoukone">
+    <latitude>16.0333333</latitude>
+    <longitude>-13.3333333</longitude>
+  </city>
+  <city name="Pempédiel">
+    <latitude>16.15</latitude>
+    <longitude>-13.5333333</longitude>
+  </city>
+  <city name="Pendao">
+    <latitude>16.6166667</latitude>
+    <longitude>-15.1</longitude>
+  </city>
+  <city name="Poleti">
+    <latitude>16.8333333</latitude>
+    <longitude>-13.2333333</longitude>
+  </city>
+  <city name="Portendick">
+    <latitude>18.5833333</latitude>
+    <longitude>-16.1166667</longitude>
+  </city>
+  <city name="Port-Étienne">
+    <latitude>20.9</latitude>
+    <longitude>-17.0666667</longitude>
+  </city>
+  <city name="Port Ettienne">
+    <latitude>20.9</latitude>
+    <longitude>-17.0666667</longitude>
+  </city>
+  <city name="Puits des Boradda">
+    <latitude>16.2833333</latitude>
+    <longitude>-6.6833333</longitude>
+  </city>
+  <city name="Puits des Borradas">
+    <latitude>16.2833333</latitude>
+    <longitude>-6.6833333</longitude>
+  </city>
+  <city name="Rachbé">
+    <latitude>15.3666667</latitude>
+    <longitude>-11.0833333</longitude>
+  </city>
+  <city name="Rachide">
+    <latitude>18.8</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="Rachid">
+    <latitude>18.8</latitude>
+    <longitude>-11.6833333</longitude>
+  </city>
+  <city name="Raïchakh">
+    <latitude>15.8666667</latitude>
+    <longitude>-11.7</longitude>
+  </city>
+  <city name="Raïféra">
+    <latitude>15.45</latitude>
+    <longitude>-11.2</longitude>
+  </city>
+  <city name="Regba">
+    <latitude>16.7333333</latitude>
+    <longitude>-14.6833333</longitude>
+  </city>
+  <city name="Regbet Thila">
+    <latitude>19.4166667</latitude>
+    <longitude>-16.4666667</longitude>
+  </city>
+  <city name="Reguibat">
+    <latitude>19.4166667</latitude>
+    <longitude>-16.4666667</longitude>
+  </city>
+  <city name="Rgueïba-Thila">
+    <latitude>19.4166667</latitude>
+    <longitude>-16.4666667</longitude>
+  </city>
+  <city name="Rhabra">
+    <latitude>16.65</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Rinndiao">
+    <latitude>16.15</latitude>
+    <longitude>-13.5833333</longitude>
+  </city>
+  <city name="Roco">
+    <latitude>16.5</latitude>
+    <longitude>-15.8166667</longitude>
+  </city>
+  <city name="Rosso">
+    <latitude>16.5</latitude>
+    <longitude>-15.8166667</longitude>
+  </city>
+  <city name="Rouji Aoudi">
+    <latitude>16.1666667</latitude>
+    <longitude>-13.7</longitude>
+  </city>
+  <city name="Roumda">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.35</longitude>
+  </city>
+  <city name="Roumdé">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.1666667</longitude>
+  </city>
+  <city name="Sabala">
+    <latitude>16.4666667</latitude>
+    <longitude>-13.9833333</longitude>
+  </city>
+  <city name="Sabar">
+    <latitude>16.1333333</latitude>
+    <longitude>-12.8833333</longitude>
+  </city>
+  <city name="Saboala">
+    <latitude>15.2</latitude>
+    <longitude>-12.8333333</longitude>
+  </city>
+  <city name="Sabou-Ciré">
+    <latitude>14.8166667</latitude>
+    <longitude>-12.05</longitude>
+  </city>
+  <city name="Sabou-Siré">
+    <latitude>14.8166667</latitude>
+    <longitude>-12.05</longitude>
+  </city>
+  <city name="Saboussiré">
+    <latitude>15.35</latitude>
+    <longitude>-12.55</longitude>
+  </city>
+  <city name="Sagné">
+    <latitude>15.2</latitude>
+    <longitude>-12.7833333</longitude>
+  </city>
+  <city name="Sahout el Ma">
+    <latitude>16.9166667</latitude>
+    <longitude>-15.1666667</longitude>
+  </city>
+  <city name="Salka Balé">
+    <latitude>16.05</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Salka Dahana">
+    <latitude>15.4833333</latitude>
+    <longitude>-11.7166667</longitude>
+  </city>
+  <city name="Sambadébé">
+    <latitude>14.95</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Samba Doga">
+    <latitude>15.55</latitude>
+    <longitude>-12.2333333</longitude>
+  </city>
+  <city name="Sambakagny">
+    <latitude>14.9833333</latitude>
+    <longitude>-12.3166667</longitude>
+  </city>
+  <city name="Samba Kandji">
+    <latitude>14.9833333</latitude>
+    <longitude>-12.3166667</longitude>
+  </city>
+  <city name="Sambangoma">
+    <latitude>15.5833333</latitude>
+    <longitude>-11.9333333</longitude>
+  </city>
+  <city name="Samba Sako">
+    <latitude>15.1166667</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Samba">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.65</longitude>
+  </city>
+  <city name="Sambou">
+    <latitude>15.4666667</latitude>
+    <longitude>-10.3166667</longitude>
+  </city>
+  <city name="Sanbadébé">
+    <latitude>14.95</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Sanba Kandji">
+    <latitude>14.9833333</latitude>
+    <longitude>-12.3166667</longitude>
+  </city>
+  <city name="Sanbangoma">
+    <latitude>15.5833333</latitude>
+    <longitude>-11.9333333</longitude>
+  </city>
+  <city name="Sanba">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.65</longitude>
+  </city>
+  <city name="Sanbou">
+    <latitude>15.4666667</latitude>
+    <longitude>-10.3166667</longitude>
+  </city>
+  <city name="Sandémodé">
+    <latitude>15.7166667</latitude>
+    <longitude>-12.6833333</longitude>
+  </city>
+  <city name="Sangué Diéri">
+    <latitude>15.0833333</latitude>
+    <longitude>-12.5666667</longitude>
+  </city>
+  <city name="Saralébéda">
+    <latitude>15.4</latitude>
+    <longitude>-11.0</longitude>
+  </city>
+  <city name="Sarankoïté">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="SAré Ndogou Boubakar Baïli">
+    <latitude>16.6666667</latitude>
+    <longitude>-14.3</longitude>
+  </city>
+  <city name="Saré Ndogou Dibéri">
+    <latitude>16.65</latitude>
+    <longitude>-14.3166667</longitude>
+  </city>
+  <city name="Sayé">
+    <latitude>16.6333333</latitude>
+    <longitude>-14.2666667</longitude>
+  </city>
+  <city name="Ségui">
+    <latitude>16.9166667</latitude>
+    <longitude>-10.6</longitude>
+  </city>
+  <city name="Sehout el Ma">
+    <latitude>16.9166667</latitude>
+    <longitude>-15.1666667</longitude>
+  </city>
+  <city name="Seï Délémé">
+    <latitude>15.1333333</latitude>
+    <longitude>-11.95</longitude>
+  </city>
+  <city name="Seï Hamar">
+    <latitude>15.0333333</latitude>
+    <longitude>-11.95</longitude>
+  </city>
+  <city name="Seira Fatouma">
+    <latitude>15.6166667</latitude>
+    <longitude>-12.4666667</longitude>
+  </city>
+  <city name="Séli Atach">
+    <latitude>15.7</latitude>
+    <longitude>-12.25</longitude>
+  </city>
+  <city name="Sélibabi">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Sélibaby">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.1833333</longitude>
+  </city>
+  <city name="Sellam">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.1</longitude>
+  </city>
+  <city name="Selrazéné">
+    <latitude>15.75</latitude>
+    <longitude>-12.7333333</longitude>
+  </city>
+  <city name="Séné Kouna">
+    <latitude>16.4833333</latitude>
+    <longitude>-14.1</longitude>
+  </city>
+  <city name="Sétaré">
+    <latitude>15.6</latitude>
+    <longitude>-7.8</longitude>
+  </city>
+  <city name="Séyène">
+    <latitude>16.2166667</latitude>
+    <longitude>-13.3666667</longitude>
+  </city>
+  <city name="Sibar">
+    <latitude>15.5666667</latitude>
+    <longitude>-10.95</longitude>
+  </city>
+  <city name="Si Hamel">
+    <latitude>15.3166667</latitude>
+    <longitude>-12.1666667</longitude>
+  </city>
+  <city name="Silla">
+    <latitude>16.1333333</latitude>
+    <longitude>-13.6</longitude>
+  </city>
+  <city name="Siluol">
+    <latitude>15.95</latitude>
+    <longitude>-12.8333333</longitude>
+  </city>
+  <city name="Simon">
+    <latitude>16.7333333</latitude>
+    <longitude>-14.9833333</longitude>
+  </city>
+  <city name="Sintiou Boumaka">
+    <latitude>16.1166667</latitude>
+    <longitude>-13.6166667</longitude>
+  </city>
+  <city name="Sivé">
+    <latitude>15.7</latitude>
+    <longitude>-13.2</longitude>
+  </city>
+  <city name="Solou">
+    <latitude>14.7666667</latitude>
+    <longitude>-12.15</longitude>
+  </city>
+  <city name="Sori Malé">
+    <latitude>16.2</latitude>
+    <longitude>-13.9</longitude>
+  </city>
+  <city name="Soronabougou">
+    <latitude>15.5166667</latitude>
+    <longitude>-10.25</longitude>
+  </city>
+  <city name="Sott">
+    <latitude>15.5666667</latitude>
+    <longitude>-9.9666667</longitude>
+  </city>
+  <city name="Souaendé">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.95</longitude>
+  </city>
+  <city name="Soueïf">
+    <latitude>16.0</latitude>
+    <longitude>-12.4666667</longitude>
+  </city>
+  <city name="Souet el Ma">
+    <latitude>16.9166667</latitude>
+    <longitude>-15.1666667</longitude>
+  </city>
+  <city name="Soufi">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.0166667</longitude>
+  </city>
+  <city name="Sountchoudébé">
+    <latitude>15.0</latitude>
+    <longitude>-12.45</longitude>
+  </city>
+  <city name="Swaendé">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.95</longitude>
+  </city>
+  <city name="Tacheur">
+    <latitude>15.6333333</latitude>
+    <longitude>-12.8166667</longitude>
+  </city>
+  <city name="Tairente">
+    <latitude>20.4333333</latitude>
+    <longitude>-13.15</longitude>
+  </city>
+  <city name="Taizennt">
+    <latitude>20.4333333</latitude>
+    <longitude>-13.15</longitude>
+  </city>
+  <city name="Taïzent">
+    <latitude>20.4333333</latitude>
+    <longitude>-13.15</longitude>
+  </city>
+  <city name="Takoutala">
+    <latitude>15.5666667</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Takoutalla">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Talhâya">
+    <latitude>16.15</latitude>
+    <longitude>-13.1833333</longitude>
+  </city>
+  <city name="Tamchaket">
+    <latitude>17.25</latitude>
+    <longitude>-10.6666667</longitude>
+  </city>
+  <city name="Tamchakett">
+    <latitude>17.25</latitude>
+    <longitude>-10.6666667</longitude>
+  </city>
+  <city name="Tamchekett">
+    <latitude>17.25</latitude>
+    <longitude>-10.6666667</longitude>
+  </city>
+  <city name="Tamchekket">
+    <latitude>17.25</latitude>
+    <longitude>-10.6666667</longitude>
+  </city>
+  <city name="Tamxat">
+    <latitude>17.4333333</latitude>
+    <longitude>-16.05</longitude>
+  </city>
+  <city name="Tamzak">
+    <latitude>17.4333333</latitude>
+    <longitude>-16.05</longitude>
+  </city>
+  <city name="Tamzakt">
+    <latitude>17.4333333</latitude>
+    <longitude>-16.05</longitude>
+  </city>
+  <city name="Tanaha">
+    <latitude>15.1166667</latitude>
+    <longitude>-10.9</longitude>
+  </city>
+  <city name="Tânît">
+    <latitude>18.6</latitude>
+    <longitude>-16.1</longitude>
+  </city>
+  <city name="Tanoudert">
+    <latitude>20.2166667</latitude>
+    <longitude>-16.2166667</longitude>
+  </city>
+  <city name="Tanoutalla">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.65</longitude>
+  </city>
+  <city name="Taringuel">
+    <latitude>15.7833333</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Tassota Baréné">
+    <latitude>15.4333333</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Tassota Botokolo">
+    <latitude>15.4333333</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Tata">
+    <latitude>15.8666667</latitude>
+    <longitude>-12.6666667</longitude>
+  </city>
+  <city name="Tchéra Idobilat">
+    <latitude>15.5833333</latitude>
+    <longitude>-7.9833333</longitude>
+  </city>
+  <city name="Tchéra Oulad El Faghi">
+    <latitude>15.6333333</latitude>
+    <longitude>-7.75</longitude>
+  </city>
+  <city name="Tchéra Oulad el Fagui">
+    <latitude>15.6333333</latitude>
+    <longitude>-7.75</longitude>
+  </city>
+  <city name="Tchéra Rouissa">
+    <latitude>15.6</latitude>
+    <longitude>-7.9333333</longitude>
+  </city>
+  <city name="Tchéra Rwisa">
+    <latitude>15.6</latitude>
+    <longitude>-7.9333333</longitude>
+  </city>
+  <city name="Téguel Wézé">
+    <latitude>15.55</latitude>
+    <longitude>-11.25</longitude>
+  </city>
+  <city name="Teïdouma el Makha">
+    <latitude>15.5833333</latitude>
+    <longitude>-11.8666667</longitude>
+  </city>
+  <city name="Teïzir">
+    <latitude>15.5666667</latitude>
+    <longitude>-11.05</longitude>
+  </city>
+  <city name="Tèjékent">
+    <latitude>16.9</latitude>
+    <longitude>-12.8166667</longitude>
+  </city>
+  <city name="Ténoudérit">
+    <latitude>20.2166667</latitude>
+    <longitude>-16.2166667</longitude>
+  </city>
+  <city name="Tentane">
+    <latitude>19.85</latitude>
+    <longitude>-13.0</longitude>
+  </city>
+  <city name="Terbékou">
+    <latitude>15.65</latitude>
+    <longitude>-5.65</longitude>
+  </city>
+  <city name="Terjit">
+    <latitude>20.25</latitude>
+    <longitude>-13.1</longitude>
+  </city>
+  <city name="Tessèm">
+    <latitude>16.65</latitude>
+    <longitude>-14.8333333</longitude>
+  </city>
+  <city name="Testaï">
+    <latitude>15.2666667</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Tétiane">
+    <latitude>15.9833333</latitude>
+    <longitude>-13.3166667</longitude>
+  </city>
+  <city name="Thiong">
+    <latitude>16.0666667</latitude>
+    <longitude>-16.4833333</longitude>
+  </city>
+  <city name="Tialé">
+    <latitude>16.05</latitude>
+    <longitude>-12.8</longitude>
+  </city>
+  <city name="Tialgou">
+    <latitude>16.6333333</latitude>
+    <longitude>-14.25</longitude>
+  </city>
+  <city name="Tiali">
+    <latitude>15.4833333</latitude>
+    <longitude>-12.5666667</longitude>
+  </city>
+  <city name="Tiango Nioro">
+    <latitude>15.45</latitude>
+    <longitude>-9.45</longitude>
+  </city>
+  <city name="Tîchilît Aganataya">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Tîchilît Ahel Baba">
+    <latitude>15.9666667</latitude>
+    <longitude>-11.1833333</longitude>
+  </city>
+  <city name="Tichïlite Aganataya">
+    <latitude>15.9166667</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Tichilite Ahel Baba">
+    <latitude>15.9666667</latitude>
+    <longitude>-11.1833333</longitude>
+  </city>
+  <city name="Tîchilît el Hradem">
+    <latitude>15.6166667</latitude>
+    <longitude>-8.5833333</longitude>
+  </city>
+  <city name="Tîchilît el Khâdem">
+    <latitude>15.6166667</latitude>
+    <longitude>-8.5833333</longitude>
+  </city>
+  <city name="Tîchilît el Kountaoui">
+    <latitude>16.7333333</latitude>
+    <longitude>-11.9333333</longitude>
+  </city>
+  <city name="Tîchît">
+    <latitude>18.4666667</latitude>
+    <longitude>-9.5</longitude>
+  </city>
+  <city name="Tichitt">
+    <latitude>18.4666667</latitude>
+    <longitude>-9.5</longitude>
+  </city>
+  <city name="Tidé">
+    <latitude>16.5833333</latitude>
+    <longitude>-14.2333333</longitude>
+  </city>
+  <city name="Tidjikdja">
+    <latitude>18.55</latitude>
+    <longitude>-11.4166667</longitude>
+  </city>
+  <city name="Tidjikja">
+    <latitude>18.55</latitude>
+    <longitude>-11.4166667</longitude>
+  </city>
+  <city name="Tiékane">
+    <latitude>16.6</latitude>
+    <longitude>-15.35</longitude>
+  </city>
+  <city name="Tiénel">
+    <latitude>15.7333333</latitude>
+    <longitude>-12.3333333</longitude>
+  </city>
+  <city name="Tiénidébé">
+    <latitude>15.15</latitude>
+    <longitude>-10.9</longitude>
+  </city>
+  <city name="Tiguent">
+    <latitude>17.25</latitude>
+    <longitude>-16.0</longitude>
+  </city>
+  <city name="Tiguéré">
+    <latitude>15.7333333</latitude>
+    <longitude>-13.2333333</longitude>
+  </city>
+  <city name="Tijikja">
+    <latitude>18.55</latitude>
+    <longitude>-11.4166667</longitude>
+  </city>
+  <city name="Tikattane">
+    <latitude>19.0333333</latitude>
+    <longitude>-16.2333333</longitude>
+  </city>
+  <city name="Tikattan">
+    <latitude>19.0333333</latitude>
+    <longitude>-16.2333333</longitude>
+  </city>
+  <city name="Tilla">
+    <latitude>16.25</latitude>
+    <longitude>-13.8666667</longitude>
+  </city>
+  <city name="Timbedgha">
+    <latitude>16.25</latitude>
+    <longitude>-8.1666667</longitude>
+  </city>
+  <city name="Timbédra">
+    <latitude>16.25</latitude>
+    <longitude>-8.1666667</longitude>
+  </city>
+  <city name="Timébédra">
+    <latitude>16.25</latitude>
+    <longitude>-8.1666667</longitude>
+  </city>
+  <city name="Tindé">
+    <latitude>15.55</latitude>
+    <longitude>-9.2833333</longitude>
+  </city>
+  <city name="Tinéto Koba">
+    <latitude>15.6833333</latitude>
+    <longitude>-12.7666667</longitude>
+  </city>
+  <city name="Tingal">
+    <latitude>15.5333333</latitude>
+    <longitude>-11.2166667</longitude>
+  </city>
+  <city name="Tingoumba">
+    <latitude>15.4666667</latitude>
+    <longitude>-10.2333333</longitude>
+  </city>
+  <city name="Tinteïna">
+    <latitude>16.1833333</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Tiong">
+    <latitude>16.0666667</latitude>
+    <longitude>-16.4833333</longitude>
+  </city>
+  <city name="Tioyékit">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.1</longitude>
+  </city>
+  <city name="Tisent">
+    <latitude>20.4333333</latitude>
+    <longitude>-13.15</longitude>
+  </city>
+  <city name="Tishit">
+    <latitude>18.4666667</latitude>
+    <longitude>-9.5</longitude>
+  </city>
+  <city name="Tjadi">
+    <latitude>16.6833333</latitude>
+    <longitude>-15.25</longitude>
+  </city>
+  <city name="Tjidé">
+    <latitude>16.5833333</latitude>
+    <longitude>-14.2333333</longitude>
+  </city>
+  <city name="Toéil">
+    <latitude>15.5666667</latitude>
+    <longitude>-8.75</longitude>
+  </city>
+  <city name="Tombéré Djingué">
+    <latitude>16.15</latitude>
+    <longitude>-13.3166667</longitude>
+  </city>
+  <city name="Tombéré Guindé">
+    <latitude>16.15</latitude>
+    <longitude>-13.3166667</longitude>
+  </city>
+  <city name="Toringuel">
+    <latitude>15.8166667</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Toueïl">
+    <latitude>15.5666667</latitude>
+    <longitude>-8.75</longitude>
+  </city>
+  <city name="Touémirt el Gouazi">
+    <latitude>15.5166667</latitude>
+    <longitude>-9.3</longitude>
+  </city>
+  <city name="Touf">
+    <latitude>16.0333333</latitude>
+    <longitude>-8.7833333</longitude>
+  </city>
+  <city name="Tougouba">
+    <latitude>15.5333333</latitude>
+    <longitude>-10.1333333</longitude>
+  </city>
+  <city name="Touil">
+    <latitude>15.5333333</latitude>
+    <longitude>-10.1166667</longitude>
+  </city>
+  <city name="Touïmert-el-Bèra">
+    <latitude>16.6166667</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Touîmert Lbèra">
+    <latitude>16.6166667</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Touimrat">
+    <latitude>15.6666667</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Touimratt">
+    <latitude>15.6666667</latitude>
+    <longitude>-11.6166667</longitude>
+  </city>
+  <city name="Toukobra">
+    <latitude>16.1</latitude>
+    <longitude>-12.3333333</longitude>
+  </city>
+  <city name="Touldé Boussobé">
+    <latitude>16.4166667</latitude>
+    <longitude>-14.0833333</longitude>
+  </city>
+  <city name="Touléli">
+    <latitude>15.3833333</latitude>
+    <longitude>-12.8166667</longitude>
+  </city>
+  <city name="Toulel">
+    <latitude>15.3833333</latitude>
+    <longitude>-12.8166667</longitude>
+  </city>
+  <city name="Toulé">
+    <latitude>16.5833333</latitude>
+    <longitude>-14.25</longitude>
+  </city>
+  <city name="Toumbaré">
+    <latitude>15.95</latitude>
+    <longitude>-7.6666667</longitude>
+  </city>
+  <city name="Toumbéré Djingé">
+    <latitude>16.15</latitude>
+    <longitude>-13.3166667</longitude>
+  </city>
+  <city name="Toumbéré Djingué">
+    <latitude>16.15</latitude>
+    <longitude>-13.3166667</longitude>
+  </city>
+  <city name="Toumbou">
+    <latitude>14.9333333</latitude>
+    <longitude>-12.3</longitude>
+  </city>
+  <city name="Toumiat">
+    <latitude>15.2166667</latitude>
+    <longitude>-12.0333333</longitude>
+  </city>
+  <city name="Toungad">
+    <latitude>20.05</latitude>
+    <longitude>-13.1333333</longitude>
+  </city>
+  <city name="Tounguen">
+    <latitude>16.5166667</latitude>
+    <longitude>-15.7666667</longitude>
+  </city>
+  <city name="Tourimé Magia">
+    <latitude>15.3666667</latitude>
+    <longitude>-12.2166667</longitude>
+  </city>
+  <city name="Tourimé">
+    <latitude>15.3666667</latitude>
+    <longitude>-12.2</longitude>
+  </city>
+  <city name="Tourimé Yaka">
+    <latitude>15.35</latitude>
+    <longitude>-12.2333333</longitude>
+  </city>
+  <city name="Traif">
+    <latitude>20.8333333</latitude>
+    <longitude>-12.4333333</longitude>
+  </city>
+  <city name="Tyoyékit">
+    <latitude>15.5833333</latitude>
+    <longitude>-8.1</longitude>
+  </city>
+  <city name="Ualata">
+    <latitude>17.3</latitude>
+    <longitude>-7.0333333</longitude>
+  </city>
+  <city name="Vane Vane">
+    <latitude>16.3166667</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Vannvane">
+    <latitude>16.3166667</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Vélidiaré">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.9</longitude>
+  </city>
+  <city name="Vèndou Diabi">
+    <latitude>16.4166667</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Vénédou Séno">
+    <latitude>15.5166667</latitude>
+    <longitude>-12.4166667</longitude>
+  </city>
+  <city name="Vindé Aboïdi">
+    <latitude>16.4</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Vindé Aïré">
+    <latitude>15.9833333</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Vindé Guibi">
+    <latitude>15.3333333</latitude>
+    <longitude>-12.5666667</longitude>
+  </city>
+  <city name="Vindé Haïré">
+    <latitude>15.9833333</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Vindé Lélel">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.6333333</longitude>
+  </city>
+  <city name="Vindé Mbordi">
+    <latitude>16.05</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Vindétilé">
+    <latitude>15.5333333</latitude>
+    <longitude>-12.9166667</longitude>
+  </city>
+  <city name="Vindi Boké">
+    <latitude>15.4166667</latitude>
+    <longitude>-12.4166667</longitude>
+  </city>
+  <city name="Vinding">
+    <latitude>16.1166667</latitude>
+    <longitude>-13.85</longitude>
+  </city>
+  <city name="Vindou Goumi">
+    <latitude>15.75</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Vinndé Aboïdi">
+    <latitude>16.4</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Vourodialo">
+    <latitude>16.3166667</latitude>
+    <longitude>-13.9166667</longitude>
+  </city>
+  <city name="Walata">
+    <latitude>17.3</latitude>
+    <longitude>-7.0333333</longitude>
+  </city>
+  <city name="Wali">
+    <latitude>15.3333333</latitude>
+    <longitude>-12.8666667</longitude>
+  </city>
+  <city name="Wéringuel">
+    <latitude>15.8333333</latitude>
+    <longitude>-11.5333333</longitude>
+  </city>
+  <city name="Windé Mbordi">
+    <latitude>16.05</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Wiwatt">
+    <latitude>15.2333333</latitude>
+    <longitude>-11.9333333</longitude>
+  </city>
+  <city name="Wolé">
+    <latitude>15.2833333</latitude>
+    <longitude>-10.8666667</longitude>
+  </city>
+  <city name="Wompou">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Woumpou">
+    <latitude>15.1333333</latitude>
+    <longitude>-12.7166667</longitude>
+  </city>
+  <city name="Yama">
+    <latitude>15.6166667</latitude>
+    <longitude>-13.1166667</longitude>
+  </city>
+  <city name="Yèngi">
+    <latitude>15.6833333</latitude>
+    <longitude>-7.9666667</longitude>
+  </city>
+  <city name="Yèngui">
+    <latitude>15.6833333</latitude>
+    <longitude>-7.9666667</longitude>
+  </city>
+  <city name="Yéni">
+    <latitude>15.8</latitude>
+    <longitude>-12.3666667</longitude>
+  </city>
+  <city name="Yéro Djibel">
+    <latitude>16.0166667</latitude>
+    <longitude>-12.85</longitude>
+  </city>
+  <city name="Yiama">
+    <latitude>15.6166667</latitude>
+    <longitude>-13.1166667</longitude>
+  </city>
+  <city name="Youmane Yiré">
+    <latitude>15.5833333</latitude>
+    <longitude>-13.0833333</longitude>
+  </city>
+  <city name="Zaïnat">
+    <latitude>15.6166667</latitude>
+    <longitude>-7.85</longitude>
+  </city>
+  <city name="Zegueha">
+    <latitude>16.2</latitude>
+    <longitude>-12.1666667</longitude>
+  </city>
+  <city name="Zénégué Bou">
+    <latitude>15.1666667</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Zénégué Maures">
+    <latitude>15.1166667</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Zénégué Maure">
+    <latitude>15.1166667</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Zénégué Toucouleur">
+    <latitude>15.1833333</latitude>
+    <longitude>-12.2666667</longitude>
+  </city>
+  <city name="Ziouaz">
+    <latitude>16.0</latitude>
+    <longitude>-8.8</longitude>
+  </city>
+  <city name="Ziwaz">
+    <latitude>16.0</latitude>
+    <longitude>-8.8</longitude>
+  </city>
+  <city name="Zoueïratt">
+    <latitude>22.7</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Zouérate">
+    <latitude>22.7</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Zouérat">
+    <latitude>22.7</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Zouîrât">
+    <latitude>22.7</latitude>
+    <longitude>-12.4833333</longitude>
+  </city>
+  <city name="Zréf">
+    <latitude>15.5</latitude>
+    <longitude>-9.5166667</longitude>
+  </city>
+  <city name="Zreïf el Azra">
+    <latitude>15.55</latitude>
+    <longitude>-9.5</longitude>
+  </city>
+  <city name="Zreïg">
+    <latitude>16.0833333</latitude>
+    <longitude>-12.7833333</longitude>
+  </city>
+</country>

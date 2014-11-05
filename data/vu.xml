@@ -1,0 +1,5563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="vu" name="Vanuatu">
+  <city name="Aala">
+    <latitude>-15.1</latitude>
+    <longitude>167.0666667</longitude>
+  </city>
+  <city name="Abanga">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8833333</longitude>
+  </city>
+  <city name="Abatabanga">
+    <latitude>-15.5166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Abatounbouliva">
+    <latitude>-15.4833333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Abatounbwabwa">
+    <latitude>-15.5333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Abatouwai">
+    <latitude>-15.65</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Abatvenou">
+    <latitude>-15.4833333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Abnetare">
+    <latitude>-15.65</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Abouetare">
+    <latitude>-15.65</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Abounanbay">
+    <latitude>-15.6833333</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Abounatari">
+    <latitude>-15.65</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Abounavahé">
+    <latitude>-15.6333333</latitude>
+    <longitude>167.1</longitude>
+  </city>
+  <city name="Abowi">
+    <latitude>-15.4833333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Abuetare">
+    <latitude>-15.65</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Abwatountora">
+    <latitude>-15.5</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Abwatuntora">
+    <latitude>-15.5</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Aïoua">
+    <latitude>-16.9</latitude>
+    <longitude>168.5333333</longitude>
+  </city>
+  <city name="Aïowo">
+    <latitude>-15.0666667</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Aiwos">
+    <latitude>-16.9</latitude>
+    <longitude>168.5333333</longitude>
+  </city>
+  <city name="Aiwos Mission Station">
+    <latitude>-16.9</latitude>
+    <longitude>168.5333333</longitude>
+  </city>
+  <city name="Akam">
+    <latitude>-16.5166667</latitude>
+    <longitude>167.65</longitude>
+  </city>
+  <city name="Alavas">
+    <latitude>-15.8833333</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Alélé">
+    <latitude>-15.5166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Alémémer">
+    <latitude>-15.5166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Aligu">
+    <latitude>-15.6</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Alihak">
+    <latitude>-15.7666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Alolo">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Alowarou">
+    <latitude>-15.7333333</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Alowou">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Amalaboua">
+    <latitude>-15.5166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Amata">
+    <latitude>-15.4</latitude>
+    <longitude>167.7</longitude>
+  </city>
+  <city name="Ambao">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Ambousi">
+    <latitude>-15.3</latitude>
+    <longitude>167.8666667</longitude>
+  </city>
+  <city name="Amio">
+    <latitude>-13.7</latitude>
+    <longitude>167.6333333</longitude>
+  </city>
+  <city name="Amok">
+    <latitude>-16.0666667</latitude>
+    <longitude>167.2166667</longitude>
+  </city>
+  <city name="Amseran">
+    <latitude>-15.4</latitude>
+    <longitude>167.2166667</longitude>
+  </city>
+  <city name="Anabrou">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.3011111</longitude>
+  </city>
+  <city name="Anamé">
+    <latitude>-20.1333333</latitude>
+    <longitude>169.8166667</longitude>
+  </city>
+  <city name="Anaouya">
+    <latitude>-20.25</latitude>
+    <longitude>169.8166667</longitude>
+  </city>
+  <city name="Anap">
+    <latitude>-15.9</latitude>
+    <longitude>167.25</longitude>
+  </city>
+  <city name="Anawamet">
+    <latitude>-20.1333333</latitude>
+    <longitude>169.8166667</longitude>
+  </city>
+  <city name="Anégen">
+    <latitude>-20.15</latitude>
+    <longitude>169.8333333</longitude>
+  </city>
+  <city name="Anelbounbékè">
+    <latitude>-20.1833333</latitude>
+    <longitude>169.8833333</longitude>
+  </city>
+  <city name="Anelgaohat">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.7666667</longitude>
+  </city>
+  <city name="Anelgauhal">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.7666667</longitude>
+  </city>
+  <city name="Anelgauhat">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.7666667</longitude>
+  </city>
+  <city name="Anelghowhat">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.7666667</longitude>
+  </city>
+  <city name="Anémdanaè">
+    <latitude>-20.15</latitude>
+    <longitude>169.8333333</longitude>
+  </city>
+  <city name="Anémek">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.8</longitude>
+  </city>
+  <city name="Anitchawo">
+    <latitude>-20.1333333</latitude>
+    <longitude>169.8166667</longitude>
+  </city>
+  <city name="Anowounamalo">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.7666667</longitude>
+  </city>
+  <city name="Anowounoouras">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.7833333</longitude>
+  </city>
+  <city name="Antaripoï">
+    <latitude>-15.75</latitude>
+    <longitude>167.2</longitude>
+  </city>
+  <city name="Anwaré">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.7666667</longitude>
+  </city>
+  <city name="Aop">
+    <latitude>-16.0833333</latitude>
+    <longitude>167.4</longitude>
+  </city>
+  <city name="Aouloua">
+    <latitude>-16.3333333</latitude>
+    <longitude>167.7166667</longitude>
+  </city>
+  <city name="Aoutili">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Apopo">
+    <latitude>-15.4333333</latitude>
+    <longitude>167.7166667</longitude>
+  </city>
+  <city name="Arasa">
+    <latitude>-15.5166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Aratoa">
+    <latitude>-15.4666667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Aravida">
+    <latitude>-15.6833333</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Ariaou">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Aroka">
+    <latitude>-15.7</latitude>
+    <longitude>167.2166667</longitude>
+  </city>
+  <city name="Aronbalato">
+    <latitude>-15.4833333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Arong">
+    <latitude>-15.3333333</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Asé">
+    <latitude>-16.3</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Assen">
+    <latitude>-16.3166667</latitude>
+    <longitude>167.7</longitude>
+  </city>
+  <city name="Assoué">
+    <latitude>-16.5166667</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Assourou">
+    <latitude>-16.3833333</latitude>
+    <longitude>167.7166667</longitude>
+  </city>
+  <city name="Ataboulou">
+    <latitude>-15.4833333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Atangouroua">
+    <latitude>-15.5</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Atavoa">
+    <latitude>-15.3</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Atsaritibi">
+    <latitude>-15.15</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Atsoma">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Aulua">
+    <latitude>-16.3333333</latitude>
+    <longitude>167.7166667</longitude>
+  </city>
+  <city name="Avatouna">
+    <latitude>-15.5166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Aviliana">
+    <latitude>-15.4833333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Avira">
+    <latitude>-14.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Avire">
+    <latitude>-14.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Avounbaka">
+    <latitude>-15.6333333</latitude>
+    <longitude>167.1</longitude>
+  </city>
+  <city name="Avtitnan">
+    <latitude>-14.3666667</latitude>
+    <longitude>167.5333333</longitude>
+  </city>
+  <city name="Baagwergwèr">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8</longitude>
+  </city>
+  <city name="Baalap">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Baga">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Baïtora">
+    <latitude>-15.2666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Bakakara">
+    <latitude>-15.3166667</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Balago">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Banhoul">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Baréréo">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Barik">
+    <latitude>-16.1666667</latitude>
+    <longitude>167.4833333</longitude>
+  </city>
+  <city name="Barksal">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Barvet">
+    <latitude>-15.8333333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Batambon">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Batambou">
+    <latitude>-16.2166667</latitude>
+    <longitude>167.5833333</longitude>
+  </city>
+  <city name="Batarhoumbou">
+    <latitude>-15.9833333</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Batarlilip">
+    <latitude>-16.0</latitude>
+    <longitude>167.25</longitude>
+  </city>
+  <city name="Bat">
+    <latitude>-16.3166667</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Batenfoutou">
+    <latitude>-15.5833333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Batin">
+    <latitude>-16.3166667</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Batnavni">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Batouitano">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Batouna">
+    <latitude>-15.3</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Batounaéré">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Batounaroutoul">
+    <latitude>-15.5166667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Batounboaen">
+    <latitude>-15.5</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Batounfaramb">
+    <latitude>-15.45</latitude>
+    <longitude>166.9333333</longitude>
+  </city>
+  <city name="Batounklao">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Batounlemak">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Batountalbarav">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.9333333</longitude>
+  </city>
+  <city name="Batvoubarav">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Baulap">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Beer">
+    <latitude>-15.6</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Bellevue">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Bénamour">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Bénavoué">
+    <latitude>-15.5833333</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Bénéhour">
+    <latitude>-16.5</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Bétarara">
+    <latitude>-15.1</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Bétel">
+    <latitude>-16.0333333</latitude>
+    <longitude>167.4</longitude>
+  </city>
+  <city name="Bethel">
+    <latitude>-19.55</latitude>
+    <longitude>169.2666667</longitude>
+  </city>
+  <city name="Béwéto">
+    <latitude>-14.2333333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Bigeïlan">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Bilbilou">
+    <latitude>-15.5</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Bilibil">
+    <latitude>-15.45</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Biloykoulouwan">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Bitar">
+    <latitude>-16.05</latitude>
+    <longitude>167.2166667</longitude>
+  </city>
+  <city name="Boatpasis">
+    <latitude>-16.7833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Bogor">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Bolès">
+    <latitude>-16.35</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Boloa">
+    <latitude>-17.0666667</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Bongabonga">
+    <latitude>-16.9333333</latitude>
+    <longitude>168.5333333</longitude>
+  </city>
+  <city name="Bonkowia">
+    <latitude>-16.6666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Borabor">
+    <latitude>-16.45</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Boroumvor">
+    <latitude>-16.5333333</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Bosao">
+    <latitude>-16.7833333</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Boton">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Botvornov">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Bouéboué">
+    <latitude>-15.35</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Bouégou">
+    <latitude>-15.6</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Bouinii">
+    <latitude>-15.7333333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Bouisourou">
+    <latitude>-15.5166667</latitude>
+    <longitude>166.7166667</longitude>
+  </city>
+  <city name="Boulhak">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Boumhaéham">
+    <latitude>-16.5833333</latitude>
+    <longitude>167.4666667</longitude>
+  </city>
+  <city name="Bounahatsa">
+    <latitude>-15.0333333</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Bounanbaga">
+    <latitude>-15.3166667</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Bouniakoup">
+    <latitude>-18.8833333</latitude>
+    <longitude>169.0166667</longitude>
+  </city>
+  <city name="Bounlap">
+    <latitude>-15.9666667</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Bourbar">
+    <latitude>-16.3833333</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Bouroumba">
+    <latitude>-16.7166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Bouté-Bouté">
+    <latitude>-16.75</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Boutmaraémojoro">
+    <latitude>-15.4</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Boutmas">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.0</longitude>
+  </city>
+  <city name="Boutnavaga">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Bowé">
+    <latitude>-16.3666667</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Brennwé">
+    <latitude>-16.1333333</latitude>
+    <longitude>167.2833333</longitude>
+  </city>
+  <city name="Bucumba">
+    <latitude>-16.7166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Bumboko">
+    <latitude>-16.8166667</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Bunlap">
+    <latitude>-15.9666667</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Burumba">
+    <latitude>-16.7166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Bwatnapné">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Bwéhaltalam">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Bwélétaveureukon">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Centre">
+    <latitude>-17.7341667</latitude>
+    <longitude>168.3005556</longitude>
+  </city>
+  <city name="Chinohouse">
+    <latitude>-16.05</latitude>
+    <longitude>167.3833333</longitude>
+  </city>
+  <city name="Crépéta">
+    <latitude>-13.9166667</latitude>
+    <longitude>167.4833333</longitude>
+  </city>
+  <city name="Dalops">
+    <latitude>-15.0166667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Dalotaropou">
+    <latitude>-14.9666667</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Deuriv">
+    <latitude>-14.3666667</latitude>
+    <longitude>167.5333333</longitude>
+  </city>
+  <city name="Dirihi">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Douane">
+    <latitude>-15.5333333</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Douèn">
+    <latitude>-16.3666667</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Douin Doui">
+    <latitude>-15.4</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Dovin Doui">
+    <latitude>-15.4</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Drivaï">
+    <latitude>-16.45</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Duin Dui">
+    <latitude>-15.4</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Ebao">
+    <latitude>-17.6166667</latitude>
+    <longitude>168.5</longitude>
+  </city>
+  <city name="Eili">
+    <latitude>-20.25</latitude>
+    <longitude>169.8333333</longitude>
+  </city>
+  <city name="Ekar">
+    <latitude>-15.0</latitude>
+    <longitude>167.05</longitude>
+  </city>
+  <city name="Elia">
+    <latitude>-15.2666667</latitude>
+    <longitude>166.6666667</longitude>
+  </city>
+  <city name="Ellarmo">
+    <latitude>-16.15</latitude>
+    <longitude>167.2166667</longitude>
+  </city>
+  <city name="Emiotébin">
+    <latitude>-16.3333333</latitude>
+    <longitude>168.0</longitude>
+  </city>
+  <city name="Emiotouan">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Emoa">
+    <latitude>-17.55</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Empaoura">
+    <latitude>-15.65</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Emua">
+    <latitude>-17.55</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Endou">
+    <latitude>-16.2666667</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Enfitana">
+    <latitude>-19.5833333</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Engem">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Eniou">
+    <latitude>-19.3666667</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Enkaro">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Enkoul">
+    <latitude>-15.7</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Enouwakeur">
+    <latitude>-19.3666667</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Enpinane">
+    <latitude>-19.6</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Eouta">
+    <latitude>-16.9</latitude>
+    <longitude>168.5666667</longitude>
+  </city>
+  <city name="Epantgoueï">
+    <latitude>-17.7833333</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Epao">
+    <latitude>-17.625</latitude>
+    <longitude>168.4944444</longitude>
+  </city>
+  <city name="EpÌ„ang">
+    <latitude>-17.7833333</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Epule">
+    <latitude>-17.5722222</latitude>
+    <longitude>168.4583333</longitude>
+  </city>
+  <city name="Erano">
+    <latitude>-15.4333333</latitude>
+    <longitude>167.6666667</longitude>
+  </city>
+  <city name="Erata">
+    <latitude>-17.0166667</latitude>
+    <longitude>168.6</longitude>
+  </city>
+  <city name="Eren">
+    <latitude>-14.95</latitude>
+    <longitude>167.0166667</longitude>
+  </city>
+  <city name="Erévoulay">
+    <latitude>-15.65</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Espen">
+    <latitude>-20.15</latitude>
+    <longitude>169.8333333</longitude>
+  </city>
+  <city name="Eton">
+    <latitude>-17.75</latitude>
+    <longitude>168.55</longitude>
+  </city>
+  <city name="Etpouléo">
+    <latitude>-20.2333333</latitude>
+    <longitude>169.7666667</longitude>
+  </city>
+  <city name="Éuta">
+    <latitude>-16.9</latitude>
+    <longitude>168.5666667</longitude>
+  </city>
+  <city name="Evitawo">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Falan">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Falatasa">
+    <latitude>-15.4</latitude>
+    <longitude>167.0166667</longitude>
+  </city>
+  <city name="Falibeur">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Fali">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Falimapkon">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Faloua">
+    <latitude>-13.6666667</latitude>
+    <longitude>167.7</longitude>
+  </city>
+  <city name="Famban">
+    <latitude>-16.2166667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Fandoué">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Fanebal">
+    <latitude>-16.1833333</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Fanla">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Fanouatatao">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Fanpatey">
+    <latitude>-15.4</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Fanréréo">
+    <latitude>-16.15</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Fantiékon">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Faréalapa">
+    <latitude>-17.45</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Faroun">
+    <latitude>-16.5166667</latitude>
+    <longitude>167.6333333</longitude>
+  </city>
+  <city name="Farsari">
+    <latitude>-15.8833333</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Fartabo">
+    <latitude>-16.35</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Féléa">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Fila">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Filakara">
+    <latitude>-16.8166667</latitude>
+    <longitude>168.4</longitude>
+  </city>
+  <city name="Fingalato">
+    <latitude>-15.35</latitude>
+    <longitude>167.8</longitude>
+  </city>
+  <city name="Finongi">
+    <latitude>-17.0666667</latitude>
+    <longitude>168.4</longitude>
+  </city>
+  <city name="Fiourou">
+    <latitude>-15.6333333</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Fisina">
+    <latitude>-16.6333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Fona">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Fonteng">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Fontengro">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Fonwor">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Forari">
+    <latitude>-17.6666667</latitude>
+    <longitude>168.5166667</longitude>
+  </city>
+  <city name="Foréas">
+    <latitude>-13.9333333</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Fortsenal">
+    <latitude>-15.45</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Founpat">
+    <latitude>-15.45</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Fousroumbous">
+    <latitude>-15.45</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Fwimambwetoli">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8333333</longitude>
+  </city>
+  <city name="Fwimatal">
+    <latitude>-15.45</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Fwimbérougou">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Gavigamana">
+    <latitude>-13.1333333</latitude>
+    <longitude>166.5666667</longitude>
+  </city>
+  <city name="Gébénour">
+    <latitude>-16.25</latitude>
+    <longitude>167.6166667</longitude>
+  </city>
+  <city name="Gniérenioumen">
+    <latitude>-13.7</latitude>
+    <longitude>167.6166667</longitude>
+  </city>
+  <city name="Goulouf">
+    <latitude>-15.8833333</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Goun">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Green Hill">
+    <latitude>-19.3833333</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Grempo">
+    <latitude>-15.2666667</latitude>
+    <longitude>167.0666667</longitude>
+  </city>
+  <city name="Halos">
+    <latitude>-16.5333333</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Hangar">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Happy Land">
+    <latitude>-18.9166667</latitude>
+    <longitude>169.0833333</longitude>
+  </city>
+  <city name="Harimal">
+    <latitude>-16.1</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Hawor">
+    <latitude>-16.15</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Hébel">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.65</longitude>
+  </city>
+  <city name="Hémébouer">
+    <latitude>-16.25</latitude>
+    <longitude>167.6166667</longitude>
+  </city>
+  <city name="Hog Harbour">
+    <latitude>-15.1333333</latitude>
+    <longitude>167.1</longitude>
+  </city>
+  <city name="Hokoua">
+    <latitude>-14.6666667</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Hokua">
+    <latitude>-14.7</latitude>
+    <longitude>166.6</longitude>
+  </city>
+  <city name="Holen">
+    <latitude>-16.5166667</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Horrok">
+    <latitude>-16.1333333</latitude>
+    <longitude>167.2833333</longitude>
+  </city>
+  <city name="Houbikou">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Hounnbank">
+    <latitude>-16.6</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Iakobone">
+    <latitude>-15.0166667</latitude>
+    <longitude>167.05</longitude>
+  </city>
+  <city name="Iaosaou">
+    <latitude>-18.9666667</latitude>
+    <longitude>169.2166667</longitude>
+  </city>
+  <city name="Iaouwa">
+    <latitude>-13.1333333</latitude>
+    <longitude>166.5333333</longitude>
+  </city>
+  <city name="Iasoa">
+    <latitude>-19.5333333</latitude>
+    <longitude>170.2</longitude>
+  </city>
+  <city name="Ifo">
+    <latitude>-18.9166667</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Ignal">
+    <latitude>-16.5166667</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Iilé">
+    <latitude>-13.7</latitude>
+    <longitude>167.65</longitude>
+  </city>
+  <city name="Ijeptzav">
+    <latitude>-20.15</latitude>
+    <longitude>169.7666667</longitude>
+  </city>
+  <city name="Ikahakahak">
+    <latitude>-19.6333333</latitude>
+    <longitude>169.3666667</longitude>
+  </city>
+  <city name="Ikaokao">
+    <latitude>-19.2666667</latitude>
+    <longitude>169.6</longitude>
+  </city>
+  <city name="Ikaseukwi">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Ikeupo">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Ikiyoo">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Ikounala">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Ikounap">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.3833333</longitude>
+  </city>
+  <city name="Ikouroup">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.4166667</longitude>
+  </city>
+  <city name="Ilamré">
+    <latitude>-15.7333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Iléreup">
+    <latitude>-19.4333333</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Ileupouoou">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.5</longitude>
+  </city>
+  <city name="Ilisilis">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.4</longitude>
+  </city>
+  <city name="Iliwaba">
+    <latitude>-15.6333333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Ilpweutou">
+    <latitude>-19.45</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Imaki">
+    <latitude>-19.6</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Imalé">
+    <latitude>-19.2666667</latitude>
+    <longitude>169.5833333</longitude>
+  </city>
+  <city name="Imareukak">
+    <latitude>-19.6166667</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Imlao">
+    <latitude>-19.5833333</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Imreang">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.4</longitude>
+  </city>
+  <city name="Imwafeun">
+    <latitude>-19.35</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Imwapeul">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Imwareupo">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Imwaya">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Inap">
+    <latitude>-20.1333333</latitude>
+    <longitude>169.8</longitude>
+  </city>
+  <city name="Inter">
+    <latitude>-16.05</latitude>
+    <longitude>167.2166667</longitude>
+  </city>
+  <city name="Invanou">
+    <latitude>-15.9</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Ioul">
+    <latitude>-16.1</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Ipao">
+    <latitude>-19.5166667</latitude>
+    <longitude>170.2166667</longitude>
+  </city>
+  <city name="Ipenyen">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.3833333</longitude>
+  </city>
+  <city name="Ipeukel">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Ipeukeul">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Ireupuow">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.5</longitude>
+  </city>
+  <city name="Iriré">
+    <latitude>-15.5666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Isaka">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.4</longitude>
+  </city>
+  <city name="Isangel">
+    <latitude>-19.55</latitude>
+    <longitude>169.2666667</longitude>
+  </city>
+  <city name="Isarkey">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.4333333</longitude>
+  </city>
+  <city name="Isavaï">
+    <latitude>-19.2666667</latitude>
+    <longitude>169.5833333</longitude>
+  </city>
+  <city name="Isino">
+    <latitude>-20.15</latitude>
+    <longitude>169.75</longitude>
+  </city>
+  <city name="Isowai">
+    <latitude>-19.2666667</latitude>
+    <longitude>169.5833333</longitude>
+  </city>
+  <city name="Itakoma">
+    <latitude>-16.9</latitude>
+    <longitude>168.5833333</longitude>
+  </city>
+  <city name="Itamotou">
+    <latitude>-19.2666667</latitude>
+    <longitude>169.5833333</longitude>
+  </city>
+  <city name="Itounga">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.2333333</longitude>
+  </city>
+  <city name="Iwey">
+    <latitude>-19.55</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Jasmori">
+    <latitude>-14.9166667</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Kaïntsouro">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Kaïpiloa">
+    <latitude>-15.4</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Kamel Léwawa">
+    <latitude>-15.65</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Kaounoméikeur">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Kariamaoura">
+    <latitude>-15.7833333</latitude>
+    <longitude>166.7166667</longitude>
+  </city>
+  <city name="Karo">
+    <latitude>-16.0333333</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Katbol">
+    <latitude>-16.1833333</latitude>
+    <longitude>167.4666667</longitude>
+  </city>
+  <city name="Kéké">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Kérembéi">
+    <latitude>-15.1166667</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Kérémbitia">
+    <latitude>-13.9166667</latitude>
+    <longitude>167.4833333</longitude>
+  </city>
+  <city name="Kérénaoura">
+    <latitude>-15.6666667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Kérénavura">
+    <latitude>-15.6666667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Kérentavou">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Kérépoua">
+    <latitude>-13.8833333</latitude>
+    <longitude>167.5833333</longitude>
+  </city>
+  <city name="Kindou">
+    <latitude>-16.3333333</latitude>
+    <longitude>167.3833333</longitude>
+  </city>
+  <city name="Koïmarama">
+    <latitude>-13.9</latitude>
+    <longitude>167.4666667</longitude>
+  </city>
+  <city name="Kolé">
+    <latitude>-15.2333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Konaékeun">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Konkon">
+    <latitude>-16.15</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Korro">
+    <latitude>-14.3666667</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Koulbaga">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Koulouwan">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Kouptana">
+    <latitude>-15.45</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Kouroumanpé">
+    <latitude>-16.8833333</latitude>
+    <longitude>168.55</longitude>
+  </city>
+  <city name="Kourourétapo">
+    <latitude>-13.4333333</latitude>
+    <longitude>166.7</longitude>
+  </city>
+  <city name="Kranturoe">
+    <latitude>-15.5</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Krantvroe">
+    <latitude>-15.5</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Kuru">
+    <latitude>-14.35</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Kwakéa">
+    <latitude>-13.9166667</latitude>
+    <longitude>167.4833333</longitude>
+  </city>
+  <city name="Kwanglav">
+    <latitude>-13.8</latitude>
+    <longitude>167.5333333</longitude>
+  </city>
+  <city name="Kwétégaveg">
+    <latitude>-14.2833333</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Laanbek">
+    <latitude>-13.6666667</latitude>
+    <longitude>167.65</longitude>
+  </city>
+  <city name="Labo">
+    <latitude>-16.4666667</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Laborha">
+    <latitude>-15.0833333</latitude>
+    <longitude>166.7333333</longitude>
+  </city>
+  <city name="Laboué">
+    <latitude>-15.5166667</latitude>
+    <longitude>167.1</longitude>
+  </city>
+  <city name="Laboultamat">
+    <latitude>-15.5333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Labwarou">
+    <latitude>-15.4666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Ladhu">
+    <latitude>-15.1333333</latitude>
+    <longitude>167.0</longitude>
+  </city>
+  <city name="Lahoénuwi">
+    <latitude>-19.4666667</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Lakatoro">
+    <latitude>-16.1166667</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Lakéréré">
+    <latitude>-15.0166667</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Lakétam">
+    <latitude>-19.3666667</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lakinasouman">
+    <latitude>-19.5</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Laknasoua">
+    <latitude>-17.55</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Laladiva">
+    <latitude>-15.75</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lalaéré">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Lalbétaès">
+    <latitude>-15.7666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Lalda">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lalembou">
+    <latitude>-16.35</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Lalembu">
+    <latitude>-16.35</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Lalinda">
+    <latitude>-16.35</latitude>
+    <longitude>168.05</longitude>
+  </city>
+  <city name="Laloupleïto">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Lalwori">
+    <latitude>-15.7833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lamak">
+    <latitude>-15.3833333</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Lamalanga">
+    <latitude>-15.4666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Lamamas">
+    <latitude>-13.85</latitude>
+    <longitude>167.7</longitude>
+  </city>
+  <city name="Lamap">
+    <latitude>-16.4333333</latitude>
+    <longitude>167.8</longitude>
+  </city>
+  <city name="Lamarakaï">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Lamaro">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Lamarou">
+    <latitude>-16.5833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lamboukouti">
+    <latitude>-16.9166667</latitude>
+    <longitude>168.5166667</longitude>
+  </city>
+  <city name="Lamboulpatouey">
+    <latitude>-16.35</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Lambwaen">
+    <latitude>-15.6333333</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Lamengo">
+    <latitude>-16.5</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Lametin">
+    <latitude>-15.3666667</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="LamÌ„inaora">
+    <latitude>-19.5</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Lamniat">
+    <latitude>-15.9166667</latitude>
+    <longitude>167.3</longitude>
+  </city>
+  <city name="Lamorou">
+    <latitude>-15.4666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Lamorountoa">
+    <latitude>-15.55</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lamouéneuvel">
+    <latitude>-19.4666667</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lampétiar">
+    <latitude>-15.8833333</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Lamwinaoura">
+    <latitude>-19.5</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Langoutoïtoli">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="LangromÌ„os">
+    <latitude>-14.3166667</latitude>
+    <longitude>167.5833333</longitude>
+  </city>
+  <city name="Lankourou">
+    <latitude>-19.55</latitude>
+    <longitude>169.4333333</longitude>
+  </city>
+  <city name="Lanour">
+    <latitude>-16.5333333</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Lao">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Laoné">
+    <latitude>-14.85</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Laonomoa">
+    <latitude>-17.5</latitude>
+    <longitude>168.4166667</longitude>
+  </city>
+  <city name="Laosaké">
+    <latitude>-17.5</latitude>
+    <longitude>168.4833333</longitude>
+  </city>
+  <city name="Laounalang">
+    <latitude>-19.3833333</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lapé">
+    <latitude>-15.05</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Lapourépouré">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Lararomboha">
+    <latitude>-15.5333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Larata">
+    <latitude>-15.0166667</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Laratava">
+    <latitude>-15.45</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Laravet">
+    <latitude>-16.1833333</latitude>
+    <longitude>167.35</longitude>
+  </city>
+  <city name="Laravinambosvi">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Larawèt">
+    <latitude>-16.1833333</latitude>
+    <longitude>167.35</longitude>
+  </city>
+  <city name="Larévet">
+    <latitude>-16.1833333</latitude>
+    <longitude>167.35</longitude>
+  </city>
+  <city name="La Roseraie">
+    <latitude>-15.5333333</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Larouanou">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Laroup">
+    <latitude>-19.4333333</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lasméa">
+    <latitude>-15.1166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Lasoulé">
+    <latitude>-15.4</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Lasoulépona">
+    <latitude>-15.45</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Lasoulésoulé">
+    <latitude>-15.6</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Latano">
+    <latitude>-15.55</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Lativilan">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.9333333</longitude>
+  </city>
+  <city name="Latounoukaé">
+    <latitude>-15.45</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Latouptoup">
+    <latitude>-15.4</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Lavalsal">
+    <latitude>-15.95</latitude>
+    <longitude>167.3166667</longitude>
+  </city>
+  <city name="Lavatavo">
+    <latitude>-15.0333333</latitude>
+    <longitude>167.0</longitude>
+  </city>
+  <city name="Laven">
+    <latitude>-15.5333333</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Lavonda">
+    <latitude>-15.35</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Lavousi">
+    <latitude>-15.4666667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lavoutou">
+    <latitude>-15.5166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lawaawa">
+    <latitude>-14.8666667</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Lawe">
+    <latitude>-16.45</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Lawénata">
+    <latitude>-19.4666667</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Lawisa">
+    <latitude>-18.7833333</latitude>
+    <longitude>169.2</longitude>
+  </city>
+  <city name="Léar">
+    <latitude>-13.55</latitude>
+    <longitude>167.3333333</longitude>
+  </city>
+  <city name="Léblia">
+    <latitude>-16.7333333</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Léboukouvini">
+    <latitude>-15.7</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Leboung">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Léboutsousap">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Lebutt">
+    <latitude>-14.95</latitude>
+    <longitude>167.0166667</longitude>
+  </city>
+  <city name="Lédavi">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Légal">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Léhunang">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Leïwoma">
+    <latitude>-17.0166667</latitude>
+    <longitude>168.6166667</longitude>
+  </city>
+  <city name="Lékoual">
+    <latitude>-13.4</latitude>
+    <longitude>166.6833333</longitude>
+  </city>
+  <city name="Le Lagon">
+    <latitude>-17.7666667</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Lélé">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Lélislis">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Lélowalo">
+    <latitude>-19.45</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lélvah">
+    <latitude>-15.7</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Lémalda">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Léman">
+    <latitude>-16.7166667</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Lembinwen">
+    <latitude>-16.5</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Lémèmbléké">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lémettou">
+    <latitude>-16.0833333</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Lémwelmwel">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Lénakel">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.2666667</longitude>
+  </city>
+  <city name="Lénaken">
+    <latitude>-19.4666667</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Lénana">
+    <latitude>-15.65</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Lénapouas">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Lenaükas">
+    <latitude>-19.4333333</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lénépin">
+    <latitude>-19.45</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Lenmowet">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.2666667</longitude>
+  </city>
+  <city name="Lenok">
+    <latitude>-15.7333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lénor">
+    <latitude>-16.6</latitude>
+    <longitude>167.4666667</longitude>
+  </city>
+  <city name="Lenwakmoul">
+    <latitude>-15.7666667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lepersivir">
+    <latitude>-16.3666667</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Léppa">
+    <latitude>-16.6833333</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Lerasangoul">
+    <latitude>-15.7</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lératowo">
+    <latitude>-15.7</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Léronron">
+    <latitude>-15.9</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Lérourouk">
+    <latitude>-15.65</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Les Allobroges">
+    <latitude>-16.7833333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lésarmalras">
+    <latitude>-15.9</latitude>
+    <longitude>167.2</longitude>
+  </city>
+  <city name="Lésasa">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Léséréplag">
+    <latitude>-13.55</latitude>
+    <longitude>167.3333333</longitude>
+  </city>
+  <city name="Les Lagunes">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.3333333</longitude>
+  </city>
+  <city name="Lésoubélakan">
+    <latitude>-15.75</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Létévenrar">
+    <latitude>-14.9833333</latitude>
+    <longitude>167.0166667</longitude>
+  </city>
+  <city name="Létowaleue">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Létowopom">
+    <latitude>-19.5</latitude>
+    <longitude>169.2666667</longitude>
+  </city>
+  <city name="Letut">
+    <latitude>-15.0666667</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Leumanggoviati">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.3666667</longitude>
+  </city>
+  <city name="Leve">
+    <latitude>-16.3</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Lével">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Léviamp">
+    <latitude>-16.15</latitude>
+    <longitude>167.2166667</longitude>
+  </city>
+  <city name="Lévolvol">
+    <latitude>-14.3166667</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Lewaïbilak">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Léwawa">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lewelvaru">
+    <latitude>-15.0666667</latitude>
+    <longitude>167.05</longitude>
+  </city>
+  <city name="Liékar">
+    <latitude>-15.0333333</latitude>
+    <longitude>167.0</longitude>
+  </city>
+  <city name="Lihiouk">
+    <latitude>-15.7333333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lihiwouk">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Likalia">
+    <latitude>-17.0166667</latitude>
+    <longitude>168.6166667</longitude>
+  </city>
+  <city name="Likon">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Limalgan">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Limap">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.5166667</longitude>
+  </city>
+  <city name="Limbot">
+    <latitude>-14.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Limdi">
+    <latitude>-13.6833333</latitude>
+    <longitude>167.65</longitude>
+  </city>
+  <city name="Linarar">
+    <latitude>-16.1833333</latitude>
+    <longitude>167.4666667</longitude>
+  </city>
+  <city name="Linboul">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Linèn">
+    <latitude>-15.7</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Liro">
+    <latitude>-16.45</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Litzlitz">
+    <latitude>-16.1166667</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Loameul">
+    <latitude>-19.35</latitude>
+    <longitude>169.25</longitude>
+  </city>
+  <city name="Loanengo">
+    <latitude>-19.55</latitude>
+    <longitude>169.4166667</longitude>
+  </city>
+  <city name="Loarou">
+    <latitude>-15.1666667</latitude>
+    <longitude>167.1</longitude>
+  </city>
+  <city name="Lobanga">
+    <latitude>-15.4</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Lobatmas">
+    <latitude>-15.1166667</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Loéafi">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.3666667</longitude>
+  </city>
+  <city name="Loélafomwa">
+    <latitude>-19.3833333</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Loghvari">
+    <latitude>-16.5333333</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Lokéarou">
+    <latitude>-19.45</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lokoten">
+    <latitude>-15.15</latitude>
+    <longitude>167.1</longitude>
+  </city>
+  <city name="Lolbwavato">
+    <latitude>-15.4666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Loldomaé">
+    <latitude>-15.4</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Loliboulo">
+    <latitude>-16.25</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Lolibwé">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lolimari">
+    <latitude>-16.25</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Lolmambwéo">
+    <latitude>-15.5166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Loloarou">
+    <latitude>-15.3333333</latitude>
+    <longitude>167.8</longitude>
+  </city>
+  <city name="Lolobanga">
+    <latitude>-15.4833333</latitude>
+    <longitude>167.75</longitude>
+  </city>
+  <city name="Loloikala">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Lolokalato">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.75</longitude>
+  </city>
+  <city name="Lolomangoua">
+    <latitude>-15.4</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Lolomatwi">
+    <latitude>-15.3333333</latitude>
+    <longitude>167.8</longitude>
+  </city>
+  <city name="Lolombivounié">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Lolominiou">
+    <latitude>-14.9166667</latitude>
+    <longitude>166.5666667</longitude>
+  </city>
+  <city name="Lolonwélé">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Lolopinawa">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.75</longitude>
+  </city>
+  <city name="Lolopuépé">
+    <latitude>-15.3</latitude>
+    <longitude>167.8833333</longitude>
+  </city>
+  <city name="Lolopuépué">
+    <latitude>-15.3</latitude>
+    <longitude>167.8833333</longitude>
+  </city>
+  <city name="Lolopwépwé">
+    <latitude>-15.3</latitude>
+    <longitude>167.8833333</longitude>
+  </city>
+  <city name="Lolosori">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.9</longitude>
+  </city>
+  <city name="Lolotingé">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Lolovangé">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8833333</longitude>
+  </city>
+  <city name="Lolovélé">
+    <latitude>-15.4666667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Lolovotali">
+    <latitude>-15.45</latitude>
+    <longitude>167.8666667</longitude>
+  </city>
+  <city name="Lolowaï">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.9666667</longitude>
+  </city>
+  <city name="Lolowarou">
+    <latitude>-15.0833333</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Loloway">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.9666667</longitude>
+  </city>
+  <city name="Lolsaliwann">
+    <latitude>-15.5333333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lolsanga">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Loltong">
+    <latitude>-15.55</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Loluerkon">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Lomalanga">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8666667</longitude>
+  </city>
+  <city name="Lomatéïwéï">
+    <latitude>-15.4166667</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Lombaha">
+    <latitude>-15.3</latitude>
+    <longitude>167.8666667</longitude>
+  </city>
+  <city name="Loméméti">
+    <latitude>-19.5</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Lomtéhékeul">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lomteuhéakal">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lomwanapiep">
+    <latitude>-19.3833333</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Lonasilian">
+    <latitude>-19.4666667</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Lonbaha">
+    <latitude>-15.3</latitude>
+    <longitude>167.8666667</longitude>
+  </city>
+  <city name="Lonbarnié">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lonbilingdoun">
+    <latitude>-15.9</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Lonboué">
+    <latitude>-15.9333333</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Lonbouréoul">
+    <latitude>-16.0</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Lonbwélo">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Londwa">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Loné">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.75</longitude>
+  </city>
+  <city name="Lonengwarao">
+    <latitude>-15.4666667</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Loneowei">
+    <latitude>-16.3333333</latitude>
+    <longitude>168.0333333</longitude>
+  </city>
+  <city name="Lonepan">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Lonépéyéwié">
+    <latitude>-19.45</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Longangoua">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Longwarou">
+    <latitude>-15.35</latitude>
+    <longitude>167.7833333</longitude>
+  </city>
+  <city name="Lonha">
+    <latitude>-16.1</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Lonhao">
+    <latitude>-15.4166667</latitude>
+    <longitude>167.9</longitude>
+  </city>
+  <city name="Lonlébi">
+    <latitude>-15.95</latitude>
+    <longitude>168.2333333</longitude>
+  </city>
+  <city name="Lonmink">
+    <latitude>-16.3166667</latitude>
+    <longitude>167.3833333</longitude>
+  </city>
+  <city name="Lononwei">
+    <latitude>-16.3333333</latitude>
+    <longitude>168.0333333</longitude>
+  </city>
+  <city name="Lonorore">
+    <latitude>-15.85</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lonré">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Lonsal">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Lontigé">
+    <latitude>-15.3666667</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Lonwaditari">
+    <latitude>-15.35</latitude>
+    <longitude>167.7833333</longitude>
+  </city>
+  <city name="Lonwar">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lonwel">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Lonyemyem">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Loonékiyawileung">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.25</longitude>
+  </city>
+  <city name="Loonélangat">
+    <latitude>-19.35</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Loonélapeun">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Loonoo">
+    <latitude>-19.5</latitude>
+    <longitude>169.4166667</longitude>
+  </city>
+  <city name="Loopa">
+    <latitude>-16.8166667</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Loouanapouta">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.25</longitude>
+  </city>
+  <city name="Looukas">
+    <latitude>-19.5</latitude>
+    <longitude>169.2333333</longitude>
+  </city>
+  <city name="Looukeureus">
+    <latitude>-19.4333333</latitude>
+    <longitude>169.2666667</longitude>
+  </city>
+  <city name="Looulooupou">
+    <latitude>-19.5</latitude>
+    <longitude>169.4333333</longitude>
+  </city>
+  <city name="Looumwanoumwan">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.25</longitude>
+  </city>
+  <city name="Loounaoula">
+    <latitude>-19.4333333</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Loounapkamey">
+    <latitude>-19.5</latitude>
+    <longitude>169.25</longitude>
+  </city>
+  <city name="Loounapkaülangeus">
+    <latitude>-19.5</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Loounapkiko">
+    <latitude>-19.5</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Loounatkey">
+    <latitude>-19.4</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Loounékaweuk">
+    <latitude>-19.5</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Loounémeloupang">
+    <latitude>-19.3666667</latitude>
+    <longitude>169.25</longitude>
+  </city>
+  <city name="Loouniel">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.4</longitude>
+  </city>
+  <city name="Loounihm">
+    <latitude>-19.4666667</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Loounimhapeun">
+    <latitude>-19.35</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Looutel">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.2166667</longitude>
+  </city>
+  <city name="Looutopounga">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.3833333</longitude>
+  </city>
+  <city name="Loptoro">
+    <latitude>-15.3</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Lorédiakarkar">
+    <latitude>-15.2333333</latitude>
+    <longitude>167.1166667</longitude>
+  </city>
+  <city name="Loriéno">
+    <latitude>-15.1833333</latitude>
+    <longitude>167.1166667</longitude>
+  </city>
+  <city name="Losokwarou">
+    <latitude>-15.4666667</latitude>
+    <longitude>167.7</longitude>
+  </city>
+  <city name="Losoué">
+    <latitude>-15.5833333</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Lotabone">
+    <latitude>-15.0166667</latitude>
+    <longitude>167.0166667</longitude>
+  </city>
+  <city name="Lotapouna">
+    <latitude>-19.4</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Lotawan">
+    <latitude>-13.85</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Loua">
+    <latitude>-15.9333333</latitude>
+    <longitude>167.3166667</longitude>
+  </city>
+  <city name="Louganville">
+    <latitude>-15.5333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Loulep">
+    <latitude>-16.4666667</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Louli">
+    <latitude>-16.45</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Lounaragi">
+    <latitude>-13.3333333</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Lounékoukwéou">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.75</longitude>
+  </city>
+  <city name="Louoïmalakaï">
+    <latitude>-16.5166667</latitude>
+    <longitude>167.6666667</longitude>
+  </city>
+  <city name="Loupaléa">
+    <latitude>-16.8833333</latitude>
+    <longitude>168.5333333</longitude>
+  </city>
+  <city name="Louri">
+    <latitude>-15.0666667</latitude>
+    <longitude>167.05</longitude>
+  </city>
+  <city name="Lourou">
+    <latitude>-15.2166667</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Lovénoué">
+    <latitude>-15.6333333</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Loviarou">
+    <latitude>-19.45</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lovis">
+    <latitude>-16.4333333</latitude>
+    <longitude>167.8</longitude>
+  </city>
+  <city name="Lovonolivo">
+    <latitude>-13.8333333</latitude>
+    <longitude>167.3833333</longitude>
+  </city>
+  <city name="Lowaïnasasa">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Lowa">
+    <latitude>-16.45</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Lowarhé">
+    <latitude>-15.1833333</latitude>
+    <longitude>167.1333333</longitude>
+  </city>
+  <city name="Lowatmémèr">
+    <latitude>-15.3</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Lowatoumbé">
+    <latitude>-15.3333333</latitude>
+    <longitude>167.9666667</longitude>
+  </city>
+  <city name="Lowéao">
+    <latitude>-19.45</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Lowékéwou">
+    <latitude>-16.6</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Lowe">
+    <latitude>-16.45</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Lowenof">
+    <latitude>-15.1666667</latitude>
+    <longitude>167.1</longitude>
+  </city>
+  <city name="Lowérié">
+    <latitude>-15.2</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Lowiravé">
+    <latitude>-15.5</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Lowitava">
+    <latitude>-15.3</latitude>
+    <longitude>167.9</longitude>
+  </city>
+  <city name="Lowitawor">
+    <latitude>-15.4166667</latitude>
+    <longitude>167.9</longitude>
+  </city>
+  <city name="Lowiteul">
+    <latitude>-19.3333333</latitude>
+    <longitude>169.2666667</longitude>
+  </city>
+  <city name="Lowosi">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Lowoudbé">
+    <latitude>-13.8333333</latitude>
+    <longitude>167.7</longitude>
+  </city>
+  <city name="Lowounbouga">
+    <latitude>-15.35</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Lowountawor">
+    <latitude>-15.3333333</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Luganville Bay">
+    <latitude>-15.5333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Luganville">
+    <latitude>-15.5333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Maat">
+    <latitude>-17.6833333</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Maé">
+    <latitude>-16.0666667</latitude>
+    <longitude>167.3666667</longitude>
+  </city>
+  <city name="Maé-Moraé">
+    <latitude>-16.75</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Magam">
+    <latitude>-16.1</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Makata">
+    <latitude>-17.0666667</latitude>
+    <longitude>168.4166667</longitude>
+  </city>
+  <city name="Makatambo">
+    <latitude>-15.55</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Makéoné">
+    <latitude>-14.3666667</latitude>
+    <longitude>167.4666667</longitude>
+  </city>
+  <city name="Makéon">
+    <latitude>-14.3666667</latitude>
+    <longitude>167.4833333</longitude>
+  </city>
+  <city name="Malaliou">
+    <latitude>-17.4666667</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Malao">
+    <latitude>-15.1666667</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Malaora">
+    <latitude>-17.7</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Malapat">
+    <latitude>-17.7166667</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Malboral">
+    <latitude>-16.55</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Malfakal">
+    <latitude>-16.55</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Malmariv">
+    <latitude>-15.3166667</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Maloéta">
+    <latitude>-15.1333333</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Malori">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Malouibakaranaé">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Maloutfol">
+    <latitude>-15.45</latitude>
+    <longitude>166.9666667</longitude>
+  </city>
+  <city name="Malvér">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Malvouko">
+    <latitude>-14.7666667</latitude>
+    <longitude>166.6833333</longitude>
+  </city>
+  <city name="Mandri">
+    <latitude>-15.3</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Mangarisiou">
+    <latitude>-16.9166667</latitude>
+    <longitude>168.5666667</longitude>
+  </city>
+  <city name="Mangorango">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.4666667</longitude>
+  </city>
+  <city name="Manpay">
+    <latitude>-16.8166667</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Manuro">
+    <latitude>-17.7</latitude>
+    <longitude>168.6</longitude>
+  </city>
+  <city name="Mapkinkin">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Mapoua">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.4833333</longitude>
+  </city>
+  <city name="Mapouna">
+    <latitude>-16.6</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Maraé">
+    <latitude>-17.05</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Marao">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.4666667</longitude>
+  </city>
+  <city name="Marchal">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.0666667</longitude>
+  </city>
+  <city name="Marembako">
+    <latitude>-16.55</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Marino">
+    <latitude>-14.9833333</latitude>
+    <longitude>168.05</longitude>
+  </city>
+  <city name="Maronron">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Marou">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.4666667</longitude>
+  </city>
+  <city name="Marow">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.4666667</longitude>
+  </city>
+  <city name="Maru">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.4666667</longitude>
+  </city>
+  <city name="Masalato">
+    <latitude>-15.4</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Masol">
+    <latitude>-14.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Mataé">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Matala">
+    <latitude>-14.85</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Mataméa">
+    <latitude>-15.45</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Matandan">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.7166667</longitude>
+  </city>
+  <city name="Matangui-Salembanga">
+    <latitude>-16.8833333</latitude>
+    <longitude>168.5833333</longitude>
+  </city>
+  <city name="Matanpousa">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.2166667</longitude>
+  </city>
+  <city name="Matansao">
+    <latitude>-15.6666667</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Matanvat">
+    <latitude>-15.9333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Mataravi">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.9666667</longitude>
+  </city>
+  <city name="Matbopo">
+    <latitude>-15.5333333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Maté">
+    <latitude>-16.6833333</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Maténoua">
+    <latitude>-16.25</latitude>
+    <longitude>167.6166667</longitude>
+  </city>
+  <city name="Matié">
+    <latitude>-16.3</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Matin'gi">
+    <latitude>-19.55</latitude>
+    <longitude>170.2166667</longitude>
+  </city>
+  <city name="Mat">
+    <latitude>-16.35</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Matnavando">
+    <latitude>-15.4666667</latitude>
+    <longitude>167.8333333</longitude>
+  </city>
+  <city name="Matnavora">
+    <latitude>-15.4333333</latitude>
+    <longitude>167.6666667</longitude>
+  </city>
+  <city name="Matoa">
+    <latitude>-17.4666667</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Mavora">
+    <latitude>-16.3</latitude>
+    <longitude>168.3</longitude>
+  </city>
+  <city name="Mbarévit">
+    <latitude>-14.2666667</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Mégam">
+    <latitude>-16.1</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Melbulbul">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Melcofé">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.3005556</longitude>
+  </city>
+  <city name="Mele">
+    <latitude>-17.7</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Mélibwé">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Mélip">
+    <latitude>-16.5833333</latitude>
+    <longitude>167.4833333</longitude>
+  </city>
+  <city name="Melsisi">
+    <latitude>-15.7333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Meltébin">
+    <latitude>-16.3166667</latitude>
+    <longitude>168.0</longitude>
+  </city>
+  <city name="Mélten">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Melto">
+    <latitude>-16.1833333</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Melwar">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Membrémo">
+    <latitude>-16.6333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Ménégoro">
+    <latitude>-14.85</latitude>
+    <longitude>166.55</longitude>
+  </city>
+  <city name="Méraroua">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Méré">
+    <latitude>-17.4666667</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Mériver">
+    <latitude>-16.4333333</latitude>
+    <longitude>167.7833333</longitude>
+  </city>
+  <city name="Mésabolo">
+    <latitude>-14.2166667</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Métadounkoul">
+    <latitude>-15.75</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Métamli">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Métanwar">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Métarouk">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Métavèn">
+    <latitude>-16.1666667</latitude>
+    <longitude>167.4833333</longitude>
+  </city>
+  <city name="Météo">
+    <latitude>-15.5333333</latitude>
+    <longitude>167.1333333</longitude>
+  </city>
+  <city name="Métésari">
+    <latitude>-13.75</latitude>
+    <longitude>167.5166667</longitude>
+  </city>
+  <city name="Milipe">
+    <latitude>-16.5833333</latitude>
+    <longitude>167.4833333</longitude>
+  </city>
+  <city name="MÌ„osol">
+    <latitude>-14.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Mission d' Aouloua">
+    <latitude>-16.3333333</latitude>
+    <longitude>167.7166667</longitude>
+  </city>
+  <city name="Modi">
+    <latitude>-14.95</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Moériou">
+    <latitude>-16.9333333</latitude>
+    <longitude>168.55</longitude>
+  </city>
+  <city name="Mogam">
+    <latitude>-16.1</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Mohoun'gha">
+    <latitude>-19.5166667</latitude>
+    <longitude>170.2</longitude>
+  </city>
+  <city name="Moliitsi">
+    <latitude>-15.0166667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Molorhaï">
+    <latitude>-16.55</latitude>
+    <longitude>167.8333333</longitude>
+  </city>
+  <city name="Mondoro">
+    <latitude>-14.2833333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Mon Exil">
+    <latitude>-15.4166667</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Montmartre">
+    <latitude>-17.75</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Morgrif">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Morioul">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Moriou">
+    <latitude>-16.6</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Morouas">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Morou">
+    <latitude>-16.3666667</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Mosina">
+    <latitude>-13.9</latitude>
+    <longitude>167.5333333</longitude>
+  </city>
+  <city name="Moualakot">
+    <latitude>-17.1333333</latitude>
+    <longitude>168.4166667</longitude>
+  </city>
+  <city name="Mourakawer">
+    <latitude>-20.15</latitude>
+    <longitude>169.8333333</longitude>
+  </city>
+  <city name="Mouroubak">
+    <latitude>-15.9333333</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Naano">
+    <latitude>-15.1333333</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Nabagaaki">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.75</longitude>
+  </city>
+  <city name="Nabènbèné">
+    <latitude>-15.1333333</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Nabounay">
+    <latitude>-15.4</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Naboutariki">
+    <latitude>-15.4333333</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Naboutouriki">
+    <latitude>-15.4333333</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Nabutri">
+    <latitude>-15.4333333</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Naéréré">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Nagap">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.9666667</longitude>
+  </city>
+  <city name="Nagataro">
+    <latitude>-15.4</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Nagwingwim">
+    <latitude>-15.4</latitude>
+    <longitude>167.75</longitude>
+  </city>
+  <city name="Naïngama">
+    <latitude>-15.35</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Nakalato">
+    <latitude>-14.7666667</latitude>
+    <longitude>166.6833333</longitude>
+  </city>
+  <city name="Nakéré">
+    <latitude>-15.5833333</latitude>
+    <longitude>166.9833333</longitude>
+  </city>
+  <city name="Nakonrabonga">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Nakouita">
+    <latitude>-15.6</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Namalao">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Namaous">
+    <latitude>-15.5</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Namaram">
+    <latitude>-15.6333333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Namarao">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Namassari">
+    <latitude>-14.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Namatasopa">
+    <latitude>-15.5166667</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Namatooukou">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Nambaramout">
+    <latitude>-15.5833333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Nambia Tri">
+    <latitude>-17.7519444</latitude>
+    <longitude>168.3005556</longitude>
+  </city>
+  <city name="Namoumou">
+    <latitude>-14.9333333</latitude>
+    <longitude>168.05</longitude>
+  </city>
+  <city name="Namsafoura">
+    <latitude>-19.25</latitude>
+    <longitude>169.5833333</longitude>
+  </city>
+  <city name="Nanaharoua">
+    <latitude>-14.75</latitude>
+    <longitude>166.6666667</longitude>
+  </city>
+  <city name="Nanako">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Nanamorou">
+    <latitude>-16.4833333</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Nandoro">
+    <latitude>-15.35</latitude>
+    <longitude>167.8</longitude>
+  </city>
+  <city name="Nandouha">
+    <latitude>-15.0666667</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Nangiré">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Nangouèr">
+    <latitude>-15.3333333</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Nangouroua">
+    <latitude>-15.3666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Nanguilé">
+    <latitude>-17.7666667</latitude>
+    <longitude>168.3</longitude>
+  </city>
+  <city name="Nanoé">
+    <latitude>-15.5833333</latitude>
+    <longitude>166.9666667</longitude>
+  </city>
+  <city name="Naoné">
+    <latitude>-15.0166667</latitude>
+    <longitude>168.05</longitude>
+  </city>
+  <city name="Naouli">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Naous">
+    <latitude>-15.95</latitude>
+    <longitude>167.3333333</longitude>
+  </city>
+  <city name="Napérol">
+    <latitude>-15.5</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Napila">
+    <latitude>-15.45</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Napil">
+    <latitude>-15.45</latitude>
+    <longitude>167.0666667</longitude>
+  </city>
+  <city name="Napor">
+    <latitude>-13.8333333</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Napoua">
+    <latitude>-19.55</latitude>
+    <longitude>170.2166667</longitude>
+  </city>
+  <city name="Napoul">
+    <latitude>-16.5</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Naram">
+    <latitude>-16.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Narango">
+    <latitude>-15.55</latitude>
+    <longitude>166.9833333</longitude>
+  </city>
+  <city name="Naréa">
+    <latitude>-15.05</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Nareget">
+    <latitude>-15.0333333</latitude>
+    <longitude>166.9833333</longitude>
+  </city>
+  <city name="Narouah">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Naroutoli">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Narouwo">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Narovorovo">
+    <latitude>-15.1833333</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Nasagoro">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8666667</longitude>
+  </city>
+  <city name="Nasanga">
+    <latitude>-17.2666667</latitude>
+    <longitude>168.4166667</longitude>
+  </city>
+  <city name="Nasawa">
+    <latitude>-15.2</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Natalou">
+    <latitude>-15.4</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Natambu">
+    <latitude>-16.2166667</latitude>
+    <longitude>167.5833333</longitude>
+  </city>
+  <city name="Natanopéta">
+    <latitude>-15.6333333</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Natapao">
+    <latitude>-17.6166667</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Natarimboé">
+    <latitude>-15.4833333</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Natavoa">
+    <latitude>-15.5166667</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Natchino">
+    <latitude>-15.6</latitude>
+    <longitude>166.9833333</longitude>
+  </city>
+  <city name="Natourouk">
+    <latitude>-15.4166667</latitude>
+    <longitude>167.0166667</longitude>
+  </city>
+  <city name="Natowoulata">
+    <latitude>-14.95</latitude>
+    <longitude>168.05</longitude>
+  </city>
+  <city name="Natséré">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Navaras">
+    <latitude>-15.35</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Navel">
+    <latitude>-15.6</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Naviso">
+    <latitude>-15.1333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Navitora">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Navolou">
+    <latitude>-15.55</latitude>
+    <longitude>166.9666667</longitude>
+  </city>
+  <city name="Navonda">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.9666667</longitude>
+  </city>
+  <city name="Navoun">
+    <latitude>-15.2166667</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Navoutiloui">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Navouti">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Navoutouriki">
+    <latitude>-15.4333333</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Nayo">
+    <latitude>-16.05</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Nazareth">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.4</longitude>
+  </city>
+  <city name="Nazareth-Rantis">
+    <latitude>-15.8666667</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Ndui Ndui">
+    <latitude>-15.4</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Néafou">
+    <latitude>-15.5833333</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Néha">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Nehatlin">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Néhatourou">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Nelvololkar">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Neubul">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Ngalaporoua">
+    <latitude>-16.6</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Ngalavasorou">
+    <latitude>-16.6</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Ngalovasoro">
+    <latitude>-16.6</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Ngouroua">
+    <latitude>-17.5</latitude>
+    <longitude>168.4833333</longitude>
+  </city>
+  <city name="Nikaoura">
+    <latitude>-16.65</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Nikapa">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Nikaura">
+    <latitude>-16.65</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Nivénou">
+    <latitude>-16.6166667</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Noboros">
+    <latitude>-16.15</latitude>
+    <longitude>167.4666667</longitude>
+  </city>
+  <city name="Nobouvilévilé">
+    <latitude>-15.3</latitude>
+    <longitude>167.8666667</longitude>
+  </city>
+  <city name="Nogougou">
+    <latitude>-14.9333333</latitude>
+    <longitude>166.5833333</longitude>
+  </city>
+  <city name="Nogugu">
+    <latitude>-14.9333333</latitude>
+    <longitude>166.5833333</longitude>
+  </city>
+  <city name="Nokokoul">
+    <latitude>-15.7</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Nokombilatata">
+    <latitude>-15.7</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Nokonbouin">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Nokongiri">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Nokonsédé">
+    <latitude>-15.7333333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Nokosaké">
+    <latitude>-17.7516667</latitude>
+    <longitude>168.2847222</longitude>
+  </city>
+  <city name="Nokowoula">
+    <latitude>-15.35</latitude>
+    <longitude>166.7333333</longitude>
+  </city>
+  <city name="Nokuku">
+    <latitude>-14.9333333</latitude>
+    <longitude>166.5666667</longitude>
+  </city>
+  <city name="Nonona">
+    <latitude>-15.35</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Noou">
+    <latitude>-16.4666667</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Norsoup">
+    <latitude>-16.0666667</latitude>
+    <longitude>167.3833333</longitude>
+  </city>
+  <city name="Norsup">
+    <latitude>-16.0666667</latitude>
+    <longitude>167.3833333</longitude>
+  </city>
+  <city name="Nosousou">
+    <latitude>-15.45</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Noul">
+    <latitude>-16.7666667</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Nounapon">
+    <latitude>-18.8</latitude>
+    <longitude>169.0166667</longitude>
+  </city>
+  <city name="Nountor">
+    <latitude>-16.15</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Nouvi">
+    <latitude>-16.65</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Npénanavèt">
+    <latitude>-16.0166667</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Olal">
+    <latitude>-16.1</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Olasi">
+    <latitude>-15.1166667</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Olbanga">
+    <latitude>-15.1333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Oloul">
+    <latitude>-16.1</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Olpoï">
+    <latitude>-14.8666667</latitude>
+    <longitude>166.55</longitude>
+  </city>
+  <city name="Olpoy">
+    <latitude>-14.8666667</latitude>
+    <longitude>166.55</longitude>
+  </city>
+  <city name="Olul">
+    <latitude>-16.1</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Olwaa">
+    <latitude>-14.25</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Ombous">
+    <latitude>-19.55</latitude>
+    <longitude>169.4666667</longitude>
+  </city>
+  <city name="Onésoua">
+    <latitude>-17.5666667</latitude>
+    <longitude>168.45</longitude>
+  </city>
+  <city name="Onesua">
+    <latitude>-17.5666667</latitude>
+    <longitude>168.45</longitude>
+  </city>
+  <city name="Onétar">
+    <latitude>-14.3</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Ontar">
+    <latitude>-14.3</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Orap">
+    <latitude>-15.9666667</latitude>
+    <longitude>167.3333333</longitude>
+  </city>
+  <city name="Orati">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.5833333</longitude>
+  </city>
+  <city name="Oroïbao">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Oroni">
+    <latitude>-15.9833333</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Orota">
+    <latitude>-15.15</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Otas">
+    <latitude>-16.35</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Oualonrigui">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Oualourigui">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Oulé">
+    <latitude>-16.3333333</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Oumetch">
+    <latitude>-20.25</latitude>
+    <longitude>169.8333333</longitude>
+  </city>
+  <city name="Ounakop">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Ounasoule">
+    <latitude>-15.0833333</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Ounavahé">
+    <latitude>-15.0833333</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Ounèvsèm">
+    <latitude>-18.9</latitude>
+    <longitude>169.0333333</longitude>
+  </city>
+  <city name="Ounoua">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Ounwarou">
+    <latitude>-16.0</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Ouo-Ouo">
+    <latitude>-15.8833333</latitude>
+    <longitude>167.2</longitude>
+  </city>
+  <city name="Oupongkor">
+    <latitude>-18.8166667</latitude>
+    <longitude>169.0166667</longitude>
+  </city>
+  <city name="Oureboul">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Ouro">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Ousiév">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Oussélé">
+    <latitude>-16.1</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Outanlang">
+    <latitude>-17.4333333</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Outèr">
+    <latitude>-16.0</latitude>
+    <longitude>167.35</longitude>
+  </city>
+  <city name="Paétoré">
+    <latitude>-15.2666667</latitude>
+    <longitude>166.6666667</longitude>
+  </city>
+  <city name="Païa">
+    <latitude>-16.5833333</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Pakapoultol">
+    <latitude>-15.6333333</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Pakaroro">
+    <latitude>-15.2333333</latitude>
+    <longitude>166.6666667</longitude>
+  </city>
+  <city name="Pakatam">
+    <latitude>-15.55</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Palikoulo">
+    <latitude>-15.5166667</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Palikulo">
+    <latitude>-15.5166667</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Pamel">
+    <latitude>-16.3333333</latitude>
+    <longitude>168.3</longitude>
+  </city>
+  <city name="Panap">
+    <latitude>-15.9333333</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Panas">
+    <latitude>-15.9166667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Panbroun">
+    <latitude>-16.0</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Pancros">
+    <latitude>-16.0166667</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Pangakara">
+    <latitude>-15.3166667</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Pangona">
+    <latitude>-17.75</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Pango">
+    <latitude>-17.7833333</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Panhavoul">
+    <latitude>-15.5666667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Panita">
+    <latitude>-16.9166667</latitude>
+    <longitude>168.5166667</longitude>
+  </city>
+  <city name="Panmouwouom">
+    <latitude>-16.25</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Panoka">
+    <latitude>-16.0</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Pantévamal">
+    <latitude>-15.9666667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Paonangisu">
+    <latitude>-17.5333333</latitude>
+    <longitude>168.4</longitude>
+  </city>
+  <city name="Paonanguis">
+    <latitude>-17.5333333</latitude>
+    <longitude>168.4</longitude>
+  </city>
+  <city name="Paona">
+    <latitude>-15.7166667</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Paouléli">
+    <latitude>-16.5</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Papasoulé">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Papoulasmel">
+    <latitude>-14.9833333</latitude>
+    <longitude>166.6</longitude>
+  </city>
+  <city name="Patembiou">
+    <latitude>-14.95</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Paten">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Pêcherie">
+    <latitude>-15.4833333</latitude>
+    <longitude>167.25</longitude>
+  </city>
+  <city name="Péléworéarou">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Pellonk">
+    <latitude>-16.5333333</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Pélol">
+    <latitude>-14.7833333</latitude>
+    <longitude>166.7</longitude>
+  </city>
+  <city name="Pénantsiro">
+    <latitude>-15.5666667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Pénap">
+    <latitude>-16.45</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Péniciès">
+    <latitude>-16.4333333</latitude>
+    <longitude>167.7833333</longitude>
+  </city>
+  <city name="Pénoubéré">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Pépéksal">
+    <latitude>-15.9833333</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Périmengdé">
+    <latitude>-13.7</latitude>
+    <longitude>167.6166667</longitude>
+  </city>
+  <city name="Pesia">
+    <latitude>-16.3166667</latitude>
+    <longitude>168.05</longitude>
+  </city>
+  <city name="Peskarous">
+    <latitude>-16.5333333</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Peskarüs">
+    <latitude>-16.5333333</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Pétel">
+    <latitude>-16.3666667</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="PÌ„ang-PÌ„ang">
+    <latitude>-17.6833333</latitude>
+    <longitude>168.5333333</longitude>
+  </city>
+  <city name="Piapiéo">
+    <latitude>-15.0833333</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Piapouria">
+    <latitude>-15.0166667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Pila">
+    <latitude>-15.15</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Pilioura">
+    <latitude>-17.5</latitude>
+    <longitude>168.4</longitude>
+  </city>
+  <city name="Piloé">
+    <latitude>-15.1166667</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Pinaloum">
+    <latitude>-16.0166667</latitude>
+    <longitude>167.4</longitude>
+  </city>
+  <city name="Pinambo">
+    <latitude>-16.0333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Pinambro">
+    <latitude>-16.0333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Pinapel">
+    <latitude>-16.35</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Pitikabilendromé">
+    <latitude>-14.2666667</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Pivosava">
+    <latitude>-13.1833333</latitude>
+    <longitude>166.5666667</longitude>
+  </city>
+  <city name="Plamaé">
+    <latitude>-16.05</latitude>
+    <longitude>167.3666667</longitude>
+  </city>
+  <city name="Ploé">
+    <latitude>-15.1166667</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Poal">
+    <latitude>-16.2666667</latitude>
+    <longitude>168.2333333</longitude>
+  </city>
+  <city name="Poétsaysay">
+    <latitude>-15.1833333</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Pohourour">
+    <latitude>-15.9666667</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Poliba">
+    <latitude>-16.3</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Ponof">
+    <latitude>-15.9</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Ponrah">
+    <latitude>-15.9166667</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Pontasipsip">
+    <latitude>-18.6666667</latitude>
+    <longitude>169.15</longitude>
+  </city>
+  <city name="Poporonous">
+    <latitude>-15.5</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Porao">
+    <latitude>-14.6833333</latitude>
+    <longitude>166.6333333</longitude>
+  </city>
+  <city name="Port Fila">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Port-Havannah">
+    <latitude>-17.5666667</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Port Lautour">
+    <latitude>-15.6166667</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Port-Olry">
+    <latitude>-15.05</latitude>
+    <longitude>167.05</longitude>
+  </city>
+  <city name="Port-Stanley">
+    <latitude>-16.15</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Port-Vato">
+    <latitude>-16.3333333</latitude>
+    <longitude>168.0333333</longitude>
+  </city>
+  <city name="Port-Vila">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Potiraousak">
+    <latitude>-18.95</latitude>
+    <longitude>169.1333333</longitude>
+  </city>
+  <city name="Potlouzi">
+    <latitude>-18.9333333</latitude>
+    <longitude>169.1</longitude>
+  </city>
+  <city name="Potnarhvin">
+    <latitude>-18.75</latitude>
+    <longitude>169.2</longitude>
+  </city>
+  <city name="Potnaroumpouo">
+    <latitude>-18.9333333</latitude>
+    <longitude>169.1166667</longitude>
+  </city>
+  <city name="Potnarvin">
+    <latitude>-18.75</latitude>
+    <longitude>169.2</longitude>
+  </city>
+  <city name="Potovrou">
+    <latitude>-15.8833333</latitude>
+    <longitude>167.25</longitude>
+  </city>
+  <city name="Pouilipoé">
+    <latitude>-14.8</latitude>
+    <longitude>166.55</longitude>
+  </city>
+  <city name="Pouillet">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.25</longitude>
+  </city>
+  <city name="Pouiloppoe">
+    <latitude>-14.8</latitude>
+    <longitude>166.55</longitude>
+  </city>
+  <city name="Pounalvat">
+    <latitude>-18.6333333</latitude>
+    <longitude>169.0833333</longitude>
+  </city>
+  <city name="Pourao">
+    <latitude>-16.8833333</latitude>
+    <longitude>168.55</longitude>
+  </city>
+  <city name="Pouriawot">
+    <latitude>-15.0166667</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Pourké">
+    <latitude>-16.6</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Pourtihé">
+    <latitude>-14.9666667</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Poussabier">
+    <latitude>-17.7833333</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Poussy">
+    <latitude>-15.3666667</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Poutoumiel">
+    <latitude>-16.0333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Pwélé">
+    <latitude>-15.15</latitude>
+    <longitude>166.6333333</longitude>
+  </city>
+  <city name="Pwelpitou">
+    <latitude>-14.9666667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Qunassoule">
+    <latitude>-15.0833333</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Radier">
+    <latitude>-17.6666667</latitude>
+    <longitude>168.5166667</longitude>
+  </city>
+  <city name="Rafinga">
+    <latitude>-16.9</latitude>
+    <longitude>168.5333333</longitude>
+  </city>
+  <city name="Raga">
+    <latitude>-15.4666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Rambak">
+    <latitude>-16.05</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Rambouan">
+    <latitude>-16.4333333</latitude>
+    <longitude>167.8</longitude>
+  </city>
+  <city name="Rampounisia">
+    <latitude>-18.9666667</latitude>
+    <longitude>169.2</longitude>
+  </city>
+  <city name="Rampounmampouo">
+    <latitude>-18.95</latitude>
+    <longitude>169.1666667</longitude>
+  </city>
+  <city name="Rampounrougou">
+    <latitude>-18.9166667</latitude>
+    <longitude>169.0833333</longitude>
+  </city>
+  <city name="Ramwady">
+    <latitude>-15.7833333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Ranbili">
+    <latitude>-16.25</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Ranbwé">
+    <latitude>-16.15</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Ranhor">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Ranmawat">
+    <latitude>-15.8</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Ranmouhou">
+    <latitude>-16.1</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Ranon">
+    <latitude>-16.15</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Rano">
+    <latitude>-15.9</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Ranpoutor">
+    <latitude>-15.9833333</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Ranpout">
+    <latitude>-16.0</latitude>
+    <longitude>168.2333333</longitude>
+  </city>
+  <city name="Ransaré">
+    <latitude>-16.2166667</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Rantas">
+    <latitude>-15.9</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Ranuetlam">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Ranvérékon">
+    <latitude>-16.2</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Ranwas">
+    <latitude>-15.9666667</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Ranwilinto">
+    <latitude>-16.1833333</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Rarepa">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.6666667</longitude>
+  </city>
+  <city name="Rasfahalo">
+    <latitude>-14.7833333</latitude>
+    <longitude>166.6833333</longitude>
+  </city>
+  <city name="Rata">
+    <latitude>-15.35</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Remèp">
+    <latitude>-16.35</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Renmar">
+    <latitude>-15.9</latitude>
+    <longitude>167.2</longitude>
+  </city>
+  <city name="Répanbitipbonour">
+    <latitude>-16.3</latitude>
+    <longitude>167.6666667</longitude>
+  </city>
+  <city name="Rerepa">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.6666667</longitude>
+  </city>
+  <city name="Rerep">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.6666667</longitude>
+  </city>
+  <city name="Rétour">
+    <latitude>-16.3666667</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Rewoka Naboa">
+    <latitude>-17.45</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Rewoka Namalachi">
+    <latitude>-17.45</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Ringdove">
+    <latitude>-16.6333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Rip">
+    <latitude>-14.9666667</latitude>
+    <longitude>167.1</longitude>
+  </city>
+  <city name="Rive Yan">
+    <latitude>-17.8</latitude>
+    <longitude>168.45</longitude>
+  </city>
+  <city name="Robago">
+    <latitude>-16.2</latitude>
+    <longitude>167.55</longitude>
+  </city>
+  <city name="Roghuros">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Rongétra">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Ropoutsoum">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.9666667</longitude>
+  </city>
+  <city name="Roria">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Rougoumbo">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Roupési">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Rovo">
+    <latitude>-16.3</latitude>
+    <longitude>168.3</longitude>
+  </city>
+  <city name="Rowok">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Rowonawo">
+    <latitude>-15.1</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Rowo">
+    <latitude>-14.95</latitude>
+    <longitude>167.0333333</longitude>
+  </city>
+  <city name="Rukumbo">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.6</longitude>
+  </city>
+  <city name="Saama">
+    <latitude>-17.55</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Saé">
+    <latitude>-16.3666667</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Safiou">
+    <latitude>-16.9166667</latitude>
+    <longitude>168.5333333</longitude>
+  </city>
+  <city name="Saint Benoit">
+    <latitude>-15.9333333</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Sainte-Anne">
+    <latitude>-16.45</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Sainte-Marie">
+    <latitude>-16.4333333</latitude>
+    <longitude>167.7833333</longitude>
+  </city>
+  <city name="Sainte Thérèse">
+    <latitude>-16.35</latitude>
+    <longitude>167.3666667</longitude>
+  </city>
+  <city name="Saint-François">
+    <latitude>-16.4833333</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Saint Gabriel">
+    <latitude>-16.0</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Saint Henri et Saint-Paul">
+    <latitude>-16.0</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Saint Henri">
+    <latitude>-15.8833333</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Saint Joseph">
+    <latitude>-16.45</latitude>
+    <longitude>167.8166667</longitude>
+  </city>
+  <city name="Saint Michel">
+    <latitude>-15.9333333</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Saint-Paul">
+    <latitude>-16.4333333</latitude>
+    <longitude>167.7833333</longitude>
+  </city>
+  <city name="Saï">
+    <latitude>-15.95</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Sakao">
+    <latitude>-16.8166667</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Sakau">
+    <latitude>-16.8166667</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Sakéani">
+    <latitude>-15.55</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Saké">
+    <latitude>-17.5</latitude>
+    <longitude>168.4</longitude>
+  </city>
+  <city name="Saktouy">
+    <latitude>-15.4</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Salap">
+    <latitude>-15.95</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Saltas">
+    <latitude>-15.9833333</latitude>
+    <longitude>168.25</longitude>
+  </city>
+  <city name="Samarandas">
+    <latitude>-15.7166667</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Sameria">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="SamÌ„eo">
+    <latitude>-16.3</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Samoao">
+    <latitude>-16.3</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Samo">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.4833333</longitude>
+  </city>
+  <city name="Samuao">
+    <latitude>-16.3</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Sanakoumbé">
+    <latitude>-15.65</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Sanapapa">
+    <latitude>-15.6333333</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Sanasoup">
+    <latitude>-16.3333333</latitude>
+    <longitude>168.0</longitude>
+  </city>
+  <city name="Sang'hava">
+    <latitude>-17.0833333</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Sankay">
+    <latitude>-16.4666667</latitude>
+    <longitude>168.2333333</longitude>
+  </city>
+  <city name="Santo">
+    <latitude>-15.5333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Sanwar">
+    <latitude>-15.9833333</latitude>
+    <longitude>167.35</longitude>
+  </city>
+  <city name="Saouma">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Saou">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Saraerao">
+    <latitude>-15.3333333</latitude>
+    <longitude>167.9</longitude>
+  </city>
+  <city name="Saranamoundou">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Saranatogoro">
+    <latitude>-15.35</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Saraotou">
+    <latitude>-15.4333333</latitude>
+    <longitude>167.2</longitude>
+  </city>
+  <city name="Saritamata">
+    <latitude>-15.1</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Sarmét">
+    <latitude>-16.2</latitude>
+    <longitude>167.5333333</longitude>
+  </city>
+  <city name="Sarmette">
+    <latitude>-16.2</latitude>
+    <longitude>167.5333333</longitude>
+  </city>
+  <city name="Sarouaétan">
+    <latitude>-15.3666667</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Sasaké">
+    <latitude>-17.05</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Sasaki">
+    <latitude>-17.05</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Sasanadam">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Sasia">
+    <latitude>-19.6</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Selembanga">
+    <latitude>-16.8833333</latitude>
+    <longitude>168.5833333</longitude>
+  </city>
+  <city name="Selembenga">
+    <latitude>-16.8833333</latitude>
+    <longitude>168.5833333</longitude>
+  </city>
+  <city name="Sénal">
+    <latitude>-16.1</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Sesake">
+    <latitude>-17.05</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Sesaki">
+    <latitude>-17.05</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Sésivi">
+    <latitude>-16.3166667</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Sessivi">
+    <latitude>-16.3166667</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Siviri">
+    <latitude>-17.5333333</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Slelouré">
+    <latitude>-16.0666667</latitude>
+    <longitude>167.4</longitude>
+  </city>
+  <city name="Slétassimal">
+    <latitude>-16.0666667</latitude>
+    <longitude>167.4</longitude>
+  </city>
+  <city name="Soamal">
+    <latitude>-15.6166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Sola">
+    <latitude>-13.8833333</latitude>
+    <longitude>167.55</longitude>
+  </city>
+  <city name="Sonrha">
+    <latitude>-15.9166667</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Souléiséré">
+    <latitude>-14.9833333</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Souléoutoubari">
+    <latitude>-14.9833333</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Soulé">
+    <latitude>-15.1166667</latitude>
+    <longitude>166.6333333</longitude>
+  </city>
+  <city name="Souloua">
+    <latitude>-17.0666667</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Sounaï">
+    <latitude>-17.5333333</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="South River">
+    <latitude>-18.95</latitude>
+    <longitude>169.1666667</longitude>
+  </city>
+  <city name="Stade">
+    <latitude>-17.7416667</latitude>
+    <longitude>168.3016667</longitude>
+  </city>
+  <city name="Sydney">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.2666667</longitude>
+  </city>
+  <city name="Taal Nétan">
+    <latitude>-16.5</latitude>
+    <longitude>168.2</longitude>
+  </city>
+  <city name="Tabalabalaran">
+    <latitude>-14.9</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Taboukavika">
+    <latitude>-15.5833333</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Taboulan">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.9333333</longitude>
+  </city>
+  <city name="Tabounboder">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Taboutsoui">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Tabwé">
+    <latitude>-16.4333333</latitude>
+    <longitude>168.2333333</longitude>
+  </city>
+  <city name="Tabwimoli">
+    <latitude>-15.5</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Tabwimol">
+    <latitude>-15.4</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Taémammavi">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Tafia">
+    <latitude>-17.0166667</latitude>
+    <longitude>168.6166667</longitude>
+  </city>
+  <city name="Tafoualé">
+    <latitude>-16.4833333</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Tahi">
+    <latitude>-16.4666667</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Tahouta">
+    <latitude>-15.15</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Taïwi">
+    <latitude>-18.9166667</latitude>
+    <longitude>169.0833333</longitude>
+  </city>
+  <city name="Taktak">
+    <latitude>-14.7</latitude>
+    <longitude>166.6</longitude>
+  </city>
+  <city name="Talatas">
+    <latitude>-15.1833333</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Talomaco">
+    <latitude>-15.1666667</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Talomako">
+    <latitude>-15.1666667</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Tambatalo">
+    <latitude>-15.4833333</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Tamlilip">
+    <latitude>-15.9833333</latitude>
+    <longitude>167.2333333</longitude>
+  </city>
+  <city name="Tanbok">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Tanbouipil">
+    <latitude>-15.65</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Tanboun">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Tangis">
+    <latitude>-15.5833333</latitude>
+    <longitude>167.0166667</longitude>
+  </city>
+  <city name="Tanlapa">
+    <latitude>-15.5</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Tanmaéto">
+    <latitude>-15.0833333</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Tanoï">
+    <latitude>-15.45</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Tanopousa">
+    <latitude>-15.5666667</latitude>
+    <longitude>166.85</longitude>
+  </city>
+  <city name="Tanoriki">
+    <latitude>-15.0</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Tanoutcho">
+    <latitude>-15.0</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Tanrig">
+    <latitude>-15.0</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Tanrik">
+    <latitude>-15.0</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Taoloa">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Taoumanouni">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Taoutou">
+    <latitude>-16.0833333</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Taouwa">
+    <latitude>-13.1333333</latitude>
+    <longitude>166.5333333</longitude>
+  </city>
+  <city name="Taraïbé">
+    <latitude>-15.75</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Tarasag">
+    <latitude>-14.25</latitude>
+    <longitude>167.5833333</longitude>
+  </city>
+  <city name="Tasfaron">
+    <latitude>-15.6</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Tasiriki">
+    <latitude>-15.6</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Tasmaloum">
+    <latitude>-15.6166667</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Tasmaloun">
+    <latitude>-15.6166667</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Tasmalune">
+    <latitude>-15.6166667</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Tasmalune Trader">
+    <latitude>-15.6166667</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Tasmaori">
+    <latitude>-14.9166667</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Tasmate">
+    <latitude>-15.2166667</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Tasmat">
+    <latitude>-15.2166667</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Tassematte">
+    <latitude>-15.2166667</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Tassériki">
+    <latitude>-15.6</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Tassmatta">
+    <latitude>-15.2166667</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Tatafo">
+    <latitude>-15.3833333</latitude>
+    <longitude>166.9833333</longitude>
+  </city>
+  <city name="Tataïkalo">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Tatouira">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.4666667</longitude>
+  </city>
+  <city name="Tavala">
+    <latitude>-15.4166667</latitude>
+    <longitude>167.7166667</longitude>
+  </city>
+  <city name="Tavalavala">
+    <latitude>-15.3</latitude>
+    <longitude>167.9</longitude>
+  </city>
+  <city name="Tavendroua">
+    <latitude>-16.35</latitude>
+    <longitude>167.3666667</longitude>
+  </city>
+  <city name="Taviac">
+    <latitude>-16.3666667</latitude>
+    <longitude>168.2333333</longitude>
+  </city>
+  <city name="Tavio">
+    <latitude>-16.6666667</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Tavoa">
+    <latitude>-15.45</latitude>
+    <longitude>166.9833333</longitude>
+  </city>
+  <city name="Tavoloua">
+    <latitude>-13.85</latitude>
+    <longitude>167.7</longitude>
+  </city>
+  <city name="Tavoni">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Tawor">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Télékey">
+    <latitude>-19.5</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Tellit">
+    <latitude>-16.1666667</latitude>
+    <longitude>168.1</longitude>
+  </city>
+  <city name="Témaonu">
+    <latitude>-17.7513889</latitude>
+    <longitude>168.2847222</longitude>
+  </city>
+  <city name="Tématou">
+    <latitude>-16.4833333</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Tembotalo">
+    <latitude>-15.4833333</latitude>
+    <longitude>167.0833333</longitude>
+  </city>
+  <city name="Tenmarou">
+    <latitude>-16.0333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Tenmérer">
+    <latitude>-15.9</latitude>
+    <longitude>167.2666667</longitude>
+  </city>
+  <city name="Tenmial">
+    <latitude>-15.95</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Tentaréssak">
+    <latitude>-15.9333333</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Tentaréssoup">
+    <latitude>-15.9166667</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Terebia">
+    <latitude>-15.1</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Terebiu">
+    <latitude>-15.1</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Térou">
+    <latitude>-15.1666667</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Tétavalé">
+    <latitude>-16.3666667</latitude>
+    <longitude>168.2333333</longitude>
+  </city>
+  <city name="Teuvrat">
+    <latitude>-14.25</latitude>
+    <longitude>167.5833333</longitude>
+  </city>
+  <city name="Tichlélamboué">
+    <latitude>-16.0</latitude>
+    <longitude>167.3666667</longitude>
+  </city>
+  <city name="Tigalga">
+    <latitude>-13.8666667</latitude>
+    <longitude>167.4</longitude>
+  </city>
+  <city name="Tikilasoa">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.3833333</longitude>
+  </city>
+  <city name="Tioungwi">
+    <latitude>-15.3</latitude>
+    <longitude>167.0666667</longitude>
+  </city>
+  <city name="Tiouroumbo">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.0666667</longitude>
+  </city>
+  <city name="Tisbel">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.4</longitude>
+  </city>
+  <city name="Tivel">
+    <latitude>-16.05</latitude>
+    <longitude>167.4</longitude>
+  </city>
+  <city name="Toak">
+    <latitude>-16.35</latitude>
+    <longitude>168.2833333</longitude>
+  </city>
+  <city name="Tobol">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Tobotoumbo">
+    <latitude>-15.4666667</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Tokofé">
+    <latitude>-17.7505556</latitude>
+    <longitude>168.2844444</longitude>
+  </city>
+  <city name="Tokor">
+    <latitude>-14.35</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Tolab">
+    <latitude>-14.3166667</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Tolag">
+    <latitude>-13.7</latitude>
+    <longitude>167.6166667</longitude>
+  </city>
+  <city name="Tolav">
+    <latitude>-14.3166667</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Tolomako">
+    <latitude>-15.1666667</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Tombaesar">
+    <latitude>-15.4</latitude>
+    <longitude>166.0166667</longitude>
+  </city>
+  <city name="Tombet">
+    <latitude>-15.3666667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Tomboul">
+    <latitude>-16.0</latitude>
+    <longitude>167.3333333</longitude>
+  </city>
+  <city name="Tondila">
+    <latitude>-15.4</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Tongaméa">
+    <latitude>-17.0666667</latitude>
+    <longitude>168.4166667</longitude>
+  </city>
+  <city name="Tongwé">
+    <latitude>-15.7</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Tonvar">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.9</longitude>
+  </city>
+  <city name="Toou">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Torari">
+    <latitude>-17.6666667</latitude>
+    <longitude>168.5166667</longitude>
+  </city>
+  <city name="Tosi">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Totokat">
+    <latitude>-15.25</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Toumbouria">
+    <latitude>-15.5833333</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Toupouétap">
+    <latitude>-13.8333333</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Tourébiou">
+    <latitude>-15.1</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Towol">
+    <latitude>-15.65</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Tsaraépaé">
+    <latitude>-15.5166667</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Tsaraépéla">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Tsarapao">
+    <latitude>-15.5</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Tsariaorou">
+    <latitude>-15.0333333</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Tsinioni">
+    <latitude>-15.55</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Tsuréviu">
+    <latitude>-15.1</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Umpon Yélongi">
+    <latitude>-18.9166667</latitude>
+    <longitude>169.0833333</longitude>
+  </city>
+  <city name="Unpongkor">
+    <latitude>-18.8166667</latitude>
+    <longitude>169.0166667</longitude>
+  </city>
+  <city name="Utanlangi">
+    <latitude>-17.4333333</latitude>
+    <longitude>168.3222222</longitude>
+  </city>
+  <city name="Vaitini">
+    <latitude>-17.0833333</latitude>
+    <longitude>168.35</longitude>
+  </city>
+  <city name="Valaé">
+    <latitude>-15.6333333</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Valesdir">
+    <latitude>-16.7833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Vanaïa">
+    <latitude>-15.8</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Vanis">
+    <latitude>-15.7</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Vanmwel">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Vanréwérep">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Vansémakoul">
+    <latitude>-15.7666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Vapana">
+    <latitude>-16.6333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Varabibi">
+    <latitude>-15.7666667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Varéwérèp">
+    <latitude>-15.7</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Varsaré">
+    <latitude>-15.8833333</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Var">
+    <latitude>-13.7</latitude>
+    <longitude>167.6333333</longitude>
+  </city>
+  <city name="Vas">
+    <latitude>-15.0666667</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Vatavoui">
+    <latitude>-15.45</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Vatiinopo">
+    <latitude>-15.4333333</latitude>
+    <longitude>166.8166667</longitude>
+  </city>
+  <city name="Vatlés">
+    <latitude>-14.2166667</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Vatorousin">
+    <latitude>-15.3833333</latitude>
+    <longitude>167.7333333</longitude>
+  </city>
+  <city name="Vatoukampani">
+    <latitude>-15.35</latitude>
+    <longitude>167.7833333</longitude>
+  </city>
+  <city name="Vatounaki">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Vatowasis">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Vatrada">
+    <latitude>-13.9</latitude>
+    <longitude>167.4166667</longitude>
+  </city>
+  <city name="Vatrof">
+    <latitude>-15.3833333</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Vatroto">
+    <latitude>-15.3833333</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Véroué">
+    <latitude>-14.95</latitude>
+    <longitude>168.05</longitude>
+  </city>
+  <city name="Ver">
+    <latitude>-14.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Vesalia">
+    <latitude>-15.0833333</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Vétoubosor">
+    <latitude>-13.9</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Veutümboso">
+    <latitude>-13.9</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Vévérao">
+    <latitude>-13.8333333</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Vias">
+    <latitude>-15.5833333</latitude>
+    <longitude>166.8666667</longitude>
+  </city>
+  <city name="Viei">
+    <latitude>-13.6833333</latitude>
+    <longitude>167.6333333</longitude>
+  </city>
+  <city name="Vienna">
+    <latitude>-17.5</latitude>
+    <longitude>168.4833333</longitude>
+  </city>
+  <city name="Vilakalaka">
+    <latitude>-15.4166667</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Vila">
+    <latitude>-17.7333333</latitude>
+    <longitude>168.3166667</longitude>
+  </city>
+  <city name="Viniou">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.7833333</longitude>
+  </city>
+  <city name="Vipaka">
+    <latitude>-13.3666667</latitude>
+    <longitude>166.6333333</longitude>
+  </city>
+  <city name="Vir">
+    <latitude>-14.2</latitude>
+    <longitude>167.5666667</longitude>
+  </city>
+  <city name="Vitouara">
+    <latitude>-15.35</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Votlo">
+    <latitude>-16.8</latitude>
+    <longitude>168.2666667</longitude>
+  </city>
+  <city name="Vougénéré">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.8666667</longitude>
+  </city>
+  <city name="Vourias">
+    <latitude>-15.2833333</latitude>
+    <longitude>167.95</longitude>
+  </city>
+  <city name="Vournéré">
+    <latitude>-15.65</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Vousin">
+    <latitude>-15.4666667</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Vovo">
+    <latitude>-16.8166667</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Wadounbaba">
+    <latitude>-15.7</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Wadounbowi">
+    <latitude>-15.7</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Wadounmwel">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Wadovaga">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Waéling">
+    <latitude>-15.35</latitude>
+    <longitude>167.9333333</longitude>
+  </city>
+  <city name="Waésisi">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.4</longitude>
+  </city>
+  <city name="Wailapa">
+    <latitude>-15.5833333</latitude>
+    <longitude>166.9333333</longitude>
+  </city>
+  <city name="Waïlep">
+    <latitude>-16.5</latitude>
+    <longitude>168.2166667</longitude>
+  </city>
+  <city name="Wakon">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Walembwé">
+    <latitude>-15.4666667</latitude>
+    <longitude>167.7666667</longitude>
+  </city>
+  <city name="Wali">
+    <latitude>-15.9333333</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Wall">
+    <latitude>-16.0</latitude>
+    <longitude>167.1833333</longitude>
+  </city>
+  <city name="Walourigi">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Walpey">
+    <latitude>-14.7666667</latitude>
+    <longitude>166.55</longitude>
+  </city>
+  <city name="Walraoul">
+    <latitude>-15.05</latitude>
+    <longitude>167.0</longitude>
+  </city>
+  <city name="Walurighi">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Walurigi">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Wanawéré">
+    <latitude>-14.8333333</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Wanbagam">
+    <latitude>-15.6666667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Wangtoo">
+    <latitude>-14.2333333</latitude>
+    <longitude>167.55</longitude>
+  </city>
+  <city name="Wanou">
+    <latitude>-15.7833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Wara Kapa">
+    <latitude>-17.55</latitude>
+    <longitude>168.3333333</longitude>
+  </city>
+  <city name="Waraparo">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.8</longitude>
+  </city>
+  <city name="Wararana">
+    <latitude>-16.8</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Wasaka">
+    <latitude>-13.9666667</latitude>
+    <longitude>167.45</longitude>
+  </city>
+  <city name="Wasaléa">
+    <latitude>-15.1666667</latitude>
+    <longitude>166.6333333</longitude>
+  </city>
+  <city name="Watangwélé">
+    <latitude>-15.3166667</latitude>
+    <longitude>167.85</longitude>
+  </city>
+  <city name="Waterfall">
+    <latitude>-15.7833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Watfanwa">
+    <latitude>-15.1</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Watiawoli">
+    <latitude>-15.1</latitude>
+    <longitude>168.0833333</longitude>
+  </city>
+  <city name="Wawo">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Waylapa">
+    <latitude>-15.5833333</latitude>
+    <longitude>166.9333333</longitude>
+  </city>
+  <city name="Wéilbéri">
+    <latitude>-15.0833333</latitude>
+    <longitude>167.0166667</longitude>
+  </city>
+  <city name="Wélawéa">
+    <latitude>-16.6166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Wéravénou">
+    <latitude>-15.7333333</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="White Sands">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.4333333</longitude>
+  </city>
+  <city name="Wiana">
+    <latitude>-17.5</latitude>
+    <longitude>168.4833333</longitude>
+  </city>
+  <city name="Wienna">
+    <latitude>-17.5</latitude>
+    <longitude>168.4833333</longitude>
+  </city>
+  <city name="Wihel">
+    <latitude>-16.15</latitude>
+    <longitude>167.2</longitude>
+  </city>
+  <city name="Wilir">
+    <latitude>-16.1</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Wilit">
+    <latitude>-16.1333333</latitude>
+    <longitude>168.1833333</longitude>
+  </city>
+  <city name="Wilmèt">
+    <latitude>-16.05</latitude>
+    <longitude>167.2</longitude>
+  </city>
+  <city name="Winbou">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Winia">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.8333333</longitude>
+  </city>
+  <city name="Winougap">
+    <latitude>-15.7333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Wintoua">
+    <latitude>-16.4833333</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Wintua">
+    <latitude>-16.4833333</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Win">
+    <latitude>-16.0833333</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Witaba">
+    <latitude>-16.55</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Woïnkoni">
+    <latitude>-15.65</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Wonisule">
+    <latitude>-15.05</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Woo">
+    <latitude>-16.1166667</latitude>
+    <longitude>168.15</longitude>
+  </city>
+  <city name="Worafiou">
+    <latitude>-16.9</latitude>
+    <longitude>168.55</longitude>
+  </city>
+  <city name="Woralapa">
+    <latitude>-17.4833333</latitude>
+    <longitude>168.3666667</longitude>
+  </city>
+  <city name="Worlembraki">
+    <latitude>-16.0</latitude>
+    <longitude>167.3666667</longitude>
+  </city>
+  <city name="Worlissliss">
+    <latitude>-16.5166667</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Wornambek">
+    <latitude>-16.0166667</latitude>
+    <longitude>167.1666667</longitude>
+  </city>
+  <city name="Worovok">
+    <latitude>-15.1833333</latitude>
+    <longitude>166.8833333</longitude>
+  </city>
+  <city name="Worowloa">
+    <latitude>-17.7513889</latitude>
+    <longitude>168.2838889</longitude>
+  </city>
+  <city name="Wortatcha">
+    <latitude>-15.9833333</latitude>
+    <longitude>167.3666667</longitude>
+  </city>
+  <city name="Wosaga">
+    <latitude>-13.9666667</latitude>
+    <longitude>167.4333333</longitude>
+  </city>
+  <city name="Woulélé">
+    <latitude>-16.2333333</latitude>
+    <longitude>167.55</longitude>
+  </city>
+  <city name="Woulior">
+    <latitude>-15.0166667</latitude>
+    <longitude>167.05</longitude>
+  </city>
+  <city name="Woumorou">
+    <latitude>-15.4833333</latitude>
+    <longitude>166.7666667</longitude>
+  </city>
+  <city name="Wounahaowoumhoum">
+    <latitude>-15.05</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Wounaouss">
+    <latitude>-15.5833333</latitude>
+    <longitude>167.0</longitude>
+  </city>
+  <city name="Wounaout">
+    <latitude>-15.95</latitude>
+    <longitude>167.3166667</longitude>
+  </city>
+  <city name="Wounapaka">
+    <latitude>-15.2666667</latitude>
+    <longitude>166.6666667</longitude>
+  </city>
+  <city name="Wounapéras">
+    <latitude>-14.95</latitude>
+    <longitude>166.75</longitude>
+  </city>
+  <city name="Wounawati">
+    <latitude>-15.1166667</latitude>
+    <longitude>166.7333333</longitude>
+  </city>
+  <city name="Woundrpoutsour">
+    <latitude>-15.4166667</latitude>
+    <longitude>166.9833333</longitude>
+  </city>
+  <city name="Wounépara">
+    <latitude>-13.1666667</latitude>
+    <longitude>166.5333333</longitude>
+  </city>
+  <city name="Woungmouil">
+    <latitude>-13.65</latitude>
+    <longitude>167.6833333</longitude>
+  </city>
+  <city name="Wounpipi">
+    <latitude>-14.8</latitude>
+    <longitude>166.7166667</longitude>
+  </city>
+  <city name="Wounpouko">
+    <latitude>-14.7</latitude>
+    <longitude>166.5666667</longitude>
+  </city>
+  <city name="Wounsoulé">
+    <latitude>-15.05</latitude>
+    <longitude>166.6166667</longitude>
+  </city>
+  <city name="Wountavitslavo">
+    <latitude>-14.8166667</latitude>
+    <longitude>166.7166667</longitude>
+  </city>
+  <city name="Wounwaka">
+    <latitude>-15.1166667</latitude>
+    <longitude>166.7333333</longitude>
+  </city>
+  <city name="Wouréwérèp">
+    <latitude>-15.7166667</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Wousi">
+    <latitude>-15.3666667</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Wousounmwèl">
+    <latitude>-15.6833333</latitude>
+    <longitude>168.1666667</longitude>
+  </city>
+  <city name="Wouta">
+    <latitude>-14.9666667</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Wowo">
+    <latitude>-15.8833333</latitude>
+    <longitude>167.2</longitude>
+  </city>
+  <city name="Wunpuka">
+    <latitude>-14.7</latitude>
+    <longitude>166.5666667</longitude>
+  </city>
+  <city name="Wunpuko">
+    <latitude>-14.7</latitude>
+    <longitude>166.5666667</longitude>
+  </city>
+  <city name="Wunpuku">
+    <latitude>-14.7</latitude>
+    <longitude>166.5666667</longitude>
+  </city>
+  <city name="Wuro">
+    <latitude>-16.2666667</latitude>
+    <longitude>167.9166667</longitude>
+  </city>
+  <city name="Wusi">
+    <latitude>-15.3666667</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Wus">
+    <latitude>-15.3666667</latitude>
+    <longitude>166.65</longitude>
+  </city>
+  <city name="Yakoukak">
+    <latitude>-19.55</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Yakoul">
+    <latitude>-15.0833333</latitude>
+    <longitude>167.05</longitude>
+  </city>
+  <city name="Yakounétikaoulil">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Yakwaraka">
+    <latitude>-19.6333333</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Yakwipeur">
+    <latitude>-19.5833333</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Yanamahou">
+    <latitude>-19.4833333</latitude>
+    <longitude>169.4166667</longitude>
+  </city>
+  <city name="Yanamwakel">
+    <latitude>-19.5166667</latitude>
+    <longitude>169.4333333</longitude>
+  </city>
+  <city name="Yanaouhiya">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.2833333</longitude>
+  </city>
+  <city name="Yanarbon">
+    <latitude>-19.6166667</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Yanavatang">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.4333333</longitude>
+  </city>
+  <city name="Yankoula">
+    <latitude>-19.5333333</latitude>
+    <longitude>169.4</longitude>
+  </city>
+  <city name="Yankwanénéay">
+    <latitude>-19.6166667</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Yanmileun">
+    <latitude>-19.55</latitude>
+    <longitude>169.4</longitude>
+  </city>
+  <city name="Yaoukouriruang">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.35</longitude>
+  </city>
+  <city name="Yapana">
+    <latitude>-16.6333333</latitude>
+    <longitude>168.1333333</longitude>
+  </city>
+  <city name="Yapimay">
+    <latitude>-19.5666667</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Yapnawitaleng">
+    <latitude>-19.55</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Yarouareung">
+    <latitude>-19.65</latitude>
+    <longitude>169.3833333</longitude>
+  </city>
+  <city name="Yasmori">
+    <latitude>-14.9166667</latitude>
+    <longitude>168.0666667</longitude>
+  </city>
+  <city name="Yatoukwey">
+    <latitude>-19.5833333</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Yéléwar">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.15</longitude>
+  </city>
+  <city name="Yélowouwou">
+    <latitude>-16.2833333</latitude>
+    <longitude>167.9666667</longitude>
+  </city>
+  <city name="Yémamoso">
+    <latitude>-16.7166667</latitude>
+    <longitude>168.1166667</longitude>
+  </city>
+  <city name="Yéno">
+    <latitude>-16.25</latitude>
+    <longitude>167.9833333</longitude>
+  </city>
+  <city name="Yérou">
+    <latitude>-19.5833333</latitude>
+    <longitude>169.3333333</longitude>
+  </city>
+  <city name="Yétakapé">
+    <latitude>-19.6333333</latitude>
+    <longitude>169.45</longitude>
+  </city>
+  <city name="Yétap">
+    <latitude>-19.5833333</latitude>
+    <longitude>169.3166667</longitude>
+  </city>
+  <city name="Yimnakayip">
+    <latitude>-19.4</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Yoknaéka">
+    <latitude>-19.55</latitude>
+    <longitude>169.3</longitude>
+  </city>
+  <city name="Ytapoua">
+    <latitude>-19.6333333</latitude>
+    <longitude>169.45</longitude>
+  </city>
+</country>

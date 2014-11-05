@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="tf" name="Territoires français du sud">
+  <city name="Port-aux-Français">
+    <latitude>-49.35</latitude>
+    <longitude>70.2166667</longitude>
+  </city>
+</country>

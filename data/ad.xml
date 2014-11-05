@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="ad" name="Andorre">
+  <city name="Aixirivali">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Aixirivall">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Aixirvall">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Aixovall">
+    <latitude>42.4666667</latitude>
+    <longitude>1.4833333</longitude>
+  </city>
+  <city name="Andorra">
+    <latitude>42.5</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Andorra la Vella">
+    <latitude>42.5</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Andorra-Vieille">
+    <latitude>42.5</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Andorre">
+    <latitude>42.5</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Andorre-la-Vieille">
+    <latitude>42.5</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Andorre-Vieille">
+    <latitude>42.5</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Ansalonga">
+    <latitude>42.5666667</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Anyós">
+    <latitude>42.5333333</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Arans">
+    <latitude>42.5833333</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Arinsal">
+    <latitude>42.5666667</latitude>
+    <longitude>1.4833333</longitude>
+  </city>
+  <city name="Aubinyà">
+    <latitude>42.45</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Auvinya">
+    <latitude>42.45</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Biçisarri">
+    <latitude>42.4833333</latitude>
+    <longitude>1.4666667</longitude>
+  </city>
+  <city name="Bixessarri">
+    <latitude>42.4833333</latitude>
+    <longitude>1.4666667</longitude>
+  </city>
+  <city name="Bixisarri">
+    <latitude>42.4833333</latitude>
+    <longitude>1.4666667</longitude>
+  </city>
+  <city name="Canillo">
+    <latitude>42.5666667</latitude>
+    <longitude>1.6</longitude>
+  </city>
+  <city name="Casas Vila">
+    <latitude>42.5333333</latitude>
+    <longitude>1.5666667</longitude>
+  </city>
+  <city name="Certers">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Certés">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Eixirivall">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="El Pui">
+    <latitude>42.55</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Els Bons">
+    <latitude>42.5333333</latitude>
+    <longitude>1.5833333</longitude>
+  </city>
+  <city name="El Serrat">
+    <latitude>42.6166667</latitude>
+    <longitude>1.55</longitude>
+  </city>
+  <city name="Els Plans">
+    <latitude>42.5833333</latitude>
+    <longitude>1.6333333</longitude>
+  </city>
+  <city name="El Tarter">
+    <latitude>42.5833333</latitude>
+    <longitude>1.65</longitude>
+  </city>
+  <city name="El Tremat">
+    <latitude>42.55</latitude>
+    <longitude>1.5833333</longitude>
+  </city>
+  <city name="El Vilar">
+    <latitude>42.5666667</latitude>
+    <longitude>1.6</longitude>
+  </city>
+  <city name="Encamp">
+    <latitude>42.5333333</latitude>
+    <longitude>1.5833333</longitude>
+  </city>
+  <city name="Engordany">
+    <latitude>42.5166667</latitude>
+    <longitude>1.55</longitude>
+  </city>
+  <city name="Ercs">
+    <latitude>42.5666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Ercz">
+    <latitude>42.5666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Erez">
+    <latitude>42.5666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Erts">
+    <latitude>42.5666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Escaldas">
+    <latitude>42.5</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Escaldes">
+    <latitude>42.5</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Escàs">
+    <latitude>42.55</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Fontaneda">
+    <latitude>42.45</latitude>
+    <longitude>1.4666667</longitude>
+  </city>
+  <city name="Juberri">
+    <latitude>42.4333333</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Juverri">
+    <latitude>42.4333333</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="La Cortinada">
+    <latitude>42.5666667</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="La Costa">
+    <latitude>42.5833333</latitude>
+    <longitude>1.6333333</longitude>
+  </city>
+  <city name="L'Aldosa">
+    <latitude>42.5833333</latitude>
+    <longitude>1.6333333</longitude>
+  </city>
+  <city name="La Maçana">
+    <latitude>42.55</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="La Massana">
+    <latitude>42.55</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Las Escadas">
+    <latitude>42.5</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="la Vieja">
+    <latitude>42.5</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Les Bons">
+    <latitude>42.5333333</latitude>
+    <longitude>1.5833333</longitude>
+  </city>
+  <city name="Les Escaldes">
+    <latitude>42.5</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Llors">
+    <latitude>42.6</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Llorta">
+    <latitude>42.6</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Llorts">
+    <latitude>42.6</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Llumeneres">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Lors">
+    <latitude>42.6</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Lo Serrat">
+    <latitude>42.6166667</latitude>
+    <longitude>1.55</longitude>
+  </city>
+  <city name="Mas d'Alins">
+    <latitude>42.4333333</latitude>
+    <longitude>1.45</longitude>
+  </city>
+  <city name="Mas de Ribafeta">
+    <latitude>42.5666667</latitude>
+    <longitude>1.4833333</longitude>
+  </city>
+  <city name="Meritxell">
+    <latitude>42.55</latitude>
+    <longitude>1.6</longitude>
+  </city>
+  <city name="Molleres">
+    <latitude>42.55</latitude>
+    <longitude>1.5833333</longitude>
+  </city>
+  <city name="Mosquera">
+    <latitude>42.55</latitude>
+    <longitude>1.5833333</longitude>
+  </city>
+  <city name="Nagol">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Ordino">
+    <latitude>42.55</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Pal">
+    <latitude>42.55</latitude>
+    <longitude>1.4833333</longitude>
+  </city>
+  <city name="Pas de la Casa">
+    <latitude>42.55</latitude>
+    <longitude>1.7333333</longitude>
+  </city>
+  <city name="Prats">
+    <latitude>42.5666667</latitude>
+    <longitude>1.6</longitude>
+  </city>
+  <city name="Puiol del Piu">
+    <latitude>42.5666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Ransol">
+    <latitude>42.5833333</latitude>
+    <longitude>1.6333333</longitude>
+  </city>
+  <city name="Sanctuaire de Meritxeli">
+    <latitude>42.55</latitude>
+    <longitude>1.6</longitude>
+  </city>
+  <city name="Sanctuaire de Meritxell">
+    <latitude>42.55</latitude>
+    <longitude>1.6</longitude>
+  </city>
+  <city name="San Joan de Casettas">
+    <latitude>42.5666667</latitude>
+    <longitude>1.6166667</longitude>
+  </city>
+  <city name="San Juliá">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Santa Coloma">
+    <latitude>42.5</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Santa Juliá de Loria">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Sant Joan de Casellas">
+    <latitude>42.5666667</latitude>
+    <longitude>1.6166667</longitude>
+  </city>
+  <city name="Sant Joan de Caselles">
+    <latitude>42.5666667</latitude>
+    <longitude>1.6166667</longitude>
+  </city>
+  <city name="Sant Julià de Lòria">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Sant Juliá">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Sant Pere">
+    <latitude>42.5833333</latitude>
+    <longitude>1.65</longitude>
+  </city>
+  <city name="Santuari de Meritxell">
+    <latitude>42.55</latitude>
+    <longitude>1.6</longitude>
+  </city>
+  <city name="Segudet">
+    <latitude>42.55</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Sertes">
+    <latitude>42.4666667</latitude>
+    <longitude>1.5</longitude>
+  </city>
+  <city name="Sispony">
+    <latitude>42.5333333</latitude>
+    <longitude>1.5166667</longitude>
+  </city>
+  <city name="Soldeu">
+    <latitude>42.5833333</latitude>
+    <longitude>1.6666667</longitude>
+  </city>
+  <city name="Sornàs">
+    <latitude>42.5666667</latitude>
+    <longitude>1.5333333</longitude>
+  </city>
+  <city name="Vila">
+    <latitude>42.5333333</latitude>
+    <longitude>1.5666667</longitude>
+  </city>
+  <city name="Vixesarri">
+    <latitude>42.4833333</latitude>
+    <longitude>1.4666667</longitude>
+  </city>
+  <city name="Xixerella">
+    <latitude>42.55</latitude>
+    <longitude>1.4833333</longitude>
+  </city>
+</country>

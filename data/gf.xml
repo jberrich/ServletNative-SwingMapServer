@@ -1,0 +1,3043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="gf" name="Guyane française">
+  <city name="Abouna Sounga">
+    <latitude>4.05</latitude>
+    <longitude>-54.35</longitude>
+  </city>
+  <city name="Acarouani">
+    <latitude>5.6</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Acarouany">
+    <latitude>5.6</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Adieu-Vat">
+    <latitude>4.8666667</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="Aéroplane Condé">
+    <latitude>4.4166667</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Aéroplane Kondé">
+    <latitude>4.4166667</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Agami">
+    <latitude>3.7666667</latitude>
+    <longitude>-53.2166667</longitude>
+  </city>
+  <city name="Agode">
+    <latitude>3.8333333</latitude>
+    <longitude>-54.1833333</longitude>
+  </city>
+  <city name="Akilengui">
+    <latitude>5.0833333</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Akodo">
+    <latitude>5.1666667</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Akouménaï">
+    <latitude>2.95</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Akouménay">
+    <latitude>2.95</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Akoumenaye">
+    <latitude>2.95</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Akouti">
+    <latitude>4.3833333</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Alicia">
+    <latitude>3.3833333</latitude>
+    <longitude>-52.9166667</longitude>
+  </city>
+  <city name="Alicoto">
+    <latitude>3.1166667</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Alikéné">
+    <latitude>3.3333333</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Alikoto">
+    <latitude>3.1166667</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Aloïké">
+    <latitude>3.3166667</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Alowike">
+    <latitude>3.3166667</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Amékan Tabiki">
+    <latitude>4.8166667</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="Ana Kondé">
+    <latitude>4.2333333</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Ancien Dégrad Fourmi Rouge">
+    <latitude>3.2833333</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Ancien Dégrad Francis">
+    <latitude>3.5166667</latitude>
+    <longitude>-53.75</longitude>
+  </city>
+  <city name="Ancien Dégrad Jougla">
+    <latitude>5.5666667</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Ancien Degrad Nicole">
+    <latitude>3.55</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Ancien Dégrad Vitalo">
+    <latitude>3.25</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Ancien Papaïchton">
+    <latitude>3.8166667</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Ancien Village Hubert">
+    <latitude>3.1</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Ancien Village Mathurin">
+    <latitude>4.5333333</latitude>
+    <longitude>-52.5333333</longitude>
+  </city>
+  <city name="Ancien Village Poteau Carré">
+    <latitude>4.5666667</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Angoulême">
+    <latitude>5.4</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Ankel">
+    <latitude>5.3</latitude>
+    <longitude>-54.2166667</longitude>
+  </city>
+  <city name="Antécume Pata">
+    <latitude>3.2833333</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Anton">
+    <latitude>5.5333333</latitude>
+    <longitude>-53.4333333</longitude>
+  </city>
+  <city name="Aouara">
+    <latitude>5.7333333</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Apatou">
+    <latitude>5.15</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Approuague">
+    <latitude>4.4166667</latitude>
+    <longitude>-51.9333333</longitude>
+  </city>
+  <city name="Arataï">
+    <latitude>3.9833333</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Arataye">
+    <latitude>3.9833333</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Arotaye">
+    <latitude>3.9833333</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Asisi">
+    <latitude>3.8166667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Asisie">
+    <latitude>3.8166667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Assici">
+    <latitude>3.8166667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Assisi">
+    <latitude>3.8166667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Assissi">
+    <latitude>3.8166667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Aubry">
+    <latitude>5.05</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Avenir">
+    <latitude>4.7666667</latitude>
+    <longitude>-53.75</longitude>
+  </city>
+  <city name="Awara">
+    <latitude>5.7333333</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Babel">
+    <latitude>5.0166667</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Badek">
+    <latitude>3.95</latitude>
+    <longitude>-52.9833333</longitude>
+  </city>
+  <city name="Baduel">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Bagdad">
+    <latitude>3.85</latitude>
+    <longitude>-53.0833333</longitude>
+  </city>
+  <city name="Bagot">
+    <latitude>4.5333333</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Baïno">
+    <latitude>4.9333333</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Balaté">
+    <latitude>5.4833333</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Balourou">
+    <latitude>3.5166667</latitude>
+    <longitude>-53.1</longitude>
+  </city>
+  <city name="Bamboula">
+    <latitude>3.8333333</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Banana">
+    <latitude>4.7</latitude>
+    <longitude>-52.5333333</longitude>
+  </city>
+  <city name="Banc de Sable">
+    <latitude>4.9833333</latitude>
+    <longitude>-52.75</longitude>
+  </city>
+  <city name="Banlieue-Sud">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Barkarel">
+    <latitude>3.55</latitude>
+    <longitude>-54.0</longitude>
+  </city>
+  <city name="Barthélemy">
+    <latitude>4.25</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Bas-Espoir">
+    <latitude>3.65</latitude>
+    <longitude>-53.6166667</longitude>
+  </city>
+  <city name="Batardeau">
+    <latitude>4.25</latitude>
+    <longitude>-52.7166667</longitude>
+  </city>
+  <city name="Baticane">
+    <latitude>5.4833333</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="BÅ“uf Bois">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.05</longitude>
+  </city>
+  <city name="BÅ“uf Mort">
+    <latitude>3.4166667</latitude>
+    <longitude>-52.9666667</longitude>
+  </city>
+  <city name="Baugé">
+    <latitude>4.2333333</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Beau Rivage">
+    <latitude>4.7166667</latitude>
+    <longitude>-53.9166667</longitude>
+  </city>
+  <city name="Beau Soleil">
+    <latitude>4.8666667</latitude>
+    <longitude>-52.25</longitude>
+  </city>
+  <city name="Bec de Sable">
+    <latitude>4.9833333</latitude>
+    <longitude>-52.75</longitude>
+  </city>
+  <city name="Bélizon">
+    <latitude>4.25</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Belle Étoile">
+    <latitude>3.9833333</latitude>
+    <longitude>-52.9666667</longitude>
+  </city>
+  <city name="Bellevue">
+    <latitude>3.7666667</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Bénéfica">
+    <latitude>4.8833333</latitude>
+    <longitude>-53.3166667</longitude>
+  </city>
+  <city name="Bernard">
+    <latitude>4.75</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Bernardin">
+    <latitude>3.6166667</latitude>
+    <longitude>-53.7</longitude>
+  </city>
+  <city name="Bicade">
+    <latitude>3.4</latitude>
+    <longitude>-53.45</longitude>
+  </city>
+  <city name="Bienvenue">
+    <latitude>3.1166667</latitude>
+    <longitude>-52.7</longitude>
+  </city>
+  <city name="Biguiston">
+    <latitude>5.35</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="Bistouri">
+    <latitude>4.5333333</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Bita">
+    <latitude>4.0333333</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Blacus">
+    <latitude>3.6833333</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Blicade">
+    <latitude>3.3</latitude>
+    <longitude>-53.85</longitude>
+  </city>
+  <city name="Bois Bandé">
+    <latitude>4.25</latitude>
+    <longitude>-52.5833333</longitude>
+  </city>
+  <city name="Bois Couronné">
+    <latitude>4.8166667</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Bois Macaque">
+    <latitude>4.9833333</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Bois Martin">
+    <latitude>5.0</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Bonidoro">
+    <latitude>4.9166667</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Boniville">
+    <latitude>3.8333333</latitude>
+    <longitude>-54.1833333</longitude>
+  </city>
+  <city name="Bonne Entente">
+    <latitude>5.0</latitude>
+    <longitude>-53.85</longitude>
+  </city>
+  <city name="Borie">
+    <latitude>4.9333333</latitude>
+    <longitude>-53.45</longitude>
+  </city>
+  <city name="Bossou">
+    <latitude>5.0333333</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Bostok">
+    <latitude>3.4333333</latitude>
+    <longitude>-53.9666667</longitude>
+  </city>
+  <city name="Boulanger">
+    <latitude>4.5666667</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Bourda">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.2833333</longitude>
+  </city>
+  <city name="Bourg de Kourou">
+    <latitude>5.15</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Brigandin">
+    <latitude>5.4166667</latitude>
+    <longitude>-52.9833333</longitude>
+  </city>
+  <city name="Buja-le-Haut">
+    <latitude>3.1666667</latitude>
+    <longitude>-52.6833333</longitude>
+  </city>
+  <city name="Cabassou">
+    <latitude>4.8833333</latitude>
+    <longitude>-52.3</longitude>
+  </city>
+  <city name="Cacao">
+    <latitude>4.5833333</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Café">
+    <latitude>3.7333333</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Cambrouse">
+    <latitude>5.1833333</latitude>
+    <longitude>-53.4833333</longitude>
+  </city>
+  <city name="Cambrousse">
+    <latitude>5.1833333</latitude>
+    <longitude>-53.4833333</longitude>
+  </city>
+  <city name="Cambrouze">
+    <latitude>3.65</latitude>
+    <longitude>-53.2333333</longitude>
+  </city>
+  <city name="Camélie">
+    <latitude>5.05</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Camopi">
+    <latitude>3.1666667</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Camp Caïmans">
+    <latitude>4.5666667</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Camp Charvein">
+    <latitude>5.5666667</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Camp de Coswine">
+    <latitude>5.6666667</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Camp de Rémire">
+    <latitude>4.9</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Camp Léonce">
+    <latitude>4.5666667</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Camp Maïpouri">
+    <latitude>5.15</latitude>
+    <longitude>-53.9833333</longitude>
+  </city>
+  <city name="Camp Rochambeau">
+    <latitude>4.8333333</latitude>
+    <longitude>-52.3833333</longitude>
+  </city>
+  <city name="Camp Voltaire">
+    <latitude>5.05</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Capon">
+    <latitude>3.9166667</latitude>
+    <longitude>-51.8333333</longitude>
+  </city>
+  <city name="Carbet Brûlé">
+    <latitude>3.3666667</latitude>
+    <longitude>-52.8833333</longitude>
+  </city>
+  <city name="Carbet Gaulettes">
+    <latitude>3.8333333</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Carbet Hocco">
+    <latitude>3.8</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="Carbet la Nuit">
+    <latitude>3.7833333</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Carbet la Panne">
+    <latitude>4.1666667</latitude>
+    <longitude>-52.8833333</longitude>
+  </city>
+  <city name="Carbet Maïs">
+    <latitude>3.6333333</latitude>
+    <longitude>-53.0666667</longitude>
+  </city>
+  <city name="Carbet Médard">
+    <latitude>5.4</latitude>
+    <longitude>-53.6666667</longitude>
+  </city>
+  <city name="Carbet Mitan">
+    <latitude>3.3</latitude>
+    <longitude>-52.8</longitude>
+  </city>
+  <city name="Carbets">
+    <latitude>3.4166667</latitude>
+    <longitude>-53.8833333</longitude>
+  </city>
+  <city name="Carbet Tonkin">
+    <latitude>4.85</latitude>
+    <longitude>-53.2666667</longitude>
+  </city>
+  <city name="Carbet Toukan">
+    <latitude>5.2</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Cariacou">
+    <latitude>4.8166667</latitude>
+    <longitude>-53.15</longitude>
+  </city>
+  <city name="Carrefour de Mana">
+    <latitude>5.5</latitude>
+    <longitude>-53.9833333</longitude>
+  </city>
+  <city name="Carrière">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.6666667</longitude>
+  </city>
+  <city name="Caussade">
+    <latitude>5.0666667</latitude>
+    <longitude>-52.6</longitude>
+  </city>
+  <city name="Caux">
+    <latitude>4.4833333</latitude>
+    <longitude>-52.0333333</longitude>
+  </city>
+  <city name="Cayenne">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Central Bief">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Cent-Sous">
+    <latitude>3.6666667</latitude>
+    <longitude>-53.3</longitude>
+  </city>
+  <city name="Certitude">
+    <latitude>3.8333333</latitude>
+    <longitude>-53.2666667</longitude>
+  </city>
+  <city name="Changement">
+    <latitude>4.4833333</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Chantier Forestier de Socoumou">
+    <latitude>5.05</latitude>
+    <longitude>-52.6833333</longitude>
+  </city>
+  <city name="Chapelle Saramaka">
+    <latitude>3.6166667</latitude>
+    <longitude>-52.6666667</longitude>
+  </city>
+  <city name="Charenton">
+    <latitude>4.2166667</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Charvein">
+    <latitude>5.5666667</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Chatenay">
+    <latitude>4.95</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Châton">
+    <latitude>4.95</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Chatonnet">
+    <latitude>4.8833333</latitude>
+    <longitude>-53.0166667</longitude>
+  </city>
+  <city name="Chire">
+    <latitude>5.5333333</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Chou-Ming">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.15</longitude>
+  </city>
+  <city name="Cité Alexandre">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Ampigny">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Anatole">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Brutus">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Césaire">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Cité des Castors">
+    <latitude>4.95</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité des Manguiers">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité des Palétuviers">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Cité Eau Lisette">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Homat">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Jean-François">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Lafaurie">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Cité Laurie">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Mirza">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Nzilla">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Pascaline">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Pasteur">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Quintius">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Rebard">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cité Themire">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Citron">
+    <latitude>4.7333333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Civet">
+    <latitude>3.4</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Claude">
+    <latitude>4.9166667</latitude>
+    <longitude>-53.4</longitude>
+  </city>
+  <city name="Clément">
+    <latitude>3.3833333</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Cochon Brûlé">
+    <latitude>3.8833333</latitude>
+    <longitude>-53.05</longitude>
+  </city>
+  <city name="Coco">
+    <latitude>4.1333333</latitude>
+    <longitude>-52.5166667</longitude>
+  </city>
+  <city name="Cocoye">
+    <latitude>4.0666667</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="Cogneau">
+    <latitude>4.8666667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Cokioco">
+    <latitude>4.9166667</latitude>
+    <longitude>-53.5</longitude>
+  </city>
+  <city name="Combi">
+    <latitude>5.3333333</latitude>
+    <longitude>-52.9333333</longitude>
+  </city>
+  <city name="Combo">
+    <latitude>4.8833333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Conamama">
+    <latitude>5.45</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Coralie">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Cormontibo">
+    <latitude>3.8</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Cormotibo">
+    <latitude>3.8</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Corossony">
+    <latitude>5.4166667</latitude>
+    <longitude>-53.0333333</longitude>
+  </city>
+  <city name="Coswine">
+    <latitude>5.6666667</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Couachi">
+    <latitude>5.6166667</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Couasse">
+    <latitude>4.75</latitude>
+    <longitude>-53.2666667</longitude>
+  </city>
+  <city name="Coulor">
+    <latitude>5.0</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Couman-Couman">
+    <latitude>4.0333333</latitude>
+    <longitude>-51.6666667</longitude>
+  </city>
+  <city name="Counamama">
+    <latitude>5.45</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Couriège">
+    <latitude>4.8</latitude>
+    <longitude>-53.2833333</longitude>
+  </city>
+  <city name="Couy">
+    <latitude>4.0833333</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Crique Anguille">
+    <latitude>4.8333333</latitude>
+    <longitude>-52.5166667</longitude>
+  </city>
+  <city name="Crique Jacques">
+    <latitude>5.65</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Dagobert">
+    <latitude>3.95</latitude>
+    <longitude>-53.45</longitude>
+  </city>
+  <city name="Dagou Edé">
+    <latitude>4.1666667</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Danké">
+    <latitude>4.3666667</latitude>
+    <longitude>-54.35</longitude>
+  </city>
+  <city name="Dardanelles">
+    <latitude>3.75</latitude>
+    <longitude>-52.6333333</longitude>
+  </city>
+  <city name="Déchéance">
+    <latitude>3.65</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Décision">
+    <latitude>5.0</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Découman Eugène">
+    <latitude>4.0833333</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Découverte">
+    <latitude>4.2166667</latitude>
+    <longitude>-52.6333333</longitude>
+  </city>
+  <city name="Dégourdi">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.0833333</longitude>
+  </city>
+  <city name="Dégrad Anel">
+    <latitude>4.3666667</latitude>
+    <longitude>-52.5833333</longitude>
+  </city>
+  <city name="Dégrad Balata">
+    <latitude>5.0</latitude>
+    <longitude>-52.6833333</longitude>
+  </city>
+  <city name="Dégrad Bélizon">
+    <latitude>4.25</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Dégrad Bicade">
+    <latitude>3.4</latitude>
+    <longitude>-53.45</longitude>
+  </city>
+  <city name="Dégrad Blanc">
+    <latitude>3.7333333</latitude>
+    <longitude>-53.2833333</longitude>
+  </city>
+  <city name="Dégrad Blockauss">
+    <latitude>4.65</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Dégrad Bois Blanc">
+    <latitude>3.8</latitude>
+    <longitude>-53.8833333</longitude>
+  </city>
+  <city name="Dégrad Brigette">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.6166667</longitude>
+  </city>
+  <city name="Dégrad Cacao">
+    <latitude>4.5833333</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Dégrad Cambrouze">
+    <latitude>4.7666667</latitude>
+    <longitude>-54.0</longitude>
+  </city>
+  <city name="Dégrad Camopi">
+    <latitude>3.3333333</latitude>
+    <longitude>-52.8166667</longitude>
+  </city>
+  <city name="Dégrad Canard">
+    <latitude>5.65</latitude>
+    <longitude>-53.7333333</longitude>
+  </city>
+  <city name="Dégrad Carbet Maïs">
+    <latitude>3.6333333</latitude>
+    <longitude>-53.0666667</longitude>
+  </city>
+  <city name="Dégrad Claude">
+    <latitude>2.8833333</latitude>
+    <longitude>-53.0833333</longitude>
+  </city>
+  <city name="Dégrad Clémencin">
+    <latitude>5.1</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Dégrad Clerc">
+    <latitude>4.95</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="DégradCorrèze">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Dégrad des Cannes">
+    <latitude>4.85</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Dégrad des Emerillon">
+    <latitude>2.8833333</latitude>
+    <longitude>-53.0833333</longitude>
+  </city>
+  <city name="Dégrad Dimanche">
+    <latitude>4.9833333</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Dégrad Doré">
+    <latitude>3.4166667</latitude>
+    <longitude>-52.75</longitude>
+  </city>
+  <city name="Dégrad Etats Unis">
+    <latitude>3.4166667</latitude>
+    <longitude>-53.4166667</longitude>
+  </city>
+  <city name="Dégrad Etienne">
+    <latitude>4.45</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Dégrad Florian">
+    <latitude>5.4166667</latitude>
+    <longitude>-53.4333333</longitude>
+  </city>
+  <city name="Dégrad Fourgassié">
+    <latitude>4.6166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Dégrad Fourmi">
+    <latitude>3.45</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Dégrad Fourmi Rouge">
+    <latitude>3.2833333</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Dégrad Francis">
+    <latitude>3.5166667</latitude>
+    <longitude>-53.75</longitude>
+  </city>
+  <city name="Dégrad Fromager">
+    <latitude>5.2333333</latitude>
+    <longitude>-52.9833333</longitude>
+  </city>
+  <city name="Dégrad Galouja">
+    <latitude>2.1666667</latitude>
+    <longitude>-52.9833333</longitude>
+  </city>
+  <city name="Dégrad Galoupa">
+    <latitude>2.1666667</latitude>
+    <longitude>-52.9833333</longitude>
+  </city>
+  <city name="Dégrad Génipa">
+    <latitude>5.3666667</latitude>
+    <longitude>-53.4333333</longitude>
+  </city>
+  <city name="Dégrad Haut Camopi">
+    <latitude>2.5</latitude>
+    <longitude>-53.0666667</longitude>
+  </city>
+  <city name="Dégrad Henri">
+    <latitude>5.4166667</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Dégrad Impératrice">
+    <latitude>4.0666667</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Dégrad Jalbot">
+    <latitude>4.2</latitude>
+    <longitude>-52.6333333</longitude>
+  </city>
+  <city name="Dégrad Janson">
+    <latitude>5.0166667</latitude>
+    <longitude>-52.7166667</longitude>
+  </city>
+  <city name="Dégrad Jason">
+    <latitude>5.0166667</latitude>
+    <longitude>-52.7166667</longitude>
+  </city>
+  <city name="Degrad Jean-Jean">
+    <latitude>4.2333333</latitude>
+    <longitude>-52.0</longitude>
+  </city>
+  <city name="Dégrad Kwata">
+    <latitude>3.4166667</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Dégrad la Boue">
+    <latitude>5.3833333</latitude>
+    <longitude>-53.4333333</longitude>
+  </city>
+  <city name="Dégrad Laurens">
+    <latitude>3.2833333</latitude>
+    <longitude>-52.6666667</longitude>
+  </city>
+  <city name="Dégrad Limaroula">
+    <latitude>4.1833333</latitude>
+    <longitude>-52.3833333</longitude>
+  </city>
+  <city name="Dégrad Limousin">
+    <latitude>4.5666667</latitude>
+    <longitude>-52.3</longitude>
+  </city>
+  <city name="Dégrad Maman Piraye">
+    <latitude>5.4</latitude>
+    <longitude>-53.3166667</longitude>
+  </city>
+  <city name="Dégrad Maraudeur">
+    <latitude>3.6</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Dégrad Ménado">
+    <latitude>4.6166667</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Dégrad Moufflet">
+    <latitude>4.4666667</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="Dégrad Neuf">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.7166667</longitude>
+  </city>
+  <city name="Dégrad Nicole">
+    <latitude>3.55</latitude>
+    <longitude>-53.75</longitude>
+  </city>
+  <city name="Dégrad Papa Jean">
+    <latitude>4.95</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Dégrad Pascal">
+    <latitude>5.4166667</latitude>
+    <longitude>-53.35</longitude>
+  </city>
+  <city name="Dégrad Patagaï">
+    <latitude>5.4333333</latitude>
+    <longitude>-53.2333333</longitude>
+  </city>
+  <city name="Dégrad Perdu Temps">
+    <latitude>5.05</latitude>
+    <longitude>-53.4</longitude>
+  </city>
+  <city name="Dégrad Pierette">
+    <latitude>4.0166667</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Dégrad Pierre">
+    <latitude>4.95</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Dégrad Pierrette">
+    <latitude>4.0166667</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Dégrad Pimpin">
+    <latitude>5.3166667</latitude>
+    <longitude>-54.1833333</longitude>
+  </city>
+  <city name="Dégrad Reinald">
+    <latitude>2.9166667</latitude>
+    <longitude>-53.2833333</longitude>
+  </city>
+  <city name="Dégrad Roche">
+    <latitude>3.4166667</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Dégrad Saint-Éloi">
+    <latitude>3.8</latitude>
+    <longitude>-53.3</longitude>
+  </city>
+  <city name="Dégrad Saint-Léon">
+    <latitude>3.8833333</latitude>
+    <longitude>-53.3666667</longitude>
+  </city>
+  <city name="Dégrad Saint-Paul">
+    <latitude>4.3833333</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Dégrad Saint-Pierre">
+    <latitude>3.1166667</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Dégrad Samson">
+    <latitude>4.0333333</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Dégrad Saramaka">
+    <latitude>5.0166667</latitude>
+    <longitude>-52.7</longitude>
+  </city>
+  <city name="Dégrad Sardine">
+    <latitude>3.6166667</latitude>
+    <longitude>-53.35</longitude>
+  </city>
+  <city name="Dégrad Savane">
+    <latitude>5.4833333</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Dégrad Simon">
+    <latitude>5.15</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Dégrad Tamanoir">
+    <latitude>5.4166667</latitude>
+    <longitude>-53.4</longitude>
+  </city>
+  <city name="Dégrad T.H.R.">
+    <latitude>3.7166667</latitude>
+    <longitude>-53.5166667</longitude>
+  </city>
+  <city name="Dégrad Tigre">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Dégrad Vitalo">
+    <latitude>3.25</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Dégrad Yaya">
+    <latitude>4.6166667</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Délices">
+    <latitude>4.7333333</latitude>
+    <longitude>-53.7666667</longitude>
+  </city>
+  <city name="Dépot Lezand">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Dépôt Lézand Ruines">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Dépôt Lézard">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Désirade">
+    <latitude>4.75</latitude>
+    <longitude>-53.9166667</longitude>
+  </city>
+  <city name="Déta">
+    <latitude>3.6666667</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Deux Branches">
+    <latitude>4.8833333</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="Deux Fromagers">
+    <latitude>5.0</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Deux Jours">
+    <latitude>5.0166667</latitude>
+    <longitude>-53.15</longitude>
+  </city>
+  <city name="Devez">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.4333333</longitude>
+  </city>
+  <city name="Diamant">
+    <latitude>5.1666667</latitude>
+    <longitude>-52.6333333</longitude>
+  </city>
+  <city name="Dieudonné">
+    <latitude>4.9166667</latitude>
+    <longitude>-53.3833333</longitude>
+  </city>
+  <city name="Dieu-Merci">
+    <latitude>4.5666667</latitude>
+    <longitude>-52.75</longitude>
+  </city>
+  <city name="Divalon">
+    <latitude>4.75</latitude>
+    <longitude>-53.8833333</longitude>
+  </city>
+  <city name="Docris">
+    <latitude>3.8</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Doglis">
+    <latitude>3.8</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Domrémy">
+    <latitude>4.25</latitude>
+    <longitude>-52.75</longitude>
+  </city>
+  <city name="Dorlin">
+    <latitude>3.75</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Dosmond">
+    <latitude>4.5833333</latitude>
+    <longitude>-52.7333333</longitude>
+  </city>
+  <city name="Dubol">
+    <latitude>4.1833333</latitude>
+    <longitude>-52.1833333</longitude>
+  </city>
+  <city name="Eau Blanche">
+    <latitude>5.0666667</latitude>
+    <longitude>-53.4833333</longitude>
+  </city>
+  <city name="Eau Claire">
+    <latitude>3.6</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Eau Coulie">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Edmond">
+    <latitude>4.6</latitude>
+    <longitude>-52.4333333</longitude>
+  </city>
+  <city name="Edmont">
+    <latitude>4.6</latitude>
+    <longitude>-52.4333333</longitude>
+  </city>
+  <city name="Édouard">
+    <latitude>3.4</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Edwin">
+    <latitude>4.6833333</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Ekény">
+    <latitude>4.05</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Ekiny">
+    <latitude>4.05</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Elaé">
+    <latitude>3.45</latitude>
+    <longitude>-54.0</longitude>
+  </city>
+  <city name="Élysée">
+    <latitude>4.75</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Émerillon">
+    <latitude>3.4166667</latitude>
+    <longitude>-53.0666667</longitude>
+  </city>
+  <city name="Emérillons">
+    <latitude>3.4166667</latitude>
+    <longitude>-53.0666667</longitude>
+  </city>
+  <city name="Emérillons Village">
+    <latitude>3.4166667</latitude>
+    <longitude>-53.0666667</longitude>
+  </city>
+  <city name="Enéné Patatpe">
+    <latitude>2.3333333</latitude>
+    <longitude>-54.5</longitude>
+  </city>
+  <city name="Enfants perdus">
+    <latitude>3.8666667</latitude>
+    <longitude>-54.2166667</longitude>
+  </city>
+  <city name="Enfin">
+    <latitude>4.7333333</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Enfin Pépita">
+    <latitude>4.7333333</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Entouca">
+    <latitude>3.4833333</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="Entoucas">
+    <latitude>3.4833333</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="Espérance">
+    <latitude>3.6833333</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Espoir">
+    <latitude>3.85</latitude>
+    <longitude>-53.35</longitude>
+  </city>
+  <city name="États-Unis">
+    <latitude>3.4166667</latitude>
+    <longitude>-53.4166667</longitude>
+  </city>
+  <city name="Étienne">
+    <latitude>4.45</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Farnous">
+    <latitude>4.95</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Faubourg l'Abri">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Fermes de Saint-Élie">
+    <latitude>5.3666667</latitude>
+    <longitude>-53.0166667</longitude>
+  </city>
+  <city name="Filon Doyle">
+    <latitude>4.5</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Flèche">
+    <latitude>5.5333333</latitude>
+    <longitude>-53.4</longitude>
+  </city>
+  <city name="Florida">
+    <latitude>3.65</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Florissante">
+    <latitude>3.3833333</latitude>
+    <longitude>-52.8833333</longitude>
+  </city>
+  <city name="Foreshëre">
+    <latitude>5.2333333</latitude>
+    <longitude>-54.2833333</longitude>
+  </city>
+  <city name="Forestière">
+    <latitude>5.2333333</latitude>
+    <longitude>-54.2833333</longitude>
+  </city>
+  <city name="Fortuné">
+    <latitude>4.55</latitude>
+    <longitude>-52.3</longitude>
+  </city>
+  <city name="Fourgassie">
+    <latitude>4.6166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Fracas">
+    <latitude>4.75</latitude>
+    <longitude>-53.6666667</longitude>
+  </city>
+  <city name="Gaa Caba">
+    <latitude>4.4833333</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Gaa Kaba">
+    <latitude>4.4833333</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Gaillot">
+    <latitude>5.15</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Galloni">
+    <latitude>5.2166667</latitude>
+    <longitude>-54.2166667</longitude>
+  </city>
+  <city name="Galmot">
+    <latitude>5.3166667</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Gare Tigre">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Gaston">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Gervais">
+    <latitude>4.6833333</latitude>
+    <longitude>-53.9166667</longitude>
+  </city>
+  <city name="Goélette">
+    <latitude>3.2833333</latitude>
+    <longitude>-52.8</longitude>
+  </city>
+  <city name="Goellette">
+    <latitude>3.2833333</latitude>
+    <longitude>-52.8</longitude>
+  </city>
+  <city name="Goupi Patatpe">
+    <latitude>2.5166667</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Goupi Patatpeu">
+    <latitude>2.5166667</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Grand Bala">
+    <latitude>4.3833333</latitude>
+    <longitude>-54.3</longitude>
+  </city>
+  <city name="Grand Bassin">
+    <latitude>4.5333333</latitude>
+    <longitude>-52.5166667</longitude>
+  </city>
+  <city name="Grand Carbet">
+    <latitude>3.65</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Grand Citron">
+    <latitude>4.2666667</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Grand Lac">
+    <latitude>4.8166667</latitude>
+    <longitude>-53.7</longitude>
+  </city>
+  <city name="Grand Marquis">
+    <latitude>3.75</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Grand Pont">
+    <latitude>3.7166667</latitude>
+    <longitude>-53.2833333</longitude>
+  </city>
+  <city name="Grand-Santi">
+    <latitude>4.25</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Grand Santi">
+    <latitude>4.3333333</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Grand Usine">
+    <latitude>3.3666667</latitude>
+    <longitude>-52.9166667</longitude>
+  </city>
+  <city name="Grand-Village">
+    <latitude>5.5833333</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Grigel">
+    <latitude>3.3166667</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Gros Roche">
+    <latitude>4.5666667</latitude>
+    <longitude>-52.6166667</longitude>
+  </city>
+  <city name="Grosse Roche">
+    <latitude>5.25</latitude>
+    <longitude>-53.4166667</longitude>
+  </city>
+  <city name="Guadeloupe">
+    <latitude>4.7333333</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Guatemala">
+    <latitude>5.15</latitude>
+    <longitude>-52.6333333</longitude>
+  </city>
+  <city name="Guenouillet">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Guillaume">
+    <latitude>4.2666667</latitude>
+    <longitude>-52.25</longitude>
+  </city>
+  <city name="Guisambourg">
+    <latitude>4.4166667</latitude>
+    <longitude>-51.9333333</longitude>
+  </city>
+  <city name="Guisanbourg">
+    <latitude>4.4166667</latitude>
+    <longitude>-51.9333333</longitude>
+  </city>
+  <city name="Guizambourg">
+    <latitude>4.4166667</latitude>
+    <longitude>-51.9333333</longitude>
+  </city>
+  <city name="Guizanbourg">
+    <latitude>4.4166667</latitude>
+    <longitude>-51.9333333</longitude>
+  </city>
+  <city name="Honorable Tchung Ming">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.15</longitude>
+  </city>
+  <city name="Ilakana Patatpe">
+    <latitude>2.6333333</latitude>
+    <longitude>-54.3</longitude>
+  </city>
+  <city name="Îlet Lézard">
+    <latitude>5.05</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Îlet Malouin">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Îlet Tortue">
+    <latitude>5.2</latitude>
+    <longitude>-52.9666667</longitude>
+  </city>
+  <city name="Impératrice">
+    <latitude>4.0666667</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Indiens Oyampis">
+    <latitude>3.1166667</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Inipi">
+    <latitude>3.25</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Ippoussing">
+    <latitude>4.1166667</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Iracoubo">
+    <latitude>5.4833333</latitude>
+    <longitude>-53.2166667</longitude>
+  </city>
+  <city name="Irène">
+    <latitude>4.1333333</latitude>
+    <longitude>-52.9166667</longitude>
+  </city>
+  <city name="Isnard et Priane">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.7333333</longitude>
+  </city>
+  <city name="Itousanseng">
+    <latitude>2.2</latitude>
+    <longitude>-52.9166667</longitude>
+  </city>
+  <city name="Jalbot">
+    <latitude>4.2</latitude>
+    <longitude>-52.6166667</longitude>
+  </city>
+  <city name="Janvier">
+    <latitude>5.1666667</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="Javouhey">
+    <latitude>5.6</latitude>
+    <longitude>-53.8166667</longitude>
+  </city>
+  <city name="Jean">
+    <latitude>4.2333333</latitude>
+    <longitude>-52.0</longitude>
+  </city>
+  <city name="Jean Jean">
+    <latitude>4.2333333</latitude>
+    <longitude>-52.0</longitude>
+  </city>
+  <city name="Jean-Jean Rémission">
+    <latitude>4.2333333</latitude>
+    <longitude>-52.0</longitude>
+  </city>
+  <city name="Jejo">
+    <latitude>5.4</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="John">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="John Sirot">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.15</longitude>
+  </city>
+  <city name="Junique">
+    <latitude>5.1666667</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Kagnouma">
+    <latitude>2.6333333</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Kantali">
+    <latitude>5.4166667</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Kariakou">
+    <latitude>4.8166667</latitude>
+    <longitude>-53.15</longitude>
+  </city>
+  <city name="Kaw">
+    <latitude>4.4833333</latitude>
+    <longitude>-52.0333333</longitude>
+  </city>
+  <city name="Kepioudou">
+    <latitude>4.9833333</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Kérenroch">
+    <latitude>5.1</latitude>
+    <longitude>-53.05</longitude>
+  </city>
+  <city name="Kofi Kamiza">
+    <latitude>4.1833333</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Kokioko">
+    <latitude>4.9166667</latitude>
+    <longitude>-53.5</longitude>
+  </city>
+  <city name="Kokoï">
+    <latitude>4.0666667</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="Kokoye">
+    <latitude>4.0666667</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="Kormontibo">
+    <latitude>3.8</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Kormotibo">
+    <latitude>3.8</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Kotioko">
+    <latitude>3.4</latitude>
+    <longitude>-52.9</longitude>
+  </city>
+  <city name="Kouachi">
+    <latitude>5.6166667</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Kouachinana">
+    <latitude>5.6333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Kouman-Kouman">
+    <latitude>4.0333333</latitude>
+    <longitude>-51.6666667</longitude>
+  </city>
+  <city name="Kouro">
+    <latitude>5.15</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Kourou">
+    <latitude>5.15</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Koutou">
+    <latitude>3.3</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Koutouwao">
+    <latitude>5.5666667</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Kwassie">
+    <latitude>4.95</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="La Boue">
+    <latitude>4.15</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="La Chaumière">
+    <latitude>4.8833333</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="La Conie">
+    <latitude>4.2333333</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="La Dame Blanche">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="La Désirade">
+    <latitude>4.75</latitude>
+    <longitude>-53.9166667</longitude>
+  </city>
+  <city name="La Douane">
+    <latitude>5.0333333</latitude>
+    <longitude>-52.7</longitude>
+  </city>
+  <city name="La Forestière">
+    <latitude>5.2333333</latitude>
+    <longitude>-54.2833333</longitude>
+  </city>
+  <city name="La Grève">
+    <latitude>3.8666667</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="La Levée">
+    <latitude>4.8333333</latitude>
+    <longitude>-52.3</longitude>
+  </city>
+  <city name="La Madeleine">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Lamérique">
+    <latitude>3.3333333</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="La Mirande Distillerie">
+    <latitude>4.8833333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="La Mirande">
+    <latitude>4.8833333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Lamonet">
+    <latitude>3.65</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="L'Amphithéâtre">
+    <latitude>4.9</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Langa Tabiki">
+    <latitude>4.9833333</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="La République">
+    <latitude>4.8666667</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Larivant">
+    <latitude>4.9</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="Larivaut">
+    <latitude>4.9</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="Larivot">
+    <latitude>4.9</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="La Roche Fendé">
+    <latitude>4.3833333</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Laurens">
+    <latitude>3.2833333</latitude>
+    <longitude>-52.6666667</longitude>
+  </city>
+  <city name="Laurent">
+    <latitude>5.5</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Laussat">
+    <latitude>5.4833333</latitude>
+    <longitude>-53.5666667</longitude>
+  </city>
+  <city name="La Valère">
+    <latitude>4.8333333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Lavaud">
+    <latitude>3.0</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="La Villette">
+    <latitude>4.95</latitude>
+    <longitude>-53.1666667</longitude>
+  </city>
+  <city name="Le Bourg">
+    <latitude>5.15</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Le Dix-Septième">
+    <latitude>4.8333333</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Le Gallion">
+    <latitude>4.7833333</latitude>
+    <longitude>-52.4333333</longitude>
+  </city>
+  <city name="Le Larivot">
+    <latitude>4.9</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="L'Enfant Perdu">
+    <latitude>3.8666667</latitude>
+    <longitude>-54.2166667</longitude>
+  </city>
+  <city name="Léonce">
+    <latitude>3.8</latitude>
+    <longitude>-53.7</longitude>
+  </city>
+  <city name="Le Rallye">
+    <latitude>4.05</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Les Alliés">
+    <latitude>5.0333333</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Les Bambous">
+    <latitude>5.6166667</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Les Halles">
+    <latitude>5.7333333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Les Hattes">
+    <latitude>5.7333333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Les Malgaches">
+    <latitude>5.4833333</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="Les Roches">
+    <latitude>5.15</latitude>
+    <longitude>-52.6333333</longitude>
+  </city>
+  <city name="L'Horizon">
+    <latitude>5.1333333</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Lieu-dit Bois Macaque">
+    <latitude>4.9833333</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Lieu-dit Dubol">
+    <latitude>4.1833333</latitude>
+    <longitude>-52.1833333</longitude>
+  </city>
+  <city name="Lieu-dit Picard">
+    <latitude>4.2</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Lieu-dit Pois Sucré">
+    <latitude>4.95</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Lioni">
+    <latitude>4.1</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Lipo Lipo">
+    <latitude>3.3</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Lissa">
+    <latitude>4.9833333</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="L'Observatoire">
+    <latitude>4.5333333</latitude>
+    <longitude>-53.9666667</longitude>
+  </city>
+  <city name="Loca">
+    <latitude>3.8333333</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Loulouïe">
+    <latitude>4.8666667</latitude>
+    <longitude>-53.0333333</longitude>
+  </city>
+  <city name="Lysis">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.5166667</longitude>
+  </city>
+  <city name="Macouba">
+    <latitude>5.5333333</latitude>
+    <longitude>-53.4</longitude>
+  </city>
+  <city name="Macouria">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="Madame Yeyenne">
+    <latitude>3.2166667</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Mafi">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Magasin Créole">
+    <latitude>4.2</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Maïpouri">
+    <latitude>3.3666667</latitude>
+    <longitude>-52.3833333</longitude>
+  </city>
+  <city name="Malaïtawa">
+    <latitude>3.1333333</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Malavate">
+    <latitude>3.3</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Malmaison">
+    <latitude>4.9833333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Malmanoury">
+    <latitude>5.3</latitude>
+    <longitude>-52.8333333</longitude>
+  </city>
+  <city name="Malterre">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Maman Koumarou">
+    <latitude>4.15</latitude>
+    <longitude>-52.2</longitude>
+  </city>
+  <city name="Maman Valentin">
+    <latitude>5.3333333</latitude>
+    <longitude>-53.6666667</longitude>
+  </city>
+  <city name="Mamaribo">
+    <latitude>5.5166667</latitude>
+    <longitude>-53.35</longitude>
+  </city>
+  <city name="Mana">
+    <latitude>5.6666667</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Mango">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Maniga">
+    <latitude>5.4166667</latitude>
+    <longitude>-53.2666667</longitude>
+  </city>
+  <city name="Maraudeur">
+    <latitude>3.6</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Maraudeurs">
+    <latitude>3.6</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Mariani">
+    <latitude>5.15</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Marian">
+    <latitude>5.15</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Marignan">
+    <latitude>4.6333333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Mario">
+    <latitude>3.3166667</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Maripa">
+    <latitude>3.8</latitude>
+    <longitude>-51.8833333</longitude>
+  </city>
+  <city name="Maripasoula">
+    <latitude>3.6333333</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Maripa-Village">
+    <latitude>3.6333333</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Maroni">
+    <latitude>5.5</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Marquis">
+    <latitude>3.75</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Mathurin">
+    <latitude>4.5333333</latitude>
+    <longitude>-52.5333333</longitude>
+  </city>
+  <city name="Matiti">
+    <latitude>5.05</latitude>
+    <longitude>-52.6</longitude>
+  </city>
+  <city name="Matoary">
+    <latitude>4.85</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Matoury">
+    <latitude>4.85</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Mayman">
+    <latitude>5.1833333</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Médeyre">
+    <latitude>5.6</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Ménado">
+    <latitude>4.6</latitude>
+    <longitude>-52.4166667</longitude>
+  </city>
+  <city name="Migue">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.15</longitude>
+  </city>
+  <city name="Mogès">
+    <latitude>4.7833333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Mompé Soula">
+    <latitude>4.55</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Mondésir">
+    <latitude>4.1833333</latitude>
+    <longitude>-52.8166667</longitude>
+  </city>
+  <city name="Monfina">
+    <latitude>4.1666667</latitude>
+    <longitude>-54.3666667</longitude>
+  </city>
+  <city name="Montabo">
+    <latitude>4.95</latitude>
+    <longitude>-52.3</longitude>
+  </city>
+  <city name="Montagne Maripa">
+    <latitude>4.4166667</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Montagne Sable">
+    <latitude>5.5666667</latitude>
+    <longitude>-53.6</longitude>
+  </city>
+  <city name="Montjoli">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Montjoly">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Montjoyeux">
+    <latitude>4.95</latitude>
+    <longitude>-52.3</longitude>
+  </city>
+  <city name="Montsinéry">
+    <latitude>4.9</latitude>
+    <longitude>-52.5</longitude>
+  </city>
+  <city name="Mont Valérien">
+    <latitude>4.9333333</latitude>
+    <longitude>-53.05</longitude>
+  </city>
+  <city name="Morpio">
+    <latitude>5.4833333</latitude>
+    <longitude>-53.3</longitude>
+  </city>
+  <city name="Morpion">
+    <latitude>5.0166667</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Moucaya">
+    <latitude>5.5166667</latitude>
+    <longitude>-53.3833333</longitude>
+  </city>
+  <city name="Moussoué Santi Tabiki">
+    <latitude>4.5833333</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Moyoco">
+    <latitude>5.1666667</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Nancibo">
+    <latitude>4.6666667</latitude>
+    <longitude>-52.4833333</longitude>
+  </city>
+  <city name="Nasson">
+    <latitude>4.8166667</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="Nationale">
+    <latitude>4.5833333</latitude>
+    <longitude>-52.75</longitude>
+  </city>
+  <city name="Niewe Rust">
+    <latitude>5.5833333</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Nouveau Camp">
+    <latitude>5.55</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Nouvelle Alliance">
+    <latitude>4.0166667</latitude>
+    <longitude>-51.7333333</longitude>
+  </city>
+  <city name="Nouvelle Angouleme">
+    <latitude>5.4</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Opoya">
+    <latitude>3.3833333</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Organabo">
+    <latitude>5.5333333</latitude>
+    <longitude>-53.4666667</longitude>
+  </city>
+  <city name="Oscar">
+    <latitude>2.85</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Ouanary">
+    <latitude>4.2166667</latitude>
+    <longitude>-51.6666667</longitude>
+  </city>
+  <city name="Ouaqui">
+    <latitude>3.45</latitude>
+    <longitude>-54.0</longitude>
+  </city>
+  <city name="Ouragan">
+    <latitude>3.9333333</latitude>
+    <longitude>-53.0166667</longitude>
+  </city>
+  <city name="Oyampis">
+    <latitude>3.1166667</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Oyapock">
+    <latitude>3.9</latitude>
+    <longitude>-51.8</longitude>
+  </city>
+  <city name="Paillé">
+    <latitude>4.2</latitude>
+    <longitude>-54.2333333</longitude>
+  </city>
+  <city name="Palassissi">
+    <latitude>3.2833333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Papaïchton">
+    <latitude>3.8</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Papa Momo">
+    <latitude>5.5333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Papa Moumou">
+    <latitude>5.5333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Parcours Noir">
+    <latitude>3.4166667</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Pascal">
+    <latitude>4.25</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Pascaud">
+    <latitude>4.8666667</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Patagaïe">
+    <latitude>5.4333333</latitude>
+    <longitude>-53.2333333</longitude>
+  </city>
+  <city name="Patate">
+    <latitude>5.0333333</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Patawa">
+    <latitude>4.6833333</latitude>
+    <longitude>-52.5166667</longitude>
+  </city>
+  <city name="Patience">
+    <latitude>3.4166667</latitude>
+    <longitude>-52.9166667</longitude>
+  </city>
+  <city name="Paul Isnard">
+    <latitude>4.7833333</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="Pédima">
+    <latitude>3.3</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Péléa">
+    <latitude>3.2666667</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Perdu Temps">
+    <latitude>4.9833333</latitude>
+    <longitude>-53.3666667</longitude>
+  </city>
+  <city name="Petit Cabrit">
+    <latitude>4.4333333</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Petit Cayenne">
+    <latitude>4.8833333</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Petit Fouet">
+    <latitude>4.9</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="Petit François">
+    <latitude>3.1333333</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Petit Laussat">
+    <latitude>5.45</latitude>
+    <longitude>-53.8833333</longitude>
+  </city>
+  <city name="Petit Paradis">
+    <latitude>3.6833333</latitude>
+    <longitude>-53.5333333</longitude>
+  </city>
+  <city name="Petit Placer">
+    <latitude>4.5</latitude>
+    <longitude>-52.4833333</longitude>
+  </city>
+  <city name="Petit Saut">
+    <latitude>5.35</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Picard">
+    <latitude>4.2</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Pierette">
+    <latitude>4.0166667</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Pierre Hoho">
+    <latitude>3.3166667</latitude>
+    <longitude>-52.7333333</longitude>
+  </city>
+  <city name="Pierrette">
+    <latitude>4.0166667</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Pikinn Tabiki">
+    <latitude>3.2333333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Piliwa">
+    <latitude>5.7333333</latitude>
+    <longitude>-53.8833333</longitude>
+  </city>
+  <city name="Pina">
+    <latitude>2.2833333</latitude>
+    <longitude>-52.85</longitude>
+  </city>
+  <city name="Placer A Dieu Vat">
+    <latitude>4.8666667</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="Placer Bief">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.4666667</longitude>
+  </city>
+  <city name="Placer Chantal">
+    <latitude>4.4166667</latitude>
+    <longitude>-54.35</longitude>
+  </city>
+  <city name="Placer Couriege">
+    <latitude>4.8</latitude>
+    <longitude>-53.2833333</longitude>
+  </city>
+  <city name="Placer Dieu Va">
+    <latitude>4.8666667</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="Placer Paul Isnard">
+    <latitude>4.7833333</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="Placers Tibourou">
+    <latitude>4.4666667</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Placer Trésor">
+    <latitude>4.5833333</latitude>
+    <longitude>-52.2833333</longitude>
+  </city>
+  <city name="Plaque Roche">
+    <latitude>5.3333333</latitude>
+    <longitude>-53.4333333</longitude>
+  </city>
+  <city name="Point de Trijonction">
+    <latitude>5.5666667</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Pointe Caïman">
+    <latitude>4.9833333</latitude>
+    <longitude>-52.6666667</longitude>
+  </city>
+  <city name="Pointe Combi">
+    <latitude>5.3166667</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Pointe Isère">
+    <latitude>5.7333333</latitude>
+    <longitude>-53.8666667</longitude>
+  </city>
+  <city name="Pois Sucré">
+    <latitude>4.95</latitude>
+    <longitude>-52.7666667</longitude>
+  </city>
+  <city name="Polémie">
+    <latitude>4.95</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Polydor">
+    <latitude>3.2</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Pompidou">
+    <latitude>3.8</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Ponta">
+    <latitude>5.2</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Ponte Caïman">
+    <latitude>4.9833333</latitude>
+    <longitude>-52.6666667</longitude>
+  </city>
+  <city name="Popote">
+    <latitude>3.7</latitude>
+    <longitude>-53.2833333</longitude>
+  </city>
+  <city name="Populo">
+    <latitude>5.6166667</latitude>
+    <longitude>-53.8166667</longitude>
+  </city>
+  <city name="Portal">
+    <latitude>5.4166667</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Port Inini">
+    <latitude>4.8166667</latitude>
+    <longitude>-52.4833333</longitude>
+  </city>
+  <city name="Providence">
+    <latitude>4.6166667</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Quatre Carbets">
+    <latitude>3.7666667</latitude>
+    <longitude>-52.2</longitude>
+  </city>
+  <city name="Quesnel">
+    <latitude>4.95</latitude>
+    <longitude>-52.5</longitude>
+  </city>
+  <city name="Ramire">
+    <latitude>4.8833333</latitude>
+    <longitude>-52.2833333</longitude>
+  </city>
+  <city name="Régina">
+    <latitude>4.3166667</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Rémire-Camp">
+    <latitude>4.9</latitude>
+    <longitude>-52.2666667</longitude>
+  </city>
+  <city name="Rémiré">
+    <latitude>4.8833333</latitude>
+    <longitude>-52.2833333</longitude>
+  </city>
+  <city name="Repentir">
+    <latitude>3.8333333</latitude>
+    <longitude>-53.4</longitude>
+  </city>
+  <city name="République">
+    <latitude>4.8666667</latitude>
+    <longitude>-53.25</longitude>
+  </city>
+  <city name="Réveil">
+    <latitude>4.9833333</latitude>
+    <longitude>-53.85</longitude>
+  </city>
+  <city name="Ridel">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.15</longitude>
+  </city>
+  <city name="Risquetout">
+    <latitude>4.9166667</latitude>
+    <longitude>-52.5166667</longitude>
+  </city>
+  <city name="Roche Ara">
+    <latitude>4.1</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Roche Bardo">
+    <latitude>5.1833333</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Roche Bravo">
+    <latitude>5.2666667</latitude>
+    <longitude>-52.9666667</longitude>
+  </city>
+  <city name="Roche Brigandin">
+    <latitude>5.45</latitude>
+    <longitude>-53.0</longitude>
+  </city>
+  <city name="Roche Cabrit">
+    <latitude>4.4333333</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Roche Cambrouze">
+    <latitude>5.4166667</latitude>
+    <longitude>-53.3833333</longitude>
+  </city>
+  <city name="Roche Chapeau">
+    <latitude>2.9833333</latitude>
+    <longitude>-53.3166667</longitude>
+  </city>
+  <city name="Roche Hirondelle">
+    <latitude>5.4333333</latitude>
+    <longitude>-53.35</longitude>
+  </city>
+  <city name="Roche Kawann">
+    <latitude>5.1166667</latitude>
+    <longitude>-53.4</longitude>
+  </city>
+  <city name="Roche Maman Pian">
+    <latitude>5.1</latitude>
+    <longitude>-53.0333333</longitude>
+  </city>
+  <city name="Roche Mon Père">
+    <latitude>3.2833333</latitude>
+    <longitude>-52.2</longitude>
+  </city>
+  <city name="Roches Blanches">
+    <latitude>5.5</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Roche Serpent">
+    <latitude>4.5666667</latitude>
+    <longitude>-53.0833333</longitude>
+  </city>
+  <city name="Roche Singe Rouge">
+    <latitude>5.1</latitude>
+    <longitude>-53.0333333</longitude>
+  </city>
+  <city name="Roche Singes Rouges">
+    <latitude>5.1</latitude>
+    <longitude>-53.0333333</longitude>
+  </city>
+  <city name="Roche Tablon">
+    <latitude>4.6333333</latitude>
+    <longitude>-52.3833333</longitude>
+  </city>
+  <city name="Roche Tado">
+    <latitude>5.0833333</latitude>
+    <longitude>-53.0666667</longitude>
+  </city>
+  <city name="Rocoucoua">
+    <latitude>5.45</latitude>
+    <longitude>-53.3333333</longitude>
+  </city>
+  <city name="Roncevaux">
+    <latitude>4.25</latitude>
+    <longitude>-52.6833333</longitude>
+  </city>
+  <city name="Roura">
+    <latitude>4.7333333</latitude>
+    <longitude>-52.3333333</longitude>
+  </city>
+  <city name="Ruben">
+    <latitude>5.35</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Rubis">
+    <latitude>4.15</latitude>
+    <longitude>-52.9</longitude>
+  </city>
+  <city name="Saint-Antoine">
+    <latitude>5.6</latitude>
+    <longitude>-53.8833333</longitude>
+  </city>
+  <city name="Saint-Bernard">
+    <latitude>5.1666667</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Sainte Anne Dégrad">
+    <latitude>4.8</latitude>
+    <longitude>-53.1166667</longitude>
+  </city>
+  <city name="Sainte-Anne">
+    <latitude>4.5833333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Sainte Élie">
+    <latitude>4.8333333</latitude>
+    <longitude>-53.2833333</longitude>
+  </city>
+  <city name="Sainte-Hélène">
+    <latitude>4.25</latitude>
+    <longitude>-52.5666667</longitude>
+  </city>
+  <city name="Sainte Laurent">
+    <latitude>5.5</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Saint-Élie">
+    <latitude>4.8333333</latitude>
+    <longitude>-53.2833333</longitude>
+  </city>
+  <city name="Saint-Éloi">
+    <latitude>3.7333333</latitude>
+    <longitude>-53.2333333</longitude>
+  </city>
+  <city name="Sainte-Marie-les-Mines">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Saint-Esprit">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Saint-Eugène">
+    <latitude>4.85</latitude>
+    <longitude>-53.0666667</longitude>
+  </city>
+  <city name="Saint-Georges">
+    <latitude>3.9</latitude>
+    <longitude>-51.8</longitude>
+  </city>
+  <city name="Saint Georges">
+    <latitude>3.8833333</latitude>
+    <longitude>-51.8333333</longitude>
+  </city>
+  <city name="Saint-Jean">
+    <latitude>4.1</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Saint-Joseph">
+    <latitude>3.1333333</latitude>
+    <longitude>-52.35</longitude>
+  </city>
+  <city name="Saint-Laurent du Maroni">
+    <latitude>5.5</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Saint Laurent">
+    <latitude>5.5</latitude>
+    <longitude>-54.0333333</longitude>
+  </city>
+  <city name="Saint-Louis">
+    <latitude>4.0333333</latitude>
+    <longitude>-51.6833333</longitude>
+  </city>
+  <city name="Saint-Lucien">
+    <latitude>4.15</latitude>
+    <longitude>-52.5333333</longitude>
+  </city>
+  <city name="Saint-Maurice">
+    <latitude>5.4666667</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="Saint-Nazaire">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Saint-Paul">
+    <latitude>4.3833333</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Saint-Pierre">
+    <latitude>3.15</latitude>
+    <longitude>-52.6666667</longitude>
+  </city>
+  <city name="Saï">
+    <latitude>3.4</latitude>
+    <longitude>-53.2333333</longitude>
+  </city>
+  <city name="Sania">
+    <latitude>5.2</latitude>
+    <longitude>-54.3</longitude>
+  </city>
+  <city name="Santonia">
+    <latitude>4.75</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="Sapajou">
+    <latitude>4.2666667</latitude>
+    <longitude>-52.7</longitude>
+  </city>
+  <city name="Sapokaï">
+    <latitude>3.5666667</latitude>
+    <longitude>-52.6666667</longitude>
+  </city>
+  <city name="Sapotille">
+    <latitude>5.3</latitude>
+    <longitude>-53.6166667</longitude>
+  </city>
+  <city name="Saulnier">
+    <latitude>5.2666667</latitude>
+    <longitude>-52.9666667</longitude>
+  </city>
+  <city name="Saül">
+    <latitude>3.6166667</latitude>
+    <longitude>-53.2</longitude>
+  </city>
+  <city name="Sautero">
+    <latitude>4.8166667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Saut Sabbat">
+    <latitude>5.3833333</latitude>
+    <longitude>-53.6666667</longitude>
+  </city>
+  <city name="Saut Tigre">
+    <latitude>5.0166667</latitude>
+    <longitude>-53.0333333</longitude>
+  </city>
+  <city name="Savane Manuel">
+    <latitude>5.35</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Senkinen">
+    <latitude>5.1</latitude>
+    <longitude>-54.3666667</longitude>
+  </city>
+  <city name="Sikini">
+    <latitude>3.3833333</latitude>
+    <longitude>-52.5</longitude>
+  </city>
+  <city name="Siminiout">
+    <latitude>2.9166667</latitude>
+    <longitude>-52.8333333</longitude>
+  </city>
+  <city name="Simon">
+    <latitude>4.5666667</latitude>
+    <longitude>-52.6333333</longitude>
+  </city>
+  <city name="Sinamary">
+    <latitude>5.3833333</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Sinnamari">
+    <latitude>5.3833333</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Sinnamary">
+    <latitude>5.3833333</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Sinnama">
+    <latitude>5.3833333</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Sivirine">
+    <latitude>5.3666667</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Socoumou">
+    <latitude>5.05</latitude>
+    <longitude>-52.6833333</longitude>
+  </city>
+  <city name="Sokoumou">
+    <latitude>5.05</latitude>
+    <longitude>-52.6833333</longitude>
+  </city>
+  <city name="Soncelle">
+    <latitude>3.6666667</latitude>
+    <longitude>-53.9666667</longitude>
+  </city>
+  <city name="Soneelle">
+    <latitude>3.6666667</latitude>
+    <longitude>-53.9666667</longitude>
+  </city>
+  <city name="Sonnelle">
+    <latitude>3.6666667</latitude>
+    <longitude>-53.9666667</longitude>
+  </city>
+  <city name="Sophie">
+    <latitude>3.9666667</latitude>
+    <longitude>-53.4833333</longitude>
+  </city>
+  <city name="Soula">
+    <latitude>4.9</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Sparouine">
+    <latitude>5.2666667</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Spes">
+    <latitude>4.5166667</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+  <city name="Sport">
+    <latitude>4.4666667</latitude>
+    <longitude>-53.5833333</longitude>
+  </city>
+  <city name="Stoupan">
+    <latitude>4.7666667</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Sursaut">
+    <latitude>4.9666667</latitude>
+    <longitude>-53.15</longitude>
+  </city>
+  <city name="Susini">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.2833333</longitude>
+  </city>
+  <city name="Suzini">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.2833333</longitude>
+  </city>
+  <city name="Taconet">
+    <latitude>4.0333333</latitude>
+    <longitude>-52.5166667</longitude>
+  </city>
+  <city name="Taconnet">
+    <latitude>4.0333333</latitude>
+    <longitude>-52.5166667</longitude>
+  </city>
+  <city name="Tampac">
+    <latitude>3.2</latitude>
+    <longitude>-52.5333333</longitude>
+  </city>
+  <city name="Tampak">
+    <latitude>3.2</latitude>
+    <longitude>-52.5333333</longitude>
+  </city>
+  <city name="Tampok">
+    <latitude>3.3333333</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Tapontekampoe">
+    <latitude>3.2666667</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Taponté">
+    <latitude>3.2666667</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Terre Rouge">
+    <latitude>5.45</latitude>
+    <longitude>-54.05</longitude>
+  </city>
+  <city name="Théodore">
+    <latitude>4.0333333</latitude>
+    <longitude>-52.55</longitude>
+  </city>
+  <city name="Théophane">
+    <latitude>3.7166667</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Timon">
+    <latitude>4.4166667</latitude>
+    <longitude>-52.3833333</longitude>
+  </city>
+  <city name="Tonale">
+    <latitude>5.0166667</latitude>
+    <longitude>-52.4833333</longitude>
+  </city>
+  <city name="Tonate">
+    <latitude>5.0166667</latitude>
+    <longitude>-52.4833333</longitude>
+  </city>
+  <city name="Tonégrande">
+    <latitude>4.8333333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Tonkin">
+    <latitude>4.85</latitude>
+    <longitude>-53.2666667</longitude>
+  </city>
+  <city name="Tonnégrande">
+    <latitude>4.8333333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Tonnigrande">
+    <latitude>4.8333333</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Tortue">
+    <latitude>4.1833333</latitude>
+    <longitude>-52.3833333</longitude>
+  </city>
+  <city name="Toussine">
+    <latitude>4.7666667</latitude>
+    <longitude>-53.8833333</longitude>
+  </city>
+  <city name="Trois Rois">
+    <latitude>4.95</latitude>
+    <longitude>-52.5333333</longitude>
+  </city>
+  <city name="Trois Sauts">
+    <latitude>2.25</latitude>
+    <longitude>-52.8833333</longitude>
+  </city>
+  <city name="Trou Ara">
+    <latitude>5.3333333</latitude>
+    <longitude>-53.1833333</longitude>
+  </city>
+  <city name="Trou Biron">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3</longitude>
+  </city>
+  <city name="Trou Caïmans">
+    <latitude>5.45</latitude>
+    <longitude>-53.1333333</longitude>
+  </city>
+  <city name="Trou Poissons">
+    <latitude>5.4333333</latitude>
+    <longitude>-53.0833333</longitude>
+  </city>
+  <city name="Trou Poisson">
+    <latitude>5.4333333</latitude>
+    <longitude>-53.0833333</longitude>
+  </city>
+  <city name="Valentin">
+    <latitude>5.3166667</latitude>
+    <longitude>-53.6666667</longitude>
+  </city>
+  <city name="Valide">
+    <latitude>3.8666667</latitude>
+    <longitude>-53.3666667</longitude>
+  </city>
+  <city name="Venus">
+    <latitude>5.2</latitude>
+    <longitude>-52.9833333</longitude>
+  </city>
+  <city name="Vichy">
+    <latitude>4.2</latitude>
+    <longitude>-52.7833333</longitude>
+  </city>
+  <city name="Victor">
+    <latitude>4.9333333</latitude>
+    <longitude>-52.3166667</longitude>
+  </city>
+  <city name="Vierge des Trois Tonneaux">
+    <latitude>4.9</latitude>
+    <longitude>-53.2</longitude>
+  </city>
+  <city name="Vieux Grand-Santi">
+    <latitude>4.3333333</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Villaflore">
+    <latitude>4.15</latitude>
+    <longitude>-52.3666667</longitude>
+  </city>
+  <city name="Village Adnet">
+    <latitude>4.25</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Village Baugé">
+    <latitude>4.2333333</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Village Beaugé">
+    <latitude>4.2333333</latitude>
+    <longitude>-52.2166667</longitude>
+  </city>
+  <city name="Village Blicade">
+    <latitude>3.3</latitude>
+    <longitude>-53.85</longitude>
+  </city>
+  <city name="Village Brésilien">
+    <latitude>5.15</latitude>
+    <longitude>-52.65</longitude>
+  </city>
+  <city name="Village Chinois">
+    <latitude>4.1833333</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Village Coco">
+    <latitude>4.3</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Village Créole">
+    <latitude>3.2166667</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Village Emerillons">
+    <latitude>3.4</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Village Emérillon">
+    <latitude>3.4</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Village Espérance">
+    <latitude>4.6666667</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Village Fracas">
+    <latitude>4.75</latitude>
+    <longitude>-53.6666667</longitude>
+  </city>
+  <city name="Village Gaa Caba">
+    <latitude>4.4833333</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Village Galibi">
+    <latitude>5.4</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Village Galloni">
+    <latitude>5.2166667</latitude>
+    <longitude>-54.2166667</longitude>
+  </city>
+  <city name="Village Gaston">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Village Grigel">
+    <latitude>3.3166667</latitude>
+    <longitude>-53.65</longitude>
+  </city>
+  <city name="Village Guillaume">
+    <latitude>4.2666667</latitude>
+    <longitude>-52.25</longitude>
+  </city>
+  <city name="Village Impératrice">
+    <latitude>4.0666667</latitude>
+    <longitude>-52.45</longitude>
+  </city>
+  <city name="Village Inipi">
+    <latitude>3.25</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Village La Grève">
+    <latitude>3.8666667</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Village Lioni">
+    <latitude>4.1</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Village Maffi">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Village Migue">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.15</longitude>
+  </city>
+  <city name="Village Portal">
+    <latitude>5.4166667</latitude>
+    <longitude>-54.1</longitude>
+  </city>
+  <city name="Village Roucouyenne">
+    <latitude>3.3166667</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Village Saint-Esprit">
+    <latitude>4.2833333</latitude>
+    <longitude>-52.1333333</longitude>
+  </city>
+  <city name="Village Saint-Paul">
+    <latitude>4.3833333</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Village Saramaca">
+    <latitude>4.4</latitude>
+    <longitude>-52.3833333</longitude>
+  </city>
+  <city name="Village Saramaka">
+    <latitude>5.15</latitude>
+    <longitude>-52.6333333</longitude>
+  </city>
+  <city name="Village Sophie">
+    <latitude>3.9666667</latitude>
+    <longitude>-53.4833333</longitude>
+  </city>
+  <city name="Villages Oyampi">
+    <latitude>2.2</latitude>
+    <longitude>-52.9166667</longitude>
+  </city>
+  <city name="Village Tortue">
+    <latitude>4.1833333</latitude>
+    <longitude>-52.3833333</longitude>
+  </city>
+  <city name="Village Yaya">
+    <latitude>4.6166667</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Vini">
+    <latitude>3.6833333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Wacapou">
+    <latitude>3.6833333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Wakapou">
+    <latitude>3.6833333</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Wempi">
+    <latitude>3.3833333</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Weni Wé">
+    <latitude>3.6833333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Wéti-Chiton">
+    <latitude>4.75</latitude>
+    <longitude>-54.4666667</longitude>
+  </city>
+  <city name="Wilfried">
+    <latitude>3.7</latitude>
+    <longitude>-54.0833333</longitude>
+  </city>
+  <city name="Winiwé">
+    <latitude>3.6833333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Yalou Patatpeu">
+    <latitude>2.5333333</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Yalou Patatpe">
+    <latitude>2.5333333</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Yaya">
+    <latitude>4.6166667</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Yofé">
+    <latitude>5.4333333</latitude>
+    <longitude>-53.6833333</longitude>
+  </city>
+  <city name="Yolande">
+    <latitude>4.1</latitude>
+    <longitude>-52.95</longitude>
+  </city>
+  <city name="Zidok">
+    <latitude>2.25</latitude>
+    <longitude>-52.8666667</longitude>
+  </city>
+  <city name="Zombi">
+    <latitude>4.6</latitude>
+    <longitude>-52.4</longitude>
+  </city>
+</country>

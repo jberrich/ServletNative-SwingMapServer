@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="pw" name="Palau">
+  <city name="Aakip">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Achelap">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Acholl">
+    <latitude>7.6683333</latitude>
+    <longitude>134.6327778</longitude>
+  </city>
+  <city name="Adkip">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Admodhorom">
+    <latitude>7.4547222</latitude>
+    <longitude>134.4777778</longitude>
+  </city>
+  <city name="Aebukuru">
+    <latitude>7.3469444</latitude>
+    <longitude>134.4836111</longitude>
+  </city>
+  <city name="Agol">
+    <latitude>7.6683333</latitude>
+    <longitude>134.6327778</longitude>
+  </city>
+  <city name="A Gol">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Agoru">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Aibukit">
+    <latitude>7.6344444</latitude>
+    <longitude>134.6358333</longitude>
+  </city>
+  <city name="Aiebukl">
+    <latitude>7.3469444</latitude>
+    <longitude>134.4836111</longitude>
+  </city>
+  <city name="Aiekasaol">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Aiekasol">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="a Imelogel">
+    <latitude>7.0372222</latitude>
+    <longitude>134.2613889</longitude>
+  </city>
+  <city name="Aimeong">
+    <latitude>7.5275</latitude>
+    <longitude>134.5255556</longitude>
+  </city>
+  <city name="A Imeungs">
+    <latitude>7.5275</latitude>
+    <longitude>134.5255556</longitude>
+  </city>
+  <city name="A Imig">
+    <latitude>7.4180556</latitude>
+    <longitude>134.495</longitude>
+  </city>
+  <city name="Aimion">
+    <latitude>7.5275</latitude>
+    <longitude>134.5255556</longitude>
+  </city>
+  <city name="Aimuul">
+    <latitude>7.4180556</latitude>
+    <longitude>134.495</longitude>
+  </city>
+  <city name="Aiokako-suido">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="a Ipelau">
+    <latitude>7.5041667</latitude>
+    <longitude>134.6288889</longitude>
+  </city>
+  <city name="A Irai">
+    <latitude>7.3575</latitude>
+    <longitude>134.5577778</longitude>
+  </city>
+  <city name="Airai">
+    <latitude>7.3575</latitude>
+    <longitude>134.5577778</longitude>
+  </city>
+  <city name="Airrai">
+    <latitude>7.3575</latitude>
+    <longitude>134.5577778</longitude>
+  </city>
+  <city name="Aiungel">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Aiyon">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Aiyunguru">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Akalak">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Akalokul">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Akalokul Point">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Akarappu">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Akarokoro Kaku">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Akarokoro Point">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Akoru">
+    <latitude>7.6683333</latitude>
+    <longitude>134.6327778</longitude>
+  </city>
+  <city name="Akrappu">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6333333</longitude>
+  </city>
+  <city name="Akuro">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Alakasoho">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Almaska">
+    <latitude>7.5638889</latitude>
+    <longitude>134.5472222</longitude>
+  </city>
+  <city name="Almonogui">
+    <latitude>7.52</latitude>
+    <longitude>134.5013889</longitude>
+  </city>
+  <city name="Amarakarakkuru">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="a Meungs">
+    <latitude>7.3519444</latitude>
+    <longitude>134.4544444</longitude>
+  </city>
+  <city name="Amiyonsu">
+    <latitude>7.3519444</latitude>
+    <longitude>134.4544444</longitude>
+  </city>
+  <city name="Amodhorom">
+    <latitude>7.4547222</latitude>
+    <longitude>134.4777778</longitude>
+  </city>
+  <city name="Amolon">
+    <latitude>7.4166667</latitude>
+    <longitude>134.5833333</longitude>
+  </city>
+  <city name="Amoron">
+    <latitude>7.4166667</latitude>
+    <longitude>134.5833333</longitude>
+  </city>
+  <city name="Amurmomur Head">
+    <latitude>7.6666667</latitude>
+    <longitude>134.6333333</longitude>
+  </city>
+  <city name="Amuromur Head">
+    <latitude>7.6666667</latitude>
+    <longitude>134.6333333</longitude>
+  </city>
+  <city name="Angkaklau">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Angkaluau">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Arabaketsu">
+    <latitude>7.3333333</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Aracalong">
+    <latitude>7.7002778</latitude>
+    <longitude>134.6386111</longitude>
+  </city>
+  <city name="Aragamae">
+    <latitude>7.345</latitude>
+    <longitude>134.4855556</longitude>
+  </city>
+  <city name="Aragamaye">
+    <latitude>7.345</latitude>
+    <longitude>134.4855556</longitude>
+  </city>
+  <city name="Aragol">
+    <latitude>7.0277778</latitude>
+    <longitude>134.2583333</longitude>
+  </city>
+  <city name="Arakabesan">
+    <latitude>7.3511111</latitude>
+    <longitude>134.4436111</longitude>
+  </city>
+  <city name="Arakasoaol">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Arakaso">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Aramarakarakkuru">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Aramarakarakuru">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Archongelungel">
+    <latitude>7.3358333</latitude>
+    <longitude>134.4633333</longitude>
+  </city>
+  <city name="Ardelollec">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Ardololok">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Arekamae">
+    <latitude>7.345</latitude>
+    <longitude>134.4855556</longitude>
+  </city>
+  <city name="Argutel">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Arkamais">
+    <latitude>7.3483333</latitude>
+    <longitude>134.4766667</longitude>
+  </city>
+  <city name="Armid">
+    <latitude>7.3375</latitude>
+    <longitude>134.4986111</longitude>
+  </city>
+  <city name="Artingall">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Arubaketsu">
+    <latitude>7.3333333</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Arubodoru">
+    <latitude>7.3463889</latitude>
+    <longitude>134.49</longitude>
+  </city>
+  <city name="Arumasaka">
+    <latitude>7.5638889</latitude>
+    <longitude>134.5472222</longitude>
+  </city>
+  <city name="Arumizu">
+    <latitude>7.3375</latitude>
+    <longitude>134.4986111</longitude>
+  </city>
+  <city name="Arumonogui">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Arumuzu">
+    <latitude>7.3375</latitude>
+    <longitude>134.4986111</longitude>
+  </city>
+  <city name="Asias">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Assias">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Atekasabru">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Atekasaoru">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Athermal">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Athernal">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Atkiíp">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="A Ulimang">
+    <latitude>7.6216667</latitude>
+    <longitude>134.6388889</longitude>
+  </city>
+  <city name="Ayebukuru">
+    <latitude>7.3469444</latitude>
+    <longitude>134.4836111</longitude>
+  </city>
+  <city name="Babelthuap Village">
+    <latitude>7.0372222</latitude>
+    <longitude>134.2613889</longitude>
+  </city>
+  <city name="Bloody Nose Ridge">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Btangech Iterchobel">
+    <latitude>7.4288889</latitude>
+    <longitude>134.4816667</longitude>
+  </city>
+  <city name="Btululachang ra Rrai">
+    <latitude>7.4313889</latitude>
+    <longitude>134.5933333</longitude>
+  </city>
+  <city name="Charkamais">
+    <latitude>7.3483333</latitude>
+    <longitude>134.4766667</longitude>
+  </city>
+  <city name="Chechol">
+    <latitude>7.3488889</latitude>
+    <longitude>134.4438889</longitude>
+  </city>
+  <city name="Chelab">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Chelechui">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Chiyou">
+    <latitude>7.6880556</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Chol">
+    <latitude>7.6683333</latitude>
+    <longitude>134.6327778</longitude>
+  </city>
+  <city name="Chrkamais">
+    <latitude>7.3483333</latitude>
+    <longitude>134.4766667</longitude>
+  </city>
+  <city name="Coaengal">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Dabador">
+    <latitude>7.4</latitude>
+    <longitude>134.5166667</longitude>
+  </city>
+  <city name="Dabadoru">
+    <latitude>7.4</latitude>
+    <longitude>134.5166667</longitude>
+  </city>
+  <city name="Delebog">
+    <latitude>7.7002778</latitude>
+    <longitude>134.6386111</longitude>
+  </city>
+  <city name="Delutaog">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+  <city name="Dilong">
+    <latitude>8.0797222</latitude>
+    <longitude>134.7152778</longitude>
+  </city>
+  <city name="Dimes">
+    <latitude>8.0752778</latitude>
+    <longitude>134.7155556</longitude>
+  </city>
+  <city name="Dobadaru">
+    <latitude>7.4</latitude>
+    <longitude>134.5166667</longitude>
+  </city>
+  <city name="Doko">
+    <latitude>8.0791667</latitude>
+    <longitude>134.7161111</longitude>
+  </city>
+  <city name="Doro Island">
+    <latitude>7.3469444</latitude>
+    <longitude>134.4836111</longitude>
+  </city>
+  <city name="Ebaduls Pier">
+    <latitude>7.3483333</latitude>
+    <longitude>134.4766667</longitude>
+  </city>
+  <city name="Echang">
+    <latitude>7.3436111</latitude>
+    <longitude>134.4488889</longitude>
+  </city>
+  <city name="Echol">
+    <latitude>7.3488889</latitude>
+    <longitude>134.4438889</longitude>
+  </city>
+  <city name="Eeyahoru">
+    <latitude>7.3488889</latitude>
+    <longitude>134.4438889</longitude>
+  </city>
+  <city name="Eeyakoru">
+    <latitude>7.3488889</latitude>
+    <longitude>134.4438889</longitude>
+  </city>
+  <city name="Eholl">
+    <latitude>7.3488889</latitude>
+    <longitude>134.4438889</longitude>
+  </city>
+  <city name="Eimelik">
+    <latitude>7.4</latitude>
+    <longitude>134.5166667</longitude>
+  </city>
+  <city name="Elauesachel">
+    <latitude>7.4558333</latitude>
+    <longitude>134.5019444</longitude>
+  </city>
+  <city name="Elecbue">
+    <latitude>7.4297222</latitude>
+    <longitude>134.4772222</longitude>
+  </city>
+  <city name="Elechui">
+    <latitude>7.4297222</latitude>
+    <longitude>134.4772222</longitude>
+  </city>
+  <city name="Emeleol">
+    <latitude>7.0372222</latitude>
+    <longitude>134.2613889</longitude>
+  </city>
+  <city name="Emieangl">
+    <latitude>7.4438889</latitude>
+    <longitude>134.4733333</longitude>
+  </city>
+  <city name="Engkasar">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Enkasar">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Enkassar">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Ertong">
+    <latitude>7.5058333</latitude>
+    <longitude>134.6138889</longitude>
+  </city>
+  <city name="Euakor">
+    <latitude>7.3488889</latitude>
+    <longitude>134.4438889</longitude>
+  </city>
+  <city name="Gabadekk">
+    <latitude>7.4333333</latitude>
+    <longitude>134.5</longitude>
+  </city>
+  <city name="Gabatouru">
+    <latitude>7.5044444</latitude>
+    <longitude>134.5052778</longitude>
+  </city>
+  <city name="Gabayanga">
+    <latitude>6.9138889</latitude>
+    <longitude>134.1438889</longitude>
+  </city>
+  <city name="Gabokkudo">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Gabulko">
+    <latitude>7.5041667</latitude>
+    <longitude>134.6288889</longitude>
+  </city>
+  <city name="Gadkip">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Gaiakasan">
+    <latitude>7.4505556</latitude>
+    <longitude>134.6016667</longitude>
+  </city>
+  <city name="Gakip">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Gakkibu">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Galadolman">
+    <latitude>7.6122222</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Galamadei">
+    <latitude>7.6122222</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Galapao">
+    <latitude>7.7002778</latitude>
+    <longitude>134.6386111</longitude>
+  </city>
+  <city name="Galap">
+    <latitude>7.6216667</latitude>
+    <longitude>134.6388889</longitude>
+  </city>
+  <city name="Galauekkel">
+    <latitude>7.4811111</latitude>
+    <longitude>134.6136111</longitude>
+  </city>
+  <city name="Galaus">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Galbuko">
+    <latitude>7.5041667</latitude>
+    <longitude>134.6288889</longitude>
+  </city>
+  <city name="Galeds">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Galegui">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Galekui">
+    <latitude>7.4297222</latitude>
+    <longitude>134.4772222</longitude>
+  </city>
+  <city name="Galumuleaka">
+    <latitude>7.4994444</latitude>
+    <longitude>134.6313889</longitude>
+  </city>
+  <city name="Galuokkur">
+    <latitude>7.6069444</latitude>
+    <longitude>134.5713889</longitude>
+  </city>
+  <city name="Gamesed">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Gamliangel">
+    <latitude>7.4438889</latitude>
+    <longitude>134.4733333</longitude>
+  </city>
+  <city name="Gamusetsu">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Garadai">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Garakasan">
+    <latitude>7.4505556</latitude>
+    <longitude>134.6016667</longitude>
+  </city>
+  <city name="Garashiyoo">
+    <latitude>7.435</latitude>
+    <longitude>134.5855556</longitude>
+  </city>
+  <city name="Garasho">
+    <latitude>7.435</latitude>
+    <longitude>134.5855556</longitude>
+  </city>
+  <city name="Garasuun">
+    <latitude>7.3575</latitude>
+    <longitude>134.5252778</longitude>
+  </city>
+  <city name="Garekoru">
+    <latitude>7.0277778</latitude>
+    <longitude>134.2583333</longitude>
+  </city>
+  <city name="Garekory">
+    <latitude>7.0277778</latitude>
+    <longitude>134.2583333</longitude>
+  </city>
+  <city name="Garikiai">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Garudoriruko">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Garudoruko">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Garukiyokku">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Garukyoku">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Garumureaka">
+    <latitude>7.4994444</latitude>
+    <longitude>134.6313889</longitude>
+  </city>
+  <city name="Garuokkuru">
+    <latitude>7.6069444</latitude>
+    <longitude>134.5713889</longitude>
+  </city>
+  <city name="Garurudo">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Garuruon">
+    <latitude>7.3605556</latitude>
+    <longitude>134.5225</longitude>
+  </city>
+  <city name="Garusaru">
+    <latitude>7.3575</latitude>
+    <longitude>134.5252778</longitude>
+  </city>
+  <city name="Garusuun">
+    <latitude>7.3575</latitude>
+    <longitude>134.5252778</longitude>
+  </city>
+  <city name="Gasakan">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Gaskan">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Gasupan">
+    <latitude>7.4583333</latitude>
+    <longitude>134.5375</longitude>
+  </city>
+  <city name="Gatkip">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Gatomel">
+    <latitude>7.7202778</latitude>
+    <longitude>134.6252778</longitude>
+  </city>
+  <city name="Gatsumeru">
+    <latitude>7.7202778</latitude>
+    <longitude>134.6252778</longitude>
+  </city>
+  <city name="Gaysan">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Gegol">
+    <latitude>7.3488889</latitude>
+    <longitude>134.4438889</longitude>
+  </city>
+  <city name="Geklau">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Geleg">
+    <latitude>7.5</latitude>
+    <longitude>134.5</longitude>
+  </city>
+  <city name="Gelgug">
+    <latitude>7.5166667</latitude>
+    <longitude>134.5</longitude>
+  </city>
+  <city name="Gelgung">
+    <latitude>7.5166667</latitude>
+    <longitude>134.5</longitude>
+  </city>
+  <city name="Geysan">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Goikul">
+    <latitude>7.3655556</latitude>
+    <longitude>134.5836111</longitude>
+  </city>
+  <city name="Goleguy">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Golei">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Golekl">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Gol">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Goreor">
+    <latitude>7.3405556</latitude>
+    <longitude>134.4708333</longitude>
+  </city>
+  <city name="Goror">
+    <latitude>7.3405556</latitude>
+    <longitude>134.4708333</longitude>
+  </city>
+  <city name="Halahol Point">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Hells Pocket">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Idid">
+    <latitude>7.3413889</latitude>
+    <longitude>134.4811111</longitude>
+  </city>
+  <city name="Iebukel">
+    <latitude>7.6983333</latitude>
+    <longitude>134.6377778</longitude>
+  </city>
+  <city name="Ikelau">
+    <latitude>7.3397222</latitude>
+    <longitude>134.4761111</longitude>
+  </city>
+  <city name="Ilebei">
+    <latitude>7.6622222</latitude>
+    <longitude>134.6297222</longitude>
+  </city>
+  <city name="Imeiong">
+    <latitude>7.5275</latitude>
+    <longitude>134.5255556</longitude>
+  </city>
+  <city name="Imelechol">
+    <latitude>7.0372222</latitude>
+    <longitude>134.2613889</longitude>
+  </city>
+  <city name="Imeleol">
+    <latitude>7.0372222</latitude>
+    <longitude>134.2613889</longitude>
+  </city>
+  <city name="Imeong">
+    <latitude>7.5275</latitude>
+    <longitude>134.5255556</longitude>
+  </city>
+  <city name="Imul">
+    <latitude>7.4180556</latitude>
+    <longitude>134.495</longitude>
+  </city>
+  <city name="Irrai">
+    <latitude>7.3575</latitude>
+    <longitude>134.5577778</longitude>
+  </city>
+  <city name="Itkib">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Iungel">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Iyebukel">
+    <latitude>7.3469444</latitude>
+    <longitude>134.4836111</longitude>
+  </city>
+  <city name="Jimusho">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+  <city name="Kaemesang">
+    <latitude>7.4138889</latitude>
+    <longitude>134.4927778</longitude>
+  </city>
+  <city name="Kakalau">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Kakurao">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Kamaltan">
+    <latitude>7.6666667</latitude>
+    <longitude>134.6333333</longitude>
+  </city>
+  <city name="Kamesang">
+    <latitude>7.4933333</latitude>
+    <longitude>134.4822222</longitude>
+  </city>
+  <city name="Kameset">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Kamiyangaru">
+    <latitude>7.4438889</latitude>
+    <longitude>134.4733333</longitude>
+  </city>
+  <city name="Kamiyangaur">
+    <latitude>7.4438889</latitude>
+    <longitude>134.4733333</longitude>
+  </city>
+  <city name="Kamsetts">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Kamusetsu">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Karaeru">
+    <latitude>7.555</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Karasho">
+    <latitude>7.435</latitude>
+    <longitude>134.5855556</longitude>
+  </city>
+  <city name="Karikari">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Karikiai">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Kaslau">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Kayungur">
+    <latitude>7.6963889</latitude>
+    <longitude>134.6241667</longitude>
+  </city>
+  <city name="Keklau">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Kekurao">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Kesauaol">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Kloulklubed">
+    <latitude>7.0394444</latitude>
+    <longitude>134.2525</longitude>
+  </city>
+  <city name="Koiguru">
+    <latitude>7.3655556</latitude>
+    <longitude>134.5836111</longitude>
+  </city>
+  <city name="Kolekl">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Komliangl">
+    <latitude>7.4438889</latitude>
+    <longitude>134.4733333</longitude>
+  </city>
+  <city name="Konlei">
+    <latitude>7.7172222</latitude>
+    <longitude>134.6122222</longitude>
+  </city>
+  <city name="Konrei">
+    <latitude>7.7172222</latitude>
+    <longitude>134.6122222</longitude>
+  </city>
+  <city name="Koreor">
+    <latitude>7.3405556</latitude>
+    <longitude>134.4708333</longitude>
+  </city>
+  <city name="Koror City">
+    <latitude>7.3405556</latitude>
+    <longitude>134.4708333</longitude>
+  </city>
+  <city name="Koror">
+    <latitude>7.3333333</latitude>
+    <longitude>134.4833333</longitude>
+  </city>
+  <city name="Koror town">
+    <latitude>7.3405556</latitude>
+    <longitude>134.4708333</longitude>
+  </city>
+  <city name="Kororu">
+    <latitude>7.3405556</latitude>
+    <longitude>134.4708333</longitude>
+  </city>
+  <city name="Koror village">
+    <latitude>7.3405556</latitude>
+    <longitude>134.4708333</longitude>
+  </city>
+  <city name="Koygul">
+    <latitude>7.3655556</latitude>
+    <longitude>134.5836111</longitude>
+  </city>
+  <city name="Lademisang">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Ladmisang">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Madalai">
+    <latitude>7.3391667</latitude>
+    <longitude>134.4675</longitude>
+  </city>
+  <city name="Madarabae">
+    <latitude>7.4916667</latitude>
+    <longitude>134.4916667</longitude>
+  </city>
+  <city name="Madarabaye">
+    <latitude>7.4916667</latitude>
+    <longitude>134.4916667</longitude>
+  </city>
+  <city name="Madarai">
+    <latitude>7.3391667</latitude>
+    <longitude>134.4675</longitude>
+  </city>
+  <city name="Madaria">
+    <latitude>7.3391667</latitude>
+    <longitude>134.4675</longitude>
+  </city>
+  <city name="Magachin">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Malligoyoke">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Mangalang">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Mangal'lakl">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Mangal'lang">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Maralai">
+    <latitude>7.3391667</latitude>
+    <longitude>134.4675</longitude>
+  </city>
+  <city name="Marukiyoku">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Matalai">
+    <latitude>7.3391667</latitude>
+    <longitude>134.4675</longitude>
+  </city>
+  <city name="Mechang">
+    <latitude>7.3330556</latitude>
+    <longitude>134.4988889</longitude>
+  </city>
+  <city name="Mechebechubl">
+    <latitude>7.4858333</latitude>
+    <longitude>134.48</longitude>
+  </city>
+  <city name="Medalaii">
+    <latitude>7.3391667</latitude>
+    <longitude>134.4675</longitude>
+  </city>
+  <city name="Medorm">
+    <latitude>7.4547222</latitude>
+    <longitude>134.4777778</longitude>
+  </city>
+  <city name="Medorom">
+    <latitude>7.4547222</latitude>
+    <longitude>134.4777778</longitude>
+  </city>
+  <city name="Mehebehubl">
+    <latitude>7.4858333</latitude>
+    <longitude>134.48</longitude>
+  </city>
+  <city name="Meiungs">
+    <latitude>7.3519444</latitude>
+    <longitude>134.4544444</longitude>
+  </city>
+  <city name="Meker">
+    <latitude>7.4180556</latitude>
+    <longitude>134.495</longitude>
+  </city>
+  <city name="Meketii">
+    <latitude>7.3427778</latitude>
+    <longitude>134.4786111</longitude>
+  </city>
+  <city name="Melekeiok">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Melekejok">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Melekeok">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Melekiok">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Melekyok">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Meligeok">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Mengellang">
+    <latitude>7.6936111</latitude>
+    <longitude>134.6280556</longitude>
+  </city>
+  <city name="Meungs">
+    <latitude>7.3519444</latitude>
+    <longitude>134.4544444</longitude>
+  </city>
+  <city name="Meyungs">
+    <latitude>7.3519444</latitude>
+    <longitude>134.4544444</longitude>
+  </city>
+  <city name="Mgadernal">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Minatohang">
+    <latitude>7.3427778</latitude>
+    <longitude>134.4786111</longitude>
+  </city>
+  <city name="Molegojok">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Molegoyok">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Mudorom">
+    <latitude>7.4547222</latitude>
+    <longitude>134.4777778</longitude>
+  </city>
+  <city name="Mudurom">
+    <latitude>7.4547222</latitude>
+    <longitude>134.4777778</longitude>
+  </city>
+  <city name="Mukeru">
+    <latitude>7.4180556</latitude>
+    <longitude>134.495</longitude>
+  </city>
+  <city name="Nagarekeai">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Namako Island">
+    <latitude>7.3483333</latitude>
+    <longitude>134.4766667</longitude>
+  </city>
+  <city name="Nasiás">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Nerubodoru">
+    <latitude>7.3463889</latitude>
+    <longitude>134.49</longitude>
+  </city>
+  <city name="Neustadt">
+    <latitude>7.3333333</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Ngabeanged">
+    <latitude>6.9138889</latitude>
+    <longitude>134.1438889</longitude>
+  </city>
+  <city name="Ngabuked">
+    <latitude>7.6344444</latitude>
+    <longitude>134.6358333</longitude>
+  </city>
+  <city name="Ngaburok">
+    <latitude>7.5041667</latitude>
+    <longitude>134.6288889</longitude>
+  </city>
+  <city name="Ngadernal">
+    <latitude>7.4933333</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Ngaldolok">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Ngalkiok">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Ngalkol">
+    <latitude>7.0277778</latitude>
+    <longitude>134.2583333</longitude>
+  </city>
+  <city name="Ngapedeg">
+    <latitude>7.4333333</latitude>
+    <longitude>134.5</longitude>
+  </city>
+  <city name="Ngarabau">
+    <latitude>7.7002778</latitude>
+    <longitude>134.6386111</longitude>
+  </city>
+  <city name="Ngaradermang">
+    <latitude>7.6122222</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Ngaragebukl">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Ngarakassoul">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Ngarakeai">
+    <latitude>7.4180556</latitude>
+    <longitude>134.495</longitude>
+  </city>
+  <city name="Ngarakesou">
+    <latitude>7.4505556</latitude>
+    <longitude>134.6016667</longitude>
+  </city>
+  <city name="Ngaraklingong">
+    <latitude>7.5</latitude>
+    <longitude>134.5</longitude>
+  </city>
+  <city name="Ngarakosou">
+    <latitude>7.4505556</latitude>
+    <longitude>134.6016667</longitude>
+  </city>
+  <city name="Ngaramasch">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+  <city name="Ngaramash">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+  <city name="Ngaratameng">
+    <latitude>7.6122222</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Ngarbagedesau">
+    <latitude>7.3463889</latitude>
+    <longitude>134.49</longitude>
+  </city>
+  <city name="Ngarbaged">
+    <latitude>7.3333333</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Ngarbaged-rengul">
+    <latitude>7.3333333</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Ngarbau">
+    <latitude>7.7002778</latitude>
+    <longitude>134.6386111</longitude>
+  </city>
+  <city name="Ngarbeched">
+    <latitude>7.3333333</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Ngarchemai">
+    <latitude>7.345</latitude>
+    <longitude>134.4855556</longitude>
+  </city>
+  <city name="Ngarderer">
+    <latitude>7.4</latitude>
+    <longitude>134.5166667</longitude>
+  </city>
+  <city name="Ngardololok">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Ngaregamai">
+    <latitude>7.345</latitude>
+    <longitude>134.4855556</longitude>
+  </city>
+  <city name="Ngaregol">
+    <latitude>7.0277778</latitude>
+    <longitude>134.2583333</longitude>
+  </city>
+  <city name="Ngarekai">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Ngarekamais">
+    <latitude>7.345</latitude>
+    <longitude>134.4855556</longitude>
+  </city>
+  <city name="Ngarekeai">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Ngarekesauaol">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Ngarekeukl">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Ngarekeul Island">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Ngarekeul">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Ngaremetengel">
+    <latitude>7.52</latitude>
+    <longitude>134.5013889</longitude>
+  </city>
+  <city name="Ngarevikl">
+    <latitude>7.4811111</latitude>
+    <longitude>134.6136111</longitude>
+  </city>
+  <city name="Ngargersiul">
+    <latitude>7.3411111</latitude>
+    <longitude>134.4744444</longitude>
+  </city>
+  <city name="Ngargeso">
+    <latitude>7.4505556</latitude>
+    <longitude>134.6016667</longitude>
+  </city>
+  <city name="Ngargesouaul">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Ngargeukl">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Ngargol">
+    <latitude>7.0277778</latitude>
+    <longitude>134.2583333</longitude>
+  </city>
+  <city name="Ngarmid">
+    <latitude>7.3375</latitude>
+    <longitude>134.4986111</longitude>
+  </city>
+  <city name="Ngarsul">
+    <latitude>7.435</latitude>
+    <longitude>134.5855556</longitude>
+  </city>
+  <city name="Ngarsung">
+    <latitude>7.3575</latitude>
+    <longitude>134.5252778</longitude>
+  </city>
+  <city name="Ngasachang">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Ngasias">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Ngatbong">
+    <latitude>7.6069444</latitude>
+    <longitude>134.5713889</longitude>
+  </city>
+  <city name="Ngatkip">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Ngatmel">
+    <latitude>7.7202778</latitude>
+    <longitude>134.6252778</longitude>
+  </city>
+  <city name="Ngatpang">
+    <latitude>7.4583333</latitude>
+    <longitude>134.5375</longitude>
+  </city>
+  <city name="Ngchemesed">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Ngchemiangel">
+    <latitude>7.4438889</latitude>
+    <longitude>134.4733333</longitude>
+  </city>
+  <city name="Ngchesar">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Ngchesechang">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Ngebeanged">
+    <latitude>6.9138889</latitude>
+    <longitude>134.1438889</longitude>
+  </city>
+  <city name="Ngebei">
+    <latitude>7.6969444</latitude>
+    <longitude>134.6352778</longitude>
+  </city>
+  <city name="Ngebuked">
+    <latitude>7.6344444</latitude>
+    <longitude>134.6358333</longitude>
+  </city>
+  <city name="Ngeburch">
+    <latitude>7.5041667</latitude>
+    <longitude>134.6288889</longitude>
+  </city>
+  <city name="Ngebureg">
+    <latitude>7.5041667</latitude>
+    <longitude>134.6288889</longitude>
+  </city>
+  <city name="Ngedbang">
+    <latitude>7.4916667</latitude>
+    <longitude>134.4916667</longitude>
+  </city>
+  <city name="Ngeiungel">
+    <latitude>7.6963889</latitude>
+    <longitude>134.6241667</longitude>
+  </city>
+  <city name="Ngemerdang">
+    <latitude>7.6666667</latitude>
+    <longitude>134.6333333</longitude>
+  </city>
+  <city name="Ngerbau">
+    <latitude>7.7002778</latitude>
+    <longitude>134.6386111</longitude>
+  </city>
+  <city name="Ngerbeched">
+    <latitude>7.3333333</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Ngerbodel">
+    <latitude>7.3463889</latitude>
+    <longitude>134.49</longitude>
+  </city>
+  <city name="Ngercheluuk">
+    <latitude>7.555</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Ngerchemai">
+    <latitude>7.345</latitude>
+    <longitude>134.4855556</longitude>
+  </city>
+  <city name="Ngerchol">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Ngerdelolk">
+    <latitude>7.0080556</latitude>
+    <longitude>134.2375</longitude>
+  </city>
+  <city name="Ngerderemang">
+    <latitude>7.6122222</latitude>
+    <longitude>134.6341667</longitude>
+  </city>
+  <city name="Ngerechemai">
+    <latitude>7.345</latitude>
+    <longitude>134.4855556</longitude>
+  </city>
+  <city name="Ngerechol">
+    <latitude>7.0277778</latitude>
+    <longitude>134.2583333</longitude>
+  </city>
+  <city name="Ngerekebesang">
+    <latitude>7.3511111</latitude>
+    <longitude>134.4436111</longitude>
+  </city>
+  <city name="Ngerekemais">
+    <latitude>7.3483333</latitude>
+    <longitude>134.4766667</longitude>
+  </city>
+  <city name="Ngereklmadel">
+    <latitude>7.4858333</latitude>
+    <longitude>134.48</longitude>
+  </city>
+  <city name="Ngeremasech">
+    <latitude>7.5638889</latitude>
+    <longitude>134.5472222</longitude>
+  </city>
+  <city name="Ngeremeleg">
+    <latitude>7.4994444</latitude>
+    <longitude>134.6313889</longitude>
+  </city>
+  <city name="Ngeremlengui">
+    <latitude>7.52</latitude>
+    <longitude>134.5013889</longitude>
+  </city>
+  <city name="Ngergeai">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Ngerkeai">
+    <latitude>7.4180556</latitude>
+    <longitude>134.495</longitude>
+  </city>
+  <city name="Ngerkeseuaol">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Ngerkesewaol">
+    <latitude>7.3416667</latitude>
+    <longitude>134.4872222</longitude>
+  </city>
+  <city name="Ngerkeukl">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Ngerkeyai">
+    <latitude>7.4186111</latitude>
+    <longitude>134.4933333</longitude>
+  </city>
+  <city name="Ngerklingong">
+    <latitude>7.5</latitude>
+    <longitude>134.5</longitude>
+  </city>
+  <city name="Ngerkyukl">
+    <latitude>6.9986111</latitude>
+    <longitude>134.2333333</longitude>
+  </city>
+  <city name="Ngermechau">
+    <latitude>7.5513889</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Ngermelech">
+    <latitude>7.4994444</latitude>
+    <longitude>134.6313889</longitude>
+  </city>
+  <city name="Ngermetengel">
+    <latitude>7.52</latitude>
+    <longitude>134.5013889</longitude>
+  </city>
+  <city name="Ngermid">
+    <latitude>7.3375</latitude>
+    <longitude>134.4986111</longitude>
+  </city>
+  <city name="Ngerngesang">
+    <latitude>7.4505556</latitude>
+    <longitude>134.6016667</longitude>
+  </city>
+  <city name="Ngersuul">
+    <latitude>7.435</latitude>
+    <longitude>134.5855556</longitude>
+  </city>
+  <city name="Ngersuwl">
+    <latitude>7.435</latitude>
+    <longitude>134.5855556</longitude>
+  </city>
+  <city name="Ngerubesang">
+    <latitude>7.4880556</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Ngeruiki">
+    <latitude>7.4811111</latitude>
+    <longitude>134.6136111</longitude>
+  </city>
+  <city name="Ngeruikl">
+    <latitude>7.4811111</latitude>
+    <longitude>134.6136111</longitude>
+  </city>
+  <city name="Ngeruluobel">
+    <latitude>7.3605556</latitude>
+    <longitude>134.5225</longitude>
+  </city>
+  <city name="Ngerupesang">
+    <latitude>7.4880556</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Ngerusar">
+    <latitude>7.3575</latitude>
+    <longitude>134.5252778</longitude>
+  </city>
+  <city name="Ngerutoi">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Ngeruwikl">
+    <latitude>7.4811111</latitude>
+    <longitude>134.6136111</longitude>
+  </city>
+  <city name="Ngesar">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Ngesias">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Ngesyas">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Ngetbong">
+    <latitude>7.6069444</latitude>
+    <longitude>134.5713889</longitude>
+  </city>
+  <city name="Ngetgip">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Ngetkib">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Ngetkip">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Ngetpang">
+    <latitude>7.4583333</latitude>
+    <longitude>134.5375</longitude>
+  </city>
+  <city name="Ngeungel">
+    <latitude>7.6963889</latitude>
+    <longitude>134.6241667</longitude>
+  </city>
+  <city name="Nggamased">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Nggasagang">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Nggesar">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Nghemesed">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Nghesehang">
+    <latitude>7.3833333</latitude>
+    <longitude>134.5777778</longitude>
+  </city>
+  <city name="Nghmesed">
+    <latitude>7.5013889</latitude>
+    <longitude>134.5180556</longitude>
+  </city>
+  <city name="Ngiwal">
+    <latitude>7.5513889</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Ngkebeduul">
+    <latitude>7.5044444</latitude>
+    <longitude>134.5052778</longitude>
+  </city>
+  <city name="Ngkekau">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Ngkeklau">
+    <latitude>7.5911111</latitude>
+    <longitude>134.6366667</longitude>
+  </city>
+  <city name="Ngorsul">
+    <latitude>7.435</latitude>
+    <longitude>134.5855556</longitude>
+  </city>
+  <city name="Ngorsum">
+    <latitude>7.3575</latitude>
+    <longitude>134.5252778</longitude>
+  </city>
+  <city name="Ngriel">
+    <latitude>7.6880556</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Ngriil">
+    <latitude>7.6880556</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Ngril">
+    <latitude>7.6880556</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Ngtkíp">
+    <latitude>7.3619444</latitude>
+    <longitude>134.5122222</longitude>
+  </city>
+  <city name="Ngurusar">
+    <latitude>7.3575</latitude>
+    <longitude>134.5252778</longitude>
+  </city>
+  <city name="Ngurutoi">
+    <latitude>7.4675</latitude>
+    <longitude>134.6072222</longitude>
+  </city>
+  <city name="Obiil">
+    <latitude>7.5705556</latitude>
+    <longitude>134.6322222</longitude>
+  </city>
+  <city name="Ogiil">
+    <latitude>7.5705556</latitude>
+    <longitude>134.6322222</longitude>
+  </city>
+  <city name="Ogiwal">
+    <latitude>7.5513889</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Ogiwaru">
+    <latitude>7.555</latitude>
+    <longitude>134.6330556</longitude>
+  </city>
+  <city name="Oigul">
+    <latitude>7.3655556</latitude>
+    <longitude>134.5836111</longitude>
+  </city>
+  <city name="Oikull">
+    <latitude>7.3655556</latitude>
+    <longitude>134.5836111</longitude>
+  </city>
+  <city name="Olei">
+    <latitude>7.7172222</latitude>
+    <longitude>134.6122222</longitude>
+  </city>
+  <city name="Olkang">
+    <latitude>8.0761111</latitude>
+    <longitude>134.7161111</longitude>
+  </city>
+  <city name="Ollei">
+    <latitude>7.7172222</latitude>
+    <longitude>134.6122222</longitude>
+  </city>
+  <city name="Ololian">
+    <latitude>7.5041667</latitude>
+    <longitude>134.6288889</longitude>
+  </city>
+  <city name="Ongeuidel">
+    <latitude>7.0436111</latitude>
+    <longitude>134.2594444</longitude>
+  </city>
+  <city name="Ononguru">
+    <latitude>7.6963889</latitude>
+    <longitude>134.6241667</longitude>
+  </city>
+  <city name="Orocall">
+    <latitude>7.0277778</latitude>
+    <longitude>134.2583333</longitude>
+  </city>
+  <city name="Ororian">
+    <latitude>7.5041667</latitude>
+    <longitude>134.6288889</longitude>
+  </city>
+  <city name="Orukei">
+    <latitude>8.0822222</latitude>
+    <longitude>134.715</longitude>
+  </city>
+  <city name="Oyonguru">
+    <latitude>7.6963889</latitude>
+    <longitude>134.6241667</longitude>
+  </city>
+  <city name="Pkulrengereiong Point">
+    <latitude>7.7002778</latitude>
+    <longitude>134.6386111</longitude>
+  </city>
+  <city name="Pkulrengerelong">
+    <latitude>7.7002778</latitude>
+    <longitude>134.6386111</longitude>
+  </city>
+  <city name="Ralap">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Rallap">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Renrak">
+    <latitude>7.3594444</latitude>
+    <longitude>134.5</longitude>
+  </city>
+  <city name="Rollekl">
+    <latitude>7.7211111</latitude>
+    <longitude>134.6097222</longitude>
+  </city>
+  <city name="Roll">
+    <latitude>7.6683333</latitude>
+    <longitude>134.6327778</longitude>
+  </city>
+  <city name="Rrai">
+    <latitude>7.4322222</latitude>
+    <longitude>134.5919444</longitude>
+  </city>
+  <city name="Saipan">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+  <city name="Saipan Town">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+  <city name="Saipon">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+  <city name="Sipon">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+  <city name="T-Dock">
+    <latitude>7.3483333</latitude>
+    <longitude>134.4766667</longitude>
+  </city>
+  <city name="Tngeronger">
+    <latitude>7.3411111</latitude>
+    <longitude>134.4744444</longitude>
+  </city>
+  <city name="Ukurakusetsu">
+    <latitude>7.4916667</latitude>
+    <longitude>134.5041667</longitude>
+  </city>
+  <city name="Ukurakusetts">
+    <latitude>7.4916667</latitude>
+    <longitude>134.5041667</longitude>
+  </city>
+  <city name="Ulimang">
+    <latitude>7.6216667</latitude>
+    <longitude>134.6388889</longitude>
+  </city>
+  <city name="Uliman">
+    <latitude>7.6216667</latitude>
+    <longitude>134.6388889</longitude>
+  </city>
+  <city name="Ulubosan">
+    <latitude>7.4880556</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Uluboson">
+    <latitude>7.4880556</latitude>
+    <longitude>134.4722222</longitude>
+  </city>
+  <city name="Ulutei">
+    <latitude>7.5166667</latitude>
+    <longitude>134.5286111</longitude>
+  </city>
+  <city name="Urdmang">
+    <latitude>7.6111111</latitude>
+    <longitude>134.5786111</longitude>
+  </city>
+  <city name="Urdmau">
+    <latitude>7.6111111</latitude>
+    <longitude>134.5786111</longitude>
+  </city>
+  <city name="Yalap">
+    <latitude>7.6333333</latitude>
+    <longitude>134.6375</longitude>
+  </city>
+  <city name="Yubinkyoku">
+    <latitude>6.9013889</latitude>
+    <longitude>134.1294444</longitude>
+  </city>
+</country>

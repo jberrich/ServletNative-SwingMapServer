@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="bz" name="Belize">
+  <city name="Aguacale">
+    <latitude>16.1622222</latitude>
+    <longitude>-89.0938889</longitude>
+  </city>
+  <city name="Aguacate">
+    <latitude>16.1622222</latitude>
+    <longitude>-89.0938889</longitude>
+  </city>
+  <city name="Aguacate Camp">
+    <latitude>16.705</latitude>
+    <longitude>-89.0488889</longitude>
+  </city>
+  <city name="Alabama">
+    <latitude>16.6666667</latitude>
+    <longitude>-88.5166667</longitude>
+  </city>
+  <city name="Alabama Wharf">
+    <latitude>16.5333333</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Alta Vista">
+    <latitude>16.9833333</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="America">
+    <latitude>18.3333333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Andersons Camp">
+    <latitude>17.7166667</latitude>
+    <longitude>-89.0166667</longitude>
+  </city>
+  <city name="Anthony's Bank">
+    <latitude>16.7666667</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Aquacate">
+    <latitude>16.1622222</latitude>
+    <longitude>-89.0938889</longitude>
+  </city>
+  <city name="Arabato Camp">
+    <latitude>16.6166667</latitude>
+    <longitude>-89.05</longitude>
+  </city>
+  <city name="Arenal">
+    <latitude>17.0166667</latitude>
+    <longitude>-89.15</longitude>
+  </city>
+  <city name="August">
+    <latitude>17.9666667</latitude>
+    <longitude>-88.7166667</longitude>
+  </city>
+  <city name="Augustine">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="August Pine Ridge">
+    <latitude>17.9666667</latitude>
+    <longitude>-88.7166667</longitude>
+  </city>
+  <city name="Aventura">
+    <latitude>18.3166667</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Bacalar Chico">
+    <latitude>18.15</latitude>
+    <longitude>-87.8333333</longitude>
+  </city>
+  <city name="Backlanding">
+    <latitude>17.8333333</latitude>
+    <longitude>-88.6</longitude>
+  </city>
+  <city name="Bakers">
+    <latitude>17.55</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Baking Pot">
+    <latitude>17.2030556</latitude>
+    <longitude>-89.0194444</longitude>
+  </city>
+  <city name="Baldy Beacon">
+    <latitude>17.0</latitude>
+    <longitude>-88.7833333</longitude>
+  </city>
+  <city name="Baldy Ben">
+    <latitude>17.0</latitude>
+    <longitude>-88.7833333</longitude>
+  </city>
+  <city name="Baldy Sibun">
+    <latitude>16.9833333</latitude>
+    <longitude>-88.7333333</longitude>
+  </city>
+  <city name="Banana Bank">
+    <latitude>17.3166667</latitude>
+    <longitude>-88.7666667</longitude>
+  </city>
+  <city name="Baranca">
+    <latitude>16.0</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Baranco">
+    <latitude>16.0</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Barquedier Sierra">
+    <latitude>18.1666667</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Barranco">
+    <latitude>16.0</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Barton Ramie">
+    <latitude>17.2</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Basil Jones">
+    <latitude>18.1166667</latitude>
+    <longitude>-87.8833333</longitude>
+  </city>
+  <city name="Beattie Pen">
+    <latitude>16.4</latitude>
+    <longitude>-88.7</longitude>
+  </city>
+  <city name="Belice">
+    <latitude>17.4833333</latitude>
+    <longitude>-88.1833333</longitude>
+  </city>
+  <city name="Belize">
+    <latitude>17.4833333</latitude>
+    <longitude>-88.1833333</longitude>
+  </city>
+  <city name="Belize City">
+    <latitude>17.4833333</latitude>
+    <longitude>-88.1833333</longitude>
+  </city>
+  <city name="Belmopan">
+    <latitude>17.25</latitude>
+    <longitude>-88.7666667</longitude>
+  </city>
+  <city name="Bengue Viejo">
+    <latitude>17.075</latitude>
+    <longitude>-89.1391667</longitude>
+  </city>
+  <city name="Benique Viejo del Carmen">
+    <latitude>17.075</latitude>
+    <longitude>-89.1391667</longitude>
+  </city>
+  <city name="Benque Ceiba">
+    <latitude>17.1869444</latitude>
+    <longitude>-89.0366667</longitude>
+  </city>
+  <city name="Benque Cieba">
+    <latitude>17.1869444</latitude>
+    <longitude>-89.0366667</longitude>
+  </city>
+  <city name="Benque Geiba">
+    <latitude>17.1869444</latitude>
+    <longitude>-89.0366667</longitude>
+  </city>
+  <city name="Benque Viejo">
+    <latitude>17.075</latitude>
+    <longitude>-89.1391667</longitude>
+  </city>
+  <city name="Benque Viejo del Carmen">
+    <latitude>17.075</latitude>
+    <longitude>-89.1391667</longitude>
+  </city>
+  <city name="Bermudian Landing">
+    <latitude>17.55</latitude>
+    <longitude>-88.5166667</longitude>
+  </city>
+  <city name="Big Creek">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Big Eddy">
+    <latitude>17.0916667</latitude>
+    <longitude>-89.0683333</longitude>
+  </city>
+  <city name="Big Fall">
+    <latitude>16.25</latitude>
+    <longitude>-88.8833333</longitude>
+  </city>
+  <city name="Big Falls">
+    <latitude>17.5</latitude>
+    <longitude>-88.5666667</longitude>
+  </city>
+  <city name="Biscayne">
+    <latitude>17.7166667</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Black Man Eddy">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Black Rock">
+    <latitude>17.0494444</latitude>
+    <longitude>-89.0591667</longitude>
+  </city>
+  <city name="Blancancaux">
+    <latitude>17.05</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Blancaneau">
+    <latitude>17.05</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Blancaneaux">
+    <latitude>17.05</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Blossom Bank">
+    <latitude>18.15</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Blue Creek">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.8666667</longitude>
+  </city>
+  <city name="Blue Creek Village">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.8666667</longitude>
+  </city>
+  <city name="Blue Hole Camp">
+    <latitude>16.7833333</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Blumenfeld">
+    <latitude>17.85</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Bob Eiley">
+    <latitude>17.7</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Bocotora">
+    <latitude>17.25</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Bomba">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.2666667</longitude>
+  </city>
+  <city name="Boom">
+    <latitude>17.5666667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Boom Town">
+    <latitude>17.5666667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Boon Town">
+    <latitude>17.5666667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Branch Mouth">
+    <latitude>17.1802778</latitude>
+    <longitude>-89.08</longitude>
+  </city>
+  <city name="Buena Vista">
+    <latitude>17.1166667</latitude>
+    <longitude>-89.1166667</longitude>
+  </city>
+  <city name="Bullet Tree Falls">
+    <latitude>17.1722222</latitude>
+    <longitude>-89.1127778</longitude>
+  </city>
+  <city name="Burnham Hall">
+    <latitude>17.7</latitude>
+    <longitude>-88.6666667</longitude>
+  </city>
+  <city name="Burnt Ground">
+    <latitude>17.3833333</latitude>
+    <longitude>-89.1166667</longitude>
+  </city>
+  <city name="Burrell Boom">
+    <latitude>17.5666667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Burrell's Town">
+    <latitude>17.5666667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Butcher Burn">
+    <latitude>17.4</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Butcher Burns">
+    <latitude>17.4</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Cabra">
+    <latitude>16.4</latitude>
+    <longitude>-89.0666667</longitude>
+  </city>
+  <city name="Cabro">
+    <latitude>16.4</latitude>
+    <longitude>-89.0666667</longitude>
+  </city>
+  <city name="Cadena Camp">
+    <latitude>17.2833333</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Cadena Creek Camp">
+    <latitude>17.2833333</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Calcutta">
+    <latitude>18.35</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Caledonia">
+    <latitude>18.2166667</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Calera Camp">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.7666667</longitude>
+  </city>
+  <city name="Callar Creek">
+    <latitude>17.1166667</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Camelote">
+    <latitude>17.2333333</latitude>
+    <longitude>-88.8166667</longitude>
+  </city>
+  <city name="Campamento Esperanza">
+    <latitude>16.4172222</latitude>
+    <longitude>-89.0230556</longitude>
+  </city>
+  <city name="Campamento La Flor">
+    <latitude>16.6213889</latitude>
+    <longitude>-89.0041667</longitude>
+  </city>
+  <city name="Campamento Resumidero">
+    <latitude>16.6327778</latitude>
+    <longitude>-89.0708333</longitude>
+  </city>
+  <city name="Campamento Tintal">
+    <latitude>17.9166667</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Campamento Unión">
+    <latitude>16.3963889</latitude>
+    <longitude>-89.1419444</longitude>
+  </city>
+  <city name="Campa Pita">
+    <latitude>18.0666667</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Campa Rita">
+    <latitude>18.0666667</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Canal Bank">
+    <latitude>17.6833333</latitude>
+    <longitude>-88.85</longitude>
+  </city>
+  <city name="Carib">
+    <latitude>16.1166667</latitude>
+    <longitude>-88.7833333</longitude>
+  </city>
+  <city name="Carib Settlement">
+    <latitude>16.1166667</latitude>
+    <longitude>-88.7833333</longitude>
+  </city>
+  <city name="Carmelita">
+    <latitude>17.1875</latitude>
+    <longitude>-89.0686111</longitude>
+  </city>
+  <city name="Carolina">
+    <latitude>18.35</latitude>
+    <longitude>-88.4166667</longitude>
+  </city>
+  <city name="Cashew Tree">
+    <latitude>17.9833333</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Casigüinic">
+    <latitude>17.5333333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Castile">
+    <latitude>17.35</latitude>
+    <longitude>-88.6666667</longitude>
+  </city>
+  <city name="Cattle Landing">
+    <latitude>16.1166667</latitude>
+    <longitude>-88.7833333</longitude>
+  </city>
+  <city name="Caves Branch">
+    <latitude>17.1333333</latitude>
+    <longitude>-88.7</longitude>
+  </city>
+  <city name="Caxigüinic">
+    <latitude>17.5333333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Caye Corker">
+    <latitude>17.75</latitude>
+    <longitude>-88.05</longitude>
+  </city>
+  <city name="Cayo">
+    <latitude>17.075</latitude>
+    <longitude>-89.1391667</longitude>
+  </city>
+  <city name="Cayo Town">
+    <latitude>17.1561111</latitude>
+    <longitude>-89.0713889</longitude>
+  </city>
+  <city name="Cebada Camp">
+    <latitude>16.65</latitude>
+    <longitude>-89.1675</longitude>
+  </city>
+  <city name="Cedar Bank">
+    <latitude>17.3833333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Cedar Crossing">
+    <latitude>17.6911111</latitude>
+    <longitude>-89.0277778</longitude>
+  </city>
+  <city name="Central">
+    <latitude>16.4522222</latitude>
+    <longitude>-89.0808333</longitude>
+  </city>
+  <city name="Central Edwards">
+    <latitude>16.3388889</latitude>
+    <longitude>-89.1530556</longitude>
+  </city>
+  <city name="Chacan Chac Mol">
+    <latitude>18.2666667</latitude>
+    <longitude>-88.25</longitude>
+  </city>
+  <city name="Chakan Chak Mol">
+    <latitude>18.2666667</latitude>
+    <longitude>-88.25</longitude>
+  </city>
+  <city name="Chan Bank">
+    <latitude>18.2166667</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Chan Chen">
+    <latitude>18.4333333</latitude>
+    <longitude>-88.4166667</longitude>
+  </city>
+  <city name="Chan Limon">
+    <latitude>17.35</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Chan Pine Ridge">
+    <latitude>18.0333333</latitude>
+    <longitude>-88.5666667</longitude>
+  </city>
+  <city name="Chan Pond">
+    <latitude>17.4</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Chan Quebrada">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.6833333</longitude>
+  </city>
+  <city name="Chan Sapote">
+    <latitude>18.3166667</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="Chapayal">
+    <latitude>16.7816667</latitude>
+    <longitude>-89.1391667</longitude>
+  </city>
+  <city name="Chial">
+    <latitude>17.1</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Chicago">
+    <latitude>17.8</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Chichawata">
+    <latitude>17.8</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Chorro">
+    <latitude>17.255</latitude>
+    <longitude>-89.1238889</longitude>
+  </city>
+  <city name="Chun Bank">
+    <latitude>16.5333333</latitude>
+    <longitude>-88.7</longitude>
+  </city>
+  <city name="Chunch">
+    <latitude>18.3</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Chunox">
+    <latitude>18.2833333</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Churchyard">
+    <latitude>17.3</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="Cockloft">
+    <latitude>17.5</latitude>
+    <longitude>-88.5833333</longitude>
+  </city>
+  <city name="Cocos">
+    <latitude>18.25</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Cocquericot">
+    <latitude>17.4166667</latitude>
+    <longitude>-88.6166667</longitude>
+  </city>
+  <city name="Cohune Ridge">
+    <latitude>16.8194444</latitude>
+    <longitude>-89.0841667</longitude>
+  </city>
+  <city name="Cojune Ridge">
+    <latitude>16.8194444</latitude>
+    <longitude>-89.0841667</longitude>
+  </city>
+  <city name="Columbia">
+    <latitude>16.2666667</latitude>
+    <longitude>-88.95</longitude>
+  </city>
+  <city name="Commerce Bight Village">
+    <latitude>16.8666667</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Concepcion">
+    <latitude>18.3166667</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Conejo">
+    <latitude>16.0333333</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="Consejo">
+    <latitude>18.45</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Cool Shade">
+    <latitude>17.1666667</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Copper Bank">
+    <latitude>18.3166667</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Coquericot">
+    <latitude>17.4166667</latitude>
+    <longitude>-88.6166667</longitude>
+  </city>
+  <city name="Corasal">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Corazal">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Corosal">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Corosalito">
+    <latitude>17.95</latitude>
+    <longitude>-88.8</longitude>
+  </city>
+  <city name="Corozal">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Corozalito">
+    <latitude>17.8333333</latitude>
+    <longitude>-88.2666667</longitude>
+  </city>
+  <city name="Corozon">
+    <latitude>16.0552778</latitude>
+    <longitude>-89.1241667</longitude>
+  </city>
+  <city name="Cotton Tree Bank">
+    <latitude>17.3333333</latitude>
+    <longitude>-88.7333333</longitude>
+  </city>
+  <city name="Cotton Tree">
+    <latitude>17.2666667</latitude>
+    <longitude>-88.7</longitude>
+  </city>
+  <city name="Cowboy Camp">
+    <latitude>16.7380556</latitude>
+    <longitude>-89.125</longitude>
+  </city>
+  <city name="Cowhead Creek">
+    <latitude>17.75</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Cowpen">
+    <latitude>18.1</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Crique Jute">
+    <latitude>16.2666667</latitude>
+    <longitude>-89.0166667</longitude>
+  </city>
+  <city name="Crique Sarco">
+    <latitude>15.9833333</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Crique Sarco Village">
+    <latitude>15.9833333</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Cristo Rey">
+    <latitude>17.1313889</latitude>
+    <longitude>-89.055</longitude>
+  </city>
+  <city name="Crooked Tree">
+    <latitude>17.7666667</latitude>
+    <longitude>-88.5333333</longitude>
+  </city>
+  <city name="Crossing Landing Bank">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.5666667</longitude>
+  </city>
+  <city name="Cubeta Camp">
+    <latitude>16.7847222</latitude>
+    <longitude>-89.01</longitude>
+  </city>
+  <city name="Cubetas">
+    <latitude>16.7847222</latitude>
+    <longitude>-89.01</longitude>
+  </city>
+  <city name="Dancing Pool">
+    <latitude>16.8333333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Dangriga">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.2166667</longitude>
+  </city>
+  <city name="Dangriga Town">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.2166667</longitude>
+  </city>
+  <city name="Davis Bank">
+    <latitude>17.6333333</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Delores Village">
+    <latitude>15.9833333</latitude>
+    <longitude>-89.2</longitude>
+  </city>
+  <city name="Dolores">
+    <latitude>17.5333333</latitude>
+    <longitude>-88.6166667</longitude>
+  </city>
+  <city name="Dolores Village">
+    <latitude>15.9833333</latitude>
+    <longitude>-89.2</longitude>
+  </city>
+  <city name="Double Head Cabbage">
+    <latitude>17.5333333</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="Douglas">
+    <latitude>18.2333333</latitude>
+    <longitude>-88.6</longitude>
+  </city>
+  <city name="Drill Camp">
+    <latitude>17.35</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Driving Camp">
+    <latitude>17.8166667</latitude>
+    <longitude>-88.8166667</longitude>
+  </city>
+  <city name="Dry Creek Bank">
+    <latitude>17.1666667</latitude>
+    <longitude>-88.5833333</longitude>
+  </city>
+  <city name="Duck Run">
+    <latitude>17.185</latitude>
+    <longitude>-89.0475</longitude>
+  </city>
+  <city name="Duffy Bank">
+    <latitude>17.1197222</latitude>
+    <longitude>-89.0630556</longitude>
+  </city>
+  <city name="Edenthal">
+    <latitude>17.9166667</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Egypt">
+    <latitude>17.4166667</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="El Arenal">
+    <latitude>17.0166667</latitude>
+    <longitude>-89.15</longitude>
+  </city>
+  <city name="El Brazo">
+    <latitude>18.2</latitude>
+    <longitude>-88.6166667</longitude>
+  </city>
+  <city name="El Cayo de San Ignacio">
+    <latitude>17.1561111</latitude>
+    <longitude>-89.0713889</longitude>
+  </city>
+  <city name="El Cayo">
+    <latitude>17.1561111</latitude>
+    <longitude>-89.0713889</longitude>
+  </city>
+  <city name="El Remate">
+    <latitude>18.2</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="El Retiro Camp">
+    <latitude>16.7186111</latitude>
+    <longitude>-89.1402778</longitude>
+  </city>
+  <city name="Esperanza Bank">
+    <latitude>16.4833333</latitude>
+    <longitude>-88.8666667</longitude>
+  </city>
+  <city name="Esperanza Camp">
+    <latitude>16.4172222</latitude>
+    <longitude>-89.0230556</longitude>
+  </city>
+  <city name="Esperanza">
+    <latitude>17.1666667</latitude>
+    <longitude>-89.0333333</longitude>
+  </city>
+  <city name="Estero">
+    <latitude>18.4</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Estrella">
+    <latitude>18.2833333</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Ferguson Bank">
+    <latitude>17.4333333</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Fermin Reyes">
+    <latitude>17.2588889</latitude>
+    <longitude>-89.0536111</longitude>
+  </city>
+  <city name="Flour Camp">
+    <latitude>17.0469444</latitude>
+    <longitude>-89.0602778</longitude>
+  </city>
+  <city name="Flour Landing">
+    <latitude>17.0469444</latitude>
+    <longitude>-89.0602778</longitude>
+  </city>
+  <city name="Flowers Bank">
+    <latitude>17.6</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Forest Home">
+    <latitude>16.1333333</latitude>
+    <longitude>-88.8166667</longitude>
+  </city>
+  <city name="Fork Camp">
+    <latitude>16.5166667</latitude>
+    <longitude>-89.05</longitude>
+  </city>
+  <city name="Fort George">
+    <latitude>17.4833333</latitude>
+    <longitude>-88.1666667</longitude>
+  </city>
+  <city name="Freetown Area">
+    <latitude>16.8166667</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Freetown">
+    <latitude>17.4166667</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Freetown Sibun">
+    <latitude>17.4166667</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Gales Point">
+    <latitude>17.1833333</latitude>
+    <longitude>-88.3333333</longitude>
+  </city>
+  <city name="Gallon Jug">
+    <latitude>17.55</latitude>
+    <longitude>-89.0333333</longitude>
+  </city>
+  <city name="Garbutt's Falls">
+    <latitude>17.0669444</latitude>
+    <longitude>-89.1513889</longitude>
+  </city>
+  <city name="Georgetown">
+    <latitude>16.65</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Georgeville">
+    <latitude>17.1833333</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Gnadenfeld">
+    <latitude>17.8666667</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Gnadenthal">
+    <latitude>17.8666667</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Gongora">
+    <latitude>17.7</latitude>
+    <longitude>-88.95</longitude>
+  </city>
+  <city name="Good Living Camp">
+    <latitude>17.1</latitude>
+    <longitude>-88.65</longitude>
+  </city>
+  <city name="Gorosalito">
+    <latitude>17.95</latitude>
+    <longitude>-88.8</longitude>
+  </city>
+  <city name="Grace Bank">
+    <latitude>17.6333333</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Gracy Rock Bank">
+    <latitude>17.35</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Graham Creek">
+    <latitude>15.9166667</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Grique Sarco">
+    <latitude>15.9833333</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Guacamallo Camp">
+    <latitude>16.8677778</latitude>
+    <longitude>-89.0322222</longitude>
+  </city>
+  <city name="Guacamallo">
+    <latitude>16.8677778</latitude>
+    <longitude>-89.0322222</longitude>
+  </city>
+  <city name="Guana Church Bank">
+    <latitude>16.8333333</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Guinea Grass">
+    <latitude>17.95</latitude>
+    <longitude>-88.5833333</longitude>
+  </city>
+  <city name="Hamidli Creek Settlement">
+    <latitude>16.2166667</latitude>
+    <longitude>-88.9</longitude>
+  </city>
+  <city name="Hattieville">
+    <latitude>17.45</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Hawiia">
+    <latitude>16.2661111</latitude>
+    <longitude>-89.095</longitude>
+  </city>
+  <city name="Hellgate">
+    <latitude>16.3666667</latitude>
+    <longitude>-88.8</longitude>
+  </city>
+  <city name="Hercules">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="High">
+    <latitude>16.8166667</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="High Sand">
+    <latitude>16.8166667</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Hill Bank">
+    <latitude>18.2333333</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Hinchasones">
+    <latitude>16.1333333</latitude>
+    <longitude>-89.05</longitude>
+  </city>
+  <city name="Honey Camp">
+    <latitude>18.0333333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Hopital">
+    <latitude>16.4666667</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Hopkins">
+    <latitude>16.8666667</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Iguana Creek Bank">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Independence">
+    <latitude>16.5333333</latitude>
+    <longitude>-88.4166667</longitude>
+  </city>
+  <city name="Indian Church">
+    <latitude>17.7666667</latitude>
+    <longitude>-88.65</longitude>
+  </city>
+  <city name="Isabella">
+    <latitude>17.5833333</latitude>
+    <longitude>-88.5333333</longitude>
+  </city>
+  <city name="Ixcanhá">
+    <latitude>18.0</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Jacinto Landing">
+    <latitude>16.1666667</latitude>
+    <longitude>-88.85</longitude>
+  </city>
+  <city name="Jacinto Lodge">
+    <latitude>16.1666667</latitude>
+    <longitude>-88.85</longitude>
+  </city>
+  <city name="Jalacte">
+    <latitude>16.1580556</latitude>
+    <longitude>-89.1466667</longitude>
+  </city>
+  <city name="Jimmy Cut">
+    <latitude>16.2933333</latitude>
+    <longitude>-89.0480556</longitude>
+  </city>
+  <city name="Jocote">
+    <latitude>17.0844444</latitude>
+    <longitude>-89.1261111</longitude>
+  </city>
+  <city name="Joe Wagner Boom">
+    <latitude>17.4166667</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Joventud">
+    <latitude>16.1172222</latitude>
+    <longitude>-89.17</longitude>
+  </city>
+  <city name="Kaway Camp">
+    <latitude>17.3666667</latitude>
+    <longitude>-89.05</longitude>
+  </city>
+  <city name="Kaxil Unic">
+    <latitude>17.5333333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Kendal">
+    <latitude>16.8</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="La Democracia">
+    <latitude>17.3333333</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="Ladyville">
+    <latitude>17.55</latitude>
+    <longitude>-88.1166667</longitude>
+  </city>
+  <city name="La Flor Camp">
+    <latitude>16.6213889</latitude>
+    <longitude>-89.0041667</longitude>
+  </city>
+  <city name="Lagarto Bank">
+    <latitude>16.65</latitude>
+    <longitude>-88.5833333</longitude>
+  </city>
+  <city name="Lagarto">
+    <latitude>17.3833333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Lagoona">
+    <latitude>16.1666667</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Laguna">
+    <latitude>18.3666667</latitude>
+    <longitude>-88.5166667</longitude>
+  </city>
+  <city name="Lemonal">
+    <latitude>17.6</latitude>
+    <longitude>-88.6</longitude>
+  </city>
+  <city name="Libertad">
+    <latitude>18.3</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Lime Walk">
+    <latitude>17.6333333</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Listowel">
+    <latitude>17.2030556</latitude>
+    <longitude>-89.0286111</longitude>
+  </city>
+  <city name="Little Belize">
+    <latitude>18.2</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Little Bermudian Landing">
+    <latitude>17.5666667</latitude>
+    <longitude>-88.5333333</longitude>
+  </city>
+  <city name="Locust Bank">
+    <latitude>16.7666667</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Logan's Bank">
+    <latitude>16.4833333</latitude>
+    <longitude>-88.5333333</longitude>
+  </city>
+  <city name="Logarto">
+    <latitude>17.3833333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="London">
+    <latitude>17.9833333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Long Bridge">
+    <latitude>17.3127778</latitude>
+    <longitude>-89.0783333</longitude>
+  </city>
+  <city name="Lord's Bank">
+    <latitude>17.5333333</latitude>
+    <longitude>-88.3166667</longitude>
+  </city>
+  <city name="Los Altos">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="Los Lirios Camp">
+    <latitude>16.7025</latitude>
+    <longitude>-89.0097222</longitude>
+  </city>
+  <city name="Louisville">
+    <latitude>18.3166667</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Lucky Strike Camp">
+    <latitude>17.7666667</latitude>
+    <longitude>-88.3166667</longitude>
+  </city>
+  <city name="Lucky Strike">
+    <latitude>17.7666667</latitude>
+    <longitude>-88.3166667</longitude>
+  </city>
+  <city name="Macaw Bank">
+    <latitude>16.9833333</latitude>
+    <longitude>-89.0666667</longitude>
+  </city>
+  <city name="Machaca Camp">
+    <latitude>16.1833333</latitude>
+    <longitude>-88.8833333</longitude>
+  </city>
+  <city name="Machaca">
+    <latitude>16.1402778</latitude>
+    <longitude>-89.115</longitude>
+  </city>
+  <city name="Machage">
+    <latitude>16.1402778</latitude>
+    <longitude>-89.115</longitude>
+  </city>
+  <city name="Mai Gate">
+    <latitude>17.05</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Mammee Camp">
+    <latitude>17.3833333</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="Mango Creek">
+    <latitude>16.5333333</latitude>
+    <longitude>-88.4166667</longitude>
+  </city>
+  <city name="Maskalla">
+    <latitude>17.8666667</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Maskall">
+    <latitude>17.8666667</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Maskalls Bank">
+    <latitude>17.8666667</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Maskalls">
+    <latitude>17.8666667</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Maya Beach">
+    <latitude>16.6</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Maya Mopan">
+    <latitude>16.65</latitude>
+    <longitude>-88.5166667</longitude>
+  </city>
+  <city name="May Pen">
+    <latitude>17.65</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Medina Bank">
+    <latitude>16.4333333</latitude>
+    <longitude>-88.7333333</longitude>
+  </city>
+  <city name="Meditation">
+    <latitude>17.3666667</latitude>
+    <longitude>-88.7166667</longitude>
+  </city>
+  <city name="Melvin's Bank">
+    <latitude>16.4333333</latitude>
+    <longitude>-88.6333333</longitude>
+  </city>
+  <city name="Middle Bank">
+    <latitude>16.8333333</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Middlesex">
+    <latitude>17.0166667</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Middlesey">
+    <latitude>17.0166667</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Millionario">
+    <latitude>16.7547222</latitude>
+    <longitude>-89.0083333</longitude>
+  </city>
+  <city name="Millionaro Camp">
+    <latitude>16.7547222</latitude>
+    <longitude>-89.0083333</longitude>
+  </city>
+  <city name="Monkey Fall">
+    <latitude>17.1375</latitude>
+    <longitude>-89.0502778</longitude>
+  </city>
+  <city name="Monkey">
+    <latitude>16.35</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Monkey River">
+    <latitude>16.35</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Monkey River Town">
+    <latitude>16.35</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Mopan">
+    <latitude>17.25</latitude>
+    <longitude>-88.7666667</longitude>
+  </city>
+  <city name="More Force">
+    <latitude>17.8333333</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="More Tomorrow">
+    <latitude>17.35</latitude>
+    <longitude>-88.6833333</longitude>
+  </city>
+  <city name="Mountain Cow">
+    <latitude>16.7875</latitude>
+    <longitude>-89.0488889</longitude>
+  </city>
+  <city name="Mount Hope">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Mullins">
+    <latitude>17.1</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Mullins River">
+    <latitude>17.1</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Mullins River Town">
+    <latitude>17.1</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Nafreda">
+    <latitude>16.2333333</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="Nago Bank">
+    <latitude>17.8666667</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Narrows Landing">
+    <latitude>18.1666667</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Nasario Perez">
+    <latitude>16.4230556</latitude>
+    <longitude>-89.1272222</longitude>
+  </city>
+  <city name="Negroman">
+    <latitude>17.0819444</latitude>
+    <longitude>-89.0816667</longitude>
+  </city>
+  <city name="Neuendorf">
+    <latitude>17.9</latitude>
+    <longitude>-88.8833333</longitude>
+  </city>
+  <city name="Neustadt">
+    <latitude>17.9</latitude>
+    <longitude>-89.0333333</longitude>
+  </city>
+  <city name="Never Delay">
+    <latitude>17.3166667</latitude>
+    <longitude>-88.75</longitude>
+  </city>
+  <city name="New Egypt">
+    <latitude>17.4166667</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="New Haven">
+    <latitude>16.2666667</latitude>
+    <longitude>-88.5666667</longitude>
+  </city>
+  <city name="New Home">
+    <latitude>18.1</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="New Retiro">
+    <latitude>16.7186111</latitude>
+    <longitude>-89.1402778</longitude>
+  </city>
+  <city name="New Town">
+    <latitude>16.9</latitude>
+    <longitude>-88.2666667</longitude>
+  </city>
+  <city name="Nimu Punit">
+    <latitude>16.3166667</latitude>
+    <longitude>-88.8</longitude>
+  </city>
+  <city name="Norland">
+    <latitude>17.1666667</latitude>
+    <longitude>-89.0</longitude>
+  </city>
+  <city name="Nuendorf">
+    <latitude>17.9</latitude>
+    <longitude>-88.8833333</longitude>
+  </city>
+  <city name="Old Retiro">
+    <latitude>16.7186111</latitude>
+    <longitude>-89.1402778</longitude>
+  </city>
+  <city name="Ontario Village">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.8833333</longitude>
+  </city>
+  <city name="Orange Walk">
+    <latitude>17.2666667</latitude>
+    <longitude>-88.7833333</longitude>
+  </city>
+  <city name="Otoxha">
+    <latitude>16.0247222</latitude>
+    <longitude>-89.1797222</longitude>
+  </city>
+  <city name="Otoxha Village">
+    <latitude>16.0247222</latitude>
+    <longitude>-89.1797222</longitude>
+  </city>
+  <city name="Pachacan">
+    <latitude>18.4</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Palmar Camp">
+    <latitude>16.4333333</latitude>
+    <longitude>-88.8833333</longitude>
+  </city>
+  <city name="Palmer Camp">
+    <latitude>16.4333333</latitude>
+    <longitude>-88.8833333</longitude>
+  </city>
+  <city name="Panama">
+    <latitude>17.35</latitude>
+    <longitude>-88.6833333</longitude>
+  </city>
+  <city name="Paraiso">
+    <latitude>18.4</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Pascua Camp">
+    <latitude>17.4</latitude>
+    <longitude>-89.0333333</longitude>
+  </city>
+  <city name="Pascua Camp Two">
+    <latitude>17.4</latitude>
+    <longitude>-89.0333333</longitude>
+  </city>
+  <city name="Patchchacan">
+    <latitude>18.4</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Patch Chakan">
+    <latitude>18.4</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Pembroke Hall">
+    <latitude>18.3</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Perry Bank">
+    <latitude>16.6</latitude>
+    <longitude>-88.5666667</longitude>
+  </city>
+  <city name="Pescado Camp">
+    <latitude>17.35</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Pescado">
+    <latitude>17.35</latitude>
+    <longitude>-89.1</longitude>
+  </city>
+  <city name="Pettville">
+    <latitude>18.0666667</latitude>
+    <longitude>-88.5333333</longitude>
+  </city>
+  <city name="Piebra">
+    <latitude>16.1</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Piedregal">
+    <latitude>17.3666667</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Pilgrimage Valley">
+    <latitude>17.15</latitude>
+    <longitude>-89.0333333</longitude>
+  </city>
+  <city name="Placencia">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Placentia">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Placentia Village">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Plant Sucker">
+    <latitude>17.15</latitude>
+    <longitude>-89.1166667</longitude>
+  </city>
+  <city name="Plasencia">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Plaza Grande">
+    <latitude>16.8</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Point Placentia">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Pomona">
+    <latitude>16.9833333</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Privassion Camp">
+    <latitude>17.0333333</latitude>
+    <longitude>-88.95</longitude>
+  </city>
+  <city name="Progreso">
+    <latitude>18.2166667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Progresso">
+    <latitude>18.2166667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Providencien">
+    <latitude>17.1333333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Puchetuck Camp">
+    <latitude>16.7672222</latitude>
+    <longitude>-89.0583333</longitude>
+  </city>
+  <city name="Puchituk Camp">
+    <latitude>16.7672222</latitude>
+    <longitude>-89.0583333</longitude>
+  </city>
+  <city name="Pucte">
+    <latitude>18.1333333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Puebla Nueva">
+    <latitude>18.3166667</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Pueblo Nuevo">
+    <latitude>18.3</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Pueblo Viejo">
+    <latitude>16.2052778</latitude>
+    <longitude>-89.1416667</longitude>
+  </city>
+  <city name="Punta Gorda">
+    <latitude>16.1</latitude>
+    <longitude>-88.8</longitude>
+  </city>
+  <city name="Punta Placencia">
+    <latitude>16.5166667</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Quarry Hill">
+    <latitude>16.9833333</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Quatro Leguas">
+    <latitude>17.9</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Ramonal">
+    <latitude>17.15</latitude>
+    <longitude>-89.1166667</longitude>
+  </city>
+  <city name="Ranchito">
+    <latitude>18.3666667</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Rancho Corozal">
+    <latitude>18.25</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Rancho Dolores">
+    <latitude>17.5333333</latitude>
+    <longitude>-88.6166667</longitude>
+  </city>
+  <city name="Rancho Grande">
+    <latitude>16.7166667</latitude>
+    <longitude>-88.6</longitude>
+  </city>
+  <city name="Rancho">
+    <latitude>17.95</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="Ranger Camp">
+    <latitude>16.4666667</latitude>
+    <longitude>-88.8</longitude>
+  </city>
+  <city name="Red Bank">
+    <latitude>16.5833333</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="Regalia">
+    <latitude>16.8</latitude>
+    <longitude>-88.3166667</longitude>
+  </city>
+  <city name="Reinland">
+    <latitude>17.8666667</latitude>
+    <longitude>-88.8666667</longitude>
+  </city>
+  <city name="Rejolla">
+    <latitude>17.4166667</latitude>
+    <longitude>-89.1166667</longitude>
+  </city>
+  <city name="Remate">
+    <latitude>18.45</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="Resumadero Camp">
+    <latitude>16.6327778</latitude>
+    <longitude>-89.0708333</longitude>
+  </city>
+  <city name="Retiro">
+    <latitude>16.7186111</latitude>
+    <longitude>-89.1402778</longitude>
+  </city>
+  <city name="Revenge">
+    <latitude>17.85</latitude>
+    <longitude>-88.5333333</longitude>
+  </city>
+  <city name="Rice Station">
+    <latitude>16.1333333</latitude>
+    <longitude>-88.8333333</longitude>
+  </city>
+  <city name="Rio Blanco">
+    <latitude>16.2297222</latitude>
+    <longitude>-89.1086111</longitude>
+  </city>
+  <city name="Rito Bonillo">
+    <latitude>16.4275</latitude>
+    <longitude>-89.1144444</longitude>
+  </city>
+  <city name="Roaring Creek">
+    <latitude>17.25</latitude>
+    <longitude>-88.7833333</longitude>
+  </city>
+  <city name="Rock Donda">
+    <latitude>17.35</latitude>
+    <longitude>-88.7333333</longitude>
+  </city>
+  <city name="Rock Dondo">
+    <latitude>17.35</latitude>
+    <longitude>-88.7333333</longitude>
+  </city>
+  <city name="Rockstone Pond">
+    <latitude>17.75</latitude>
+    <longitude>-88.3333333</longitude>
+  </city>
+  <city name="Rockville">
+    <latitude>17.4</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Rosita">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.9166667</longitude>
+  </city>
+  <city name="Rotiro">
+    <latitude>16.7186111</latitude>
+    <longitude>-89.1402778</longitude>
+  </city>
+  <city name="Round Hole Bank">
+    <latitude>16.7002778</latitude>
+    <longitude>-89.1130556</longitude>
+  </city>
+  <city name="Round Hole">
+    <latitude>17.3247222</latitude>
+    <longitude>-89.0913889</longitude>
+  </city>
+  <city name="Saint Paul's">
+    <latitude>17.5</latitude>
+    <longitude>-88.5833333</longitude>
+  </city>
+  <city name="Saint Thomas">
+    <latitude>17.15</latitude>
+    <longitude>-88.6333333</longitude>
+  </city>
+  <city name="Saint Vincent Block">
+    <latitude>16.1</latitude>
+    <longitude>-88.8166667</longitude>
+  </city>
+  <city name="Sale si Puede">
+    <latitude>16.7</latitude>
+    <longitude>-88.6333333</longitude>
+  </city>
+  <city name="Saltillo">
+    <latitude>18.3</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="San Andres">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.4</longitude>
+  </city>
+  <city name="San Antonia">
+    <latitude>18.1166667</latitude>
+    <longitude>-88.6666667</longitude>
+  </city>
+  <city name="San Antonio">
+    <latitude>17.0786111</latitude>
+    <longitude>-89.0236111</longitude>
+  </city>
+  <city name="San Antonio Viejo">
+    <latitude>16.2052778</latitude>
+    <longitude>-89.1416667</longitude>
+  </city>
+  <city name="San Benito Poite">
+    <latitude>16.1152778</latitude>
+    <longitude>-89.1858333</longitude>
+  </city>
+  <city name="Sand Hill">
+    <latitude>17.6333333</latitude>
+    <longitude>-88.3666667</longitude>
+  </city>
+  <city name="San Esteban">
+    <latitude>18.15</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="San Estevan">
+    <latitude>18.15</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="San Felipe">
+    <latitude>17.15</latitude>
+    <longitude>-89.0666667</longitude>
+  </city>
+  <city name="San Fernando">
+    <latitude>18.3166667</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="San Francisco">
+    <latitude>18.3166667</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="San Ignacio">
+    <latitude>17.1561111</latitude>
+    <longitude>-89.0713889</longitude>
+  </city>
+  <city name="San Joaquin">
+    <latitude>18.3333333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="San Jose Palmar">
+    <latitude>18.05</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="San Jose Palmer">
+    <latitude>18.05</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="San Jose">
+    <latitude>17.1761111</latitude>
+    <longitude>-89.0963889</longitude>
+  </city>
+  <city name="San Jose Soccoths">
+    <latitude>17.0844444</latitude>
+    <longitude>-89.1261111</longitude>
+  </city>
+  <city name="San Jose Succotz">
+    <latitude>17.0844444</latitude>
+    <longitude>-89.1261111</longitude>
+  </city>
+  <city name="San Juan Bank">
+    <latitude>17.9833333</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="San Juan">
+    <latitude>18.1833333</latitude>
+    <longitude>-88.6166667</longitude>
+  </city>
+  <city name="San Lazaro">
+    <latitude>18.0333333</latitude>
+    <longitude>-88.65</longitude>
+  </city>
+  <city name="San Lorenzo">
+    <latitude>18.1333333</latitude>
+    <longitude>-88.6166667</longitude>
+  </city>
+  <city name="San Lucas">
+    <latitude>16.0783333</latitude>
+    <longitude>-89.1033333</longitude>
+  </city>
+  <city name="San Luis">
+    <latitude>16.9097222</latitude>
+    <longitude>-89.0061111</longitude>
+  </city>
+  <city name="San Miguel">
+    <latitude>17.1666667</latitude>
+    <longitude>-89.0166667</longitude>
+  </city>
+  <city name="San Narciso">
+    <latitude>18.3</latitude>
+    <longitude>-88.5166667</longitude>
+  </city>
+  <city name="San Pablo">
+    <latitude>18.2</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="San Pastor Camp">
+    <latitude>16.7</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="San Pastor">
+    <latitude>16.7</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="San Pedro Columbia">
+    <latitude>16.2666667</latitude>
+    <longitude>-88.95</longitude>
+  </city>
+  <city name="San Pedro Landing">
+    <latitude>15.9333333</latitude>
+    <longitude>-89.2</longitude>
+  </city>
+  <city name="San Pedro">
+    <latitude>17.9166667</latitude>
+    <longitude>-87.95</longitude>
+  </city>
+  <city name="San Roman">
+    <latitude>18.2833333</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Santa Ana">
+    <latitude>17.8</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Santa Anna">
+    <latitude>16.1</latitude>
+    <longitude>-88.95</longitude>
+  </city>
+  <city name="Santa Clara">
+    <latitude>18.2833333</latitude>
+    <longitude>-88.5</longitude>
+  </city>
+  <city name="Santa Cruz">
+    <latitude>18.25</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Santa Elena">
+    <latitude>17.1583333</latitude>
+    <longitude>-89.0647222</longitude>
+  </city>
+  <city name="Santa Familia">
+    <latitude>17.1833333</latitude>
+    <longitude>-89.0666667</longitude>
+  </city>
+  <city name="Santana">
+    <latitude>17.8</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Santana Village">
+    <latitude>17.8</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Santa Rita">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Santa Rosa">
+    <latitude>17.1333333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Santa Theresa">
+    <latitude>16.1333333</latitude>
+    <longitude>-89.05</longitude>
+  </city>
+  <city name="Santeneja">
+    <latitude>18.35</latitude>
+    <longitude>-88.1333333</longitude>
+  </city>
+  <city name="San Victor">
+    <latitude>18.25</latitude>
+    <longitude>-88.5666667</longitude>
+  </city>
+  <city name="Sarawina">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.2666667</longitude>
+  </city>
+  <city name="Sarteneja">
+    <latitude>18.35</latitude>
+    <longitude>-88.1333333</longitude>
+  </city>
+  <city name="Saturday Creek">
+    <latitude>17.3166667</latitude>
+    <longitude>-88.7666667</longitude>
+  </city>
+  <city name="Savannah Bank">
+    <latitude>17.1833333</latitude>
+    <longitude>-88.8</longitude>
+  </city>
+  <city name="Sayab Camp">
+    <latitude>17.1</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Scotland">
+    <latitude>17.5666667</latitude>
+    <longitude>-88.5166667</longitude>
+  </city>
+  <city name="Seine Bight">
+    <latitude>16.5833333</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Seine Bight Village">
+    <latitude>16.5833333</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Shipstern Landing">
+    <latitude>18.2333333</latitude>
+    <longitude>-88.1833333</longitude>
+  </city>
+  <city name="Shipstern">
+    <latitude>18.2</latitude>
+    <longitude>-88.1666667</longitude>
+  </city>
+  <city name="Shipyard">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.6166667</longitude>
+  </city>
+  <city name="Sibun Camp">
+    <latitude>17.0833333</latitude>
+    <longitude>-88.65</longitude>
+  </city>
+  <city name="Sierra de Agua">
+    <latitude>17.5333333</latitude>
+    <longitude>-88.8666667</longitude>
+  </city>
+  <city name="Silk Grass">
+    <latitude>16.8833333</latitude>
+    <longitude>-88.3333333</longitude>
+  </city>
+  <city name="Silver Creek Bank">
+    <latitude>16.7</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Silver Creek Camp">
+    <latitude>16.7</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Silver Creek">
+    <latitude>16.2666667</latitude>
+    <longitude>-88.8833333</longitude>
+  </city>
+  <city name="Sittee">
+    <latitude>16.8333333</latitude>
+    <longitude>-88.2833333</longitude>
+  </city>
+  <city name="Soccotz">
+    <latitude>17.0844444</latitude>
+    <longitude>-89.1261111</longitude>
+  </city>
+  <city name="Socotz">
+    <latitude>17.0844444</latitude>
+    <longitude>-89.1261111</longitude>
+  </city>
+  <city name="Solomon Camp">
+    <latitude>16.55</latitude>
+    <longitude>-88.75</longitude>
+  </city>
+  <city name="South View Point">
+    <latitude>16.9</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="Spanish Lookout">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.9833333</longitude>
+  </city>
+  <city name="Spring Camp">
+    <latitude>17.4</latitude>
+    <longitude>-89.0666667</longitude>
+  </city>
+  <city name="Stann Creek">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.2166667</longitude>
+  </city>
+  <city name="Stann Creek Town">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.2166667</longitude>
+  </city>
+  <city name="Stann Creek Village">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.2166667</longitude>
+  </city>
+  <city name="Stanncrek">
+    <latitude>16.9666667</latitude>
+    <longitude>-88.2166667</longitude>
+  </city>
+  <city name="Succoths">
+    <latitude>17.0844444</latitude>
+    <longitude>-89.1261111</longitude>
+  </city>
+  <city name="Succotz">
+    <latitude>17.0844444</latitude>
+    <longitude>-89.1261111</longitude>
+  </city>
+  <city name="Swasey Branch Barquedier">
+    <latitude>18.1833333</latitude>
+    <longitude>-88.4666667</longitude>
+  </city>
+  <city name="Tacistal">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Tacital">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.75</longitude>
+  </city>
+  <city name="Tasital">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.75</longitude>
+  </city>
+  <city name="Teakettle Bank">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.85</longitude>
+  </city>
+  <city name="Teakettle Camp">
+    <latitude>16.5</latitude>
+    <longitude>-88.8166667</longitude>
+  </city>
+  <city name="Teakettle">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.85</longitude>
+  </city>
+  <city name="Teakettle Village">
+    <latitude>17.2166667</latitude>
+    <longitude>-88.85</longitude>
+  </city>
+  <city name="Tintal">
+    <latitude>17.9166667</latitude>
+    <longitude>-88.9666667</longitude>
+  </city>
+  <city name="Toledo Settlement">
+    <latitude>16.1333333</latitude>
+    <longitude>-88.8166667</longitude>
+  </city>
+  <city name="Toro">
+    <latitude>17.3041667</latitude>
+    <longitude>-89.1422222</longitude>
+  </city>
+  <city name="Torro">
+    <latitude>17.3041667</latitude>
+    <longitude>-89.1422222</longitude>
+  </city>
+  <city name="Trapiche">
+    <latitude>17.1666667</latitude>
+    <longitude>-89.0666667</longitude>
+  </city>
+  <city name="Tres Brazos">
+    <latitude>18.05</latitude>
+    <longitude>-88.5333333</longitude>
+  </city>
+  <city name="Tres Leguas Mennonite Settlement">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.9</longitude>
+  </city>
+  <city name="Tres Leguas Menonite Settlement">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.9</longitude>
+  </city>
+  <city name="Tres Leguas">
+    <latitude>17.8833333</latitude>
+    <longitude>-88.95</longitude>
+  </city>
+  <city name="Trial Farm">
+    <latitude>18.0833333</latitude>
+    <longitude>-88.55</longitude>
+  </city>
+  <city name="Trinidad">
+    <latitude>18.0166667</latitude>
+    <longitude>-88.6833333</longitude>
+  </city>
+  <city name="Trio Camp">
+    <latitude>16.5833333</latitude>
+    <longitude>-88.6666667</longitude>
+  </city>
+  <city name="Tropical Park">
+    <latitude>17.4666667</latitude>
+    <longitude>-88.3833333</longitude>
+  </city>
+  <city name="Tu-Tu Camp">
+    <latitude>17.3255556</latitude>
+    <longitude>-89.1391667</longitude>
+  </city>
+  <city name="Tzokotz">
+    <latitude>17.0844444</latitude>
+    <longitude>-89.1261111</longitude>
+  </city>
+  <city name="Union Camp">
+    <latitude>16.6275</latitude>
+    <longitude>-89.0188889</longitude>
+  </city>
+  <city name="Unitedville">
+    <latitude>17.2</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Vaca">
+    <latitude>17.0325</latitude>
+    <longitude>-89.0633333</longitude>
+  </city>
+  <city name="Valentin Camp">
+    <latitude>16.7663889</latitude>
+    <longitude>-89.1625</longitude>
+  </city>
+  <city name="Valley of Peace">
+    <latitude>17.3347222</latitude>
+    <longitude>-88.8347222</longitude>
+  </city>
+  <city name="Vaquaros">
+    <latitude>17.95</latitude>
+    <longitude>-88.7666667</longitude>
+  </city>
+  <city name="Vaqueros">
+    <latitude>17.95</latitude>
+    <longitude>-88.7666667</longitude>
+  </city>
+  <city name="Villa Alfonso">
+    <latitude>18.2833333</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Waha Leaf Camp">
+    <latitude>16.5833333</latitude>
+    <longitude>-88.6333333</longitude>
+  </city>
+  <city name="Wamil">
+    <latitude>17.5333333</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Warree Camp">
+    <latitude>17.9833333</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Warrie Camp">
+    <latitude>17.9833333</latitude>
+    <longitude>-88.3</longitude>
+  </city>
+  <city name="Washing Tree">
+    <latitude>17.6833333</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Washing Tree Work">
+    <latitude>17.6833333</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Water Bank">
+    <latitude>17.7833333</latitude>
+    <longitude>-88.65</longitude>
+  </city>
+  <city name="Watters Bank">
+    <latitude>17.3</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="White Hill">
+    <latitude>17.25</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Willows Bank">
+    <latitude>17.5166667</latitude>
+    <longitude>-88.5666667</longitude>
+  </city>
+  <city name="Xaibe">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.4333333</longitude>
+  </city>
+  <city name="Xaxe Venice">
+    <latitude>17.5333333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Xaxe Venic">
+    <latitude>17.5333333</latitude>
+    <longitude>-89.1333333</longitude>
+  </city>
+  <city name="Xcanha">
+    <latitude>18.0</latitude>
+    <longitude>-88.35</longitude>
+  </city>
+  <city name="Xcanluum">
+    <latitude>18.3833333</latitude>
+    <longitude>-88.45</longitude>
+  </city>
+  <city name="Xpicilha Village">
+    <latitude>16.0286111</latitude>
+    <longitude>-89.2133333</longitude>
+  </city>
+  <city name="Xpicilha">
+    <latitude>16.0286111</latitude>
+    <longitude>-89.2133333</longitude>
+  </city>
+  <city name="Yalbac Camp">
+    <latitude>17.3666667</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Yalback">
+    <latitude>17.3666667</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Yalbac">
+    <latitude>17.3666667</latitude>
+    <longitude>-88.9333333</longitude>
+  </city>
+  <city name="Yo Chen">
+    <latitude>18.35</latitude>
+    <longitude>-88.4833333</longitude>
+  </city>
+  <city name="Yo Creek">
+    <latitude>18.0833333</latitude>
+    <longitude>-88.6333333</longitude>
+  </city>
+</country>

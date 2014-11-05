@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="ki" name="Kiribati">
+  <city name="Abaokoro">
+    <latitude>1.4666667</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="Abatao">
+    <latitude>1.4</latitude>
+    <longitude>173.1166667</longitude>
+  </city>
+  <city name="Aiaki">
+    <latitude>-1.9166667</latitude>
+    <longitude>175.5833333</longitude>
+  </city>
+  <city name="Antai">
+    <latitude>2.0333333</latitude>
+    <longitude>173.2833333</longitude>
+  </city>
+  <city name="Aoniman">
+    <latitude>-1.3</latitude>
+    <longitude>175.9833333</longitude>
+  </city>
+  <city name="Aonobuaba">
+    <latitude>1.8833333</latitude>
+    <longitude>172.9833333</longitude>
+  </city>
+  <city name="Aonobuaka">
+    <latitude>1.8833333</latitude>
+    <longitude>172.9833333</longitude>
+  </city>
+  <city name="Arariki">
+    <latitude>-4.5166667</latitude>
+    <longitude>-172.2166667</longitude>
+  </city>
+  <city name="Aubeanai">
+    <latitude>-0.6833333</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Aubeanau">
+    <latitude>-0.6833333</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Aubeangai">
+    <latitude>-0.6833333</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Autokia">
+    <latitude>-1.3</latitude>
+    <longitude>175.9666667</longitude>
+  </city>
+  <city name="Autukia">
+    <latitude>-0.65</latitude>
+    <longitude>174.45</longitude>
+  </city>
+  <city name="Bairiki">
+    <latitude>1.3166667</latitude>
+    <longitude>172.9666667</longitude>
+  </city>
+  <city name="Banraeaba">
+    <latitude>1.3333333</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Banreaba">
+    <latitude>1.3333333</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Baretoa">
+    <latitude>0.45</latitude>
+    <longitude>173.9</longitude>
+  </city>
+  <city name="Betio">
+    <latitude>1.35</latitude>
+    <longitude>172.9333333</longitude>
+  </city>
+  <city name="Bikenibeu">
+    <latitude>1.35</latitude>
+    <longitude>173.1333333</longitude>
+  </city>
+  <city name="Bikerei">
+    <latitude>1.0</latitude>
+    <longitude>173.0</longitude>
+  </city>
+  <city name="Binoinano">
+    <latitude>0.4166667</latitude>
+    <longitude>173.9166667</longitude>
+  </city>
+  <city name="Borotiam">
+    <latitude>1.9</latitude>
+    <longitude>172.9666667</longitude>
+  </city>
+  <city name="Borotium">
+    <latitude>1.9</latitude>
+    <longitude>172.9666667</longitude>
+  </city>
+  <city name="Buakonikai">
+    <latitude>-0.8833333</latitude>
+    <longitude>169.55</longitude>
+  </city>
+  <city name="Buariki">
+    <latitude>1.5833333</latitude>
+    <longitude>172.9666667</longitude>
+  </city>
+  <city name="Buoata">
+    <latitude>2.0166667</latitude>
+    <longitude>173.2666667</longitude>
+  </city>
+  <city name="Buota">
+    <latitude>1.3666667</latitude>
+    <longitude>173.1333333</longitude>
+  </city>
+  <city name="Butaritari">
+    <latitude>3.0833333</latitude>
+    <longitude>172.8166667</longitude>
+  </city>
+  <city name="Eita">
+    <latitude>-1.2</latitude>
+    <longitude>174.7333333</longitude>
+  </city>
+  <city name="Ijaki">
+    <latitude>-1.9166667</latitude>
+    <longitude>175.5833333</longitude>
+  </city>
+  <city name="Kabanaki">
+    <latitude>0.3166667</latitude>
+    <longitude>173.9333333</longitude>
+  </city>
+  <city name="Kabangaki">
+    <latitude>0.3166667</latitude>
+    <longitude>173.9333333</longitude>
+  </city>
+  <city name="Kaiaroa">
+    <latitude>-0.6666667</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Kairaoa">
+    <latitude>-0.6666667</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Kariatebike">
+    <latitude>0.4</latitude>
+    <longitude>173.9333333</longitude>
+  </city>
+  <city name="Kariri">
+    <latitude>-1.3</latitude>
+    <longitude>175.9666667</longitude>
+  </city>
+  <city name="Kawantetua">
+    <latitude>-0.6666667</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Keua">
+    <latitude>3.1333333</latitude>
+    <longitude>172.9166667</longitude>
+  </city>
+  <city name="Keuea">
+    <latitude>3.1333333</latitude>
+    <longitude>172.9166667</longitude>
+  </city>
+  <city name="King">
+    <latitude>0.9</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Koinawa">
+    <latitude>1.8666667</latitude>
+    <longitude>172.9833333</longitude>
+  </city>
+  <city name="Kukutin">
+    <latitude>-4.5166667</latitude>
+    <longitude>-172.2166667</longitude>
+  </city>
+  <city name="Kuma">
+    <latitude>3.1666667</latitude>
+    <longitude>172.9666667</longitude>
+  </city>
+  <city name="Kuria">
+    <latitude>1.8333333</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="London">
+    <latitude>1.9833333</latitude>
+    <longitude>-157.4666667</longitude>
+  </city>
+  <city name="Makauro">
+    <latitude>-0.7166667</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Manoku">
+    <latitude>0.3333333</latitude>
+    <longitude>173.95</longitude>
+  </city>
+  <city name="Manounou">
+    <latitude>4.7</latitude>
+    <longitude>-160.4</longitude>
+  </city>
+  <city name="Manriki">
+    <latitude>-1.35</latitude>
+    <longitude>176.45</longitude>
+  </city>
+  <city name="Maranenuka Village">
+    <latitude>1.4666667</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Marenanuka">
+    <latitude>1.4666667</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Morikao">
+    <latitude>1.85</latitude>
+    <longitude>173.0</longitude>
+  </city>
+  <city name="Muribenua">
+    <latitude>-1.3166667</latitude>
+    <longitude>176.4166667</longitude>
+  </city>
+  <city name="Nabari">
+    <latitude>3.9</latitude>
+    <longitude>-159.3833333</longitude>
+  </city>
+  <city name="Nabeina">
+    <latitude>1.4166667</latitude>
+    <longitude>173.0833333</longitude>
+  </city>
+  <city name="Naimoa">
+    <latitude>-2.6333333</latitude>
+    <longitude>176.8166667</longitude>
+  </city>
+  <city name="Nanibaba">
+    <latitude>-0.6666667</latitude>
+    <longitude>174.45</longitude>
+  </city>
+  <city name="Nansaba">
+    <latitude>-1.3166667</latitude>
+    <longitude>176.0</longitude>
+  </city>
+  <city name="Napari">
+    <latitude>3.9</latitude>
+    <longitude>-159.3833333</longitude>
+  </city>
+  <city name="New Butaritari">
+    <latitude>3.0833333</latitude>
+    <longitude>172.8166667</longitude>
+  </city>
+  <city name="Nikumanu">
+    <latitude>-1.3833333</latitude>
+    <longitude>176.4666667</longitude>
+  </city>
+  <city name="Nikutoru">
+    <latitude>-1.4833333</latitude>
+    <longitude>175.0666667</longitude>
+  </city>
+  <city name="Noriti">
+    <latitude>-4.6666667</latitude>
+    <longitude>-174.5333333</longitude>
+  </city>
+  <city name="Noto">
+    <latitude>1.5</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="Nuatabu">
+    <latitude>1.5333333</latitude>
+    <longitude>172.9833333</longitude>
+  </city>
+  <city name="Nuka">
+    <latitude>-1.35</latitude>
+    <longitude>176.0</longitude>
+  </city>
+  <city name="Nukumanu">
+    <latitude>-1.3833333</latitude>
+    <longitude>176.4666667</longitude>
+  </city>
+  <city name="Nuribenua">
+    <latitude>-1.15</latitude>
+    <longitude>174.6666667</longitude>
+  </city>
+  <city name="Nutoru">
+    <latitude>-1.4833333</latitude>
+    <longitude>175.0666667</longitude>
+  </city>
+  <city name="O-N-Aorakai">
+    <latitude>-0.8833333</latitude>
+    <longitude>169.55</longitude>
+  </city>
+  <city name="Ooma">
+    <latitude>-0.9</latitude>
+    <longitude>169.55</longitude>
+  </city>
+  <city name="Puakoikai">
+    <latitude>-0.8833333</latitude>
+    <longitude>169.55</longitude>
+  </city>
+  <city name="Puakonikai">
+    <latitude>-0.8833333</latitude>
+    <longitude>169.55</longitude>
+  </city>
+  <city name="Puarik">
+    <latitude>-1.4833333</latitude>
+    <longitude>175.0666667</longitude>
+  </city>
+  <city name="Rakentai">
+    <latitude>-0.65</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Rakewai">
+    <latitude>-0.65</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Rawannawi">
+    <latitude>2.05</latitude>
+    <longitude>173.2666667</longitude>
+  </city>
+  <city name="Riaria">
+    <latitude>1.7833333</latitude>
+    <longitude>173.05</longitude>
+  </city>
+  <city name="Ritiati">
+    <latitude>-4.6666667</latitude>
+    <longitude>-174.5333333</longitude>
+  </city>
+  <city name="Rongata">
+    <latitude>-1.35</latitude>
+    <longitude>176.4333333</longitude>
+  </city>
+  <city name="Rongorongo">
+    <latitude>-1.3333333</latitude>
+    <longitude>176.0</longitude>
+  </city>
+  <city name="Roreauea">
+    <latitude>2.0</latitude>
+    <longitude>173.3</longitude>
+  </city>
+  <city name="Roreti">
+    <latitude>-2.65</latitude>
+    <longitude>176.8333333</longitude>
+  </city>
+  <city name="Rotuma">
+    <latitude>-0.6166667</latitude>
+    <longitude>174.4166667</longitude>
+  </city>
+  <city name="Rungata">
+    <latitude>-1.35</latitude>
+    <longitude>176.4333333</longitude>
+  </city>
+  <city name="Tabiang">
+    <latitude>0.4833333</latitude>
+    <longitude>173.8333333</longitude>
+  </city>
+  <city name="Tabiañ">
+    <latitude>0.4833333</latitude>
+    <longitude>173.8333333</longitude>
+  </city>
+  <city name="Tabiauea">
+    <latitude>0.9</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Tabiteuea">
+    <latitude>1.4</latitude>
+    <longitude>173.1</longitude>
+  </city>
+  <city name="Taboiaki">
+    <latitude>-1.3833333</latitude>
+    <longitude>176.0166667</longitude>
+  </city>
+  <city name="Tabomatang">
+    <latitude>-1.4</latitude>
+    <longitude>176.4833333</longitude>
+  </city>
+  <city name="Taboneaba">
+    <latitude>1.7166667</latitude>
+    <longitude>173.0</longitude>
+  </city>
+  <city name="Tabontebike">
+    <latitude>1.7166667</latitude>
+    <longitude>172.9833333</longitude>
+  </city>
+  <city name="Tabonuea">
+    <latitude>3.1</latitude>
+    <longitude>172.8166667</longitude>
+  </city>
+  <city name="Tabonuuia">
+    <latitude>3.1</latitude>
+    <longitude>172.8166667</longitude>
+  </city>
+  <city name="Taborio">
+    <latitude>1.5</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="Tabuarorae">
+    <latitude>-1.9166667</latitude>
+    <longitude>175.5666667</longitude>
+  </city>
+  <city name="Tabuiroa">
+    <latitude>1.8</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Tabukinberu">
+    <latitude>-1.35</latitude>
+    <longitude>175.9833333</longitude>
+  </city>
+  <city name="Tabukiniberu">
+    <latitude>-1.35</latitude>
+    <longitude>175.9833333</longitude>
+  </city>
+  <city name="Taburao">
+    <latitude>1.8166667</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="Taburari">
+    <latitude>-1.9166667</latitude>
+    <longitude>175.5666667</longitude>
+  </city>
+  <city name="Tabutoa">
+    <latitude>-1.3333333</latitude>
+    <longitude>176.4333333</longitude>
+  </city>
+  <city name="Tabwewa">
+    <latitude>-0.8833333</latitude>
+    <longitude>169.5333333</longitude>
+  </city>
+  <city name="Tabwirao">
+    <latitude>1.8</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Takarano">
+    <latitude>1.95</latitude>
+    <longitude>172.9166667</longitude>
+  </city>
+  <city name="Takarona">
+    <latitude>1.95</latitude>
+    <longitude>172.9166667</longitude>
+  </city>
+  <city name="Taku">
+    <latitude>-1.5166667</latitude>
+    <longitude>175.0666667</longitude>
+  </city>
+  <city name="Tamaroa">
+    <latitude>-2.6333333</latitude>
+    <longitude>176.8166667</longitude>
+  </city>
+  <city name="Tanaeang">
+    <latitude>-1.1666667</latitude>
+    <longitude>174.7</longitude>
+  </city>
+  <city name="Tanaiang">
+    <latitude>-1.1666667</latitude>
+    <longitude>174.7</longitude>
+  </city>
+  <city name="Tanekore">
+    <latitude>4.7166667</latitude>
+    <longitude>-160.4333333</longitude>
+  </city>
+  <city name="Tanimaiaki">
+    <latitude>1.7666667</latitude>
+    <longitude>173.05</longitude>
+  </city>
+  <city name="Tanimaiki">
+    <latitude>1.7666667</latitude>
+    <longitude>173.05</longitude>
+  </city>
+  <city name="Tanimainiku">
+    <latitude>0.4833333</latitude>
+    <longitude>173.8666667</longitude>
+  </city>
+  <city name="Tapiang">
+    <latitude>-0.8833333</latitude>
+    <longitude>169.5333333</longitude>
+  </city>
+  <city name="Tapiwa">
+    <latitude>-0.8833333</latitude>
+    <longitude>169.5333333</longitude>
+  </city>
+  <city name="Tarakarawa">
+    <latitude>-0.6666667</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Taratai">
+    <latitude>1.5333333</latitude>
+    <longitude>172.9833333</longitude>
+  </city>
+  <city name="Tarawa">
+    <latitude>-0.8833333</latitude>
+    <longitude>169.5333333</longitude>
+  </city>
+  <city name="Taribo">
+    <latitude>-2.6333333</latitude>
+    <longitude>176.8166667</longitude>
+  </city>
+  <city name="Taritai">
+    <latitude>1.5333333</latitude>
+    <longitude>172.9833333</longitude>
+  </city>
+  <city name="Teaoraereka">
+    <latitude>1.3333333</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="Teaoraereke Mission">
+    <latitude>1.3333333</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="Teaoraereke">
+    <latitude>1.3333333</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="Tearinibai">
+    <latitude>1.5666667</latitude>
+    <longitude>172.9666667</longitude>
+  </city>
+  <city name="Tebana">
+    <latitude>0.3666667</latitude>
+    <longitude>173.95</longitude>
+  </city>
+  <city name="Tebanga">
+    <latitude>0.3666667</latitude>
+    <longitude>173.95</longitude>
+  </city>
+  <city name="Tebatabuki">
+    <latitude>-0.7</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Tebatibaki">
+    <latitude>-0.7</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Tebero">
+    <latitude>1.8166667</latitude>
+    <longitude>173.0166667</longitude>
+  </city>
+  <city name="Tebiauea">
+    <latitude>0.9</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Tebiayea">
+    <latitude>0.9</latitude>
+    <longitude>173.0333333</longitude>
+  </city>
+  <city name="Tebikerai">
+    <latitude>1.0</latitude>
+    <longitude>173.0</longitude>
+  </city>
+  <city name="Tebikerei">
+    <latitude>1.0</latitude>
+    <longitude>173.0</longitude>
+  </city>
+  <city name="Tebikeriki">
+    <latitude>-1.3</latitude>
+    <longitude>175.95</longitude>
+  </city>
+  <city name="Tebobonga">
+    <latitude>-0.6833333</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Tebontebike">
+    <latitude>1.7166667</latitude>
+    <longitude>172.9833333</longitude>
+  </city>
+  <city name="Tebunginako">
+    <latitude>1.9166667</latitude>
+    <longitude>172.95</longitude>
+  </city>
+  <city name="Te Kabuibui">
+    <latitude>-1.1666667</latitude>
+    <longitude>174.7</longitude>
+  </city>
+  <city name="Te Kapuipui">
+    <latitude>-1.1666667</latitude>
+    <longitude>174.7</longitude>
+  </city>
+  <city name="Tekarakan">
+    <latitude>2.0</latitude>
+    <longitude>173.25</longitude>
+  </city>
+  <city name="Tekatirirake">
+    <latitude>0.4666667</latitude>
+    <longitude>173.8666667</longitude>
+  </city>
+  <city name="Tekuanga">
+    <latitude>2.0333333</latitude>
+    <longitude>173.2833333</longitude>
+  </city>
+  <city name="Temaraia Matang">
+    <latitude>-0.6666667</latitude>
+    <longitude>174.45</longitude>
+  </city>
+  <city name="Temaraia">
+    <latitude>-0.6666667</latitude>
+    <longitude>174.45</longitude>
+  </city>
+  <city name="Tenanoraoi">
+    <latitude>-0.7833333</latitude>
+    <longitude>174.4833333</longitude>
+  </city>
+  <city name="Teobokia">
+    <latitude>-1.4666667</latitude>
+    <longitude>175.0666667</longitude>
+  </city>
+  <city name="Terikai">
+    <latitude>-1.1666667</latitude>
+    <longitude>174.7166667</longitude>
+  </city>
+  <city name="Terikiai">
+    <latitude>-1.1666667</latitude>
+    <longitude>174.7166667</longitude>
+  </city>
+  <city name="Tetabakea">
+    <latitude>-0.8</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Tetabakia">
+    <latitude>-0.8</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Tetabuki">
+    <latitude>2.0166667</latitude>
+    <longitude>173.2666667</longitude>
+  </city>
+  <city name="Tetake">
+    <latitude>-0.7166667</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Teteirio">
+    <latitude>-1.35</latitude>
+    <longitude>176.0</longitude>
+  </city>
+  <city name="Tewai">
+    <latitude>-1.4333333</latitude>
+    <longitude>175.0166667</longitude>
+  </city>
+  <city name="Tuarabu">
+    <latitude>1.8</latitude>
+    <longitude>173.05</longitude>
+  </city>
+  <city name="Ubanteman">
+    <latitude>1.9333333</latitude>
+    <longitude>172.9333333</longitude>
+  </city>
+  <city name="Ukiangang">
+    <latitude>3.05</latitude>
+    <longitude>172.7666667</longitude>
+  </city>
+  <city name="Umanterwena">
+    <latitude>-0.7333333</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Umantewena">
+    <latitude>-0.7333333</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Umantewenei Taboiaki">
+    <latitude>-0.7333333</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Uma">
+    <latitude>-0.9</latitude>
+    <longitude>169.55</longitude>
+  </city>
+  <city name="Umauma">
+    <latitude>-0.7166667</latitude>
+    <longitude>174.4666667</longitude>
+  </city>
+  <city name="Utiroa">
+    <latitude>-1.2166667</latitude>
+    <longitude>174.75</longitude>
+  </city>
+</country>

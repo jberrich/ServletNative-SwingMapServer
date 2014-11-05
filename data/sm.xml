@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="sm" name="Saint-Marin (Rép. de)">
+  <city name="Acquaviva">
+    <latitude>43.95</latitude>
+    <longitude>12.4166667</longitude>
+  </city>
+  <city name="Chiesanuova">
+    <latitude>43.9166667</latitude>
+    <longitude>12.4166667</longitude>
+  </city>
+  <city name="Città di San Marino">
+    <latitude>43.9333333</latitude>
+    <longitude>12.45</longitude>
+  </city>
+  <city name="Falciano">
+    <latitude>43.9833333</latitude>
+    <longitude>12.5</longitude>
+  </city>
+  <city name="Poggio di Chiesanuova">
+    <latitude>43.9166667</latitude>
+    <longitude>12.4166667</longitude>
+  </city>
+  <city name="San Marino Città">
+    <latitude>43.9333333</latitude>
+    <longitude>12.45</longitude>
+  </city>
+  <city name="San Marino">
+    <latitude>43.9333333</latitude>
+    <longitude>12.45</longitude>
+  </city>
+  <city name="Serravalle">
+    <latitude>43.95</latitude>
+    <longitude>12.5</longitude>
+  </city>
+</country>

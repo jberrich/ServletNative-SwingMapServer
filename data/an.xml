@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="an" name="Antilles néerlandaises">
+  <city name="Ararat">
+    <latitude>12.1105556</latitude>
+    <longitude>-68.9194444</longitude>
+  </city>
+  <city name="Australie">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Barber">
+    <latitude>12.2833333</latitude>
+    <longitude>-69.0666667</longitude>
+  </city>
+  <city name="Bau Seroe">
+    <latitude>12.3</latitude>
+    <longitude>-69.1</longitude>
+  </city>
+  <city name="Bella Vista">
+    <latitude>12.15</latitude>
+    <longitude>-68.25</longitude>
+  </city>
+  <city name="Bel Nem">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.2833333</longitude>
+  </city>
+  <city name="Belvédère">
+    <latitude>18.05</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Beneden Prinsen">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Beneden Prinsen Kwartier">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Benesuela">
+    <latitude>12.2666667</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Benners">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Berg Altena">
+    <latitude>12.1077778</latitude>
+    <longitude>-68.9175</longitude>
+  </city>
+  <city name="Blomonte">
+    <latitude>12.15</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Blomonti">
+    <latitude>12.15</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Bloomingdale">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Boka Samí">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.9833333</longitude>
+  </city>
+  <city name="Bona Vista">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.85</longitude>
+  </city>
+  <city name="Bonavista">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.9833333</longitude>
+  </city>
+  <city name="Botele">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3166667</longitude>
+  </city>
+  <city name="Bottom">
+    <latitude>17.6333333</latitude>
+    <longitude>-63.25</longitude>
+  </city>
+  <city name="Bouille">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9666667</longitude>
+  </city>
+  <city name="Bou'i Seru">
+    <latitude>12.3</latitude>
+    <longitude>-69.1</longitude>
+  </city>
+  <city name="Boven Bolivia">
+    <latitude>12.1833333</latitude>
+    <longitude>-68.2166667</longitude>
+  </city>
+  <city name="Boven Prinsen">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Boven Prinsen Kwartier">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Bricat">
+    <latitude>12.15</latitude>
+    <longitude>-68.2166667</longitude>
+  </city>
+  <city name="Brievengat">
+    <latitude>12.15</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Buena Esperansa">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2166667</longitude>
+  </city>
+  <city name="Buena Vista">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Bullenbaai">
+    <latitude>12.1666667</latitude>
+    <longitude>-69.0</longitude>
+  </city>
+  <city name="Caranjito">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.25</longitude>
+  </city>
+  <city name="Cas Chikitoe">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9666667</longitude>
+  </city>
+  <city name="Cas Corá">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2166667</longitude>
+  </city>
+  <city name="Cerrito">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Chapel Piece">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Cher Asile">
+    <latitude>12.1066667</latitude>
+    <longitude>-68.9152778</longitude>
+  </city>
+  <city name="Coeroeboeroe">
+    <latitude>12.2</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Colon">
+    <latitude>12.1138889</latitude>
+    <longitude>-68.9402778</longitude>
+  </city>
+  <city name="Concordia">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9666667</longitude>
+  </city>
+  <city name="Cornet">
+    <latitude>12.1058333</latitude>
+    <longitude>-68.92</longitude>
+  </city>
+  <city name="Cottage Pasture">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Crispeen">
+    <latitude>17.6166667</latitude>
+    <longitude>-63.2333333</longitude>
+  </city>
+  <city name="Cul de Sac">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0666667</longitude>
+  </city>
+  <city name="Cupe Coy">
+    <latitude>18.05</latitude>
+    <longitude>-63.1333333</longitude>
+  </city>
+  <city name="Deenterra">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Defiance">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="De Hoop">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Dentera">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Den Tuna">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Diamond">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0833333</longitude>
+  </city>
+  <city name="Domi">
+    <latitude>12.1175</latitude>
+    <longitude>-68.9427778</longitude>
+  </city>
+  <city name="Domingitu">
+    <latitude>12.1</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Dominguito">
+    <latitude>12.1</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Dorp Antriol">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Dorp Lagoen">
+    <latitude>12.3166667</latitude>
+    <longitude>-69.1666667</longitude>
+  </city>
+  <city name="Dorp Lagún">
+    <latitude>12.3166667</latitude>
+    <longitude>-69.1666667</longitude>
+  </city>
+  <city name="Dorp Nikiboco">
+    <latitude>12.15</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Dorp Nikiboko">
+    <latitude>12.15</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Dorp Noor i Sãlina">
+    <latitude>12.1833333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Dorp Nor i Saliña">
+    <latitude>12.1833333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Dorp Rincan">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Dorp Rincón">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Dorp Sabana">
+    <latitude>12.15</latitude>
+    <longitude>-68.25</longitude>
+  </city>
+  <city name="Dorp Sint Michiel">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.9833333</longitude>
+  </city>
+  <city name="Dorp Sint Willebrordus">
+    <latitude>12.2166667</latitude>
+    <longitude>-69.05</longitude>
+  </city>
+  <city name="Dorp Sint Willibrordus">
+    <latitude>12.2166667</latitude>
+    <longitude>-69.05</longitude>
+  </city>
+  <city name="Dorp Soto">
+    <latitude>12.2666667</latitude>
+    <longitude>-69.1</longitude>
+  </city>
+  <city name="Dorp Tera Corá">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Dorp Tera Kora">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Dorp Westpunt">
+    <latitude>12.3666667</latitude>
+    <longitude>-69.1333333</longitude>
+  </city>
+  <city name="Emmastad">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Emmstad">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="English Quarter">
+    <latitude>17.6166667</latitude>
+    <longitude>-63.2166667</longitude>
+  </city>
+  <city name="Entrejol">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Experiment">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Filipsburg">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Fiscal">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Fleur de Marie">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Fontein">
+    <latitude>12.25</latitude>
+    <longitude>-69.0833333</longitude>
+  </city>
+  <city name="Fortuna Abau">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Fortuna Abou">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Fortuna Abu">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Gato">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.9666667</longitude>
+  </city>
+  <city name="Gilheads">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9666667</longitude>
+  </city>
+  <city name="Glass Bottle">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9666667</longitude>
+  </city>
+  <city name="Godet">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Golden Rock">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Great Bay">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Groot Kwartier">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Guatemala">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2333333</longitude>
+  </city>
+  <city name="Habai">
+    <latitude>12.1263889</latitude>
+    <longitude>-68.9483333</longitude>
+  </city>
+  <city name="Hato">
+    <latitude>12.1833333</latitude>
+    <longitude>-68.2833333</longitude>
+  </city>
+  <city name="Hearty">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9666667</longitude>
+  </city>
+  <city name="Hellsgate">
+    <latitude>17.65</latitude>
+    <longitude>-63.2333333</longitude>
+  </city>
+  <city name="Hoop">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.2833333</longitude>
+  </city>
+  <city name="Industrie">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0666667</longitude>
+  </city>
+  <city name="Ishiri">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.2333333</longitude>
+  </city>
+  <city name="Jan Doran">
+    <latitude>12.2166667</latitude>
+    <longitude>-68.35</longitude>
+  </city>
+  <city name="Jan Doret">
+    <latitude>12.15</latitude>
+    <longitude>-68.9666667</longitude>
+  </city>
+  <city name="Janwé">
+    <latitude>12.1</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Jan Zoutvat">
+    <latitude>12.0916667</latitude>
+    <longitude>-68.85</longitude>
+  </city>
+  <city name="Juan Domingo">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Juicio">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9666667</longitude>
+  </city>
+  <city name="Julianadorp">
+    <latitude>12.15</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Juliandorp">
+    <latitude>12.15</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Karké">
+    <latitude>12.2333333</latitude>
+    <longitude>-69.0333333</longitude>
+  </city>
+  <city name="Kas Chikitu">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9666667</longitude>
+  </city>
+  <city name="Kashu Tuin">
+    <latitude>12.2</latitude>
+    <longitude>-69.0166667</longitude>
+  </city>
+  <city name="Kibra Hacha">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Koera Joeri">
+    <latitude>12.35</latitude>
+    <longitude>-69.15</longitude>
+  </city>
+  <city name="Kokorobi">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3166667</longitude>
+  </city>
+  <city name="Kolontjie">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Koolbaai">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0666667</longitude>
+  </city>
+  <city name="Kortijn">
+    <latitude>12.1152778</latitude>
+    <longitude>-68.9375</longitude>
+  </city>
+  <city name="Krakeel">
+    <latitude>12.2333333</latitude>
+    <longitude>-69.0333333</longitude>
+  </city>
+  <city name="Kralendijk">
+    <latitude>12.15</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Kunchi">
+    <latitude>12.25</latitude>
+    <longitude>-68.3</longitude>
+  </city>
+  <city name="Kunuku Abou">
+    <latitude>12.2</latitude>
+    <longitude>-69.0166667</longitude>
+  </city>
+  <city name="Kura Juri">
+    <latitude>12.35</latitude>
+    <longitude>-69.15</longitude>
+  </city>
+  <city name="Kuruburu">
+    <latitude>12.2</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Labra">
+    <latitude>12.25</latitude>
+    <longitude>-68.3833333</longitude>
+  </city>
+  <city name="Lagoen">
+    <latitude>12.3166667</latitude>
+    <longitude>-69.1666667</longitude>
+  </city>
+  <city name="Lagún">
+    <latitude>12.3166667</latitude>
+    <longitude>-69.1666667</longitude>
+  </city>
+  <city name="Leeuwarden">
+    <latitude>12.2166667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Leverock Town">
+    <latitude>17.6333333</latitude>
+    <longitude>-63.25</longitude>
+  </city>
+  <city name="Libie">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.8666667</longitude>
+  </city>
+  <city name="Lower Hell's Gate">
+    <latitude>17.6333333</latitude>
+    <longitude>-63.2166667</longitude>
+  </city>
+  <city name="Lower Prince's Quarter">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Lower Town">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Mansion">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9666667</longitude>
+  </city>
+  <city name="Marchena">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Mari Pompun">
+    <latitude>12.1</latitude>
+    <longitude>-68.9083333</longitude>
+  </city>
+  <city name="Mary's Fancy">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.05</longitude>
+  </city>
+  <city name="Mentor">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Middle Region">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Montange">
+    <latitude>12.1</latitude>
+    <longitude>-68.8666667</longitude>
+  </city>
+  <city name="Montan'i Rei">
+    <latitude>12.1</latitude>
+    <longitude>-68.8666667</longitude>
+  </city>
+  <city name="Montanja di Reij">
+    <latitude>12.1</latitude>
+    <longitude>-68.8666667</longitude>
+  </city>
+  <city name="Montanje">
+    <latitude>12.1</latitude>
+    <longitude>-68.8666667</longitude>
+  </city>
+  <city name="Morgenster">
+    <latitude>12.0833333</latitude>
+    <longitude>-68.8333333</longitude>
+  </city>
+  <city name="Motet">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Mountain Piece">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.95</longitude>
+  </city>
+  <city name="Mundo">
+    <latitude>12.1161111</latitude>
+    <longitude>-68.9472222</longitude>
+  </city>
+  <city name="Mundo Nobo">
+    <latitude>12.1</latitude>
+    <longitude>-68.9666667</longitude>
+  </city>
+  <city name="Nazareth">
+    <latitude>18.05</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="New Ground">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Newport">
+    <latitude>12.05</latitude>
+    <longitude>-68.8166667</longitude>
+  </city>
+  <city name="Nieuw Nederland">
+    <latitude>12.1038889</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Nieuwpoort">
+    <latitude>12.05</latitude>
+    <longitude>-68.8166667</longitude>
+  </city>
+  <city name="Nikiboko">
+    <latitude>12.15</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Nobo">
+    <latitude>12.1144444</latitude>
+    <longitude>-68.9466667</longitude>
+  </city>
+  <city name="Noord di Salinja">
+    <latitude>12.1833333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="One Hoe">
+    <latitude>18.05</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Onima">
+    <latitude>12.25</latitude>
+    <longitude>-68.3166667</longitude>
+  </city>
+  <city name="Orange Grove">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0833333</longitude>
+  </city>
+  <city name="Orange Town">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Oranje Pan">
+    <latitude>12.0333333</latitude>
+    <longitude>-68.25</longitude>
+  </city>
+  <city name="Oranjestad">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Orinoco">
+    <latitude>12.15</latitude>
+    <longitude>-68.2166667</longitude>
+  </city>
+  <city name="Otrabanda">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Otrobanda">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Over the Pond">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.05</longitude>
+  </city>
+  <city name="Overzijde">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Paradijs">
+    <latitude>12.1088889</latitude>
+    <longitude>-68.9133333</longitude>
+  </city>
+  <city name="Para Mira">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Paramira">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9666667</longitude>
+  </city>
+  <city name="Pareira">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Parera">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Philipsburg">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Pietermaai">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Pine Garden">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Playa">
+    <latitude>12.15</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Porta Makaku">
+    <latitude>12.2666667</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Porto Spaño">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Prospect Farm">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0666667</longitude>
+  </city>
+  <city name="Prospect">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Punda">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Rancho">
+    <latitude>12.15</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Republiek">
+    <latitude>12.15</latitude>
+    <longitude>-68.25</longitude>
+  </city>
+  <city name="Rigot">
+    <latitude>12.25</latitude>
+    <longitude>-68.35</longitude>
+  </city>
+  <city name="Rincón">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Riscado">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3666667</longitude>
+  </city>
+  <city name="Rockland">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.05</longitude>
+  </city>
+  <city name="Rood Huis">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2166667</longitude>
+  </city>
+  <city name="Roosendaal">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Roozendaal">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.25</longitude>
+  </city>
+  <city name="Rozendaal">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.95</longitude>
+  </city>
+  <city name="Rust en Vrede">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Rustoord">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Rust">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Sabana Westpunt">
+    <latitude>12.3666667</latitude>
+    <longitude>-69.1666667</longitude>
+  </city>
+  <city name="Sabaneta">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Saint John's Flat">
+    <latitude>17.6166667</latitude>
+    <longitude>-63.2333333</longitude>
+  </city>
+  <city name="Saint Peter">
+    <latitude>18.05</latitude>
+    <longitude>-63.0666667</longitude>
+  </city>
+  <city name="Saliña Abou">
+    <latitude>12.1</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="Saliña">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Salinja">
+    <latitude>12.1</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+  <city name="San Bernardo">
+    <latitude>12.1833333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="San José">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.2333333</longitude>
+  </city>
+  <city name="San Pedro">
+    <latitude>12.25</latitude>
+    <longitude>-69.0333333</longitude>
+  </city>
+  <city name="Santa Catarina">
+    <latitude>12.15</latitude>
+    <longitude>-68.2166667</longitude>
+  </city>
+  <city name="Santa Clara">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.2166667</longitude>
+  </city>
+  <city name="Santa Cruz">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.35</longitude>
+  </city>
+  <city name="Santa Krus">
+    <latitude>12.3</latitude>
+    <longitude>-69.1333333</longitude>
+  </city>
+  <city name="Santa Maria">
+    <latitude>12.15</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Santa Rosa">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.8833333</longitude>
+  </city>
+  <city name="Saunders">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.05</longitude>
+  </city>
+  <city name="Schaarlo">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Scharloo">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Schotsenhoek">
+    <latitude>17.4833333</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Senkuria">
+    <latitude>12.15</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Ser'i Bientu">
+    <latitude>12.3166667</latitude>
+    <longitude>-69.1</longitude>
+  </city>
+  <city name="Seritu">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Seroe Bientoe">
+    <latitude>12.3166667</latitude>
+    <longitude>-69.1</longitude>
+  </city>
+  <city name="Seroebiento">
+    <latitude>12.3166667</latitude>
+    <longitude>-69.1</longitude>
+  </city>
+  <city name="Simsonbaai">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.1</longitude>
+  </city>
+  <city name="Simson Bay Village">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.1</longitude>
+  </city>
+  <city name="Simsons Bay">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.1</longitude>
+  </city>
+  <city name="Sint Jago">
+    <latitude>12.1097222</latitude>
+    <longitude>-68.9222222</longitude>
+  </city>
+  <city name="Sint John">
+    <latitude>17.6166667</latitude>
+    <longitude>-63.2333333</longitude>
+  </city>
+  <city name="Sint John's">
+    <latitude>17.6166667</latitude>
+    <longitude>-63.2333333</longitude>
+  </city>
+  <city name="Sint Joris">
+    <latitude>12.2333333</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Sint Josefsdal">
+    <latitude>12.2833333</latitude>
+    <longitude>-69.0833333</longitude>
+  </city>
+  <city name="Sint Jozefdal">
+    <latitude>12.2833333</latitude>
+    <longitude>-69.0833333</longitude>
+  </city>
+  <city name="Sint Jozefsdal">
+    <latitude>12.2833333</latitude>
+    <longitude>-69.0833333</longitude>
+  </city>
+  <city name="Sint Michiel Liber">
+    <latitude>12.15</latitude>
+    <longitude>-68.9833333</longitude>
+  </city>
+  <city name="Sint Michiel">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.9833333</longitude>
+  </city>
+  <city name="Sint Willebrordus">
+    <latitude>12.2166667</latitude>
+    <longitude>-69.05</longitude>
+  </city>
+  <city name="Slangenbaai">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.9833333</longitude>
+  </city>
+  <city name="Soto">
+    <latitude>12.2666667</latitude>
+    <longitude>-69.1</longitude>
+  </city>
+  <city name="Spring Garden">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Steenrijk">
+    <latitude>12.1005556</latitude>
+    <longitude>-68.9105556</longitude>
+  </city>
+  <city name="Su Casa">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9666667</longitude>
+  </city>
+  <city name="Sucker Garden">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Suffisant Dorp">
+    <latitude>12.15</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Suriname Dorp">
+    <latitude>12.15</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Tera Hundu">
+    <latitude>12.1833333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Terra Corra">
+    <latitude>12.1333333</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="The Bottom">
+    <latitude>17.6333333</latitude>
+    <longitude>-63.25</longitude>
+  </city>
+  <city name="The Corner">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0833333</longitude>
+  </city>
+  <city name="The Gap">
+    <latitude>17.6166667</latitude>
+    <longitude>-63.25</longitude>
+  </city>
+  <city name="The Hope">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="The Level">
+    <latitude>17.6166667</latitude>
+    <longitude>-63.2166667</longitude>
+  </city>
+  <city name="The Villa">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.05</longitude>
+  </city>
+  <city name="Trial">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.05</longitude>
+  </city>
+  <city name="Union Farm">
+    <latitude>18.05</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Upper Hell's Gate">
+    <latitude>17.65</latitude>
+    <longitude>-63.2333333</longitude>
+  </city>
+  <city name="Upper Prince's Quarter">
+    <latitude>18.0333333</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Upper Town">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Valentijn">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Venezuela">
+    <latitude>12.2666667</latitude>
+    <longitude>-68.3333333</longitude>
+  </city>
+  <city name="Vianen">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Vineyard">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0333333</longitude>
+  </city>
+  <city name="Vlijt">
+    <latitude>12.1666667</latitude>
+    <longitude>-68.2666667</longitude>
+  </city>
+  <city name="Vredeberg">
+    <latitude>12.0916667</latitude>
+    <longitude>-68.85</longitude>
+  </city>
+  <city name="Vredenberg">
+    <latitude>12.0916667</latitude>
+    <longitude>-68.85</longitude>
+  </city>
+  <city name="Wanapa">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.2333333</longitude>
+  </city>
+  <city name="Weis Afó">
+    <latitude>12.15</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Weis">
+    <latitude>12.15</latitude>
+    <longitude>-68.9333333</longitude>
+  </city>
+  <city name="Weitje">
+    <latitude>12.0166667</latitude>
+    <longitude>-68.9833333</longitude>
+  </city>
+  <city name="Welgelegen">
+    <latitude>12.12</latitude>
+    <longitude>-68.9466667</longitude>
+  </city>
+  <city name="Westpunt">
+    <latitude>12.3666667</latitude>
+    <longitude>-69.1666667</longitude>
+  </city>
+  <city name="Willebrordus">
+    <latitude>12.2166667</latitude>
+    <longitude>-69.05</longitude>
+  </city>
+  <city name="Willemstad">
+    <latitude>12.1</latitude>
+    <longitude>-68.9166667</longitude>
+  </city>
+  <city name="Wilton">
+    <latitude>17.4666667</latitude>
+    <longitude>-62.9833333</longitude>
+  </city>
+  <city name="Windsor">
+    <latitude>18.0166667</latitude>
+    <longitude>-63.0833333</longitude>
+  </city>
+  <city name="Windward Side">
+    <latitude>17.6333333</latitude>
+    <longitude>-63.2333333</longitude>
+  </city>
+  <city name="Wishi">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9666667</longitude>
+  </city>
+  <city name="Zeelandia">
+    <latitude>12.1166667</latitude>
+    <longitude>-68.9</longitude>
+  </city>
+</country>

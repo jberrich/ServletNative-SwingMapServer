@@ -1,0 +1,4075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="uy" name="Uruguay">
+  <city name="18 de Julio">
+    <latitude>-33.6833333</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="19 de Abril">
+    <latitude>-34.3666667</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="25 de Agosto">
+    <latitude>-34.4116667</latitude>
+    <longitude>-56.4022222</longitude>
+  </city>
+  <city name="25 de Mayo">
+    <latitude>-34.1891667</latitude>
+    <longitude>-56.3394444</longitude>
+  </city>
+  <city name="Abayuba">
+    <latitude>-34.7641667</latitude>
+    <longitude>-56.2138889</longitude>
+  </city>
+  <city name="Abrojal">
+    <latitude>-31.75</latitude>
+    <longitude>-55.0166667</longitude>
+  </city>
+  <city name="Aceguá">
+    <latitude>-31.8666667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Achar">
+    <latitude>-32.4166667</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Achiras">
+    <latitude>-33.5333333</latitude>
+    <longitude>-54.4333333</longitude>
+  </city>
+  <city name="Acosta">
+    <latitude>-33.2333333</latitude>
+    <longitude>-53.85</longitude>
+  </city>
+  <city name="Agraciada">
+    <latitude>-33.8</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Aguada">
+    <latitude>-34.9</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Aguas Buenas">
+    <latitude>-32.8</latitude>
+    <longitude>-55.8</longitude>
+  </city>
+  <city name="Aguas Corrientes">
+    <latitude>-34.5219444</latitude>
+    <longitude>-56.3936111</longitude>
+  </city>
+  <city name="Águila">
+    <latitude>-32.6666667</latitude>
+    <longitude>-53.6166667</longitude>
+  </city>
+  <city name="Aguirre">
+    <latitude>-32.3666667</latitude>
+    <longitude>-54.7666667</longitude>
+  </city>
+  <city name="Ahogados">
+    <latitude>-33.75</latitude>
+    <longitude>-56.4666667</longitude>
+  </city>
+  <city name="Aiguá">
+    <latitude>-34.2</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Albisu">
+    <latitude>-31.3333333</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Aldecoa">
+    <latitude>-33.55</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Alejandrina">
+    <latitude>-33.7666667</latitude>
+    <longitude>-58.35</longitude>
+  </city>
+  <city name="Alejandro Gallinal">
+    <latitude>-33.8166667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Algorta">
+    <latitude>-32.4166667</latitude>
+    <longitude>-57.3833333</longitude>
+  </city>
+  <city name="Allende">
+    <latitude>-30.3</latitude>
+    <longitude>-56.9666667</longitude>
+  </city>
+  <city name="Amaro">
+    <latitude>-32.75</latitude>
+    <longitude>-53.4833333</longitude>
+  </city>
+  <city name="Anastasia">
+    <latitude>-33.2166667</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Andresito">
+    <latitude>-33.1333333</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Ansina">
+    <latitude>-31.9</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Arapey">
+    <latitude>-30.9666667</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Araújo">
+    <latitude>-32.1</latitude>
+    <longitude>-57.8166667</longitude>
+  </city>
+  <city name="Arbolito">
+    <latitude>-32.65</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Arenal">
+    <latitude>-34.45</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Arenales">
+    <latitude>-33.7166667</latitude>
+    <longitude>-58.2666667</longitude>
+  </city>
+  <city name="Arenitas Blancas">
+    <latitude>-31.35</latitude>
+    <longitude>-57.9833333</longitude>
+  </city>
+  <city name="Arévalo">
+    <latitude>-32.6333333</latitude>
+    <longitude>-55.1166667</longitude>
+  </city>
+  <city name="Arriera">
+    <latitude>-32.0333333</latitude>
+    <longitude>-54.5666667</longitude>
+  </city>
+  <city name="Arroyo Aguila">
+    <latitude>-33.6</latitude>
+    <longitude>-57.9833333</longitude>
+  </city>
+  <city name="Arroyo Blanco">
+    <latitude>-31.6833333</latitude>
+    <longitude>-54.7666667</longitude>
+  </city>
+  <city name="Arroyo de la Virgen">
+    <latitude>-34.1333333</latitude>
+    <longitude>-56.4</longitude>
+  </city>
+  <city name="Arroyo Grande">
+    <latitude>-33.9666667</latitude>
+    <longitude>-57.1</longitude>
+  </city>
+  <city name="Arroyo Malo">
+    <latitude>-33.3333333</latitude>
+    <longitude>-56.9333333</longitude>
+  </city>
+  <city name="Arroyo María Cejas">
+    <latitude>-33.0833333</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Arroyo Seco">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.2</longitude>
+  </city>
+  <city name="Arrozal Treinta y Tres">
+    <latitude>-33.0166667</latitude>
+    <longitude>-53.7</longitude>
+  </city>
+  <city name="Arrozal Victoria">
+    <latitude>-33.1833333</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Artigas">
+    <latitude>-30.4</latitude>
+    <longitude>-56.4666667</longitude>
+  </city>
+  <city name="Artilleros">
+    <latitude>-34.3666667</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="Atlántida">
+    <latitude>-34.7666667</latitude>
+    <longitude>-55.75</longitude>
+  </city>
+  <city name="Averías">
+    <latitude>-33.6</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Balneario Bella Italia">
+    <latitude>-34.8333333</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="Balneario Chacarita">
+    <latitude>-34.85</latitude>
+    <longitude>-56.0833333</longitude>
+  </city>
+  <city name="Balneario Flor de Maroñas">
+    <latitude>-34.85</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="Balneario Floresta">
+    <latitude>-34.8333333</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Balneario Nuevo Paris">
+    <latitude>-34.85</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Balneario Piedras Blancas">
+    <latitude>-34.8286111</latitude>
+    <longitude>-56.1394444</longitude>
+  </city>
+  <city name="Balneario Solís">
+    <latitude>-34.8</latitude>
+    <longitude>-55.3666667</longitude>
+  </city>
+  <city name="Baltasar Brum">
+    <latitude>-30.7333333</latitude>
+    <longitude>-57.3166667</longitude>
+  </city>
+  <city name="Bañado de Medina">
+    <latitude>-32.3833333</latitude>
+    <longitude>-54.35</longitude>
+  </city>
+  <city name="Bañado de Rocha">
+    <latitude>-31.5333333</latitude>
+    <longitude>-55.8333333</longitude>
+  </city>
+  <city name="Barker">
+    <latitude>-34.2666667</latitude>
+    <longitude>-57.45</longitude>
+  </city>
+  <city name="Barra de Carrasco">
+    <latitude>-34.8772222</latitude>
+    <longitude>-56.0297222</longitude>
+  </city>
+  <city name="Barra de Maldonado">
+    <latitude>-34.8666667</latitude>
+    <longitude>-54.8666667</longitude>
+  </city>
+  <city name="Barrancas">
+    <latitude>-33.65</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Barra Tapado">
+    <latitude>-31.6</latitude>
+    <longitude>-56.75</longitude>
+  </city>
+  <city name="Barrio de Bella Vista">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.2</longitude>
+  </city>
+  <city name="Barrio de Capurro">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Batlle y Ordoñez">
+    <latitude>-33.4666667</latitude>
+    <longitude>-55.1166667</longitude>
+  </city>
+  <city name="Batoví">
+    <latitude>-31.9166667</latitude>
+    <longitude>-55.9333333</longitude>
+  </city>
+  <city name="Baygorria">
+    <latitude>-32.8833333</latitude>
+    <longitude>-56.8</longitude>
+  </city>
+  <city name="Beisso">
+    <latitude>-32.3333333</latitude>
+    <longitude>-57.05</longitude>
+  </city>
+  <city name="Belén">
+    <latitude>-30.7833333</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Bella Aurora">
+    <latitude>-31.5166667</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Bellaco">
+    <latitude>-32.7666667</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Bella Italia">
+    <latitude>-34.8333333</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="Bella Unión">
+    <latitude>-30.25</latitude>
+    <longitude>-57.5833333</longitude>
+  </city>
+  <city name="Bella Vista">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.2</longitude>
+  </city>
+  <city name="Belveder">
+    <latitude>-34.85</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Bernabé Rivera">
+    <latitude>-30.25</latitude>
+    <longitude>-56.95</longitude>
+  </city>
+  <city name="Berruti">
+    <latitude>-31.4333333</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Biassini">
+    <latitude>-31.25</latitude>
+    <longitude>-57.1666667</longitude>
+  </city>
+  <city name="Bifurcación">
+    <latitude>-34.3166667</latitude>
+    <longitude>-56.8</longitude>
+  </city>
+  <city name="Blanquillo">
+    <latitude>-32.7666667</latitude>
+    <longitude>-55.6333333</longitude>
+  </city>
+  <city name="Blanquillos">
+    <latitude>-32.35</latitude>
+    <longitude>-55.8333333</longitude>
+  </city>
+  <city name="Boca del Rosario">
+    <latitude>-34.4</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Bolívar">
+    <latitude>-34.2333333</latitude>
+    <longitude>-55.7333333</longitude>
+  </city>
+  <city name="Boné">
+    <latitude>-34.0333333</latitude>
+    <longitude>-57.8333333</longitude>
+  </city>
+  <city name="Borracho">
+    <latitude>-31.9</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Brigadier General Diego Lamas">
+    <latitude>-30.6833333</latitude>
+    <longitude>-57.0333333</longitude>
+  </city>
+  <city name="Buceo">
+    <latitude>-34.9</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Buenahora">
+    <latitude>-34.0333333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Buena Unión">
+    <latitude>-31.2333333</latitude>
+    <longitude>-55.6333333</longitude>
+  </city>
+  <city name="Buena Vista">
+    <latitude>-32.15</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Buricayupí">
+    <latitude>-31.8833333</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Cabellos">
+    <latitude>-30.7333333</latitude>
+    <longitude>-57.3166667</longitude>
+  </city>
+  <city name="Cabo Polonio">
+    <latitude>-34.4</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Calera">
+    <latitude>-31.45</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Camaño">
+    <latitude>-30.5666667</latitude>
+    <longitude>-56.8833333</longitude>
+  </city>
+  <city name="Cambará">
+    <latitude>-31.1166667</latitude>
+    <longitude>-56.4666667</longitude>
+  </city>
+  <city name="Came">
+    <latitude>-33.8666667</latitude>
+    <longitude>-57.6166667</longitude>
+  </city>
+  <city name="Campamento">
+    <latitude>-30.75</latitude>
+    <longitude>-56.75</longitude>
+  </city>
+  <city name="Campana">
+    <latitude>-33.9833333</latitude>
+    <longitude>-57.9</longitude>
+  </city>
+  <city name="Campo de Todos">
+    <latitude>-31.5833333</latitude>
+    <longitude>-57.6166667</longitude>
+  </city>
+  <city name="Cañada Chica">
+    <latitude>-33.25</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="Cañada del Pueblo">
+    <latitude>-31.8333333</latitude>
+    <longitude>-57.25</longitude>
+  </city>
+  <city name="Cañada Nieto">
+    <latitude>-33.7166667</latitude>
+    <longitude>-58.0833333</longitude>
+  </city>
+  <city name="Cañada Paraguaya">
+    <latitude>-33.5833333</latitude>
+    <longitude>-58.0833333</longitude>
+  </city>
+  <city name="Cañada Sauce">
+    <latitude>-32.4666667</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Cañas">
+    <latitude>-32.35</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Candil">
+    <latitude>-34.0666667</latitude>
+    <longitude>-56.3</longitude>
+  </city>
+  <city name="Canelones">
+    <latitude>-34.5227778</latitude>
+    <longitude>-56.2777778</longitude>
+  </city>
+  <city name="Canepa">
+    <latitude>-34.5166667</latitude>
+    <longitude>-55.25</longitude>
+  </city>
+  <city name="Cañitas">
+    <latitude>-32.35</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Cantera del Minuano">
+    <latitude>-34.35</latitude>
+    <longitude>-57.4333333</longitude>
+  </city>
+  <city name="Capilla de Farruco">
+    <latitude>-32.8833333</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Capilla del Sauce">
+    <latitude>-33.4166667</latitude>
+    <longitude>-55.6333333</longitude>
+  </city>
+  <city name="Capilla Farruco">
+    <latitude>-32.8833333</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Cap. Juan A. Artigas">
+    <latitude>-34.7625</latitude>
+    <longitude>-56.0205556</longitude>
+  </city>
+  <city name="Capurro">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Caraballo">
+    <latitude>-32.9333333</latitude>
+    <longitude>-57.65</longitude>
+  </city>
+  <city name="Caraguatá">
+    <latitude>-31.7833333</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Cardal">
+    <latitude>-34.2905556</latitude>
+    <longitude>-56.3888889</longitude>
+  </city>
+  <city name="Cardona">
+    <latitude>-33.8833333</latitude>
+    <longitude>-57.3833333</longitude>
+  </city>
+  <city name="Cardoso">
+    <latitude>-32.6333333</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Cardozo">
+    <latitude>-32.6333333</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Cardozo Chico">
+    <latitude>-32.4166667</latitude>
+    <longitude>-56.3333333</longitude>
+  </city>
+  <city name="Carlos Reyles">
+    <latitude>-33.0166667</latitude>
+    <longitude>-56.4833333</longitude>
+  </city>
+  <city name="Carmelo">
+    <latitude>-33.9891667</latitude>
+    <longitude>-58.2855556</longitude>
+  </city>
+  <city name="Carmen">
+    <latitude>-33.25</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Carmen del Durazno">
+    <latitude>-33.25</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Carpintería">
+    <latitude>-32.8333333</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Carqueja">
+    <latitude>-31.2333333</latitude>
+    <longitude>-57.1166667</longitude>
+  </city>
+  <city name="Carrasco">
+    <latitude>-34.8852778</latitude>
+    <longitude>-56.0605556</longitude>
+  </city>
+  <city name="Casa Blanca">
+    <latitude>-32.4166667</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Casas Blancas">
+    <latitude>-32.4166667</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Castillo">
+    <latitude>-33.8833333</latitude>
+    <longitude>-57.6666667</longitude>
+  </city>
+  <city name="Castillos">
+    <latitude>-34.1666667</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Casupá">
+    <latitude>-34.0333333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Cayetano">
+    <latitude>-31.25</latitude>
+    <longitude>-56.8333333</longitude>
+  </city>
+  <city name="Cebollatí">
+    <latitude>-33.2666667</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Ceferino">
+    <latitude>-31.35</latitude>
+    <longitude>-56.6333333</longitude>
+  </city>
+  <city name="Ceibal">
+    <latitude>-32.8833333</latitude>
+    <longitude>-55.5166667</longitude>
+  </city>
+  <city name="Celeste">
+    <latitude>-31.3</latitude>
+    <longitude>-57.0666667</longitude>
+  </city>
+  <city name="Centro">
+    <latitude>-34.9052778</latitude>
+    <longitude>-56.1944444</longitude>
+  </city>
+  <city name="Centurión">
+    <latitude>-32.1</latitude>
+    <longitude>-53.75</longitude>
+  </city>
+  <city name="Cerrezuelo">
+    <latitude>-32.7666667</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Cerrillada">
+    <latitude>-31.5</latitude>
+    <longitude>-54.7166667</longitude>
+  </city>
+  <city name="Cerrillos">
+    <latitude>-34.605</latitude>
+    <longitude>-56.3563889</longitude>
+  </city>
+  <city name="Cerrito">
+    <latitude>-34.8666667</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Cerro Alegre">
+    <latitude>-33.3333333</latitude>
+    <longitude>-57.95</longitude>
+  </city>
+  <city name="Cerro Batoví">
+    <latitude>-31.8833333</latitude>
+    <longitude>-56.0</longitude>
+  </city>
+  <city name="Cerro Caqueira">
+    <latitude>-30.9333333</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Cerro Chato">
+    <latitude>-31.8833333</latitude>
+    <longitude>-57.5166667</longitude>
+  </city>
+  <city name="Cerro Colorado">
+    <latitude>-33.8666667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Cerro Convento">
+    <latitude>-32.75</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Cerro de las Armas">
+    <latitude>-34.0666667</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="Cerro de las Cuentas">
+    <latitude>-32.6166667</latitude>
+    <longitude>-54.6</longitude>
+  </city>
+  <city name="Cerro Pastoreo">
+    <latitude>-31.7</latitude>
+    <longitude>-56.1</longitude>
+  </city>
+  <city name="Cerro Pelado del Este">
+    <latitude>-31.4666667</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Cerro San Jorge">
+    <latitude>-32.8666667</latitude>
+    <longitude>-55.9166667</longitude>
+  </city>
+  <city name="Cerros Blancos">
+    <latitude>-31.7666667</latitude>
+    <longitude>-54.8</longitude>
+  </city>
+  <city name="Cerros de los Rochas">
+    <latitude>-34.1666667</latitude>
+    <longitude>-53.85</longitude>
+  </city>
+  <city name="Cerro Vera">
+    <latitude>-33.1833333</latitude>
+    <longitude>-57.4666667</longitude>
+  </city>
+  <city name="Chacarita">
+    <latitude>-34.85</latitude>
+    <longitude>-56.0833333</longitude>
+  </city>
+  <city name="Chamberlain">
+    <latitude>-32.6166667</latitude>
+    <longitude>-56.4833333</longitude>
+  </city>
+  <city name="Chamizo">
+    <latitude>-34.25</latitude>
+    <longitude>-55.9333333</longitude>
+  </city>
+  <city name="Chapicuy">
+    <latitude>-31.6666667</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Charqueada">
+    <latitude>-33.2</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Chilcas">
+    <latitude>-33.55</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Chuy">
+    <latitude>-32.1666667</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Ciudad de la Colonia del Sacramento">
+    <latitude>-34.4666667</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Ciudad de la Florida">
+    <latitude>-34.0955556</latitude>
+    <longitude>-56.2141667</longitude>
+  </city>
+  <city name="Ciudad del Salto">
+    <latitude>-31.3833333</latitude>
+    <longitude>-57.9666667</longitude>
+  </city>
+  <city name="Ciudad de Melo">
+    <latitude>-32.3666667</latitude>
+    <longitude>-54.1833333</longitude>
+  </city>
+  <city name="Ciudad de Mercedes">
+    <latitude>-33.2558333</latitude>
+    <longitude>-58.0191667</longitude>
+  </city>
+  <city name="Ciudad de Minas">
+    <latitude>-34.37</latitude>
+    <longitude>-55.225</longitude>
+  </city>
+  <city name="Ciudad de Montevideo">
+    <latitude>-34.8580556</latitude>
+    <longitude>-56.1708333</longitude>
+  </city>
+  <city name="Ciudad de Paysandú">
+    <latitude>-32.3213889</latitude>
+    <longitude>-58.0755556</longitude>
+  </city>
+  <city name="Ciudad de Rocha">
+    <latitude>-34.4833333</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Ciudad de San José">
+    <latitude>-34.3375</latitude>
+    <longitude>-56.7136111</longitude>
+  </city>
+  <city name="Ciudad Viaje">
+    <latitude>-34.9083333</latitude>
+    <longitude>-56.2083333</longitude>
+  </city>
+  <city name="Clara">
+    <latitude>-32.2333333</latitude>
+    <longitude>-55.7333333</longitude>
+  </city>
+  <city name="Coion">
+    <latitude>-33.8833333</latitude>
+    <longitude>-54.7166667</longitude>
+  </city>
+  <city name="Colla">
+    <latitude>-34.0666667</latitude>
+    <longitude>-57.35</longitude>
+  </city>
+  <city name="Colón">
+    <latitude>-33.8833333</latitude>
+    <longitude>-54.7166667</longitude>
+  </city>
+  <city name="Colonia 19 de Abril">
+    <latitude>-32.3333333</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Colonia América">
+    <latitude>-34.2</latitude>
+    <longitude>-56.9833333</longitude>
+  </city>
+  <city name="Colonia Arrué">
+    <latitude>-33.9833333</latitude>
+    <longitude>-58.15</longitude>
+  </city>
+  <city name="Colonia">
+    <latitude>-34.4666667</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Colonia del Sacramento">
+    <latitude>-34.4666667</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Colonia Diecinueve de Abril">
+    <latitude>-32.3333333</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Colonia Dieciocho de Julio">
+    <latitude>-31.3333333</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Colonia Española">
+    <latitude>-34.4</latitude>
+    <longitude>-57.1666667</longitude>
+  </city>
+  <city name="Colonia Esperanza">
+    <latitude>-32.3333333</latitude>
+    <longitude>-57.9333333</longitude>
+  </city>
+  <city name="Colonia Estrella">
+    <latitude>-33.9666667</latitude>
+    <longitude>-58.2833333</longitude>
+  </city>
+  <city name="Colonia Jefferies">
+    <latitude>-33.25</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Colonia Lavalleja">
+    <latitude>-31.1</latitude>
+    <longitude>-57.0166667</longitude>
+  </city>
+  <city name="Colonia Miguelete">
+    <latitude>-34.0166667</latitude>
+    <longitude>-57.65</longitude>
+  </city>
+  <city name="Colonia Nicolich">
+    <latitude>-34.8130556</latitude>
+    <longitude>-56.0447222</longitude>
+  </city>
+  <city name="Colonia Nuevo Paysandú">
+    <latitude>-32.2833333</latitude>
+    <longitude>-58.05</longitude>
+  </city>
+  <city name="Colonia Ombúes de Lavalle">
+    <latitude>-33.9166667</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Colonia Piamontesa">
+    <latitude>-34.35</latitude>
+    <longitude>-57.3</longitude>
+  </city>
+  <city name="Colonia Pintado">
+    <latitude>-30.5</latitude>
+    <longitude>-56.45</longitude>
+  </city>
+  <city name="Colonia Rosario">
+    <latitude>-34.4166667</latitude>
+    <longitude>-57.2833333</longitude>
+  </city>
+  <city name="Colonia Rossell y Rius">
+    <latitude>-33.1833333</latitude>
+    <longitude>-55.7</longitude>
+  </city>
+  <city name="Colonia San Javier">
+    <latitude>-32.6833333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="Colonia Suiza">
+    <latitude>-34.3166667</latitude>
+    <longitude>-57.2166667</longitude>
+  </city>
+  <city name="Colonia Valdense">
+    <latitude>-34.3333333</latitude>
+    <longitude>-57.2333333</longitude>
+  </city>
+  <city name="Conchillas">
+    <latitude>-34.1522222</latitude>
+    <longitude>-58.0125</longitude>
+  </city>
+  <city name="Conciliación">
+    <latitude>-34.8333333</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Concordia">
+    <latitude>-34.3827778</latitude>
+    <longitude>-56.5416667</longitude>
+  </city>
+  <city name="Conde">
+    <latitude>-32.9333333</latitude>
+    <longitude>-57.1166667</longitude>
+  </city>
+  <city name="Constancia">
+    <latitude>-32.2</latitude>
+    <longitude>-58.0</longitude>
+  </city>
+  <city name="Constitución">
+    <latitude>-31.0833333</latitude>
+    <longitude>-57.8333333</longitude>
+  </city>
+  <city name="Constitution">
+    <latitude>-31.0833333</latitude>
+    <longitude>-57.8333333</longitude>
+  </city>
+  <city name="Coquimbo">
+    <latitude>-33.45</latitude>
+    <longitude>-57.7333333</longitude>
+  </city>
+  <city name="Cordón">
+    <latitude>-34.905</latitude>
+    <longitude>-56.1683333</longitude>
+  </city>
+  <city name="Coronilla">
+    <latitude>-33.5666667</latitude>
+    <longitude>-53.85</longitude>
+  </city>
+  <city name="Corral de Piedra">
+    <latitude>-33.8833333</latitude>
+    <longitude>-56.45</longitude>
+  </city>
+  <city name="Corrales">
+    <latitude>-33.4666667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Correa">
+    <latitude>-33.3666667</latitude>
+    <longitude>-53.6666667</longitude>
+  </city>
+  <city name="Cortume">
+    <latitude>-31.7833333</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Costa de las Víboras">
+    <latitude>-33.9333333</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Costa de San Gregorio">
+    <latitude>-33.95</latitude>
+    <longitude>-56.75</longitude>
+  </city>
+  <city name="Costa de San José">
+    <latitude>-33.85</latitude>
+    <longitude>-56.8833333</longitude>
+  </city>
+  <city name="Costa de San Luis">
+    <latitude>-33.6166667</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Costa de Víboras">
+    <latitude>-33.9333333</latitude>
+    <longitude>-58.1666667</longitude>
+  </city>
+  <city name="Costas de San José">
+    <latitude>-33.85</latitude>
+    <longitude>-56.8833333</longitude>
+  </city>
+  <city name="Cruz de los Caminos">
+    <latitude>-34.6333333</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="Cruz de Piedra">
+    <latitude>-32.0333333</latitude>
+    <longitude>-54.1833333</longitude>
+  </city>
+  <city name="Cuaró">
+    <latitude>-30.6166667</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Cuchilla Caraguatá">
+    <latitude>-32.2333333</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Cuchilla de Cuadra">
+    <latitude>-33.3833333</latitude>
+    <longitude>-56.4166667</longitude>
+  </city>
+  <city name="Cuchilla del Ombú">
+    <latitude>-31.8</latitude>
+    <longitude>-55.7</longitude>
+  </city>
+  <city name="Cuchilla del Perdido">
+    <latitude>-33.5833333</latitude>
+    <longitude>-57.3</longitude>
+  </city>
+  <city name="Cuchilla de Peralta">
+    <latitude>-32.4333333</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Cuchilla Grande">
+    <latitude>-32.65</latitude>
+    <longitude>-54.45</longitude>
+  </city>
+  <city name="Cuchilla Manguera">
+    <latitude>-31.35</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Cufré">
+    <latitude>-34.2</latitude>
+    <longitude>-57.1</longitude>
+  </city>
+  <city name="Cuñapirú">
+    <latitude>-31.5333333</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Curticeras">
+    <latitude>-30.9666667</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Curtina">
+    <latitude>-32.15</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="Darwin">
+    <latitude>-33.1</latitude>
+    <longitude>-57.6333333</longitude>
+  </city>
+  <city name="Daymán">
+    <latitude>-31.55</latitude>
+    <longitude>-57.95</longitude>
+  </city>
+  <city name="De los Pastores">
+    <latitude>-33.1666667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Delta del Tigre">
+    <latitude>-34.7633333</latitude>
+    <longitude>-56.3852778</longitude>
+  </city>
+  <city name="Díaz">
+    <latitude>-33.1333333</latitude>
+    <longitude>-54.9333333</longitude>
+  </city>
+  <city name="Diecinueve de Abril">
+    <latitude>-34.3666667</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Dieciocho de Julio">
+    <latitude>-33.6833333</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Diez y Ocho de Julio">
+    <latitude>-33.6833333</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Doctor Francisco Soca">
+    <latitude>-34.6833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Doctor Soca">
+    <latitude>-34.6833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Dolores">
+    <latitude>-33.5441667</latitude>
+    <longitude>-58.1972222</longitude>
+  </city>
+  <city name="Drabble">
+    <latitude>-33.6833333</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="Drable">
+    <latitude>-33.6833333</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="Duranzo">
+    <latitude>-33.4130556</latitude>
+    <longitude>-56.5005556</longitude>
+  </city>
+  <city name="Duraznito">
+    <latitude>-33.65</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Durazno">
+    <latitude>-33.4130556</latitude>
+    <longitude>-56.5005556</longitude>
+  </city>
+  <city name="Echevarría">
+    <latitude>-34.5333333</latitude>
+    <longitude>-56.3166667</longitude>
+  </city>
+  <city name="Echeverría">
+    <latitude>-34.5333333</latitude>
+    <longitude>-56.3166667</longitude>
+  </city>
+  <city name="Echeverry">
+    <latitude>-31.6833333</latitude>
+    <longitude>-55.95</longitude>
+  </city>
+  <city name="Ecilda Paullier">
+    <latitude>-34.3666667</latitude>
+    <longitude>-57.0666667</longitude>
+  </city>
+  <city name="Egaña">
+    <latitude>-33.6166667</latitude>
+    <longitude>-57.6333333</longitude>
+  </city>
+  <city name="El Borracho">
+    <latitude>-31.9</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="El Caño">
+    <latitude>-34.4</latitude>
+    <longitude>-57.6666667</longitude>
+  </city>
+  <city name="El Catete">
+    <latitude>-32.95</latitude>
+    <longitude>-54.2166667</longitude>
+  </city>
+  <city name="El Ceibo">
+    <latitude>-33.5166667</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="El Cerro">
+    <latitude>-33.95</latitude>
+    <longitude>-58.2333333</longitude>
+  </city>
+  <city name="El Chaco">
+    <latitude>-32.9666667</latitude>
+    <longitude>-55.4</longitude>
+  </city>
+  <city name="El Chajá">
+    <latitude>-33.0166667</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="El Chuy">
+    <latitude>-32.1666667</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="El Dorado">
+    <latitude>-34.6983333</latitude>
+    <longitude>-56.2175</longitude>
+  </city>
+  <city name="El Eucaliptus">
+    <latitude>-31.9166667</latitude>
+    <longitude>-57.25</longitude>
+  </city>
+  <city name="El General">
+    <latitude>-34.4</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="El Horno">
+    <latitude>-32.0166667</latitude>
+    <longitude>-57.4666667</longitude>
+  </city>
+  <city name="El Hueco">
+    <latitude>-33.95</latitude>
+    <longitude>-55.85</longitude>
+  </city>
+  <city name="El Infiernillo">
+    <latitude>-33.9333333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="El Maturrango">
+    <latitude>-34.0666667</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="El Oratorio">
+    <latitude>-33.9833333</latitude>
+    <longitude>-53.9833333</longitude>
+  </city>
+  <city name="El Sauce">
+    <latitude>-32.85</latitude>
+    <longitude>-57.6833333</longitude>
+  </city>
+  <city name="El Semillero">
+    <latitude>-34.4166667</latitude>
+    <longitude>-57.7333333</longitude>
+  </city>
+  <city name="El Tala">
+    <latitude>-33.25</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="El Tarugo">
+    <latitude>-32.0</latitude>
+    <longitude>-57.3</longitude>
+  </city>
+  <city name="El Topador">
+    <latitude>-30.3166667</latitude>
+    <longitude>-56.8166667</longitude>
+  </city>
+  <city name="El Tropiezo">
+    <latitude>-31.4</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Empalme Olmos">
+    <latitude>-34.7</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Empalme Sauce">
+    <latitude>-34.7152778</latitude>
+    <longitude>-56.0733333</longitude>
+  </city>
+  <city name="Enrique Martinez">
+    <latitude>-33.2</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="E. Robo">
+    <latitude>-33.6833333</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="Escudero">
+    <latitude>-34.2166667</latitude>
+    <longitude>-57.0</longitude>
+  </city>
+  <city name="Española Colonia Agrícola">
+    <latitude>-34.4</latitude>
+    <longitude>-57.1666667</longitude>
+  </city>
+  <city name="Esperanza">
+    <latitude>-32.3333333</latitude>
+    <longitude>-57.9333333</longitude>
+  </city>
+  <city name="Espinillar">
+    <latitude>-33.4666667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Espinillo">
+    <latitude>-33.6166667</latitude>
+    <longitude>-58.2833333</longitude>
+  </city>
+  <city name="Estación Ataques">
+    <latitude>-31.1</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Estación Casupá">
+    <latitude>-34.0333333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Estación Esperanza">
+    <latitude>-32.3333333</latitude>
+    <longitude>-57.9333333</longitude>
+  </city>
+  <city name="Estación Garzón">
+    <latitude>-34.6</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="Estación Goñi">
+    <latitude>-33.5166667</latitude>
+    <longitude>-56.4</longitude>
+  </city>
+  <city name="Estación Isla Cabello">
+    <latitude>-30.7333333</latitude>
+    <longitude>-57.3166667</longitude>
+  </city>
+  <city name="Estación Isla de Cabello">
+    <latitude>-30.7333333</latitude>
+    <longitude>-57.3166667</longitude>
+  </city>
+  <city name="Estación Migues">
+    <latitude>-34.4833333</latitude>
+    <longitude>-55.6333333</longitude>
+  </city>
+  <city name="Estación Olmos">
+    <latitude>-34.7</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Estación Porvenir">
+    <latitude>-32.3666667</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Estanzuela">
+    <latitude>-34.3333333</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="Eucaliptus">
+    <latitude>-31.9166667</latitude>
+    <longitude>-57.25</longitude>
+  </city>
+  <city name="Fagúndez">
+    <latitude>-30.7166667</latitude>
+    <longitude>-56.6</longitude>
+  </city>
+  <city name="Falagian">
+    <latitude>-34.3666667</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Faro del Polonio">
+    <latitude>-34.4</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Faro de Polonio">
+    <latitude>-34.4</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Federaciõn">
+    <latitude>-32.0166667</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Fernández">
+    <latitude>-32.0</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Ferreira">
+    <latitude>-31.1666667</latitude>
+    <longitude>-57.0</longitude>
+  </city>
+  <city name="Ferrer">
+    <latitude>-33.4833333</latitude>
+    <longitude>-55.5666667</longitude>
+  </city>
+  <city name="Ferro Carril">
+    <latitude>-34.8</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Flor de Maroñas">
+    <latitude>-34.85</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="Florencio Sánchez">
+    <latitude>-33.8833333</latitude>
+    <longitude>-57.4</longitude>
+  </city>
+  <city name="Florentino">
+    <latitude>-31.3</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="Floresta">
+    <latitude>-34.75</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Florida">
+    <latitude>-34.0955556</latitude>
+    <longitude>-56.2141667</longitude>
+  </city>
+  <city name="Fraile Muerto">
+    <latitude>-32.5166667</latitude>
+    <longitude>-54.5333333</longitude>
+  </city>
+  <city name="Francisco Soca">
+    <latitude>-34.6833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Franquia">
+    <latitude>-30.1333333</latitude>
+    <longitude>-57.6333333</longitude>
+  </city>
+  <city name="Fray Bentos">
+    <latitude>-33.1325</latitude>
+    <longitude>-58.2955556</longitude>
+  </city>
+  <city name="Frayle Muerto">
+    <latitude>-32.5166667</latitude>
+    <longitude>-54.5333333</longitude>
+  </city>
+  <city name="Fray Marcos">
+    <latitude>-34.1833333</latitude>
+    <longitude>-55.7333333</longitude>
+  </city>
+  <city name="Garibaldi">
+    <latitude>-31.35</latitude>
+    <longitude>-57.8</longitude>
+  </city>
+  <city name="Garzón">
+    <latitude>-34.6</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="General Borges">
+    <latitude>-32.5666667</latitude>
+    <longitude>-57.3666667</longitude>
+  </city>
+  <city name="General Enrique Martínez">
+    <latitude>-33.2</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Gerona">
+    <latitude>-34.7333333</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Gervasio">
+    <latitude>-33.8833333</latitude>
+    <longitude>-53.5</longitude>
+  </city>
+  <city name="Godoy">
+    <latitude>-31.7666667</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Goní">
+    <latitude>-33.4833333</latitude>
+    <longitude>-56.4833333</longitude>
+  </city>
+  <city name="González">
+    <latitude>-33.0833333</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="Goyo Martinez">
+    <latitude>-31.9</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Grecco">
+    <latitude>-32.8</latitude>
+    <longitude>-57.05</longitude>
+  </city>
+  <city name="Greco">
+    <latitude>-32.8</latitude>
+    <longitude>-57.05</longitude>
+  </city>
+  <city name="Gregorio Aznárez">
+    <latitude>-34.7166667</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="Guadalupe">
+    <latitude>-34.5227778</latitude>
+    <longitude>-56.2777778</longitude>
+  </city>
+  <city name="Guaviyú">
+    <latitude>-31.4833333</latitude>
+    <longitude>-54.8333333</longitude>
+  </city>
+  <city name="Guayabos">
+    <latitude>-32.25</latitude>
+    <longitude>-57.3</longitude>
+  </city>
+  <city name="Guerrero">
+    <latitude>-33.85</latitude>
+    <longitude>-57.6833333</longitude>
+  </city>
+  <city name="Guichón">
+    <latitude>-32.35</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Heriberto">
+    <latitude>-31.8166667</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Horqueta de Castillos">
+    <latitude>-34.1166667</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Horqueta">
+    <latitude>-34.1166667</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Hospital">
+    <latitude>-31.6833333</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Illescas">
+    <latitude>-33.6</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Independencia">
+    <latitude>-34.3516667</latitude>
+    <longitude>-56.3983333</longitude>
+  </city>
+  <city name="Ingeniero Andreoni">
+    <latitude>-34.3666667</latitude>
+    <longitude>-55.5166667</longitude>
+  </city>
+  <city name="Ingeniero Eduardo García de Zúñiga">
+    <latitude>-34.665</latitude>
+    <longitude>-56.2194444</longitude>
+  </city>
+  <city name="Ingenio José Serrato">
+    <latitude>-33.25</latitude>
+    <longitude>-53.9166667</longitude>
+  </city>
+  <city name="Isidoro Noblía">
+    <latitude>-31.8333333</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Isla Cabello">
+    <latitude>-30.7333333</latitude>
+    <longitude>-57.3166667</longitude>
+  </city>
+  <city name="Isla Cabellos">
+    <latitude>-30.7333333</latitude>
+    <longitude>-57.3166667</longitude>
+  </city>
+  <city name="Isla de Cabellos">
+    <latitude>-30.7333333</latitude>
+    <longitude>-57.3166667</longitude>
+  </city>
+  <city name="Isla Mala">
+    <latitude>-34.1891667</latitude>
+    <longitude>-56.3394444</longitude>
+  </city>
+  <city name="Isla Patrulla">
+    <latitude>-32.9833333</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Ismael Cortinas">
+    <latitude>-33.4166667</latitude>
+    <longitude>-57.0666667</longitude>
+  </city>
+  <city name="Itapebí">
+    <latitude>-31.3</latitude>
+    <longitude>-57.7</longitude>
+  </city>
+  <city name="Itapeby">
+    <latitude>-31.3</latitude>
+    <longitude>-57.7</longitude>
+  </city>
+  <city name="Ituzaingó">
+    <latitude>-34.85</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="Javier de Viana">
+    <latitude>-30.4</latitude>
+    <longitude>-56.7833333</longitude>
+  </city>
+  <city name="J.E. Rodo">
+    <latitude>-33.6833333</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="Jiménez">
+    <latitude>-33.0</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="J.L. Lacaze">
+    <latitude>-34.4333333</latitude>
+    <longitude>-57.4166667</longitude>
+  </city>
+  <city name="Joanicó">
+    <latitude>-34.5894444</latitude>
+    <longitude>-56.2527778</longitude>
+  </city>
+  <city name="Joaquín Suárez">
+    <latitude>-34.7336111</latitude>
+    <longitude>-56.0366667</longitude>
+  </city>
+  <city name="José Batlle y Ordóñez">
+    <latitude>-33.4666667</latitude>
+    <longitude>-55.1166667</longitude>
+  </city>
+  <city name="José Enrique Rodó">
+    <latitude>-33.6833333</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="José Ignacio">
+    <latitude>-34.65</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="José Pedro Varela">
+    <latitude>-33.45</latitude>
+    <longitude>-54.5333333</longitude>
+  </city>
+  <city name="José P. Varela">
+    <latitude>-33.45</latitude>
+    <longitude>-54.5333333</longitude>
+  </city>
+  <city name="J.P. Varela">
+    <latitude>-33.45</latitude>
+    <longitude>-54.5333333</longitude>
+  </city>
+  <city name="J. Suarez">
+    <latitude>-34.7336111</latitude>
+    <longitude>-56.0366667</longitude>
+  </city>
+  <city name="J. Suárez">
+    <latitude>-34.2833333</latitude>
+    <longitude>-57.6166667</longitude>
+  </city>
+  <city name="Juan J. Castro">
+    <latitude>-33.5</latitude>
+    <longitude>-56.75</longitude>
+  </city>
+  <city name="Juan José Castro">
+    <latitude>-33.5</latitude>
+    <longitude>-56.75</longitude>
+  </city>
+  <city name="Juan Lacaze">
+    <latitude>-34.4333333</latitude>
+    <longitude>-57.4166667</longitude>
+  </city>
+  <city name="Juan L. Lacaze">
+    <latitude>-34.4333333</latitude>
+    <longitude>-57.4166667</longitude>
+  </city>
+  <city name="Juan Soler">
+    <latitude>-34.3191667</latitude>
+    <longitude>-56.8052778</longitude>
+  </city>
+  <city name="Julio María Sanz">
+    <latitude>-33.15</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="Kilómetro 71">
+    <latitude>-34.3666667</latitude>
+    <longitude>-56.4</longitude>
+  </city>
+  <city name="Kiyú">
+    <latitude>-34.65</latitude>
+    <longitude>-56.75</longitude>
+  </city>
+  <city name="La Alegría">
+    <latitude>-32.6</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="La Barra">
+    <latitude>-34.3666667</latitude>
+    <longitude>-53.7666667</longitude>
+  </city>
+  <city name="La Bolsa">
+    <latitude>-30.8666667</latitude>
+    <longitude>-56.3666667</longitude>
+  </city>
+  <city name="La Calavera">
+    <latitude>-32.9333333</latitude>
+    <longitude>-54.2666667</longitude>
+  </city>
+  <city name="La Calera">
+    <latitude>-31.45</latitude>
+    <longitude>-55.4166667</longitude>
+  </city>
+  <city name="La Charqueada">
+    <latitude>-33.2</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="La Chirca">
+    <latitude>-32.05</latitude>
+    <longitude>-54.6333333</longitude>
+  </city>
+  <city name="La Chiva">
+    <latitude>-33.25</latitude>
+    <longitude>-54.0166667</longitude>
+  </city>
+  <city name="La Ciudad de Colonia">
+    <latitude>-34.4666667</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="La Coronilla">
+    <latitude>-33.5666667</latitude>
+    <longitude>-53.85</longitude>
+  </city>
+  <city name="La Cruz">
+    <latitude>-33.9333333</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="La Cuchilla">
+    <latitude>-32.5666667</latitude>
+    <longitude>-53.4166667</longitude>
+  </city>
+  <city name="Ladrillos">
+    <latitude>-33.75</latitude>
+    <longitude>-55.2833333</longitude>
+  </city>
+  <city name="La Esperanza">
+    <latitude>-33.0</latitude>
+    <longitude>-55.1333333</longitude>
+  </city>
+  <city name="La Estanzuela">
+    <latitude>-34.3333333</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="La Floresta">
+    <latitude>-34.75</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="La Florida">
+    <latitude>-32.7666667</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="La Hilera">
+    <latitude>-32.0833333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="La Humedad">
+    <latitude>-32.05</latitude>
+    <longitude>-54.8666667</longitude>
+  </city>
+  <city name="La Lata">
+    <latitude>-31.7333333</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="La Macana">
+    <latitude>-34.05</latitude>
+    <longitude>-56.2</longitude>
+  </city>
+  <city name="La Mariscala">
+    <latitude>-34.05</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="La Mazamorra">
+    <latitude>-32.5333333</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Lambaré">
+    <latitude>-31.5166667</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="La Micaela">
+    <latitude>-32.6333333</latitude>
+    <longitude>-53.9</longitude>
+  </city>
+  <city name="La Mina">
+    <latitude>-31.9</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="La Morcona">
+    <latitude>-32.1833333</latitude>
+    <longitude>-56.0666667</longitude>
+  </city>
+  <city name="La Paloma">
+    <latitude>-32.7166667</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="La Paraguaya">
+    <latitude>-33.5833333</latitude>
+    <longitude>-58.0833333</longitude>
+  </city>
+  <city name="La Paz">
+    <latitude>-34.7616667</latitude>
+    <longitude>-56.2236111</longitude>
+  </city>
+  <city name="La Pedrera">
+    <latitude>-32.35</latitude>
+    <longitude>-54.1333333</longitude>
+  </city>
+  <city name="Lapuente">
+    <latitude>-31.4166667</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="La Querencia">
+    <latitude>-34.6333333</latitude>
+    <longitude>-55.6166667</longitude>
+  </city>
+  <city name="La Reforma">
+    <latitude>-31.2833333</latitude>
+    <longitude>-56.4333333</longitude>
+  </city>
+  <city name="Larrayos">
+    <latitude>-32.1666667</latitude>
+    <longitude>-55.0166667</longitude>
+  </city>
+  <city name="Larrosa">
+    <latitude>-33.3833333</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Las Arenas">
+    <latitude>-32.0166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Las Brujas">
+    <latitude>-34.6333333</latitude>
+    <longitude>-56.3333333</longitude>
+  </city>
+  <city name="Las Cañas">
+    <latitude>-32.9333333</latitude>
+    <longitude>-55.5166667</longitude>
+  </city>
+  <city name="Lascano">
+    <latitude>-33.6666667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Las Chircas">
+    <latitude>-32.3833333</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Las Flores">
+    <latitude>-34.75</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Las Piedras">
+    <latitude>-30.2333333</latitude>
+    <longitude>-57.5833333</longitude>
+  </city>
+  <city name="Las Ratas">
+    <latitude>-32.0833333</latitude>
+    <longitude>-54.25</longitude>
+  </city>
+  <city name="Las Toscas">
+    <latitude>-34.7333333</latitude>
+    <longitude>-55.7166667</longitude>
+  </city>
+  <city name="Las Víboras">
+    <latitude>-33.9891667</latitude>
+    <longitude>-58.2855556</longitude>
+  </city>
+  <city name="Las Violetas">
+    <latitude>-33.6</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="La Tentaciõn">
+    <latitude>-32.4833333</latitude>
+    <longitude>-57.75</longitude>
+  </city>
+  <city name="Latorre">
+    <latitude>-32.1</latitude>
+    <longitude>-53.75</longitude>
+  </city>
+  <city name="La Unión">
+    <latitude>-32.75</latitude>
+    <longitude>-57.75</longitude>
+  </city>
+  <city name="Laura">
+    <latitude>-32.15</latitude>
+    <longitude>-54.8833333</longitude>
+  </city>
+  <city name="Laureles">
+    <latitude>-31.6833333</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Lavaderos del Este">
+    <latitude>-34.9</latitude>
+    <longitude>-56.1</longitude>
+  </city>
+  <city name="Lavaderos">
+    <latitude>-34.9</latitude>
+    <longitude>-56.1</longitude>
+  </city>
+  <city name="Lavalleja">
+    <latitude>-34.37</latitude>
+    <longitude>-55.225</longitude>
+  </city>
+  <city name="Lazcano">
+    <latitude>-33.6666667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Liberfad">
+    <latitude>-34.6333333</latitude>
+    <longitude>-56.6191667</longitude>
+  </city>
+  <city name="Libertad">
+    <latitude>-34.6333333</latitude>
+    <longitude>-56.6191667</longitude>
+  </city>
+  <city name="Lluveras">
+    <latitude>-31.1666667</latitude>
+    <longitude>-57.0833333</longitude>
+  </city>
+  <city name="Lomas de Carmelo">
+    <latitude>-33.9833333</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Lorenzo Geyres">
+    <latitude>-32.0833333</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Los Agregados">
+    <latitude>-32.7833333</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Los Ahogados">
+    <latitude>-33.5333333</latitude>
+    <longitude>-56.9333333</longitude>
+  </city>
+  <city name="Los Camejos">
+    <latitude>-33.1166667</latitude>
+    <longitude>-54.8166667</longitude>
+  </city>
+  <city name="Los Castros">
+    <latitude>-32.8333333</latitude>
+    <longitude>-56.4333333</longitude>
+  </city>
+  <city name="Los Ceballos">
+    <latitude>-32.1</latitude>
+    <longitude>-57.4166667</longitude>
+  </city>
+  <city name="Los Cerrillos">
+    <latitude>-34.605</latitude>
+    <longitude>-56.3563889</longitude>
+  </city>
+  <city name="Los Cerros de San Juan">
+    <latitude>-34.1833333</latitude>
+    <longitude>-57.9333333</longitude>
+  </city>
+  <city name="Los Coitinhos">
+    <latitude>-31.8333333</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="Los Cuadrado">
+    <latitude>-32.1666667</latitude>
+    <longitude>-55.95</longitude>
+  </city>
+  <city name="Los Feos">
+    <latitude>-32.3</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Los Furtado">
+    <latitude>-32.2666667</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Los Furtados">
+    <latitude>-32.25</latitude>
+    <longitude>-55.75</longitude>
+  </city>
+  <city name="Los Garcia">
+    <latitude>-32.15</latitude>
+    <longitude>-54.95</longitude>
+  </city>
+  <city name="Los Gomez">
+    <latitude>-32.1833333</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Los Grozos">
+    <latitude>-31.85</latitude>
+    <longitude>-56.0</longitude>
+  </city>
+  <city name="Los Mezquitas">
+    <latitude>-32.9</latitude>
+    <longitude>-56.0833333</longitude>
+  </city>
+  <city name="Los Novillos">
+    <latitude>-31.9833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Los Potreros">
+    <latitude>-31.25</latitude>
+    <longitude>-55.95</longitude>
+  </city>
+  <city name="Los Rodriguez">
+    <latitude>-31.7666667</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Los Rosanos">
+    <latitude>-31.8</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Los Silveyra">
+    <latitude>-32.2666667</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Los Talas">
+    <latitude>-33.3333333</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Los Vásquez">
+    <latitude>-31.8833333</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Lunarejo">
+    <latitude>-31.1</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="Machado">
+    <latitude>-33.35</latitude>
+    <longitude>-55.6166667</longitude>
+  </city>
+  <city name="Maguna">
+    <latitude>-33.4666667</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Mal Abriga">
+    <latitude>-34.15</latitude>
+    <longitude>-56.95</longitude>
+  </city>
+  <city name="Mal Abrigo">
+    <latitude>-34.15</latitude>
+    <longitude>-56.95</longitude>
+  </city>
+  <city name="Maldonado">
+    <latitude>-34.9</latitude>
+    <longitude>-54.95</longitude>
+  </city>
+  <city name="Manga">
+    <latitude>-34.8166667</latitude>
+    <longitude>-56.1</longitude>
+  </city>
+  <city name="Mangrullo">
+    <latitude>-32.1166667</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Manguera">
+    <latitude>-31.35</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="María Albina">
+    <latitude>-33.4</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="María Cejas">
+    <latitude>-33.0833333</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="María Isabel">
+    <latitude>-33.8</latitude>
+    <longitude>-54.0</longitude>
+  </city>
+  <city name="Maria Isabel">
+    <latitude>-32.9833333</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Marincho">
+    <latitude>-33.2333333</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="Mariscala">
+    <latitude>-34.05</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Maroñas">
+    <latitude>-34.85</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="Martín Chico">
+    <latitude>-34.1530556</latitude>
+    <longitude>-58.1766667</longitude>
+  </city>
+  <city name="Martinote">
+    <latitude>-31.8833333</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="Masoller">
+    <latitude>-31.0833333</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Mataojito">
+    <latitude>-31.2166667</latitude>
+    <longitude>-56.3166667</longitude>
+  </city>
+  <city name="Mataojo Chico">
+    <latitude>-31.1833333</latitude>
+    <longitude>-56.2833333</longitude>
+  </city>
+  <city name="Mataojo">
+    <latitude>-34.5</latitude>
+    <longitude>-56.3833333</longitude>
+  </city>
+  <city name="Maturrango">
+    <latitude>-34.0666667</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Maximo Tajes">
+    <latitude>-32.6333333</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Mederos">
+    <latitude>-32.9</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Medina">
+    <latitude>-33.1166667</latitude>
+    <longitude>-54.8333333</longitude>
+  </city>
+  <city name="Melo">
+    <latitude>-32.3666667</latitude>
+    <longitude>-54.1833333</longitude>
+  </city>
+  <city name="Menafra">
+    <latitude>-32.5666667</latitude>
+    <longitude>-57.4833333</longitude>
+  </city>
+  <city name="Mendizabal">
+    <latitude>-33.05</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="Mendoza Chico">
+    <latitude>-34.2</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Mendoza">
+    <latitude>-34.2833333</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Mercedes">
+    <latitude>-33.2558333</latitude>
+    <longitude>-58.0191667</longitude>
+  </city>
+  <city name="Merinos">
+    <latitude>-32.4</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Miguelete">
+    <latitude>-34.0166667</latitude>
+    <longitude>-57.65</longitude>
+  </city>
+  <city name="Migues">
+    <latitude>-34.4833333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Miguez">
+    <latitude>-34.4833333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Minas de Corrales">
+    <latitude>-31.5833333</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Minas de Zapucay">
+    <latitude>-31.7166667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Minas">
+    <latitude>-34.37</latitude>
+    <longitude>-55.225</longitude>
+  </city>
+  <city name="Minuano">
+    <latitude>-32.0666667</latitude>
+    <longitude>-53.7666667</longitude>
+  </city>
+  <city name="Moirones">
+    <latitude>-31.6333333</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Molles Chico">
+    <latitude>-33.5</latitude>
+    <longitude>-55.2166667</longitude>
+  </city>
+  <city name="Molles del Pescado">
+    <latitude>-33.4666667</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Molles">
+    <latitude>-33.05</latitude>
+    <longitude>-56.4833333</longitude>
+  </city>
+  <city name="Montes">
+    <latitude>-34.5</latitude>
+    <longitude>-55.5833333</longitude>
+  </city>
+  <city name="Montevideo Chico">
+    <latitude>-32.25</latitude>
+    <longitude>-56.5166667</longitude>
+  </city>
+  <city name="Montevideo">
+    <latitude>-34.8580556</latitude>
+    <longitude>-56.1708333</longitude>
+  </city>
+  <city name="Morató">
+    <latitude>-32.3833333</latitude>
+    <longitude>-56.6833333</longitude>
+  </city>
+  <city name="Mosquitos">
+    <latitude>-34.6833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Mouriño">
+    <latitude>-32.9</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Musi">
+    <latitude>-31.0833333</latitude>
+    <longitude>-56.5166667</longitude>
+  </city>
+  <city name="Nando">
+    <latitude>-32.1666667</latitude>
+    <longitude>-54.1166667</longitude>
+  </city>
+  <city name="Nico Pérez">
+    <latitude>-33.4833333</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Novillos">
+    <latitude>-31.9833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Nueva Carrara">
+    <latitude>-34.6666667</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Nueva Helvecia">
+    <latitude>-34.3166667</latitude>
+    <longitude>-57.2166667</longitude>
+  </city>
+  <city name="Nueva Palmira">
+    <latitude>-33.8833333</latitude>
+    <longitude>-58.4166667</longitude>
+  </city>
+  <city name="Nuevo Berlín">
+    <latitude>-32.9833333</latitude>
+    <longitude>-58.05</longitude>
+  </city>
+  <city name="Nuevo París">
+    <latitude>-34.85</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Olimar Santa Clara">
+    <latitude>-32.9166667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Olivera">
+    <latitude>-33.6166667</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Olmos">
+    <latitude>-34.7</latitude>
+    <longitude>-55.9</longitude>
+  </city>
+  <city name="Ombúes de Lavalle">
+    <latitude>-33.9166667</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Ombúes de Oribe">
+    <latitude>-33.3</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Oratorio">
+    <latitude>-33.9833333</latitude>
+    <longitude>-53.9833333</longitude>
+  </city>
+  <city name="Ordeig">
+    <latitude>-34.65</latitude>
+    <longitude>-56.7166667</longitude>
+  </city>
+  <city name="Orgoroso">
+    <latitude>-32.3833333</latitude>
+    <longitude>-57.5</longitude>
+  </city>
+  <city name="Oribe">
+    <latitude>-31.5</latitude>
+    <longitude>-57.1166667</longitude>
+  </city>
+  <city name="Ovidio Morató">
+    <latitude>-32.3833333</latitude>
+    <longitude>-56.6833333</longitude>
+  </city>
+  <city name="Pablado Paso de Ceferino">
+    <latitude>-31.5333333</latitude>
+    <longitude>-56.05</longitude>
+  </city>
+  <city name="Padula">
+    <latitude>-33.0</latitude>
+    <longitude>-53.6333333</longitude>
+  </city>
+  <city name="Paguero">
+    <latitude>-30.7333333</latitude>
+    <longitude>-56.7333333</longitude>
+  </city>
+  <city name="Pajas Blancas">
+    <latitude>-34.8016667</latitude>
+    <longitude>-56.3341667</longitude>
+  </city>
+  <city name="Palma">
+    <latitude>-30.6</latitude>
+    <longitude>-57.6833333</longitude>
+  </city>
+  <city name="Palmar de Castillos">
+    <latitude>-34.2666667</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Palmar de Quebracho">
+    <latitude>-31.9166667</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="Palmares de Castillos">
+    <latitude>-34.2666667</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Palmares de Quebracho">
+    <latitude>-31.9166667</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="Palma Sola">
+    <latitude>-30.6833333</latitude>
+    <longitude>-57.5166667</longitude>
+  </city>
+  <city name="Palmitas">
+    <latitude>-33.5166667</latitude>
+    <longitude>-57.8333333</longitude>
+  </city>
+  <city name="Palomas">
+    <latitude>-31.0833333</latitude>
+    <longitude>-57.6</longitude>
+  </city>
+  <city name="Pan de Azúcar">
+    <latitude>-34.8</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Pando">
+    <latitude>-34.7166667</latitude>
+    <longitude>-55.95</longitude>
+  </city>
+  <city name="Pantanosa de Cuadra">
+    <latitude>-33.3833333</latitude>
+    <longitude>-56.4166667</longitude>
+  </city>
+  <city name="Parada Herrería">
+    <latitude>-31.35</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Parallé">
+    <latitude>-34.2666667</latitude>
+    <longitude>-54.3166667</longitude>
+  </city>
+  <city name="Paso Antolín">
+    <latitude>-34.2</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Paso Ataques">
+    <latitude>-31.1</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Paso Ceferino">
+    <latitude>-31.5333333</latitude>
+    <longitude>-56.05</longitude>
+  </city>
+  <city name="Paso Cementerio">
+    <latitude>-31.4166667</latitude>
+    <longitude>-56.6833333</longitude>
+  </city>
+  <city name="Paso de Antolín">
+    <latitude>-34.2</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Paso de Ataques">
+    <latitude>-31.1</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Paso de Carpintería">
+    <latitude>-32.8333333</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Paso de Carrasco">
+    <latitude>-34.8602778</latitude>
+    <longitude>-56.0522222</longitude>
+  </city>
+  <city name="Paso de Ceferino">
+    <latitude>-31.5333333</latitude>
+    <longitude>-56.05</longitude>
+  </city>
+  <city name="Paso de la Cadena">
+    <latitude>-34.45</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Paso de la Horqueta">
+    <latitude>-34.2</latitude>
+    <longitude>-57.8666667</longitude>
+  </city>
+  <city name="Paso de la Laguna">
+    <latitude>-30.9666667</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Paso de las Carretas">
+    <latitude>-31.5</latitude>
+    <longitude>-56.0333333</longitude>
+  </city>
+  <city name="Paso de las Piedras">
+    <latitude>-32.5166667</latitude>
+    <longitude>-53.4833333</longitude>
+  </city>
+  <city name="Paso de las Toscas">
+    <latitude>-32.15</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Paso de Laureles">
+    <latitude>-32.5</latitude>
+    <longitude>-56.0333333</longitude>
+  </city>
+  <city name="Paso del Bañado">
+    <latitude>-34.2</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Paso del Borracho">
+    <latitude>-31.9</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Paso del Centurión">
+    <latitude>-32.1666667</latitude>
+    <longitude>-53.75</longitude>
+  </city>
+  <city name="Paso del Cerro">
+    <latitude>-31.5166667</latitude>
+    <longitude>-55.7666667</longitude>
+  </city>
+  <city name="Paso del León">
+    <latitude>-30.1666667</latitude>
+    <longitude>-57.1</longitude>
+  </city>
+  <city name="Paso del Molino">
+    <latitude>-34.85</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Paso de los Carros">
+    <latitude>-31.9833333</latitude>
+    <longitude>-57.4166667</longitude>
+  </city>
+  <city name="Paso de los Mellizos">
+    <latitude>-32.5333333</latitude>
+    <longitude>-57.1333333</longitude>
+  </city>
+  <city name="Paso de los Toros">
+    <latitude>-32.8166667</latitude>
+    <longitude>-56.5166667</longitude>
+  </city>
+  <city name="Paso del Parque">
+    <latitude>-31.9</latitude>
+    <longitude>-54.7833333</longitude>
+  </city>
+  <city name="Paso del Potrero de Arerunguá">
+    <latitude>-31.4666667</latitude>
+    <longitude>-56.8333333</longitude>
+  </city>
+  <city name="Paso del Tapado">
+    <latitude>-31.25</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Paso de Pache">
+    <latitude>-34.3833333</latitude>
+    <longitude>-56.2833333</longitude>
+  </city>
+  <city name="Paso de Piriz">
+    <latitude>-33.05</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Paso de San Luis">
+    <latitude>-33.6166667</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Paso Francos">
+    <latitude>-34.45</latitude>
+    <longitude>-56.2833333</longitude>
+  </city>
+  <city name="Paso Guaviyú del Arapey">
+    <latitude>-31.0166667</latitude>
+    <longitude>-56.5666667</longitude>
+  </city>
+  <city name="Paso Hondo del Arroyo Malo">
+    <latitude>-32.3333333</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Paso Hondo">
+    <latitude>-32.3333333</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Paso Molino">
+    <latitude>-34.85</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Paso Pereira">
+    <latitude>-32.4666667</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Paso Polanco del Yi">
+    <latitude>-33.4833333</latitude>
+    <longitude>-56.15</longitude>
+  </city>
+  <city name="Paso Potrero">
+    <latitude>-31.4666667</latitude>
+    <longitude>-56.8333333</longitude>
+  </city>
+  <city name="Paso Soca">
+    <latitude>-32.6333333</latitude>
+    <longitude>-56.75</longitude>
+  </city>
+  <city name="Paso Toscas">
+    <latitude>-34.45</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Paso Tranqueras">
+    <latitude>-31.2</latitude>
+    <longitude>-55.75</longitude>
+  </city>
+  <city name="Passo de Ataques">
+    <latitude>-31.1</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Pavón">
+    <latitude>-34.2833333</latitude>
+    <longitude>-56.9166667</longitude>
+  </city>
+  <city name="Paysandú">
+    <latitude>-32.3213889</latitude>
+    <longitude>-58.0755556</longitude>
+  </city>
+  <city name="Pedernal">
+    <latitude>-34.3666667</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Pedrera">
+    <latitude>-34.5833333</latitude>
+    <longitude>-55.8333333</longitude>
+  </city>
+  <city name="Peñarol">
+    <latitude>-31.7833333</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Pepe Núñez">
+    <latitude>-31.45</latitude>
+    <longitude>-56.3833333</longitude>
+  </city>
+  <city name="Peralta">
+    <latitude>-32.4833333</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Piamontesa">
+    <latitude>-34.3333333</latitude>
+    <longitude>-57.2333333</longitude>
+  </city>
+  <city name="Picada de Passano">
+    <latitude>-33.2833333</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Piedra del Toro">
+    <latitude>-34.65</latitude>
+    <longitude>-55.8666667</longitude>
+  </city>
+  <city name="Piedra Pintada">
+    <latitude>-30.5</latitude>
+    <longitude>-56.45</longitude>
+  </city>
+  <city name="Piedras Blancas">
+    <latitude>-34.8286111</latitude>
+    <longitude>-56.1394444</longitude>
+  </city>
+  <city name="Piedras Coloradas">
+    <latitude>-32.3833333</latitude>
+    <longitude>-57.6</longitude>
+  </city>
+  <city name="Piedras de Afilar">
+    <latitude>-34.7166667</latitude>
+    <longitude>-55.5333333</longitude>
+  </city>
+  <city name="Piedra Sola">
+    <latitude>-32.0666667</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Piedras">
+    <latitude>-34.7263889</latitude>
+    <longitude>-56.22</longitude>
+  </city>
+  <city name="Piedritas">
+    <latitude>-34.3333333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Pinchazo">
+    <latitude>-31.3</latitude>
+    <longitude>-57.1</longitude>
+  </city>
+  <city name="Piñera">
+    <latitude>-32.3333333</latitude>
+    <longitude>-57.05</longitude>
+  </city>
+  <city name="Pintado Colonia Agrícola">
+    <latitude>-30.5</latitude>
+    <longitude>-56.45</longitude>
+  </city>
+  <city name="Pintado Grande">
+    <latitude>-30.4833333</latitude>
+    <longitude>-56.5166667</longitude>
+  </city>
+  <city name="Pintado">
+    <latitude>-33.8333333</latitude>
+    <longitude>-56.3</longitude>
+  </city>
+  <city name="Pintos">
+    <latitude>-33.9</latitude>
+    <longitude>-56.8333333</longitude>
+  </city>
+  <city name="Pirarajá">
+    <latitude>-33.7333333</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Piriápolis">
+    <latitude>-34.9</latitude>
+    <longitude>-55.2833333</longitude>
+  </city>
+  <city name="Plácido Rosas">
+    <latitude>-32.75</latitude>
+    <longitude>-53.7333333</longitude>
+  </city>
+  <city name="Platero">
+    <latitude>-34.45</latitude>
+    <longitude>-57.6</longitude>
+  </city>
+  <city name="Platón">
+    <latitude>-31.0</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Playa Atlántida">
+    <latitude>-34.7666667</latitude>
+    <longitude>-55.75</longitude>
+  </city>
+  <city name="Poblacion Valentin">
+    <latitude>-31.3</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Poblado Batoví">
+    <latitude>-31.9166667</latitude>
+    <longitude>-55.9333333</longitude>
+  </city>
+  <city name="Poblado Berruti">
+    <latitude>-31.4333333</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Poblado Blanquillo">
+    <latitude>-32.35</latitude>
+    <longitude>-55.8333333</longitude>
+  </city>
+  <city name="Poblado Celeste">
+    <latitude>-31.3</latitude>
+    <longitude>-57.0666667</longitude>
+  </city>
+  <city name="Poblado Cerro Batoví">
+    <latitude>-31.8833333</latitude>
+    <longitude>-56.0</longitude>
+  </city>
+  <city name="Poblado Cerro Chato">
+    <latitude>-32.45</latitude>
+    <longitude>-56.0333333</longitude>
+  </city>
+  <city name="Poblado Cerro del Pastoreo">
+    <latitude>-31.7</latitude>
+    <longitude>-56.1</longitude>
+  </city>
+  <city name="Poblado Cuchilla Caraguata">
+    <latitude>-32.2333333</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Poblado Cuchilla de la Manguera">
+    <latitude>-31.35</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Poblado de Castro">
+    <latitude>-32.8333333</latitude>
+    <longitude>-56.4333333</longitude>
+  </city>
+  <city name="Poblado de Heriberto">
+    <latitude>-31.8166667</latitude>
+    <longitude>-55.5</longitude>
+  </city>
+  <city name="Poblado del Borracho">
+    <latitude>-31.9</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Poblado del Hospital">
+    <latitude>-31.6833333</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Poblado del Minuano">
+    <latitude>-34.35</latitude>
+    <longitude>-57.4333333</longitude>
+  </city>
+  <city name="Poblado de los Cuadrados">
+    <latitude>-32.1666667</latitude>
+    <longitude>-55.95</longitude>
+  </city>
+  <city name="Poblado de los Morales">
+    <latitude>-32.4</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Poblado de los Novillos">
+    <latitude>-31.9833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Poblado del Sauce">
+    <latitude>-33.6833333</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Poblado del Turupí">
+    <latitude>-32.1833333</latitude>
+    <longitude>-55.2833333</longitude>
+  </city>
+  <city name="Poblado Echeverry">
+    <latitude>-31.6833333</latitude>
+    <longitude>-55.95</longitude>
+  </city>
+  <city name="Poblado General Enrique Martinez">
+    <latitude>-33.2</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Poblado Godoy">
+    <latitude>-31.7666667</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Poblado Goyo Martínez">
+    <latitude>-31.9</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Poblado Guaviyú">
+    <latitude>-31.0166667</latitude>
+    <longitude>-56.5666667</longitude>
+  </city>
+  <city name="Poblado La Chilca">
+    <latitude>-32.05</latitude>
+    <longitude>-54.6333333</longitude>
+  </city>
+  <city name="Poblado La Hilera">
+    <latitude>-32.0833333</latitude>
+    <longitude>-55.65</longitude>
+  </city>
+  <city name="Poblado La Humedad">
+    <latitude>-32.05</latitude>
+    <longitude>-54.8666667</longitude>
+  </city>
+  <city name="Poblado Lambari">
+    <latitude>-31.5166667</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="Poblado La Morcona">
+    <latitude>-32.1833333</latitude>
+    <longitude>-56.0666667</longitude>
+  </city>
+  <city name="Poblado Lapuente">
+    <latitude>-31.5166667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Poblado Las Arenas">
+    <latitude>-32.0166667</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Poblado Las Chircas">
+    <latitude>-32.3833333</latitude>
+    <longitude>-55.0666667</longitude>
+  </city>
+  <city name="Poblado Las Flores">
+    <latitude>-31.8166667</latitude>
+    <longitude>-55.2166667</longitude>
+  </city>
+  <city name="Poblado Laura">
+    <latitude>-32.15</latitude>
+    <longitude>-54.8833333</longitude>
+  </city>
+  <city name="Poblado Laureles">
+    <latitude>-31.6833333</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Poblado Lavalleja">
+    <latitude>-31.8166667</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="Poblado la Villa">
+    <latitude>-31.3666667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Poblado Los Coitinhos">
+    <latitude>-31.8333333</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="Poblado Los García">
+    <latitude>-32.15</latitude>
+    <longitude>-54.95</longitude>
+  </city>
+  <city name="Poblado Los Gómez">
+    <latitude>-32.1833333</latitude>
+    <longitude>-55.0333333</longitude>
+  </city>
+  <city name="Poblado Los Grozos">
+    <latitude>-31.85</latitude>
+    <longitude>-56.0</longitude>
+  </city>
+  <city name="Poblado Los Laureles">
+    <latitude>-32.5</latitude>
+    <longitude>-56.0333333</longitude>
+  </city>
+  <city name="Poblado Los Rodríguez">
+    <latitude>-31.7666667</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Poblado los Silveira">
+    <latitude>-32.2666667</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Poblado Martinote">
+    <latitude>-31.8833333</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="Poblado Mendizabal">
+    <latitude>-33.05</latitude>
+    <longitude>-54.15</longitude>
+  </city>
+  <city name="Poblado Moirones">
+    <latitude>-31.6333333</latitude>
+    <longitude>-55.0</longitude>
+  </city>
+  <city name="Poblado Montevideo Chico">
+    <latitude>-32.2166667</latitude>
+    <longitude>-55.6</longitude>
+  </city>
+  <city name="Poblado Paso de los Novillos">
+    <latitude>-31.9833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Poblado Paso Hondo">
+    <latitude>-32.3333333</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Poblado Rincón de Giloca">
+    <latitude>-31.8333333</latitude>
+    <longitude>-55.7666667</longitude>
+  </city>
+  <city name="Poblado Rincón de la Aldea">
+    <latitude>-31.75</latitude>
+    <longitude>-56.0666667</longitude>
+  </city>
+  <city name="Poblado Rincón de la Bolsa">
+    <latitude>-31.8166667</latitude>
+    <longitude>-55.9166667</longitude>
+  </city>
+  <city name="Poblado Rincón de la Laguna">
+    <latitude>-32.0</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Poblado Rincón de los Muchadas">
+    <latitude>-32.2166667</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Poblado Río Negro">
+    <latitude>-32.1</latitude>
+    <longitude>-54.8666667</longitude>
+  </city>
+  <city name="Poblado Rivera Chico">
+    <latitude>-32.0333333</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Poblado Rolón">
+    <latitude>-32.3333333</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="Poblado San Benito">
+    <latitude>-32.4666667</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Poblado San Ramón">
+    <latitude>-31.9666667</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Poblado Sauce de Batoví">
+    <latitude>-31.9166667</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Poblado Sause de Tranqueras">
+    <latitude>-31.8333333</latitude>
+    <longitude>-55.9333333</longitude>
+  </city>
+  <city name="Poblado Segarra">
+    <latitude>-31.5</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Poblado Sosa">
+    <latitude>-31.2333333</latitude>
+    <longitude>-57.1166667</longitude>
+  </city>
+  <city name="Poblado Varese">
+    <latitude>-31.3</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Poblado Vasquez">
+    <latitude>-31.8833333</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Poblado Vichadero">
+    <latitude>-31.8</latitude>
+    <longitude>-54.7166667</longitude>
+  </city>
+  <city name="Poblado Zambullón">
+    <latitude>-32.0333333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Poblado Zapucay">
+    <latitude>-31.7166667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+  <city name="Pocitos">
+    <latitude>-34.9097222</latitude>
+    <longitude>-56.1522222</longitude>
+  </city>
+  <city name="Polanco de Ibargoyen">
+    <latitude>-33.9333333</latitude>
+    <longitude>-55.2666667</longitude>
+  </city>
+  <city name="Polanco del Yi">
+    <latitude>-33.4833333</latitude>
+    <longitude>-56.15</longitude>
+  </city>
+  <city name="Polanco">
+    <latitude>-33.9</latitude>
+    <longitude>-55.15</longitude>
+  </city>
+  <city name="Polanco Sur">
+    <latitude>-33.85</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Polonio">
+    <latitude>-34.4</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Porongos">
+    <latitude>-33.5333333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Porvenir">
+    <latitude>-32.3666667</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Progreso">
+    <latitude>-34.665</latitude>
+    <longitude>-56.2194444</longitude>
+  </city>
+  <city name="Pueblito Arevalo">
+    <latitude>-32.6333333</latitude>
+    <longitude>-55.1166667</longitude>
+  </city>
+  <city name="Pueblo 18 de Julia">
+    <latitude>-33.6833333</latitude>
+    <longitude>-53.55</longitude>
+  </city>
+  <city name="Pueblo 19 de Abril">
+    <latitude>-34.3666667</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Pueblo Achar">
+    <latitude>-32.4166667</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Pueblo Cardozo">
+    <latitude>-32.6333333</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Pueblo Cebollatí">
+    <latitude>-33.2666667</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Pueblo Centenario">
+    <latitude>-32.8666667</latitude>
+    <longitude>-56.4666667</longitude>
+  </city>
+  <city name="Pueblo Conciliación">
+    <latitude>-34.8333333</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Pueblo Constitución">
+    <latitude>-31.0833333</latitude>
+    <longitude>-57.8333333</longitude>
+  </city>
+  <city name="Pueblo Cuchilla">
+    <latitude>-32.0833333</latitude>
+    <longitude>-56.8666667</longitude>
+  </city>
+  <city name="Pueblo de Aiguá">
+    <latitude>-34.2</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Pueblo de Arriba">
+    <latitude>-31.75</latitude>
+    <longitude>-55.4666667</longitude>
+  </city>
+  <city name="Pueblo de Barro">
+    <latitude>-32.05</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Pueblo de la Arena">
+    <latitude>-33.0333333</latitude>
+    <longitude>-57.0</longitude>
+  </city>
+  <city name="Pueblo de la Paz">
+    <latitude>-34.35</latitude>
+    <longitude>-57.3</longitude>
+  </city>
+  <city name="Pueblo del Barro">
+    <latitude>-32.05</latitude>
+    <longitude>-55.3833333</longitude>
+  </city>
+  <city name="Pueblo del Carmen">
+    <latitude>-33.25</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Pueblo del Sauce">
+    <latitude>-33.6833333</latitude>
+    <longitude>-54.65</longitude>
+  </city>
+  <city name="Pueblo de Nuestra Señora del Carmen">
+    <latitude>-33.25</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Pueblo de San Vicente de Castillos">
+    <latitude>-34.1666667</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Pueblo Egaña">
+    <latitude>-33.6166667</latitude>
+    <longitude>-57.6333333</longitude>
+  </city>
+  <city name="Pueblo Ferrocarril">
+    <latitude>-34.8</latitude>
+    <longitude>-56.2166667</longitude>
+  </city>
+  <city name="Pueblo Isla Cabellos">
+    <latitude>-30.7333333</latitude>
+    <longitude>-57.3166667</longitude>
+  </city>
+  <city name="Pueblo Ituzaingó">
+    <latitude>-34.85</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="Pueblo Joaquín Suárez">
+    <latitude>-34.7336111</latitude>
+    <longitude>-56.0366667</longitude>
+  </city>
+  <city name="Pueblo Juan L. Lacaze">
+    <latitude>-34.4333333</latitude>
+    <longitude>-57.4166667</longitude>
+  </city>
+  <city name="Pueblo la Agraciada">
+    <latitude>-33.8</latitude>
+    <longitude>-58.25</longitude>
+  </city>
+  <city name="Pueblo La Charqueada">
+    <latitude>-33.2</latitude>
+    <longitude>-53.8</longitude>
+  </city>
+  <city name="Pueblo Mouriño">
+    <latitude>-32.9</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Pueblo Nuevo">
+    <latitude>-34.4422222</latitude>
+    <longitude>-56.4436111</longitude>
+  </city>
+  <city name="Pueblo Olimar">
+    <latitude>-32.9166667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Pueblo Sánchez Grande">
+    <latitude>-32.9166667</latitude>
+    <longitude>-57.7333333</longitude>
+  </city>
+  <city name="Pueblo Sanchez">
+    <latitude>-32.8333333</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="Pueblo Sauce">
+    <latitude>-32.9166667</latitude>
+    <longitude>-57.7333333</longitude>
+  </city>
+  <city name="Pueblo Scavino">
+    <latitude>-34.3666667</latitude>
+    <longitude>-57.05</longitude>
+  </city>
+  <city name="Pueblo Velázquez">
+    <latitude>-34.0333333</latitude>
+    <longitude>-54.2833333</longitude>
+  </city>
+  <city name="Pueblo Victoria">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Puerto Amaro">
+    <latitude>-32.75</latitude>
+    <longitude>-53.4833333</longitude>
+  </city>
+  <city name="Puerto de la Paloma">
+    <latitude>-34.6666667</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Puerto del Inglés">
+    <latitude>-34.9</latitude>
+    <longitude>-55.2833333</longitude>
+  </city>
+  <city name="Puerto Gómez">
+    <latitude>-33.0</latitude>
+    <longitude>-53.6333333</longitude>
+  </city>
+  <city name="Puerto Platero">
+    <latitude>-34.45</latitude>
+    <longitude>-57.6</longitude>
+  </city>
+  <city name="Punta Carretas">
+    <latitude>-34.9227778</latitude>
+    <longitude>-56.1597222</longitude>
+  </city>
+  <city name="Punta del Este">
+    <latitude>-34.9666667</latitude>
+    <longitude>-54.95</longitude>
+  </city>
+  <city name="Puntas de Buricayupí">
+    <latitude>-31.8833333</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Puntas de Cañada Grande">
+    <latitude>-34.3833333</latitude>
+    <longitude>-56.7666667</longitude>
+  </city>
+  <city name="Puntas de Cañas">
+    <latitude>-31.6333333</latitude>
+    <longitude>-56.9166667</longitude>
+  </city>
+  <city name="Puntas de Corrales">
+    <latitude>-31.3166667</latitude>
+    <longitude>-55.2</longitude>
+  </city>
+  <city name="Puntas del Arenal Chico">
+    <latitude>-34.45</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Puntas del Arenal">
+    <latitude>-33.7166667</latitude>
+    <longitude>-58.2666667</longitude>
+  </city>
+  <city name="Puntas de las Cañas">
+    <latitude>-32.9333333</latitude>
+    <longitude>-55.5166667</longitude>
+  </city>
+  <city name="Puntas del Parao">
+    <latitude>-32.75</latitude>
+    <longitude>-54.4</longitude>
+  </city>
+  <city name="Puntas del Sauce">
+    <latitude>-33.85</latitude>
+    <longitude>-57.0166667</longitude>
+  </city>
+  <city name="Puntas del Tala">
+    <latitude>-33.3833333</latitude>
+    <longitude>-57.55</longitude>
+  </city>
+  <city name="Puntas de Maciel">
+    <latitude>-33.6</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Puntas de Rolón">
+    <latitude>-32.6833333</latitude>
+    <longitude>-56.8833333</longitude>
+  </city>
+  <city name="Puntas de San Juan">
+    <latitude>-33.9333333</latitude>
+    <longitude>-57.4666667</longitude>
+  </city>
+  <city name="Puntas de Valdez">
+    <latitude>-34.5838889</latitude>
+    <longitude>-56.6994444</longitude>
+  </city>
+  <city name="Puntas Duraznito">
+    <latitude>-33.65</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Puntas Tamanduá">
+    <latitude>-30.4666667</latitude>
+    <longitude>-56.55</longitude>
+  </city>
+  <city name="Quebracho">
+    <latitude>-32.6833333</latitude>
+    <longitude>-54.6333333</longitude>
+  </city>
+  <city name="Queguay">
+    <latitude>-32.0833333</latitude>
+    <longitude>-57.9166667</longitude>
+  </city>
+  <city name="Quiebra Yugos">
+    <latitude>-31.6666667</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Quintana">
+    <latitude>-31.4</latitude>
+    <longitude>-56.3666667</longitude>
+  </city>
+  <city name="Radial Conchillas">
+    <latitude>-34.1</latitude>
+    <longitude>-58.0</longitude>
+  </city>
+  <city name="Rafael Perazza">
+    <latitude>-34.5197222</latitude>
+    <longitude>-56.7988889</longitude>
+  </city>
+  <city name="Raigón">
+    <latitude>-34.35</latitude>
+    <longitude>-56.65</longitude>
+  </city>
+  <city name="Ramón Saravia">
+    <latitude>-33.0166667</latitude>
+    <longitude>-55.05</longitude>
+  </city>
+  <city name="Ramón Trigo">
+    <latitude>-32.3833333</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Ramos">
+    <latitude>-31.2833333</latitude>
+    <longitude>-56.4333333</longitude>
+  </city>
+  <city name="Rancherío Tejera">
+    <latitude>-33.3333333</latitude>
+    <longitude>-56.4666667</longitude>
+  </city>
+  <city name="Real de San Carlos">
+    <latitude>-34.4333333</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Real San Carlos">
+    <latitude>-34.4333333</latitude>
+    <longitude>-57.8833333</longitude>
+  </city>
+  <city name="Reboledo">
+    <latitude>-34.0</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Reducto">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Reynold">
+    <latitude>-33.0666667</latitude>
+    <longitude>-55.85</longitude>
+  </city>
+  <city name="Riachuelo">
+    <latitude>-34.4666667</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="Riffó">
+    <latitude>-34.5333333</latitude>
+    <longitude>-56.3</longitude>
+  </city>
+  <city name="Rincón Aldea">
+    <latitude>-31.75</latitude>
+    <longitude>-56.0666667</longitude>
+  </city>
+  <city name="Rincón de Baygorria">
+    <latitude>-32.8833333</latitude>
+    <longitude>-56.8</longitude>
+  </city>
+  <city name="Rincón de Coronel">
+    <latitude>-32.7</latitude>
+    <longitude>-53.9666667</longitude>
+  </city>
+  <city name="Rincón de Cuadra">
+    <latitude>-33.3833333</latitude>
+    <longitude>-56.4166667</longitude>
+  </city>
+  <city name="Rincón de Giloca">
+    <latitude>-31.8333333</latitude>
+    <longitude>-55.7666667</longitude>
+  </city>
+  <city name="Rincón de Gutiérrez">
+    <latitude>-33.2</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Rincón de la Aldea">
+    <latitude>-31.75</latitude>
+    <longitude>-56.0666667</longitude>
+  </city>
+  <city name="Rincón de la Bolsa">
+    <latitude>-31.8166667</latitude>
+    <longitude>-55.9166667</longitude>
+  </city>
+  <city name="Rincón de la Laguna">
+    <latitude>-32.0</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Rincón del Bonete">
+    <latitude>-32.8</latitude>
+    <longitude>-56.4166667</longitude>
+  </city>
+  <city name="Rincón del Cololó">
+    <latitude>-33.0833333</latitude>
+    <longitude>-57.4333333</longitude>
+  </city>
+  <city name="Rincón de los Machado">
+    <latitude>-32.2166667</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Rincón de los Negros">
+    <latitude>-32.7166667</latitude>
+    <longitude>-57.4666667</longitude>
+  </city>
+  <city name="Rincón de los Oliveras">
+    <latitude>-34.3666667</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Rincón del Pino">
+    <latitude>-34.4833333</latitude>
+    <longitude>-56.85</longitude>
+  </city>
+  <city name="Rincón de Moraes">
+    <latitude>-31.3</latitude>
+    <longitude>-55.8666667</longitude>
+  </city>
+  <city name="Rincón de Pacheco">
+    <latitude>-30.6333333</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="Rincón de Pereyra">
+    <latitude>-32.4</latitude>
+    <longitude>-55.35</longitude>
+  </city>
+  <city name="Rincón de Py">
+    <latitude>-32.5</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Rincón de Valentines">
+    <latitude>-31.2</latitude>
+    <longitude>-57.2333333</longitude>
+  </city>
+  <city name="Rincón de Velázquez">
+    <latitude>-34.4</latitude>
+    <longitude>-56.3333333</longitude>
+  </city>
+  <city name="Rincón de Vidal">
+    <latitude>-34.3833333</latitude>
+    <longitude>-56.3833333</longitude>
+  </city>
+  <city name="Rincón de Yaguarí">
+    <latitude>-31.8166667</latitude>
+    <longitude>-55.1833333</longitude>
+  </city>
+  <city name="Rincón">
+    <latitude>-32.7833333</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Río Branco">
+    <latitude>-32.5666667</latitude>
+    <longitude>-53.4166667</longitude>
+  </city>
+  <city name="Río Negro">
+    <latitude>-32.1</latitude>
+    <longitude>-54.8666667</longitude>
+  </city>
+  <city name="Risso">
+    <latitude>-33.5833333</latitude>
+    <longitude>-57.5833333</longitude>
+  </city>
+  <city name="Rivera Chico">
+    <latitude>-32.0333333</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Rivera">
+    <latitude>-30.9</latitude>
+    <longitude>-55.5166667</longitude>
+  </city>
+  <city name="Rocha">
+    <latitude>-34.4833333</latitude>
+    <longitude>-54.3333333</longitude>
+  </city>
+  <city name="Rodo">
+    <latitude>-33.6833333</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="Rodríguez">
+    <latitude>-34.3827778</latitude>
+    <longitude>-56.5416667</longitude>
+  </city>
+  <city name="Roja">
+    <latitude>-33.2166667</latitude>
+    <longitude>-56.6833333</longitude>
+  </city>
+  <city name="Rolón">
+    <latitude>-33.1166667</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="Rosario">
+    <latitude>-34.3166667</latitude>
+    <longitude>-57.35</longitude>
+  </city>
+  <city name="Rosas">
+    <latitude>-32.75</latitude>
+    <longitude>-53.7333333</longitude>
+  </city>
+  <city name="Rossell y Rius">
+    <latitude>-33.1833333</latitude>
+    <longitude>-55.7</longitude>
+  </city>
+  <city name="Saca Chispas">
+    <latitude>-31.8666667</latitude>
+    <longitude>-57.2833333</longitude>
+  </city>
+  <city name="Sacramento">
+    <latitude>-34.4666667</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="Salamanca">
+    <latitude>-34.1666667</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Salta">
+    <latitude>-31.3833333</latitude>
+    <longitude>-57.9666667</longitude>
+  </city>
+  <city name="Salto">
+    <latitude>-31.3833333</latitude>
+    <longitude>-57.9666667</longitude>
+  </city>
+  <city name="San Antonio">
+    <latitude>-34.4497222</latitude>
+    <longitude>-56.0791667</longitude>
+  </city>
+  <city name="San Bautista">
+    <latitude>-34.4333333</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="San Benito">
+    <latitude>-32.4666667</latitude>
+    <longitude>-56.1666667</longitude>
+  </city>
+  <city name="San Carlos">
+    <latitude>-34.8</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Sanchez Chico">
+    <latitude>-32.9166667</latitude>
+    <longitude>-57.7333333</longitude>
+  </city>
+  <city name="Sánchez Grande">
+    <latitude>-32.8333333</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="Sánchez">
+    <latitude>-32.9166667</latitude>
+    <longitude>-57.7333333</longitude>
+  </city>
+  <city name="San Dios">
+    <latitude>-33.1</latitude>
+    <longitude>-57.7333333</longitude>
+  </city>
+  <city name="San Eugenio">
+    <latitude>-30.4</latitude>
+    <longitude>-56.4666667</longitude>
+  </city>
+  <city name="San Félix">
+    <latitude>-32.3333333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="San Fernando de Maldonado">
+    <latitude>-34.9</latitude>
+    <longitude>-54.95</longitude>
+  </city>
+  <city name="San Fructuoso">
+    <latitude>-31.7333333</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="San Gabriel">
+    <latitude>-34.05</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="San Gregorio de Polanco">
+    <latitude>-32.6166667</latitude>
+    <longitude>-55.8333333</longitude>
+  </city>
+  <city name="San Gregorio">
+    <latitude>-30.55</latitude>
+    <longitude>-57.8666667</longitude>
+  </city>
+  <city name="San Isidrio">
+    <latitude>-34.7263889</latitude>
+    <longitude>-56.22</longitude>
+  </city>
+  <city name="San Jacinto">
+    <latitude>-34.55</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="San Javier">
+    <latitude>-32.6833333</latitude>
+    <longitude>-58.1333333</longitude>
+  </city>
+  <city name="San Jorge">
+    <latitude>-32.8666667</latitude>
+    <longitude>-55.9166667</longitude>
+  </city>
+  <city name="San José de Cañas">
+    <latitude>-32.8333333</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="San José de las Cañas">
+    <latitude>-32.8333333</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="San José de Mayo">
+    <latitude>-34.3375</latitude>
+    <longitude>-56.7136111</longitude>
+  </city>
+  <city name="San José">
+    <latitude>-34.3375</latitude>
+    <longitude>-56.7136111</longitude>
+  </city>
+  <city name="San Juan Bautista">
+    <latitude>-34.4533333</latitude>
+    <longitude>-56.3905556</longitude>
+  </city>
+  <city name="San Juan">
+    <latitude>-33.9333333</latitude>
+    <longitude>-57.4666667</longitude>
+  </city>
+  <city name="San Luis Al Medio">
+    <latitude>-33.6166667</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="San Luis">
+    <latitude>-31.5666667</latitude>
+    <longitude>-54.55</longitude>
+  </city>
+  <city name="San Martín">
+    <latitude>-33.75</latitude>
+    <longitude>-57.6166667</longitude>
+  </city>
+  <city name="San Máximo">
+    <latitude>-32.15</latitude>
+    <longitude>-56.1166667</longitude>
+  </city>
+  <city name="San Pedro">
+    <latitude>-34.35</latitude>
+    <longitude>-57.85</longitude>
+  </city>
+  <city name="San Ramón">
+    <latitude>-34.3</latitude>
+    <longitude>-55.9666667</longitude>
+  </city>
+  <city name="San Servando">
+    <latitude>-32.6333333</latitude>
+    <longitude>-53.3</longitude>
+  </city>
+  <city name="Santa Bernardina">
+    <latitude>-33.3666667</latitude>
+    <longitude>-56.4833333</longitude>
+  </city>
+  <city name="Santa Catalina">
+    <latitude>-33.75</latitude>
+    <longitude>-57.4833333</longitude>
+  </city>
+  <city name="Santa Clara del Olimar">
+    <latitude>-32.9166667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Santa Clara de Olimar">
+    <latitude>-32.9166667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Santa Clara">
+    <latitude>-32.9166667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Santa Ecilda">
+    <latitude>-34.3666667</latitude>
+    <longitude>-57.0666667</longitude>
+  </city>
+  <city name="Santa Ernestina">
+    <latitude>-31.55</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Santa Fernandina">
+    <latitude>-31.55</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Santa Isabel">
+    <latitude>-32.8166667</latitude>
+    <longitude>-56.5166667</longitude>
+  </city>
+  <city name="Santa Lucía">
+    <latitude>-34.4533333</latitude>
+    <longitude>-56.3905556</longitude>
+  </city>
+  <city name="Santa María del Pirarajá">
+    <latitude>-33.7333333</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Santa María">
+    <latitude>-33.7333333</latitude>
+    <longitude>-54.75</longitude>
+  </city>
+  <city name="Santa Rosa del Cuareim">
+    <latitude>-30.25</latitude>
+    <longitude>-57.5833333</longitude>
+  </city>
+  <city name="Santa Rosa">
+    <latitude>-30.25</latitude>
+    <longitude>-57.5833333</longitude>
+  </city>
+  <city name="Santa Teresa">
+    <latitude>-34.4333333</latitude>
+    <longitude>-57.7166667</longitude>
+  </city>
+  <city name="Santiago">
+    <latitude>-34.7902778</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Santiago Vázquez">
+    <latitude>-34.7902778</latitude>
+    <longitude>-56.35</longitude>
+  </city>
+  <city name="Santo Domingo de Soriano">
+    <latitude>-33.4</latitude>
+    <longitude>-58.3166667</longitude>
+  </city>
+  <city name="San Vicente de Castillos">
+    <latitude>-34.1666667</latitude>
+    <longitude>-53.8333333</longitude>
+  </city>
+  <city name="Sarandí de Aceguá">
+    <latitude>-32.0166667</latitude>
+    <longitude>-54.2</longitude>
+  </city>
+  <city name="Sarandí de Barceló">
+    <latitude>-32.4833333</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Sarandí de Cebollatí">
+    <latitude>-33.7166667</latitude>
+    <longitude>-54.5333333</longitude>
+  </city>
+  <city name="Sarandí de Cuaró">
+    <latitude>-30.8333333</latitude>
+    <longitude>-56.75</longitude>
+  </city>
+  <city name="Sarandí de Gutiérrez">
+    <latitude>-33.5333333</latitude>
+    <longitude>-54.6</longitude>
+  </city>
+  <city name="Sarandí del Yi">
+    <latitude>-33.35</latitude>
+    <longitude>-55.6333333</longitude>
+  </city>
+  <city name="Sarandí de Navarro">
+    <latitude>-32.5666667</latitude>
+    <longitude>-56.8833333</longitude>
+  </city>
+  <city name="Sarandí Grande">
+    <latitude>-33.7333333</latitude>
+    <longitude>-56.3333333</longitude>
+  </city>
+  <city name="Sarandí">
+    <latitude>-32.4833333</latitude>
+    <longitude>-53.7166667</longitude>
+  </city>
+  <city name="Sauce Batoví">
+    <latitude>-31.9166667</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Sauce Buricayupí">
+    <latitude>-31.8833333</latitude>
+    <longitude>-57.3333333</longitude>
+  </city>
+  <city name="Sauce Chico de Laureles">
+    <latitude>-31.5166667</latitude>
+    <longitude>-57.5833333</longitude>
+  </city>
+  <city name="Sauce del Yí">
+    <latitude>-33.2</latitude>
+    <longitude>-56.7833333</longitude>
+  </city>
+  <city name="Sauce del Yi">
+    <latitude>-33.4666667</latitude>
+    <longitude>-55.6166667</longitude>
+  </city>
+  <city name="Sauce de Queguay">
+    <latitude>-32.1166667</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="Sauce de San Jorge">
+    <latitude>-32.8666667</latitude>
+    <longitude>-55.9166667</longitude>
+  </city>
+  <city name="Saucedo">
+    <latitude>-31.0833333</latitude>
+    <longitude>-57.5166667</longitude>
+  </city>
+  <city name="Sauce Queguay">
+    <latitude>-32.1166667</latitude>
+    <longitude>-57.5666667</longitude>
+  </city>
+  <city name="Sauce">
+    <latitude>-34.6469444</latitude>
+    <longitude>-56.0627778</longitude>
+  </city>
+  <city name="Sauce Solo de Río Negro">
+    <latitude>-32.1</latitude>
+    <longitude>-54.8666667</longitude>
+  </city>
+  <city name="Sauce Solo">
+    <latitude>-32.1</latitude>
+    <longitude>-54.8666667</longitude>
+  </city>
+  <city name="Sauce Tranqueras">
+    <latitude>-31.8333333</latitude>
+    <longitude>-55.9333333</longitude>
+  </city>
+  <city name="Sauzal">
+    <latitude>-30.9333333</latitude>
+    <longitude>-55.55</longitude>
+  </city>
+  <city name="Savago">
+    <latitude>-34.8333333</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Sayago">
+    <latitude>-34.8333333</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Scavino">
+    <latitude>-34.3666667</latitude>
+    <longitude>-57.05</longitude>
+  </city>
+  <city name="Segarra">
+    <latitude>-31.5</latitude>
+    <longitude>-55.1666667</longitude>
+  </city>
+  <city name="Sequeira">
+    <latitude>-31.0333333</latitude>
+    <longitude>-56.8833333</longitude>
+  </city>
+  <city name="Sierra de Lunarejo">
+    <latitude>-31.2333333</latitude>
+    <longitude>-55.8833333</longitude>
+  </city>
+  <city name="Soca">
+    <latitude>-34.6833333</latitude>
+    <longitude>-55.6833333</longitude>
+  </city>
+  <city name="Solís de Mataojo">
+    <latitude>-34.6</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Solís Grande">
+    <latitude>-34.6</latitude>
+    <longitude>-55.4833333</longitude>
+  </city>
+  <city name="Solís">
+    <latitude>-34.3333333</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Soriano">
+    <latitude>-33.4</latitude>
+    <longitude>-58.3166667</longitude>
+  </city>
+  <city name="Sosa">
+    <latitude>-31.2333333</latitude>
+    <longitude>-57.1166667</longitude>
+  </city>
+  <city name="Soto">
+    <latitude>-31.9833333</latitude>
+    <longitude>-54.1666667</longitude>
+  </city>
+  <city name="Suárez">
+    <latitude>-34.7336111</latitude>
+    <longitude>-56.0366667</longitude>
+  </city>
+  <city name="Tacuarembó">
+    <latitude>-31.7333333</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="Tala">
+    <latitude>-34.35</latitude>
+    <longitude>-55.7666667</longitude>
+  </city>
+  <city name="Tamanduá">
+    <latitude>-30.4666667</latitude>
+    <longitude>-56.55</longitude>
+  </city>
+  <city name="Tambores">
+    <latitude>-31.7833333</latitude>
+    <longitude>-56.25</longitude>
+  </city>
+  <city name="Tapia">
+    <latitude>-34.5666667</latitude>
+    <longitude>-55.7</longitude>
+  </city>
+  <city name="Tarariras">
+    <latitude>-34.2833333</latitude>
+    <longitude>-57.6166667</longitude>
+  </city>
+  <city name="Tarugo">
+    <latitude>-32.0</latitude>
+    <longitude>-57.3</longitude>
+  </city>
+  <city name="Tarumán">
+    <latitude>-30.5</latitude>
+    <longitude>-56.6666667</longitude>
+  </city>
+  <city name="Termas del Arapey">
+    <latitude>-30.9666667</latitude>
+    <longitude>-57.5333333</longitude>
+  </city>
+  <city name="Tiatocura">
+    <latitude>-32.35</latitude>
+    <longitude>-56.55</longitude>
+  </city>
+  <city name="Tiatucurá">
+    <latitude>-32.35</latitude>
+    <longitude>-56.55</longitude>
+  </city>
+  <city name="Toledo">
+    <latitude>-34.7422222</latitude>
+    <longitude>-56.0983333</longitude>
+  </city>
+  <city name="Tomás Gomensoro">
+    <latitude>-30.4333333</latitude>
+    <longitude>-57.4333333</longitude>
+  </city>
+  <city name="Tomás Paz">
+    <latitude>-31.6833333</latitude>
+    <longitude>-57.6833333</longitude>
+  </city>
+  <city name="Topador">
+    <latitude>-30.3166667</latitude>
+    <longitude>-56.8166667</longitude>
+  </city>
+  <city name="Toro Negro">
+    <latitude>-31.35</latitude>
+    <longitude>-56.6333333</longitude>
+  </city>
+  <city name="Totoral">
+    <latitude>-34.6666667</latitude>
+    <longitude>-56.0</longitude>
+  </city>
+  <city name="Tranqueras">
+    <latitude>-31.1666667</latitude>
+    <longitude>-55.75</longitude>
+  </city>
+  <city name="Treinta y Tres">
+    <latitude>-33.2333333</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Tres Árboles">
+    <latitude>-32.4</latitude>
+    <longitude>-56.7166667</longitude>
+  </city>
+  <city name="Tres Bocas">
+    <latitude>-31.8833333</latitude>
+    <longitude>-57.4833333</longitude>
+  </city>
+  <city name="Tres Cerros">
+    <latitude>-30.95</latitude>
+    <longitude>-56.65</longitude>
+  </city>
+  <city name="Tres Esquinas">
+    <latitude>-34.0833333</latitude>
+    <longitude>-57.3833333</longitude>
+  </city>
+  <city name="Tres Islas">
+    <latitude>-32.5166667</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="Trigo">
+    <latitude>-32.3833333</latitude>
+    <longitude>-54.6666667</longitude>
+  </city>
+  <city name="Trinidad">
+    <latitude>-33.5333333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Tropezón">
+    <latitude>-34.4</latitude>
+    <longitude>-56.5333333</longitude>
+  </city>
+  <city name="Tropiezo">
+    <latitude>-31.4</latitude>
+    <longitude>-57.7833333</longitude>
+  </city>
+  <city name="Tupambaé">
+    <latitude>-32.8333333</latitude>
+    <longitude>-54.7666667</longitude>
+  </city>
+  <city name="Turupí">
+    <latitude>-32.1833333</latitude>
+    <longitude>-55.2833333</longitude>
+  </city>
+  <city name="Unión">
+    <latitude>-34.8705556</latitude>
+    <longitude>-56.1336111</longitude>
+  </city>
+  <city name="Uruguay">
+    <latitude>-32.4833333</latitude>
+    <longitude>-53.5166667</longitude>
+  </city>
+  <city name="Valdense">
+    <latitude>-34.3333333</latitude>
+    <longitude>-57.2333333</longitude>
+  </city>
+  <city name="Valentines">
+    <latitude>-33.2666667</latitude>
+    <longitude>-55.1166667</longitude>
+  </city>
+  <city name="Valentín Grande">
+    <latitude>-31.3</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Valentín">
+    <latitude>-31.3</latitude>
+    <longitude>-57.2</longitude>
+  </city>
+  <city name="Varese">
+    <latitude>-31.3</latitude>
+    <longitude>-57.15</longitude>
+  </city>
+  <city name="Vázquez">
+    <latitude>-31.8833333</latitude>
+    <longitude>-55.4333333</longitude>
+  </city>
+  <city name="Veinticinco de Agosto">
+    <latitude>-34.4116667</latitude>
+    <longitude>-56.4022222</longitude>
+  </city>
+  <city name="Veinticinco de Mayo">
+    <latitude>-34.1891667</latitude>
+    <longitude>-56.3394444</longitude>
+  </city>
+  <city name="Vejigas">
+    <latitude>-34.2833333</latitude>
+    <longitude>-55.2333333</longitude>
+  </city>
+  <city name="Velasquez">
+    <latitude>-34.0333333</latitude>
+    <longitude>-54.2833333</longitude>
+  </city>
+  <city name="Velázquez">
+    <latitude>-34.0333333</latitude>
+    <longitude>-54.2833333</longitude>
+  </city>
+  <city name="Veras">
+    <latitude>-31.6166667</latitude>
+    <longitude>-56.8166667</longitude>
+  </city>
+  <city name="Vera">
+    <latitude>-31.6166667</latitude>
+    <longitude>-56.8166667</longitude>
+  </city>
+  <city name="Verdún">
+    <latitude>-32.6666667</latitude>
+    <longitude>-55.45</longitude>
+  </city>
+  <city name="Vergara">
+    <latitude>-32.9333333</latitude>
+    <longitude>-53.95</longitude>
+  </city>
+  <city name="Vichadero">
+    <latitude>-31.8</latitude>
+    <longitude>-54.7166667</longitude>
+  </city>
+  <city name="Vicheadero">
+    <latitude>-31.8</latitude>
+    <longitude>-54.7166667</longitude>
+  </city>
+  <city name="Victoria">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Vila">
+    <latitude>-31.3666667</latitude>
+    <longitude>-55.0833333</longitude>
+  </city>
+  <city name="Villa Alejandrina">
+    <latitude>-33.7666667</latitude>
+    <longitude>-58.35</longitude>
+  </city>
+  <city name="Villa Alesandrina">
+    <latitude>-33.7666667</latitude>
+    <longitude>-58.35</longitude>
+  </city>
+  <city name="Villa Borges">
+    <latitude>-32.5666667</latitude>
+    <longitude>-57.3666667</longitude>
+  </city>
+  <city name="Villa Colón">
+    <latitude>-34.8</latitude>
+    <longitude>-56.2333333</longitude>
+  </city>
+  <city name="Villa de Canelones">
+    <latitude>-34.5227778</latitude>
+    <longitude>-56.2777778</longitude>
+  </city>
+  <city name="Villa de Fray Bentos">
+    <latitude>-33.1325</latitude>
+    <longitude>-58.2955556</longitude>
+  </city>
+  <city name="Villa de la Paz">
+    <latitude>-34.35</latitude>
+    <longitude>-57.3</longitude>
+  </city>
+  <city name="Villa de la Santísima Trinidad">
+    <latitude>-33.5333333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Villa de las Piedras">
+    <latitude>-34.7263889</latitude>
+    <longitude>-56.22</longitude>
+  </city>
+  <city name="Villa de la Trinidad">
+    <latitude>-33.5333333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Villa del Carmen">
+    <latitude>-33.25</latitude>
+    <longitude>-56.0166667</longitude>
+  </city>
+  <city name="Villa del Cerro">
+    <latitude>-34.875</latitude>
+    <longitude>-56.2588889</longitude>
+  </city>
+  <city name="Villa del Rosario">
+    <latitude>-34.3166667</latitude>
+    <longitude>-57.35</longitude>
+  </city>
+  <city name="Villa de Pando">
+    <latitude>-34.7166667</latitude>
+    <longitude>-55.95</longitude>
+  </city>
+  <city name="Villa de Porongos">
+    <latitude>-33.5333333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Villa de Rivera">
+    <latitude>-30.9</latitude>
+    <longitude>-55.5166667</longitude>
+  </city>
+  <city name="Villa de San Carlos">
+    <latitude>-34.8</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Villa de San Fructuoso">
+    <latitude>-31.7333333</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="Villa de Soriano">
+    <latitude>-33.4</latitude>
+    <longitude>-58.3166667</longitude>
+  </city>
+  <city name="Villa de Tacuarembo">
+    <latitude>-31.7333333</latitude>
+    <longitude>-55.9833333</longitude>
+  </city>
+  <city name="Villa de Treinta y Tres">
+    <latitude>-33.2333333</latitude>
+    <longitude>-54.3833333</longitude>
+  </city>
+  <city name="Villa de Trinidad">
+    <latitude>-33.5333333</latitude>
+    <longitude>-56.9</longitude>
+  </city>
+  <city name="Villa Dolores">
+    <latitude>-34.9</latitude>
+    <longitude>-56.15</longitude>
+  </city>
+  <city name="Villa Don Bosco">
+    <latitude>-34.8030556</latitude>
+    <longitude>-56.0858333</longitude>
+  </city>
+  <city name="Villa Elisa">
+    <latitude>-32.3333333</latitude>
+    <longitude>-57.05</longitude>
+  </city>
+  <city name="Villa Española">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.15</longitude>
+  </city>
+  <city name="Villa Fray Bentos">
+    <latitude>-33.1325</latitude>
+    <longitude>-58.2955556</longitude>
+  </city>
+  <city name="Villa García">
+    <latitude>-34.7811111</latitude>
+    <longitude>-56.0533333</longitude>
+  </city>
+  <city name="Villa General Borges">
+    <latitude>-32.5666667</latitude>
+    <longitude>-57.3666667</longitude>
+  </city>
+  <city name="Villa Independencia">
+    <latitude>-33.1325</latitude>
+    <longitude>-58.2955556</longitude>
+  </city>
+  <city name="Villa Libertad">
+    <latitude>-34.65</latitude>
+    <longitude>-56.6</longitude>
+  </city>
+  <city name="Villa María Albina">
+    <latitude>-33.4</latitude>
+    <longitude>-54.6833333</longitude>
+  </city>
+  <city name="Villa Maria Isabel Isla de Patrulla">
+    <latitude>-32.9833333</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Villa Maria">
+    <latitude>-32.35</latitude>
+    <longitude>-56.55</longitude>
+  </city>
+  <city name="Villa Muñoz">
+    <latitude>-34.8833333</latitude>
+    <longitude>-56.1833333</longitude>
+  </city>
+  <city name="Villa Nueva">
+    <latitude>-34.6</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Villa Passano">
+    <latitude>-33.2833333</latitude>
+    <longitude>-53.9333333</longitude>
+  </city>
+  <city name="Villa Sarandí">
+    <latitude>-33.7333333</latitude>
+    <longitude>-56.3333333</longitude>
+  </city>
+  <city name="Villa Sara">
+    <latitude>-33.2666667</latitude>
+    <longitude>-54.4166667</longitude>
+  </city>
+  <city name="Villa Serrana">
+    <latitude>-34.2833333</latitude>
+    <longitude>-54.9833333</longitude>
+  </city>
+  <city name="Villa Vieja">
+    <latitude>-34.0666667</latitude>
+    <longitude>-56.3833333</longitude>
+  </city>
+  <city name="Villa Viñoles">
+    <latitude>-32.2</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Viñolles">
+    <latitude>-32.2</latitude>
+    <longitude>-54.0666667</longitude>
+  </city>
+  <city name="Vuelta del Palmar">
+    <latitude>-34.1833333</latitude>
+    <longitude>-53.7833333</longitude>
+  </city>
+  <city name="Wenceslao Silveira">
+    <latitude>-32.5166667</latitude>
+    <longitude>-54.5833333</longitude>
+  </city>
+  <city name="Yacot">
+    <latitude>-30.25</latitude>
+    <longitude>-56.85</longitude>
+  </city>
+  <city name="Yaguan">
+    <latitude>-31.5166667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Yaguarí">
+    <latitude>-31.5166667</latitude>
+    <longitude>-54.9666667</longitude>
+  </city>
+  <city name="Young">
+    <latitude>-32.6833333</latitude>
+    <longitude>-57.6333333</longitude>
+  </city>
+  <city name="Zambullón">
+    <latitude>-32.0333333</latitude>
+    <longitude>-55.7833333</longitude>
+  </city>
+  <city name="Zanja Honda">
+    <latitude>-31.2166667</latitude>
+    <longitude>-55.6666667</longitude>
+  </city>
+  <city name="Zapará">
+    <latitude>-31.6833333</latitude>
+    <longitude>-56.1333333</longitude>
+  </city>
+  <city name="Zapicán">
+    <latitude>-33.5166667</latitude>
+    <longitude>-54.9166667</longitude>
+  </city>
+  <city name="Zapucay">
+    <latitude>-31.7166667</latitude>
+    <longitude>-55.3333333</longitude>
+  </city>
+</country>

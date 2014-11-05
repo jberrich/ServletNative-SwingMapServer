@@ -1,0 +1,6243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="bi" name="Burundi">
+  <city name="Bahanza">
+    <latitude>-3.0169444</latitude>
+    <longitude>30.1366667</longitude>
+  </city>
+  <city name="Bake">
+    <latitude>-3.5338889</latitude>
+    <longitude>30.1730556</longitude>
+  </city>
+  <city name="Bamba">
+    <latitude>-2.9891667</latitude>
+    <longitude>29.4144444</longitude>
+  </city>
+  <city name="Banda">
+    <latitude>-3.775</latitude>
+    <longitude>29.6261111</longitude>
+  </city>
+  <city name="Banga">
+    <latitude>-3.1416667</latitude>
+    <longitude>29.6277778</longitude>
+  </city>
+  <city name="Bangwe">
+    <latitude>-4.3227778</latitude>
+    <longitude>29.5908333</longitude>
+  </city>
+  <city name="Banza">
+    <latitude>-3.8144444</latitude>
+    <longitude>29.6972222</longitude>
+  </city>
+  <city name="Bariza">
+    <latitude>-3.5777778</latitude>
+    <longitude>29.6163889</longitude>
+  </city>
+  <city name="Batsimba">
+    <latitude>-3.6830556</latitude>
+    <longitude>30.2111111</longitude>
+  </city>
+  <city name="Bavumu">
+    <latitude>-2.8286111</latitude>
+    <longitude>30.3580556</longitude>
+  </city>
+  <city name="Baziro">
+    <latitude>-3.6519444</latitude>
+    <longitude>29.6327778</longitude>
+  </city>
+  <city name="Bidumu">
+    <latitude>-2.9538889</latitude>
+    <longitude>29.7594444</longitude>
+  </city>
+  <city name="Bigabiro">
+    <latitude>-3.4525</latitude>
+    <longitude>30.1497222</longitude>
+  </city>
+  <city name="Bigera">
+    <latitude>-3.735</latitude>
+    <longitude>29.6313889</longitude>
+  </city>
+  <city name="Bigeri">
+    <latitude>-2.8283333</latitude>
+    <longitude>29.3213889</longitude>
+  </city>
+  <city name="Bigina">
+    <latitude>-4.2308333</latitude>
+    <longitude>30.0375</longitude>
+  </city>
+  <city name="Bigombo">
+    <latitude>-3.335</latitude>
+    <longitude>30.4719444</longitude>
+  </city>
+  <city name="Bigugo">
+    <latitude>-3.5947222</latitude>
+    <longitude>29.7425</longitude>
+  </city>
+  <city name="Bihahe">
+    <latitude>-3.6791667</latitude>
+    <longitude>29.9080556</longitude>
+  </city>
+  <city name="Bihanga">
+    <latitude>-3.1636111</latitude>
+    <longitude>30.5955556</longitude>
+  </city>
+  <city name="Bihari">
+    <latitude>-3.8416667</latitude>
+    <longitude>29.6855556</longitude>
+  </city>
+  <city name="Bihemba">
+    <latitude>-2.4908333</latitude>
+    <longitude>30.5008333</longitude>
+  </city>
+  <city name="Bihembe">
+    <latitude>-3.0572222</latitude>
+    <longitude>29.3130556</longitude>
+  </city>
+  <city name="Bihogana">
+    <latitude>-3.1261111</latitude>
+    <longitude>30.0319444</longitude>
+  </city>
+  <city name="Bihoge">
+    <latitude>-3.2683333</latitude>
+    <longitude>30.5683333</longitude>
+  </city>
+  <city name="Bihomvora">
+    <latitude>-3.5863889</latitude>
+    <longitude>29.7791667</longitude>
+  </city>
+  <city name="Bihororo">
+    <latitude>-3.475</latitude>
+    <longitude>30.0913889</longitude>
+  </city>
+  <city name="Bikanka">
+    <latitude>-3.5491667</latitude>
+    <longitude>29.5613889</longitude>
+  </city>
+  <city name="Bikingi">
+    <latitude>-4.1883333</latitude>
+    <longitude>29.99</longitude>
+  </city>
+  <city name="Bikobe">
+    <latitude>-4.3455556</latitude>
+    <longitude>29.7961111</longitude>
+  </city>
+  <city name="Binyura">
+    <latitude>-4.0541667</latitude>
+    <longitude>29.6241667</longitude>
+  </city>
+  <city name="Binyuro">
+    <latitude>-4.0541667</latitude>
+    <longitude>29.6241667</longitude>
+  </city>
+  <city name="Birambi">
+    <latitude>-2.7875</latitude>
+    <longitude>29.9013889</longitude>
+  </city>
+  <city name="Birayi">
+    <latitude>-3.5675</latitude>
+    <longitude>29.4411111</longitude>
+  </city>
+  <city name="Bisenga">
+    <latitude>-3.5763889</latitude>
+    <longitude>30.1575</longitude>
+  </city>
+  <city name="Bishikuzi">
+    <latitude>-3.4758333</latitude>
+    <longitude>30.1172222</longitude>
+  </city>
+  <city name="Bishuri">
+    <latitude>-2.7413889</latitude>
+    <longitude>29.9002778</longitude>
+  </city>
+  <city name="Bisibe">
+    <latitude>-2.8980556</latitude>
+    <longitude>30.3391667</longitude>
+  </city>
+  <city name="Bisiza">
+    <latitude>-2.8463889</latitude>
+    <longitude>29.3663889</longitude>
+  </city>
+  <city name="Bisoro">
+    <latitude>-3.5861111</latitude>
+    <longitude>29.6708333</longitude>
+  </city>
+  <city name="Bitaka">
+    <latitude>-3.5436111</latitude>
+    <longitude>29.9319444</longitude>
+  </city>
+  <city name="Bitare">
+    <latitude>-3.8191667</latitude>
+    <longitude>29.3616667</longitude>
+  </city>
+  <city name="Bitenga">
+    <latitude>-2.8913889</latitude>
+    <longitude>29.8402778</longitude>
+  </city>
+  <city name="Bogogwa">
+    <latitude>-4.3361111</latitude>
+    <longitude>29.6052778</longitude>
+  </city>
+  <city name="Bona">
+    <latitude>-3.3461111</latitude>
+    <longitude>29.48</longitude>
+  </city>
+  <city name="Bubanga">
+    <latitude>-3.0472222</latitude>
+    <longitude>30.2955556</longitude>
+  </city>
+  <city name="Bubanza">
+    <latitude>-3.0833333</latitude>
+    <longitude>29.3944444</longitude>
+  </city>
+  <city name="Bubenga">
+    <latitude>-2.9138889</latitude>
+    <longitude>29.4438889</longitude>
+  </city>
+  <city name="Bubu">
+    <latitude>-3.2272222</latitude>
+    <longitude>29.6738889</longitude>
+  </city>
+  <city name="Bucarenga">
+    <latitude>-3.1366667</latitude>
+    <longitude>30.3141667</longitude>
+  </city>
+  <city name="Bucuzi">
+    <latitude>-2.9108333</latitude>
+    <longitude>29.1922222</longitude>
+  </city>
+  <city name="Budahuga">
+    <latitude>-2.9908333</latitude>
+    <longitude>30.5961111</longitude>
+  </city>
+  <city name="Budida">
+    <latitude>-3.5488889</latitude>
+    <longitude>29.9033333</longitude>
+  </city>
+  <city name="Bugabira">
+    <latitude>-2.5305556</latitude>
+    <longitude>30.0722222</longitude>
+  </city>
+  <city name="Bugabiro">
+    <latitude>-3.2061111</latitude>
+    <longitude>30.5919444</longitude>
+  </city>
+  <city name="Buganda">
+    <latitude>-2.9666667</latitude>
+    <longitude>29.1930556</longitude>
+  </city>
+  <city name="Buganuka">
+    <latitude>-3.0447222</latitude>
+    <longitude>29.9530556</longitude>
+  </city>
+  <city name="Bugarama">
+    <latitude>-3.2916667</latitude>
+    <longitude>29.5458333</longitude>
+  </city>
+  <city name="Bugarure">
+    <latitude>-2.6002778</latitude>
+    <longitude>30.0863889</longitude>
+  </city>
+  <city name="Bugendana">
+    <latitude>-3.2333333</latitude>
+    <longitude>29.9138889</longitude>
+  </city>
+  <city name="Bugeni">
+    <latitude>-4.1825</latitude>
+    <longitude>29.6066667</longitude>
+  </city>
+  <city name="Bugenyuzi">
+    <latitude>-3.0969444</latitude>
+    <longitude>30.0625</longitude>
+  </city>
+  <city name="Bugogo">
+    <latitude>-3.4080556</latitude>
+    <longitude>30.3855556</longitude>
+  </city>
+  <city name="Bugoma">
+    <latitude>-2.4333333</latitude>
+    <longitude>30.4305556</longitude>
+  </city>
+  <city name="Bugomora">
+    <latitude>-2.8655556</latitude>
+    <longitude>30.2952778</longitude>
+  </city>
+  <city name="Bugondo">
+    <latitude>-3.8077778</latitude>
+    <longitude>30.2205556</longitude>
+  </city>
+  <city name="Bugorora">
+    <latitude>-2.655</latitude>
+    <longitude>30.2911111</longitude>
+  </city>
+  <city name="Buhana">
+    <latitude>-3.7855556</latitude>
+    <longitude>29.6558333</longitude>
+  </city>
+  <city name="Buhanda">
+    <latitude>-3.0652778</latitude>
+    <longitude>29.6780556</longitude>
+  </city>
+  <city name="Buhanza">
+    <latitude>-3.7422222</latitude>
+    <longitude>29.3433333</longitude>
+  </city>
+  <city name="Buhasa">
+    <latitude>-2.9883333</latitude>
+    <longitude>30.2608333</longitude>
+  </city>
+  <city name="Buheranyi">
+    <latitude>-3.095</latitude>
+    <longitude>30.3072222</longitude>
+  </city>
+  <city name="Buhevyi">
+    <latitude>-3.575</latitude>
+    <longitude>30.0272222</longitude>
+  </city>
+  <city name="Buhiga">
+    <latitude>-3.0305556</latitude>
+    <longitude>30.1602778</longitude>
+  </city>
+  <city name="Buhigwa">
+    <latitude>-3.3611111</latitude>
+    <longitude>30.1158333</longitude>
+  </city>
+  <city name="Buhigwe">
+    <latitude>-3.3611111</latitude>
+    <longitude>30.1158333</longitude>
+  </city>
+  <city name="Buhinda">
+    <latitude>-3.6086111</latitude>
+    <longitude>30.0863889</longitude>
+  </city>
+  <city name="Buhinyuza">
+    <latitude>-3.765</latitude>
+    <longitude>29.8805556</longitude>
+  </city>
+  <city name="Buhogo">
+    <latitude>-3.5258333</latitude>
+    <longitude>30.2386111</longitude>
+  </city>
+  <city name="Buhonga">
+    <latitude>-3.4330556</latitude>
+    <longitude>29.4127778</longitude>
+  </city>
+  <city name="Buhorana">
+    <latitude>-2.6027778</latitude>
+    <longitude>30.3811111</longitude>
+  </city>
+  <city name="Buhoro">
+    <latitude>-3.0305556</latitude>
+    <longitude>30.725</longitude>
+  </city>
+  <city name="Buhoyo">
+    <latitude>-3.4344444</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Buhu">
+    <latitude>-3.3663889</latitude>
+    <longitude>30.0691667</longitude>
+  </city>
+  <city name="Buhurana">
+    <latitude>-3.1844444</latitude>
+    <longitude>30.2305556</longitude>
+  </city>
+  <city name="Buhwamyi">
+    <latitude>-4.0161111</latitude>
+    <longitude>30.1175</longitude>
+  </city>
+  <city name="Bujumbura">
+    <latitude>-3.3761111</latitude>
+    <longitude>29.36</longitude>
+  </city>
+  <city name="Bujuru">
+    <latitude>-3.5702778</latitude>
+    <longitude>30.2069444</longitude>
+  </city>
+  <city name="Bukamba">
+    <latitude>-3.3555556</latitude>
+    <longitude>30.1013889</longitude>
+  </city>
+  <city name="Bukanda">
+    <latitude>-4.0488889</latitude>
+    <longitude>29.6116667</longitude>
+  </city>
+  <city name="Bukanya">
+    <latitude>-3.1408333</latitude>
+    <longitude>30.2047222</longitude>
+  </city>
+  <city name="Bukemba">
+    <latitude>-3.9833333</latitude>
+    <longitude>29.9180556</longitude>
+  </city>
+  <city name="Bukeye">
+    <latitude>-3.1944444</latitude>
+    <longitude>29.6416667</longitude>
+  </city>
+  <city name="Bukinanyana">
+    <latitude>-2.8805556</latitude>
+    <longitude>29.3361111</longitude>
+  </city>
+  <city name="Bukinga">
+    <latitude>-3.2391667</latitude>
+    <longitude>30.4497222</longitude>
+  </city>
+  <city name="Bukinisha">
+    <latitude>-3.0336111</latitude>
+    <longitude>30.0044444</longitude>
+  </city>
+  <city name="Bukinja">
+    <latitude>-2.9822222</latitude>
+    <longitude>30.3713889</longitude>
+  </city>
+  <city name="Bukirasazi">
+    <latitude>-3.6333333</latitude>
+    <longitude>29.9777778</longitude>
+  </city>
+  <city name="Bukobe">
+    <latitude>-2.4988889</latitude>
+    <longitude>30.4605556</longitude>
+  </city>
+  <city name="Bukorobwa">
+    <latitude>-3.1280556</latitude>
+    <longitude>29.8958333</longitude>
+  </city>
+  <city name="Bukuba">
+    <latitude>-2.6847222</latitude>
+    <longitude>30.0791667</longitude>
+  </city>
+  <city name="Bukukumbo">
+    <latitude>-3.3372222</latitude>
+    <longitude>30.2588889</longitude>
+  </city>
+  <city name="Bukurana">
+    <latitude>-3.2636111</latitude>
+    <longitude>30.5136111</longitude>
+  </city>
+  <city name="Bulamata">
+    <latitude>-3.1513889</latitude>
+    <longitude>29.3472222</longitude>
+  </city>
+  <city name="Bulameta">
+    <latitude>-3.1513889</latitude>
+    <longitude>29.3472222</longitude>
+  </city>
+  <city name="Bumba">
+    <latitude>-2.8513889</latitude>
+    <longitude>29.3541667</longitude>
+  </city>
+  <city name="Bungere">
+    <latitude>-3.5208333</latitude>
+    <longitude>29.9877778</longitude>
+  </city>
+  <city name="Buniha">
+    <latitude>-3.1491667</latitude>
+    <longitude>30.2108333</longitude>
+  </city>
+  <city name="Bura">
+    <latitude>-3.7725</latitude>
+    <longitude>29.545</longitude>
+  </city>
+  <city name="Buramata">
+    <latitude>-3.1513889</latitude>
+    <longitude>29.3472222</longitude>
+  </city>
+  <city name="Burambi">
+    <latitude>-3.8202778</latitude>
+    <longitude>29.5425</longitude>
+  </city>
+  <city name="Buranga">
+    <latitude>-3.5619444</latitude>
+    <longitude>30.1675</longitude>
+  </city>
+  <city name="Buraniro">
+    <latitude>-3.1</latitude>
+    <longitude>29.6513889</longitude>
+  </city>
+  <city name="Burarana">
+    <latitude>-3.3866667</latitude>
+    <longitude>29.8272222</longitude>
+  </city>
+  <city name="Burasira">
+    <latitude>-3.0819444</latitude>
+    <longitude>29.9138889</longitude>
+  </city>
+  <city name="Buraza">
+    <latitude>-3.7513889</latitude>
+    <longitude>29.9063889</longitude>
+  </city>
+  <city name="Burazi">
+    <latitude>-3.0108333</latitude>
+    <longitude>30.2705556</longitude>
+  </city>
+  <city name="Bureau d'arrondissement Kabarore">
+    <latitude>-2.8497222</latitude>
+    <longitude>29.5327778</longitude>
+  </city>
+  <city name="Bureau d'arrondissement Kagoma">
+    <latitude>-2.8669444</latitude>
+    <longitude>29.8527778</longitude>
+  </city>
+  <city name="Bureau d'arrondissement Kigarama">
+    <latitude>-2.8525</latitude>
+    <longitude>29.8994444</longitude>
+  </city>
+  <city name="Bureau d'arrondissement Nyamugari">
+    <latitude>-2.7883333</latitude>
+    <longitude>29.9136111</longitude>
+  </city>
+  <city name="Burembera">
+    <latitude>-3.3363889</latitude>
+    <longitude>30.0072222</longitude>
+  </city>
+  <city name="Burenza">
+    <latitude>-2.9197222</latitude>
+    <longitude>30.3138889</longitude>
+  </city>
+  <city name="Buriga">
+    <latitude>-3.1672222</latitude>
+    <longitude>29.8025</longitude>
+  </city>
+  <city name="Burima">
+    <latitude>-3.0227778</latitude>
+    <longitude>30.2769444</longitude>
+  </city>
+  <city name="Burindira">
+    <latitude>-2.6736111</latitude>
+    <longitude>30.1483333</longitude>
+  </city>
+  <city name="Buringa">
+    <latitude>-2.6472222</latitude>
+    <longitude>30.0305556</longitude>
+  </city>
+  <city name="Buruhukiro">
+    <latitude>-4.0002778</latitude>
+    <longitude>29.5169444</longitude>
+  </city>
+  <city name="Burume">
+    <latitude>-3.7586111</latitude>
+    <longitude>30.0544444</longitude>
+  </city>
+  <city name="Burunga">
+    <latitude>-3.6872222</latitude>
+    <longitude>29.8975</longitude>
+  </city>
+  <city name="Bururi">
+    <latitude>-3.9511111</latitude>
+    <longitude>29.6166667</longitude>
+  </city>
+  <city name="Busaro">
+    <latitude>-3.325</latitude>
+    <longitude>30.4083333</longitude>
+  </city>
+  <city name="Busesa">
+    <latitude>-3.8722222</latitude>
+    <longitude>29.4388889</longitude>
+  </city>
+  <city name="Bushabashi">
+    <latitude>-3.5011111</latitude>
+    <longitude>29.9508333</longitude>
+  </city>
+  <city name="Busiga">
+    <latitude>-2.85</latitude>
+    <longitude>29.7444444</longitude>
+  </city>
+  <city name="Busoni">
+    <latitude>-2.5277778</latitude>
+    <longitude>30.2166667</longitude>
+  </city>
+  <city name="Buta">
+    <latitude>-3.9555556</latitude>
+    <longitude>29.7055556</longitude>
+  </city>
+  <city name="Butaganda">
+    <latitude>-2.4691667</latitude>
+    <longitude>30.5</longitude>
+  </city>
+  <city name="Butaganzwa">
+    <latitude>-3.1027778</latitude>
+    <longitude>29.7222222</longitude>
+  </city>
+  <city name="Butaha">
+    <latitude>-2.9330556</latitude>
+    <longitude>30.1880556</longitude>
+  </city>
+  <city name="Butahana">
+    <latitude>-2.7416667</latitude>
+    <longitude>29.2527778</longitude>
+  </city>
+  <city name="Butambala">
+    <latitude>-3.9741667</latitude>
+    <longitude>29.9755556</longitude>
+  </city>
+  <city name="Butambara">
+    <latitude>-3.9741667</latitude>
+    <longitude>29.9755556</longitude>
+  </city>
+  <city name="Butambuka">
+    <latitude>-2.4880556</latitude>
+    <longitude>30.4666667</longitude>
+  </city>
+  <city name="Butanuka">
+    <latitude>-3.1486111</latitude>
+    <longitude>29.4347222</longitude>
+  </city>
+  <city name="Butara">
+    <latitude>-2.8847222</latitude>
+    <longitude>29.3375</longitude>
+  </city>
+  <city name="Butare">
+    <latitude>-3.6097222</latitude>
+    <longitude>30.4119444</longitude>
+  </city>
+  <city name="Butarugera">
+    <latitude>-2.6611111</latitude>
+    <longitude>30.3777778</longitude>
+  </city>
+  <city name="Butarumanga">
+    <latitude>-2.4808333</latitude>
+    <longitude>30.4686111</longitude>
+  </city>
+  <city name="Butega">
+    <latitude>-2.9619444</latitude>
+    <longitude>29.3936111</longitude>
+  </city>
+  <city name="Butegana">
+    <latitude>-3.3780556</latitude>
+    <longitude>29.9602778</longitude>
+  </city>
+  <city name="Buterama">
+    <latitude>-3.6866667</latitude>
+    <longitude>29.8480556</longitude>
+  </city>
+  <city name="Butezi">
+    <latitude>-3.3972222</latitude>
+    <longitude>30.1555556</longitude>
+  </city>
+  <city name="Butihinda">
+    <latitude>-2.7166667</latitude>
+    <longitude>30.3180556</longitude>
+  </city>
+  <city name="Butimbo">
+    <latitude>-3.1936111</latitude>
+    <longitude>29.6558333</longitude>
+  </city>
+  <city name="Butoga">
+    <latitude>-2.8013889</latitude>
+    <longitude>30.2594444</longitude>
+  </city>
+  <city name="Butora">
+    <latitude>-3.5136111</latitude>
+    <longitude>29.6433333</longitude>
+  </city>
+  <city name="Butwe">
+    <latitude>-3.2311111</latitude>
+    <longitude>29.8313889</longitude>
+  </city>
+  <city name="Buvumo">
+    <latitude>-3.4644444</latitude>
+    <longitude>30.2413889</longitude>
+  </city>
+  <city name="Buvuzo">
+    <latitude>-3.3838889</latitude>
+    <longitude>29.8047222</longitude>
+  </city>
+  <city name="Buvyuko">
+    <latitude>-3.0969444</latitude>
+    <longitude>29.3319444</longitude>
+  </city>
+  <city name="Buye">
+    <latitude>-2.8638889</latitude>
+    <longitude>29.8208333</longitude>
+  </city>
+  <city name="Buyengero">
+    <latitude>-3.8202778</latitude>
+    <longitude>29.5425</longitude>
+  </city>
+  <city name="Buyenzi">
+    <latitude>-3.6166667</latitude>
+    <longitude>29.3472222</longitude>
+  </city>
+  <city name="Buyogoma">
+    <latitude>-3.2833333</latitude>
+    <longitude>30.3958333</longitude>
+  </city>
+  <city name="Buzamana">
+    <latitude>-3.8872222</latitude>
+    <longitude>29.5472222</longitude>
+  </city>
+  <city name="Buzigo">
+    <latitude>-2.6333333</latitude>
+    <longitude>30.2180556</longitude>
+  </city>
+  <city name="Buziracanda">
+    <latitude>-3.3713889</latitude>
+    <longitude>29.7444444</longitude>
+  </city>
+  <city name="Buzirachanda">
+    <latitude>-3.3713889</latitude>
+    <longitude>29.7444444</longitude>
+  </city>
+  <city name="Buziramabinga">
+    <latitude>-3.1183333</latitude>
+    <longitude>30.5175</longitude>
+  </city>
+  <city name="Buzirambenga">
+    <latitude>-3.665</latitude>
+    <longitude>29.83</longitude>
+  </city>
+  <city name="Buzirampfunya">
+    <latitude>-3.14</latitude>
+    <longitude>29.8266667</longitude>
+  </city>
+  <city name="Buziramugayo">
+    <latitude>-2.8311111</latitude>
+    <longitude>30.2269444</longitude>
+  </city>
+  <city name="Bwambarangwe">
+    <latitude>-2.5833333</latitude>
+    <longitude>30.3333333</longitude>
+  </city>
+  <city name="Bwasare">
+    <latitude>-3.1452778</latitude>
+    <longitude>30.1919444</longitude>
+  </city>
+  <city name="Bwashisha">
+    <latitude>-2.4411111</latitude>
+    <longitude>30.5127778</longitude>
+  </city>
+  <city name="Bweru">
+    <latitude>-3.3236111</latitude>
+    <longitude>30.4708333</longitude>
+  </city>
+  <city name="Bwirakare">
+    <latitude>-2.7294444</latitude>
+    <longitude>29.9836111</longitude>
+  </city>
+  <city name="Bwiza">
+    <latitude>-3.3725</latitude>
+    <longitude>29.365</longitude>
+  </city>
+  <city name="Bwumanyi">
+    <latitude>-3.3630556</latitude>
+    <longitude>30.1366667</longitude>
+  </city>
+  <city name="Byamihoro">
+    <latitude>-3.3011111</latitude>
+    <longitude>30.34</longitude>
+  </city>
+  <city name="Cabire">
+    <latitude>-3.0877778</latitude>
+    <longitude>29.3508333</longitude>
+  </city>
+  <city name="Cakaka">
+    <latitude>-3.3913889</latitude>
+    <longitude>29.7644444</longitude>
+  </city>
+  <city name="Camazi">
+    <latitude>-2.835</latitude>
+    <longitude>30.0077778</longitude>
+  </city>
+  <city name="Cana">
+    <latitude>-3.5008333</latitude>
+    <longitude>29.9894444</longitude>
+  </city>
+  <city name="Canika">
+    <latitude>-3.7647222</latitude>
+    <longitude>29.6683333</longitude>
+  </city>
+  <city name="Cankuzo">
+    <latitude>-3.2194444</latitude>
+    <longitude>30.5527778</longitude>
+  </city>
+  <city name="Canzu">
+    <latitude>-3.6563889</latitude>
+    <longitude>30.08</longitude>
+  </city>
+  <city name="Carire">
+    <latitude>-3.2941667</latitude>
+    <longitude>30.0730556</longitude>
+  </city>
+  <city name="Cendajuru">
+    <latitude>-3.3041667</latitude>
+    <longitude>30.5911111</longitude>
+  </city>
+  <city name="Cera">
+    <latitude>-2.8858333</latitude>
+    <longitude>29.8816667</longitude>
+  </city>
+  <city name="Ceru">
+    <latitude>-3.0877778</latitude>
+    <longitude>29.7652778</longitude>
+  </city>
+  <city name="Cewe">
+    <latitude>-3.6922222</latitude>
+    <longitude>29.7572222</longitude>
+  </city>
+  <city name="Chanzu">
+    <latitude>-3.6563889</latitude>
+    <longitude>30.08</longitude>
+  </city>
+  <city name="Cibitoke">
+    <latitude>-3.3427778</latitude>
+    <longitude>29.3702778</longitude>
+  </city>
+  <city name="Cibwire">
+    <latitude>-3.7747222</latitude>
+    <longitude>29.6502778</longitude>
+  </city>
+  <city name="Cigome">
+    <latitude>-3.6233333</latitude>
+    <longitude>29.5419444</longitude>
+  </city>
+  <city name="Cirisha">
+    <latitude>-3.3622222</latitude>
+    <longitude>29.4927778</longitude>
+  </city>
+  <city name="Cishwa">
+    <latitude>-3.0494444</latitude>
+    <longitude>29.8597222</longitude>
+  </city>
+  <city name="Civugiza">
+    <latitude>-3.2061111</latitude>
+    <longitude>29.7558333</longitude>
+  </city>
+  <city name="Ciyando">
+    <latitude>-3.3988889</latitude>
+    <longitude>30.0897222</longitude>
+  </city>
+  <city name="Ciyubake">
+    <latitude>-3.8097222</latitude>
+    <longitude>29.7691667</longitude>
+  </city>
+  <city name="Coganyi">
+    <latitude>-3.2333333</latitude>
+    <longitude>29.6775</longitude>
+  </city>
+  <city name="Coganyoni">
+    <latitude>-3.3413889</latitude>
+    <longitude>30.5377778</longitude>
+  </city>
+  <city name="Cogo">
+    <latitude>-3.0819444</latitude>
+    <longitude>30.1266667</longitude>
+  </city>
+  <city name="Condi">
+    <latitude>-3.8122222</latitude>
+    <longitude>29.8305556</longitude>
+  </city>
+  <city name="Cugaro">
+    <latitude>-3.6108333</latitude>
+    <longitude>29.7677778</longitude>
+  </city>
+  <city name="Cumba">
+    <latitude>-2.9194444</latitude>
+    <longitude>30.3069444</longitude>
+  </city>
+  <city name="Cunda">
+    <latitude>-3.7486111</latitude>
+    <longitude>29.6105556</longitude>
+  </city>
+  <city name="Cunywe">
+    <latitude>-3.24</latitude>
+    <longitude>29.8905556</longitude>
+  </city>
+  <city name="Curiza">
+    <latitude>-3.6352778</latitude>
+    <longitude>29.7902778</longitude>
+  </city>
+  <city name="Dabambe">
+    <latitude>-3.9388889</latitude>
+    <longitude>30.0033333</longitude>
+  </city>
+  <city name="Donzi">
+    <latitude>-3.7383333</latitude>
+    <longitude>29.4694444</longitude>
+  </city>
+  <city name="Dunga">
+    <latitude>-4.1505556</latitude>
+    <longitude>29.9322222</longitude>
+  </city>
+  <city name="Dutwaro">
+    <latitude>-3.3205556</latitude>
+    <longitude>29.8611111</longitude>
+  </city>
+  <city name="Fota">
+    <latitude>-3.4388889</latitude>
+    <longitude>29.7041667</longitude>
+  </city>
+  <city name="Funzwe">
+    <latitude>-3.7016667</latitude>
+    <longitude>30.3594444</longitude>
+  </city>
+  <city name="Gabuke">
+    <latitude>-3.3447222</latitude>
+    <longitude>29.9683333</longitude>
+  </city>
+  <city name="Gacaca">
+    <latitude>-3.4561111</latitude>
+    <longitude>29.8608333</longitude>
+  </city>
+  <city name="Gacekwe">
+    <latitude>-3.4319444</latitude>
+    <longitude>30.5527778</longitude>
+  </city>
+  <city name="Gacokwe">
+    <latitude>-3.4319444</latitude>
+    <longitude>30.5527778</longitude>
+  </city>
+  <city name="Gacu">
+    <latitude>-2.4680556</latitude>
+    <longitude>30.4408333</longitude>
+  </city>
+  <city name="Gafunzo">
+    <latitude>-3.3069444</latitude>
+    <longitude>30.16</longitude>
+  </city>
+  <city name="Gahabwa">
+    <latitude>-2.8919444</latitude>
+    <longitude>29.2219444</longitude>
+  </city>
+  <city name="Gahagaze">
+    <latitude>-3.6586111</latitude>
+    <longitude>29.5663889</longitude>
+  </city>
+  <city name="Gahaharo">
+    <latitude>-2.7713889</latitude>
+    <longitude>30.2594444</longitude>
+  </city>
+  <city name="Gahahe">
+    <latitude>-3.3325</latitude>
+    <longitude>29.82</longitude>
+  </city>
+  <city name="Gahama">
+    <latitude>-4.0161111</latitude>
+    <longitude>29.6627778</longitude>
+  </city>
+  <city name="Gahe">
+    <latitude>-3.175</latitude>
+    <longitude>29.9075</longitude>
+  </city>
+  <city name="Gaheka">
+    <latitude>-3.0111111</latitude>
+    <longitude>29.9636111</longitude>
+  </city>
+  <city name="Gahembe">
+    <latitude>-4.0152778</latitude>
+    <longitude>29.8769444</longitude>
+  </city>
+  <city name="Gahera">
+    <latitude>-2.9936111</latitude>
+    <longitude>30.5583333</longitude>
+  </city>
+  <city name="Gahinasazi">
+    <latitude>-2.9619444</latitude>
+    <longitude>29.4522222</longitude>
+  </city>
+  <city name="Gahinga">
+    <latitude>-4.2308333</latitude>
+    <longitude>29.7263889</longitude>
+  </city>
+  <city name="Gahise">
+    <latitude>-3.065</latitude>
+    <longitude>29.4469444</longitude>
+  </city>
+  <city name="Gahisi">
+    <latitude>-3.2233333</latitude>
+    <longitude>29.7738889</longitude>
+  </city>
+  <city name="Gahombo">
+    <latitude>-3.0208333</latitude>
+    <longitude>29.7680556</longitude>
+  </city>
+  <city name="Gahondo">
+    <latitude>-3.5916667</latitude>
+    <longitude>30.1827778</longitude>
+  </city>
+  <city name="Gahororo">
+    <latitude>-3.1477778</latitude>
+    <longitude>29.9516667</longitude>
+  </city>
+  <city name="Gahumba">
+    <latitude>-3.1197222</latitude>
+    <longitude>29.9827778</longitude>
+  </city>
+  <city name="Gahuro">
+    <latitude>-3.3991667</latitude>
+    <longitude>29.8316667</longitude>
+  </city>
+  <city name="Gahuru">
+    <latitude>-2.9191667</latitude>
+    <longitude>29.175</longitude>
+  </city>
+  <city name="Gahwije">
+    <latitude>-2.4383333</latitude>
+    <longitude>30.0141667</longitude>
+  </city>
+  <city name="Gakaka">
+    <latitude>-3.3913889</latitude>
+    <longitude>29.7644444</longitude>
+  </city>
+  <city name="Gakaze">
+    <latitude>-3.2633333</latitude>
+    <longitude>30.4038889</longitude>
+  </city>
+  <city name="Gakere">
+    <latitude>-2.8541667</latitude>
+    <longitude>30.0430556</longitude>
+  </city>
+  <city name="Gakoko">
+    <latitude>-2.9225</latitude>
+    <longitude>29.3236111</longitude>
+  </city>
+  <city name="Gakoma">
+    <latitude>-3.7555556</latitude>
+    <longitude>30.0202778</longitude>
+  </city>
+  <city name="Gakombe">
+    <latitude>-3.6008333</latitude>
+    <longitude>29.7972222</longitude>
+  </city>
+  <city name="Gakome">
+    <latitude>-2.6905556</latitude>
+    <longitude>29.0894444</longitude>
+  </city>
+  <city name="Gakore">
+    <latitude>-3.4238889</latitude>
+    <longitude>30.5877778</longitude>
+  </city>
+  <city name="Gakungwe">
+    <latitude>-3.4944444</latitude>
+    <longitude>29.3527778</longitude>
+  </city>
+  <city name="Gakwande">
+    <latitude>-3.9602778</latitude>
+    <longitude>29.8766667</longitude>
+  </city>
+  <city name="Gakwende">
+    <latitude>-3.9602778</latitude>
+    <longitude>29.8766667</longitude>
+  </city>
+  <city name="Ganga">
+    <latitude>-3.5180556</latitude>
+    <longitude>29.3861111</longitude>
+  </city>
+  <city name="Gasaba">
+    <latitude>-4.3733333</latitude>
+    <longitude>29.8547222</longitude>
+  </city>
+  <city name="Gasabira">
+    <latitude>-3.1319444</latitude>
+    <longitude>29.7555556</longitude>
+  </city>
+  <city name="Gasaka">
+    <latitude>-3.7636111</latitude>
+    <longitude>30.2397222</longitude>
+  </city>
+  <city name="Gasana">
+    <latitude>-4.0533333</latitude>
+    <longitude>30.1425</longitude>
+  </city>
+  <city name="Gasanda">
+    <latitude>-3.3911111</latitude>
+    <longitude>29.8497222</longitude>
+  </city>
+  <city name="Gasaraga">
+    <latitude>-3.5563889</latitude>
+    <longitude>29.8672222</longitude>
+  </city>
+  <city name="Gasarara">
+    <latitude>-3.405</latitude>
+    <longitude>29.4288889</longitude>
+  </city>
+  <city name="Gasasira">
+    <latitude>-3.5802778</latitude>
+    <longitude>29.4508333</longitude>
+  </city>
+  <city name="Gasave">
+    <latitude>-3.5611111</latitude>
+    <longitude>29.7622222</longitude>
+  </city>
+  <city name="Gasebeye">
+    <latitude>-2.5388889</latitude>
+    <longitude>29.9455556</longitude>
+  </city>
+  <city name="Gasegwa">
+    <latitude>-2.8161111</latitude>
+    <longitude>30.0552778</longitude>
+  </city>
+  <city name="Gasema">
+    <latitude>-3.7686111</latitude>
+    <longitude>29.5694444</longitude>
+  </city>
+  <city name="Gaseme">
+    <latitude>-2.5688889</latitude>
+    <longitude>30.2355556</longitude>
+  </city>
+  <city name="Gasemo">
+    <latitude>-3.0688889</latitude>
+    <longitude>30.2613889</longitude>
+  </city>
+  <city name="Gasenyi">
+    <latitude>-3.5286111</latitude>
+    <longitude>29.4311111</longitude>
+  </city>
+  <city name="Gaseru">
+    <latitude>-3.5205556</latitude>
+    <longitude>29.3986111</longitude>
+  </city>
+  <city name="Gasezerwa">
+    <latitude>-2.8958333</latitude>
+    <longitude>30.1083333</longitude>
+  </city>
+  <city name="Gashanga">
+    <latitude>-3.2872222</latitude>
+    <longitude>29.8016667</longitude>
+  </city>
+  <city name="Gashashara">
+    <latitude>-3.1841667</latitude>
+    <longitude>29.5163889</longitude>
+  </city>
+  <city name="Gashikanwa">
+    <latitude>-2.5838889</latitude>
+    <longitude>30.3891667</longitude>
+  </city>
+  <city name="Gashingura">
+    <latitude>-3.6502778</latitude>
+    <longitude>29.8416667</longitude>
+  </city>
+  <city name="Gashirwe">
+    <latitude>-3.0875</latitude>
+    <longitude>30.5858333</longitude>
+  </city>
+  <city name="Gashoho">
+    <latitude>-2.8216667</latitude>
+    <longitude>30.1397222</longitude>
+  </city>
+  <city name="Gashoka">
+    <latitude>-3.0777778</latitude>
+    <longitude>29.7552778</longitude>
+  </city>
+  <city name="Gashwi">
+    <latitude>-2.9422222</latitude>
+    <longitude>29.7586111</longitude>
+  </city>
+  <city name="Gasibe">
+    <latitude>-3.6997222</latitude>
+    <longitude>29.6761111</longitude>
+  </city>
+  <city name="Gasigati">
+    <latitude>-3.3755556</latitude>
+    <longitude>30.0816667</longitude>
+  </city>
+  <city name="Gasigwa">
+    <latitude>-3.2697222</latitude>
+    <longitude>29.9113889</longitude>
+  </city>
+  <city name="Gasivya">
+    <latitude>-3.6752778</latitude>
+    <longitude>29.7013889</longitude>
+  </city>
+  <city name="Gasobane">
+    <latitude>-2.5341667</latitude>
+    <longitude>30.4461111</longitude>
+  </city>
+  <city name="Gasongati">
+    <latitude>-3.4463889</latitude>
+    <longitude>29.8238889</longitude>
+  </city>
+  <city name="Gasorwe">
+    <latitude>-2.8527778</latitude>
+    <longitude>30.2194444</longitude>
+  </city>
+  <city name="Gasozi">
+    <latitude>-3.6577778</latitude>
+    <longitude>30.2183333</longitude>
+  </city>
+  <city name="Gasumba">
+    <latitude>-3.1058333</latitude>
+    <longitude>30.6633333</longitude>
+  </city>
+  <city name="Gasunu">
+    <latitude>-3.3691667</latitude>
+    <longitude>30.0502778</longitude>
+  </city>
+  <city name="Gasura">
+    <latitude>-2.6875</latitude>
+    <longitude>30.1027778</longitude>
+  </city>
+  <city name="Gasurubwe">
+    <latitude>-2.9541667</latitude>
+    <longitude>29.2916667</longitude>
+  </city>
+  <city name="Gasyangiri">
+    <latitude>-3.3458333</latitude>
+    <longitude>30.42</longitude>
+  </city>
+  <city name="Gatabo">
+    <latitude>-3.2075</latitude>
+    <longitude>30.4444444</longitude>
+  </city>
+  <city name="Gatanga">
+    <latitude>-3.9547222</latitude>
+    <longitude>29.6319444</longitude>
+  </city>
+  <city name="Gatanganikwa">
+    <latitude>-3.1461111</latitude>
+    <longitude>30.1452778</longitude>
+  </city>
+  <city name="Gatara">
+    <latitude>-2.9888889</latitude>
+    <longitude>29.65</longitude>
+  </city>
+  <city name="Gatare">
+    <latitude>-3.3177778</latitude>
+    <longitude>29.8469444</longitude>
+  </city>
+  <city name="Gateke">
+    <latitude>-2.8486111</latitude>
+    <longitude>30.0238889</longitude>
+  </city>
+  <city name="Gaterama">
+    <latitude>-3.6519444</latitude>
+    <longitude>30.0475</longitude>
+  </city>
+  <city name="Gatete">
+    <latitude>-4.0419444</latitude>
+    <longitude>29.4730556</longitude>
+  </city>
+  <city name="Gatimbiri">
+    <latitude>-3.6211111</latitude>
+    <longitude>30.2813889</longitude>
+  </city>
+  <city name="Gatoke">
+    <latitude>-3.4575</latitude>
+    <longitude>30.3566667</longitude>
+  </city>
+  <city name="Gatonde">
+    <latitude>-3.1711111</latitude>
+    <longitude>29.9508333</longitude>
+  </city>
+  <city name="Gatongati">
+    <latitude>-3.4783333</latitude>
+    <longitude>29.6513889</longitude>
+  </city>
+  <city name="Gatongo">
+    <latitude>-3.2577778</latitude>
+    <longitude>29.9886111</longitude>
+  </city>
+  <city name="Gatonyangira">
+    <latitude>-4.3694444</latitude>
+    <longitude>29.6433333</longitude>
+  </city>
+  <city name="Gatsiro">
+    <latitude>-3.6547222</latitude>
+    <longitude>29.8819444</longitude>
+  </city>
+  <city name="Gatumba">
+    <latitude>-3.3333333</latitude>
+    <longitude>29.25</longitude>
+  </city>
+  <city name="Gatumbura">
+    <latitude>-3.7047222</latitude>
+    <longitude>30.2272222</longitude>
+  </city>
+  <city name="Gatumbuzi">
+    <latitude>-3.0630556</latitude>
+    <longitude>29.8147222</longitude>
+  </city>
+  <city name="Gatungaboro">
+    <latitude>-2.8741667</latitude>
+    <longitude>30.1225</longitude>
+  </city>
+  <city name="Gatunguru">
+    <latitude>-3.2180556</latitude>
+    <longitude>29.9713889</longitude>
+  </city>
+  <city name="Gatwaro">
+    <latitude>-3.52</latitude>
+    <longitude>29.6730556</longitude>
+  </city>
+  <city name="Gatwe">
+    <latitude>-3.5997222</latitude>
+    <longitude>29.5688889</longitude>
+  </city>
+  <city name="Gicaca">
+    <latitude>-3.4508333</latitude>
+    <longitude>30.5194444</longitude>
+  </city>
+  <city name="Gicumboro">
+    <latitude>-3.1975</latitude>
+    <longitude>30.3941667</longitude>
+  </city>
+  <city name="Gicumburo">
+    <latitude>-3.1975</latitude>
+    <longitude>30.3941667</longitude>
+  </city>
+  <city name="Gicungwe">
+    <latitude>-3.7055556</latitude>
+    <longitude>29.5366667</longitude>
+  </city>
+  <city name="Gifunzo">
+    <latitude>-3.2383333</latitude>
+    <longitude>30.1008333</longitude>
+  </city>
+  <city name="Gihamagara">
+    <latitude>-3.0225</latitude>
+    <longitude>30.16</longitude>
+  </city>
+  <city name="Gihama">
+    <latitude>-2.6261111</latitude>
+    <longitude>30.2938889</longitude>
+  </city>
+  <city name="Gihamba">
+    <latitude>-3.5525</latitude>
+    <longitude>30.0380556</longitude>
+  </city>
+  <city name="Gihanga">
+    <latitude>-3.1947222</latitude>
+    <longitude>29.2952778</longitude>
+  </city>
+  <city name="Gihango">
+    <latitude>-2.8997222</latitude>
+    <longitude>29.3791667</longitude>
+  </city>
+  <city name="Giharo">
+    <latitude>-3.7816667</latitude>
+    <longitude>30.2333333</longitude>
+  </city>
+  <city name="Giheko">
+    <latitude>-3.8555556</latitude>
+    <longitude>30.2052778</longitude>
+  </city>
+  <city name="Giheru">
+    <latitude>-3.0194444</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Giheta">
+    <latitude>-3.8908333</latitude>
+    <longitude>29.5013889</longitude>
+  </city>
+  <city name="Gihindwe">
+    <latitude>-2.9119444</latitude>
+    <longitude>29.9077778</longitude>
+  </city>
+  <city name="Gihingo">
+    <latitude>-2.7</latitude>
+    <longitude>30.2891667</longitude>
+  </city>
+  <city name="Gihofi">
+    <latitude>-3.9875</latitude>
+    <longitude>30.1277778</longitude>
+  </city>
+  <city name="Gihogazi">
+    <latitude>-3.115</latitude>
+    <longitude>29.9988889</longitude>
+  </city>
+  <city name="Gihoma">
+    <latitude>-3.0533333</latitude>
+    <longitude>30.2794444</longitude>
+  </city>
+  <city name="Gihomba">
+    <latitude>-2.8461111</latitude>
+    <longitude>29.0841667</longitude>
+  </city>
+  <city name="Gihongoro">
+    <latitude>-4.1430556</latitude>
+    <longitude>29.8269444</longitude>
+  </city>
+  <city name="Gihoro">
+    <latitude>-3.8697222</latitude>
+    <longitude>29.6119444</longitude>
+  </city>
+  <city name="Gihororo">
+    <latitude>-2.6905556</latitude>
+    <longitude>29.9494444</longitude>
+  </city>
+  <city name="Gihosho">
+    <latitude>-3.3397222</latitude>
+    <longitude>29.4152778</longitude>
+  </city>
+  <city name="Gihovu">
+    <latitude>-3.6772222</latitude>
+    <longitude>30.0338889</longitude>
+  </city>
+  <city name="Gihungwe">
+    <latitude>-3.15</latitude>
+    <longitude>29.25</longitude>
+  </city>
+  <city name="Gikobe">
+    <latitude>-3.095</latitude>
+    <longitude>30.2811111</longitude>
+  </city>
+  <city name="Gikokoma">
+    <latitude>-3.8988889</latitude>
+    <longitude>29.6038889</longitude>
+  </city>
+  <city name="Gikombe">
+    <latitude>-3.1827778</latitude>
+    <longitude>29.9866667</longitude>
+  </city>
+  <city name="Gikore">
+    <latitude>-2.8036111</latitude>
+    <longitude>29.8597222</longitude>
+  </city>
+  <city name="Gikundamvura">
+    <latitude>-2.98</latitude>
+    <longitude>29.835</longitude>
+  </city>
+  <city name="Gikurazo">
+    <latitude>-4.2125</latitude>
+    <longitude>29.8272222</longitude>
+  </city>
+  <city name="Gikuyo">
+    <latitude>-3.1916667</latitude>
+    <longitude>29.7627778</longitude>
+  </city>
+  <city name="Gipfizi">
+    <latitude>-3.7269444</latitude>
+    <longitude>29.3469444</longitude>
+  </city>
+  <city name="Gisaba">
+    <latitude>-2.8566667</latitude>
+    <longitude>29.1372222</longitude>
+  </city>
+  <city name="Gisagara">
+    <latitude>-3.205</latitude>
+    <longitude>30.6844444</longitude>
+  </city>
+  <city name="Gisagazuba">
+    <latitude>-3.7258333</latitude>
+    <longitude>29.4458333</longitude>
+  </city>
+  <city name="Gisangazuba">
+    <latitude>-3.7258333</latitude>
+    <longitude>29.4458333</longitude>
+  </city>
+  <city name="Gisanze">
+    <latitude>-2.7791667</latitude>
+    <longitude>30.1805556</longitude>
+  </city>
+  <city name="Gisarenda">
+    <latitude>-3.7683333</latitude>
+    <longitude>29.7177778</longitude>
+  </city>
+  <city name="Gisasa">
+    <latitude>-2.9827778</latitude>
+    <longitude>30.6366667</longitude>
+  </city>
+  <city name="Giseke">
+    <latitude>-3.06</latitude>
+    <longitude>30.7172222</longitude>
+  </city>
+  <city name="Gisenga">
+    <latitude>-3.0305556</latitude>
+    <longitude>30.5572222</longitude>
+  </city>
+  <city name="Gisenyi">
+    <latitude>-3.1130556</latitude>
+    <longitude>29.6944444</longitude>
+  </city>
+  <city name="Gisezerwa">
+    <latitude>-2.6941667</latitude>
+    <longitude>30.0933333</longitude>
+  </city>
+  <city name="Gisha">
+    <latitude>-2.9144444</latitude>
+    <longitude>29.9716667</longitude>
+  </city>
+  <city name="Gishami">
+    <latitude>-3.2136111</latitude>
+    <longitude>30.7125</longitude>
+  </city>
+  <city name="Gishehe">
+    <latitude>-2.5872222</latitude>
+    <longitude>30.3541667</longitude>
+  </city>
+  <city name="Gishiha">
+    <latitude>-3.7827778</latitude>
+    <longitude>29.7097222</longitude>
+  </city>
+  <city name="Gishinge">
+    <latitude>-3.6897222</latitude>
+    <longitude>29.3738889</longitude>
+  </city>
+  <city name="Gishingwe">
+    <latitude>-3.4233333</latitude>
+    <longitude>30.3755556</longitude>
+  </city>
+  <city name="Gishita">
+    <latitude>-4.1052778</latitude>
+    <longitude>29.7072222</longitude>
+  </city>
+  <city name="Gishubi">
+    <latitude>-3.6263889</latitude>
+    <longitude>29.8611111</longitude>
+  </city>
+  <city name="Gishungo">
+    <latitude>-3.0669444</latitude>
+    <longitude>30.6769444</longitude>
+  </city>
+  <city name="Gisibe">
+    <latitude>-3.7422222</latitude>
+    <longitude>30.0761111</longitude>
+  </city>
+  <city name="Gisivya">
+    <latitude>-2.9813889</latitude>
+    <longitude>30.3236111</longitude>
+  </city>
+  <city name="Gisiza">
+    <latitude>-2.8913889</latitude>
+    <longitude>29.8941667</longitude>
+  </city>
+  <city name="Gisoko">
+    <latitude>-2.6313889</latitude>
+    <longitude>30.2319444</longitude>
+  </city>
+  <city name="Gisonzoka">
+    <latitude>-2.9813889</latitude>
+    <longitude>29.9680556</longitude>
+  </city>
+  <city name="Gisoro">
+    <latitude>-3.6455556</latitude>
+    <longitude>30.0177778</longitude>
+  </city>
+  <city name="Gisorora">
+    <latitude>-3.4122222</latitude>
+    <longitude>30.3027778</longitude>
+  </city>
+  <city name="Gisovu">
+    <latitude>-2.7816667</latitude>
+    <longitude>29.1388889</longitude>
+  </city>
+  <city name="Gisozi">
+    <latitude>-3.5722222</latitude>
+    <longitude>29.6794444</longitude>
+  </city>
+  <city name="Gisuma">
+    <latitude>-3.1180556</latitude>
+    <longitude>30.4141667</longitude>
+  </city>
+  <city name="Gisure">
+    <latitude>-3.9138889</latitude>
+    <longitude>29.4444444</longitude>
+  </city>
+  <city name="Gisuru">
+    <latitude>-3.2369444</latitude>
+    <longitude>30.6502778</longitude>
+  </city>
+  <city name="Gitaba">
+    <latitude>-3.2058333</latitude>
+    <longitude>29.8591667</longitude>
+  </city>
+  <city name="Gitabi">
+    <latitude>-3.2069444</latitude>
+    <longitude>29.4716667</longitude>
+  </city>
+  <city name="Gitabo">
+    <latitude>-3.7586111</latitude>
+    <longitude>29.9075</longitude>
+  </city>
+  <city name="Gitambutso">
+    <latitude>-4.0088889</latitude>
+    <longitude>29.8938889</longitude>
+  </city>
+  <city name="Gitamo">
+    <latitude>-2.6169444</latitude>
+    <longitude>30.2652778</longitude>
+  </city>
+  <city name="Gitanga">
+    <latitude>-3.3472222</latitude>
+    <longitude>30.6069444</longitude>
+  </city>
+  <city name="Gitanganika">
+    <latitude>-3.8233333</latitude>
+    <longitude>29.7422222</longitude>
+  </city>
+  <city name="Gitangaro">
+    <latitude>-3.1855556</latitude>
+    <longitude>29.6963889</longitude>
+  </city>
+  <city name="Gitara">
+    <latitude>-3.5616667</latitude>
+    <longitude>29.6441667</longitude>
+  </city>
+  <city name="Gitaramuka">
+    <latitude>-3.4691667</latitude>
+    <longitude>29.3688889</longitude>
+  </city>
+  <city name="Gitare">
+    <latitude>-3.2077778</latitude>
+    <longitude>30.6</longitude>
+  </city>
+  <city name="Gitarurwa">
+    <latitude>-3.5172222</latitude>
+    <longitude>29.6433333</longitude>
+  </city>
+  <city name="Gitega">
+    <latitude>-3.1783333</latitude>
+    <longitude>29.6683333</longitude>
+  </city>
+  <city name="Gitema">
+    <latitude>-3.3955556</latitude>
+    <longitude>30.1436111</longitude>
+  </city>
+  <city name="Gitenga">
+    <latitude>-3.6058333</latitude>
+    <longitude>29.9358333</longitude>
+  </city>
+  <city name="Giteranyi">
+    <latitude>-2.4841667</latitude>
+    <longitude>30.465</longitude>
+  </city>
+  <city name="Gitete">
+    <latitude>-2.4797222</latitude>
+    <longitude>30.3383333</longitude>
+  </city>
+  <city name="Gitezi">
+    <latitude>-3.8519444</latitude>
+    <longitude>29.5561111</longitude>
+  </city>
+  <city name="Gitibu">
+    <latitude>-3.1869444</latitude>
+    <longitude>30.575</longitude>
+  </city>
+  <city name="Gitobe">
+    <latitude>-2.65</latitude>
+    <longitude>30.2013889</longitude>
+  </city>
+  <city name="Gitobwe">
+    <latitude>-3.0497222</latitude>
+    <longitude>29.7372222</longitude>
+  </city>
+  <city name="Gitongo">
+    <latitude>-3.1833333</latitude>
+    <longitude>29.8722222</longitude>
+  </city>
+  <city name="Gitongwe">
+    <latitude>-3.8586111</latitude>
+    <longitude>29.4508333</longitude>
+  </city>
+  <city name="Gitovu">
+    <latitude>-3.3616667</latitude>
+    <longitude>30.5941667</longitude>
+  </city>
+  <city name="Gitsiro">
+    <latitude>-3.4222222</latitude>
+    <longitude>30.3397222</longitude>
+  </city>
+  <city name="Gitumba">
+    <latitude>-3.8083333</latitude>
+    <longitude>29.6647222</longitude>
+  </city>
+  <city name="Gitunguru">
+    <latitude>-4.1563889</latitude>
+    <longitude>29.63</longitude>
+  </city>
+  <city name="Gitura">
+    <latitude>-3.2786111</latitude>
+    <longitude>30.6475</longitude>
+  </city>
+  <city name="Gitwa">
+    <latitude>-3.5902778</latitude>
+    <longitude>29.7144444</longitude>
+  </city>
+  <city name="Gitwaro">
+    <latitude>-3.6852778</latitude>
+    <longitude>29.3494444</longitude>
+  </city>
+  <city name="Gitwe">
+    <latitude>-3.4316667</latitude>
+    <longitude>30.1777778</longitude>
+  </city>
+  <city name="Goga">
+    <latitude>-3.6586111</latitude>
+    <longitude>29.8091667</longitude>
+  </city>
+  <city name="Gogoma">
+    <latitude>-3.4558333</latitude>
+    <longitude>30.3663889</longitude>
+  </city>
+  <city name="Gomba">
+    <latitude>-2.9261111</latitude>
+    <longitude>30.3283333</longitude>
+  </city>
+  <city name="Gwanira">
+    <latitude>-2.8375</latitude>
+    <longitude>29.1375</longitude>
+  </city>
+  <city name="Gwaniro">
+    <latitude>-3.0775</latitude>
+    <longitude>30.1480556</longitude>
+  </city>
+  <city name="Gwasanga">
+    <latitude>-3.7827778</latitude>
+    <longitude>29.7258333</longitude>
+  </city>
+  <city name="Gwiyagiro">
+    <latitude>-3.6875</latitude>
+    <longitude>29.5294444</longitude>
+  </city>
+  <city name="Higiro">
+    <latitude>-3.8247222</latitude>
+    <longitude>29.5513889</longitude>
+  </city>
+  <city name="Horezo">
+    <latitude>-3.87</latitude>
+    <longitude>29.5733333</longitude>
+  </city>
+  <city name="Ihangiro">
+    <latitude>-3.2877778</latitude>
+    <longitude>30.3866667</longitude>
+  </city>
+  <city name="Ijenda">
+    <latitude>-3.4819444</latitude>
+    <longitude>29.5666667</longitude>
+  </city>
+  <city name="Ikavumu">
+    <latitude>-3.8288889</latitude>
+    <longitude>30.065</longitude>
+  </city>
+  <city name="Isale">
+    <latitude>-3.3486111</latitude>
+    <longitude>29.4833333</longitude>
+  </city>
+  <city name="Isale-Mugaruro">
+    <latitude>-3.3486111</latitude>
+    <longitude>29.4833333</longitude>
+  </city>
+  <city name="Isare">
+    <latitude>-3.3486111</latitude>
+    <longitude>29.4833333</longitude>
+  </city>
+  <city name="Isigi">
+    <latitude>-3.5880556</latitude>
+    <longitude>29.5113889</longitude>
+  </city>
+  <city name="Itaba">
+    <latitude>-3.2166667</latitude>
+    <longitude>29.8125</longitude>
+  </city>
+  <city name="Iteka">
+    <latitude>-3.4972222</latitude>
+    <longitude>29.6927778</longitude>
+  </city>
+  <city name="Itwe">
+    <latitude>-3.5452778</latitude>
+    <longitude>29.6208333</longitude>
+  </city>
+  <city name="Janda">
+    <latitude>-3.6977778</latitude>
+    <longitude>29.4502778</longitude>
+  </city>
+  <city name="Jarama">
+    <latitude>-3.7441667</latitude>
+    <longitude>29.8786111</longitude>
+  </city>
+  <city name="Jenda">
+    <latitude>-3.7144444</latitude>
+    <longitude>30.1086111</longitude>
+  </city>
+  <city name="Jene">
+    <latitude>-2.8594444</latitude>
+    <longitude>29.6172222</longitude>
+  </city>
+  <city name="Jerama">
+    <latitude>-3.8872222</latitude>
+    <longitude>29.5138889</longitude>
+  </city>
+  <city name="Kababi">
+    <latitude>-3.1280556</latitude>
+    <longitude>30.4572222</longitude>
+  </city>
+  <city name="Kabagari">
+    <latitude>-3.0472222</latitude>
+    <longitude>30.7833333</longitude>
+  </city>
+  <city name="Kabago">
+    <latitude>-3.5261111</latitude>
+    <longitude>30.0244444</longitude>
+  </city>
+  <city name="Kabakuro">
+    <latitude>-3.5869444</latitude>
+    <longitude>30.1144444</longitude>
+  </city>
+  <city name="Kabamba">
+    <latitude>-2.8216667</latitude>
+    <longitude>29.0616667</longitude>
+  </city>
+  <city name="Kabanga">
+    <latitude>-3.6408333</latitude>
+    <longitude>30.0213889</longitude>
+  </city>
+  <city name="Kabangira">
+    <latitude>-3.1880556</latitude>
+    <longitude>30.2530556</longitude>
+  </city>
+  <city name="Kabarambi">
+    <latitude>-3.7347222</latitude>
+    <longitude>29.4352778</longitude>
+  </city>
+  <city name="Kabari">
+    <latitude>-3.11</latitude>
+    <longitude>30.4816667</longitude>
+  </city>
+  <city name="Kabasa">
+    <latitude>-3.8083333</latitude>
+    <longitude>29.8969444</longitude>
+  </city>
+  <city name="Kabataha">
+    <latitude>-2.8155556</latitude>
+    <longitude>29.8338889</longitude>
+  </city>
+  <city name="Kabatwa">
+    <latitude>-2.8486111</latitude>
+    <longitude>29.5480556</longitude>
+  </city>
+  <city name="Kaberenge">
+    <latitude>-4.1158333</latitude>
+    <longitude>29.5586111</longitude>
+  </city>
+  <city name="Kabeza">
+    <latitude>-3.1391667</latitude>
+    <longitude>29.7583333</longitude>
+  </city>
+  <city name="Kabezi">
+    <latitude>-3.5361111</latitude>
+    <longitude>29.3486111</longitude>
+  </city>
+  <city name="Kabimba">
+    <latitude>-3.6008333</latitude>
+    <longitude>29.8080556</longitude>
+  </city>
+  <city name="Kabingo">
+    <latitude>-3.8561111</latitude>
+    <longitude>30.0891667</longitude>
+  </city>
+  <city name="Kabira">
+    <latitude>-2.5352778</latitude>
+    <longitude>30.1727778</longitude>
+  </city>
+  <city name="Kabirizi">
+    <latitude>-2.5044444</latitude>
+    <longitude>30.0038889</longitude>
+  </city>
+  <city name="Kabogi">
+    <latitude>-3.3972222</latitude>
+    <longitude>29.9188889</longitude>
+  </city>
+  <city name="Kabogora">
+    <latitude>-3.9869444</latitude>
+    <longitude>29.7102778</longitude>
+  </city>
+  <city name="Kabogoye">
+    <latitude>-3.2875</latitude>
+    <longitude>30.6627778</longitude>
+  </city>
+  <city name="Kabo">
+    <latitude>-3.7866667</latitude>
+    <longitude>29.3444444</longitude>
+  </city>
+  <city name="Kabombo">
+    <latitude>-3.1247222</latitude>
+    <longitude>30.2566667</longitude>
+  </city>
+  <city name="Kabonde">
+    <latitude>-2.5333333</latitude>
+    <longitude>30.0847222</longitude>
+  </city>
+  <city name="Kabonga">
+    <latitude>-4.4144444</latitude>
+    <longitude>29.6794444</longitude>
+  </city>
+  <city name="Kabuga">
+    <latitude>-2.9983333</latitude>
+    <longitude>30.6777778</longitude>
+  </city>
+  <city name="Kabuguzo">
+    <latitude>-3.2863889</latitude>
+    <longitude>29.7730556</longitude>
+  </city>
+  <city name="Kabumba">
+    <latitude>-3.565</latitude>
+    <longitude>29.9663889</longitude>
+  </city>
+  <city name="Kabundugu">
+    <latitude>-3.5294444</latitude>
+    <longitude>29.8447222</longitude>
+  </city>
+  <city name="Kabungere">
+    <latitude>-3.3475</latitude>
+    <longitude>29.8722222</longitude>
+  </city>
+  <city name="Kabungo">
+    <latitude>-3.6927778</latitude>
+    <longitude>30.1238889</longitude>
+  </city>
+  <city name="Kaburantwa">
+    <latitude>-2.9986111</latitude>
+    <longitude>29.2194444</longitude>
+  </city>
+  <city name="Kaburi">
+    <latitude>-4.2877778</latitude>
+    <longitude>29.7761111</longitude>
+  </city>
+  <city name="Kabuye">
+    <latitude>-3.5177778</latitude>
+    <longitude>29.4347222</longitude>
+  </city>
+  <city name="Kabuyekere">
+    <latitude>-3.0586111</latitude>
+    <longitude>29.4461111</longitude>
+  </city>
+  <city name="Kabuyenge">
+    <latitude>-2.5241667</latitude>
+    <longitude>30.3472222</longitude>
+  </city>
+  <city name="Kabuyogoma">
+    <latitude>-2.7336111</latitude>
+    <longitude>30.3036111</longitude>
+  </city>
+  <city name="Kabwitika">
+    <latitude>-3.0597222</latitude>
+    <longitude>29.3769444</longitude>
+  </city>
+  <city name="Kadina">
+    <latitude>-3.9002778</latitude>
+    <longitude>29.7091667</longitude>
+  </city>
+  <city name="Kaganza">
+    <latitude>-4.085</latitude>
+    <longitude>29.5963889</longitude>
+  </city>
+  <city name="Kagari">
+    <latitude>-3.2247222</latitude>
+    <longitude>29.9113889</longitude>
+  </city>
+  <city name="Kagati">
+    <latitude>-3.375</latitude>
+    <longitude>29.8272222</longitude>
+  </city>
+  <city name="Kagera">
+    <latitude>-3.4347222</latitude>
+    <longitude>30.585</longitude>
+  </city>
+  <city name="Kageyo">
+    <latitude>-3.3325</latitude>
+    <longitude>30.5530556</longitude>
+  </city>
+  <city name="Kagezi">
+    <latitude>-3.1241667</latitude>
+    <longitude>30.3333333</longitude>
+  </city>
+  <city name="Kagina">
+    <latitude>-3.1077778</latitude>
+    <longitude>30.2675</longitude>
+  </city>
+  <city name="Kagogo">
+    <latitude>-2.7736111</latitude>
+    <longitude>29.1127778</longitude>
+  </city>
+  <city name="Kagoma">
+    <latitude>-3.5272222</latitude>
+    <longitude>29.6675</longitude>
+  </city>
+  <city name="Kagomogomo">
+    <latitude>-3.9444444</latitude>
+    <longitude>29.7038889</longitude>
+  </city>
+  <city name="Kagongo">
+    <latitude>-3.67</latitude>
+    <longitude>29.65</longitude>
+  </city>
+  <city name="Kaguhu">
+    <latitude>-3.2719444</latitude>
+    <longitude>29.8097222</longitude>
+  </city>
+  <city name="Kagunga">
+    <latitude>-3.3436111</latitude>
+    <longitude>30.6311111</longitude>
+  </city>
+  <city name="Kagunguma">
+    <latitude>-2.6825</latitude>
+    <longitude>29.9394444</longitude>
+  </city>
+  <city name="Kagwema">
+    <latitude>-2.9294444</latitude>
+    <longitude>30.2025</longitude>
+  </city>
+  <city name="Kagwena">
+    <latitude>-3.1269444</latitude>
+    <longitude>29.2583333</longitude>
+  </city>
+  <city name="Kajabure">
+    <latitude>-3.9838889</latitude>
+    <longitude>29.5647222</longitude>
+  </city>
+  <city name="Kajaga">
+    <latitude>-2.5752778</latitude>
+    <longitude>30.1997222</longitude>
+  </city>
+  <city name="Kajego">
+    <latitude>-2.4472222</latitude>
+    <longitude>30.3077778</longitude>
+  </city>
+  <city name="Kakumu">
+    <latitude>-3.0952778</latitude>
+    <longitude>29.9272222</longitude>
+  </city>
+  <city name="Kamakoko">
+    <latitude>-3.3063889</latitude>
+    <longitude>29.7811111</longitude>
+  </city>
+  <city name="Kamayi">
+    <latitude>-2.4627778</latitude>
+    <longitude>30.0758333</longitude>
+  </city>
+  <city name="Kamenge">
+    <latitude>-3.3436111</latitude>
+    <longitude>29.3791667</longitude>
+  </city>
+  <city name="Kamigisha">
+    <latitude>-3.0430556</latitude>
+    <longitude>29.8963889</longitude>
+  </city>
+  <city name="Kamiranzogera">
+    <latitude>-2.4755556</latitude>
+    <longitude>30.0633333</longitude>
+  </city>
+  <city name="Kamisave">
+    <latitude>-3.4119444</latitude>
+    <longitude>29.5036111</longitude>
+  </city>
+  <city name="Kamonyi">
+    <latitude>-3.0491667</latitude>
+    <longitude>30.7397222</longitude>
+  </city>
+  <city name="Kampunga">
+    <latitude>-3.6783333</latitude>
+    <longitude>30.3938889</longitude>
+  </city>
+  <city name="Kamukike">
+    <latitude>-3.3691667</latitude>
+    <longitude>29.5566667</longitude>
+  </city>
+  <city name="Kamusenyi">
+    <latitude>-3.1802778</latitude>
+    <longitude>30.0336111</longitude>
+  </city>
+  <city name="Kamvumvu">
+    <latitude>-3.9327778</latitude>
+    <longitude>29.7155556</longitude>
+  </city>
+  <city name="Kandaro">
+    <latitude>-2.8544444</latitude>
+    <longitude>29.8088889</longitude>
+  </city>
+  <city name="Kangozi">
+    <latitude>-3.7305556</latitude>
+    <longitude>29.9327778</longitude>
+  </city>
+  <city name="Kaniga">
+    <latitude>-3.2888889</latitude>
+    <longitude>29.7583333</longitude>
+  </city>
+  <city name="Kankima">
+    <latitude>-3.4461111</latitude>
+    <longitude>29.5216667</longitude>
+  </city>
+  <city name="Kanunga">
+    <latitude>-2.8983333</latitude>
+    <longitude>30.0066667</longitude>
+  </city>
+  <city name="Kanyami">
+    <latitude>-3.0936111</latitude>
+    <longitude>29.9541667</longitude>
+  </city>
+  <city name="Kanyembwa">
+    <latitude>-3.0663889</latitude>
+    <longitude>29.9719444</longitude>
+  </city>
+  <city name="Kanyenumbu">
+    <latitude>-3.3827778</latitude>
+    <longitude>30.1230556</longitude>
+  </city>
+  <city name="Kanyeregete">
+    <latitude>-2.9194444</latitude>
+    <longitude>29.8816667</longitude>
+  </city>
+  <city name="Kanyereza">
+    <latitude>-2.9638889</latitude>
+    <longitude>30.2805556</longitude>
+  </city>
+  <city name="Kanyinya">
+    <latitude>-3.5347222</latitude>
+    <longitude>29.5911111</longitude>
+  </city>
+  <city name="Kanyomvyi">
+    <latitude>-2.7952778</latitude>
+    <longitude>30.0741667</longitude>
+  </city>
+  <city name="Kanyosha">
+    <latitude>-3.4113889</latitude>
+    <longitude>29.3611111</longitude>
+  </city>
+  <city name="Kanyuzwa">
+    <latitude>-3.8194444</latitude>
+    <longitude>29.8233333</longitude>
+  </city>
+  <city name="Karago">
+    <latitude>-3.1769444</latitude>
+    <longitude>30.5372222</longitude>
+  </city>
+  <city name="Karama">
+    <latitude>-3.2591667</latitude>
+    <longitude>29.8341667</longitude>
+  </city>
+  <city name="Karambi">
+    <latitude>-3.5425</latitude>
+    <longitude>29.6802778</longitude>
+  </city>
+  <city name="Kararire">
+    <latitude>-2.5327778</latitude>
+    <longitude>30.1980556</longitude>
+  </city>
+  <city name="Kararo">
+    <latitude>-3.7227778</latitude>
+    <longitude>29.535</longitude>
+  </city>
+  <city name="Karehe">
+    <latitude>-3.6455556</latitude>
+    <longitude>29.6716667</longitude>
+  </city>
+  <city name="Karembwe">
+    <latitude>-3.7030556</latitude>
+    <longitude>29.7327778</longitude>
+  </city>
+  <city name="Karemera">
+    <latitude>-2.9688889</latitude>
+    <longitude>30.1072222</longitude>
+  </city>
+  <city name="Karenga">
+    <latitude>-2.7630556</latitude>
+    <longitude>29.8005556</longitude>
+  </city>
+  <city name="Karera">
+    <latitude>-3.4316667</latitude>
+    <longitude>29.8958333</longitude>
+  </city>
+  <city name="Kariba">
+    <latitude>-3.0255556</latitude>
+    <longitude>29.6591667</longitude>
+  </city>
+  <city name="Kariga">
+    <latitude>-3.1633333</latitude>
+    <longitude>29.8238889</longitude>
+  </city>
+  <city name="Karimbi">
+    <latitude>-3.9186111</latitude>
+    <longitude>29.6436111</longitude>
+  </city>
+  <city name="Karinzi">
+    <latitude>-3.8922222</latitude>
+    <longitude>29.6541667</longitude>
+  </city>
+  <city name="Karira">
+    <latitude>-3.2633333</latitude>
+    <longitude>30.0675</longitude>
+  </city>
+  <city name="Karonda">
+    <latitude>-4.0916667</latitude>
+    <longitude>29.4911111</longitude>
+  </city>
+  <city name="Karonge">
+    <latitude>-3.0452778</latitude>
+    <longitude>29.3336111</longitude>
+  </city>
+  <city name="Karugajo">
+    <latitude>-3.2875</latitude>
+    <longitude>30.635</longitude>
+  </city>
+  <city name="Karugunda">
+    <latitude>-2.5169444</latitude>
+    <longitude>30.4613889</longitude>
+  </city>
+  <city name="Karuhera">
+    <latitude>-3.1080556</latitude>
+    <longitude>29.92</longitude>
+  </city>
+  <city name="Karukona">
+    <latitude>-3.355</latitude>
+    <longitude>29.8477778</longitude>
+  </city>
+  <city name="Karunyinya">
+    <latitude>-3.7388889</latitude>
+    <longitude>29.8536111</longitude>
+  </city>
+  <city name="Karurama">
+    <latitude>-2.8819444</latitude>
+    <longitude>29.1125</longitude>
+  </city>
+  <city name="Karusabo">
+    <latitude>-3.1383333</latitude>
+    <longitude>29.7744444</longitude>
+  </city>
+  <city name="Karuzi">
+    <latitude>-3.1013889</latitude>
+    <longitude>30.1647222</longitude>
+  </city>
+  <city name="Kasaka">
+    <latitude>-3.7636111</latitude>
+    <longitude>30.2397222</longitude>
+  </city>
+  <city name="Katabo">
+    <latitude>-3.0633333</latitude>
+    <longitude>29.6977778</longitude>
+  </city>
+  <city name="Katazimiza">
+    <latitude>-3.6047222</latitude>
+    <longitude>29.7405556</longitude>
+  </city>
+  <city name="Katoke">
+    <latitude>-2.4333333</latitude>
+    <longitude>30.4833333</longitude>
+  </city>
+  <city name="Katongati">
+    <latitude>-3.5933333</latitude>
+    <longitude>29.6308333</longitude>
+  </city>
+  <city name="Kavumu">
+    <latitude>-3.2472222</latitude>
+    <longitude>29.5580556</longitude>
+  </city>
+  <city name="Kavuruga">
+    <latitude>-2.9333333</latitude>
+    <longitude>30.3255556</longitude>
+  </city>
+  <city name="Kavuza">
+    <latitude>-3.7647222</latitude>
+    <longitude>29.6916667</longitude>
+  </city>
+  <city name="Kayabazi">
+    <latitude>-4.0644444</latitude>
+    <longitude>29.4936111</longitude>
+  </city>
+  <city name="Kayanga">
+    <latitude>-2.7675</latitude>
+    <longitude>30.1436111</longitude>
+  </city>
+  <city name="Kayange">
+    <latitude>-3.8597222</latitude>
+    <longitude>29.6730556</longitude>
+  </city>
+  <city name="Kayanza">
+    <latitude>-2.9222222</latitude>
+    <longitude>29.6222222</longitude>
+  </city>
+  <city name="Kayero">
+    <latitude>-3.8111111</latitude>
+    <longitude>30.1236111</longitude>
+  </city>
+  <city name="Kayige">
+    <latitude>-3.9427778</latitude>
+    <longitude>30.0141667</longitude>
+  </city>
+  <city name="Kaykowe">
+    <latitude>-3.5305556</latitude>
+    <longitude>29.7375</longitude>
+  </city>
+  <city name="Kayogoro">
+    <latitude>-4.1288889</latitude>
+    <longitude>29.9422222</longitude>
+  </city>
+  <city name="Kayokwe">
+    <latitude>-3.5305556</latitude>
+    <longitude>29.7375</longitude>
+  </city>
+  <city name="Kayongozi">
+    <latitude>-3.2736111</latitude>
+    <longitude>30.3347222</longitude>
+  </city>
+  <city name="Kaziga">
+    <latitude>-3.2777778</latitude>
+    <longitude>30.0144444</longitude>
+  </city>
+  <city name="Kebuko">
+    <latitude>-3.4372222</latitude>
+    <longitude>30.2227778</longitude>
+  </city>
+  <city name="Kerera">
+    <latitude>-3.2661111</latitude>
+    <longitude>29.9238889</longitude>
+  </city>
+  <city name="Kibago">
+    <latitude>-4.2930556</latitude>
+    <longitude>29.8344444</longitude>
+  </city>
+  <city name="Kibande">
+    <latitude>-3.7322222</latitude>
+    <longitude>29.4208333</longitude>
+  </city>
+  <city name="Kibango">
+    <latitude>-3.9111111</latitude>
+    <longitude>29.7308333</longitude>
+  </city>
+  <city name="Kibari">
+    <latitude>-3.2930556</latitude>
+    <longitude>29.9672222</longitude>
+  </city>
+  <city name="Kibatama">
+    <latitude>-3.6266667</latitude>
+    <longitude>29.6211111</longitude>
+  </city>
+  <city name="Kibaya">
+    <latitude>-3.4019444</latitude>
+    <longitude>29.865</longitude>
+  </city>
+  <city name="Kibenga">
+    <latitude>-3.4425</latitude>
+    <longitude>29.8444444</longitude>
+  </city>
+  <city name="Kibimba">
+    <latitude>-3.4333333</latitude>
+    <longitude>29.5972222</longitude>
+  </city>
+  <city name="Kibingere">
+    <latitude>-3.0955556</latitude>
+    <longitude>29.8425</longitude>
+  </city>
+  <city name="Kibinzi">
+    <latitude>-3.9536111</latitude>
+    <longitude>30.0286111</longitude>
+  </city>
+  <city name="Kibira">
+    <latitude>-4.1958333</latitude>
+    <longitude>29.7111111</longitude>
+  </city>
+  <city name="Kibirizi">
+    <latitude>-4.2352778</latitude>
+    <longitude>29.9947222</longitude>
+  </city>
+  <city name="Kibonangona">
+    <latitude>-3.3377778</latitude>
+    <longitude>30.4513889</longitude>
+  </city>
+  <city name="Kibonde">
+    <latitude>-2.4738889</latitude>
+    <longitude>30.1566667</longitude>
+  </city>
+  <city name="Kibonobono">
+    <latitude>-3.9727778</latitude>
+    <longitude>30.0933333</longitude>
+  </city>
+  <city name="Kibozi">
+    <latitude>-3.7294444</latitude>
+    <longitude>29.6672222</longitude>
+  </city>
+  <city name="Kibugazi">
+    <latitude>-3.5480556</latitude>
+    <longitude>29.9222222</longitude>
+  </city>
+  <city name="Kibumba">
+    <latitude>-3.9561111</latitude>
+    <longitude>29.4538889</longitude>
+  </city>
+  <city name="Kibumbu">
+    <latitude>-3.5341667</latitude>
+    <longitude>29.7413889</longitude>
+  </city>
+  <city name="Kibunda">
+    <latitude>-2.4330556</latitude>
+    <longitude>30.4605556</longitude>
+  </city>
+  <city name="Kibungere">
+    <latitude>-3.4744444</latitude>
+    <longitude>29.8041667</longitude>
+  </city>
+  <city name="Kibungo">
+    <latitude>-3.7794444</latitude>
+    <longitude>29.6486111</longitude>
+  </city>
+  <city name="Kibungure">
+    <latitude>-3.0955556</latitude>
+    <longitude>29.8425</longitude>
+  </city>
+  <city name="Kibuye">
+    <latitude>-3.375</latitude>
+    <longitude>29.4738889</longitude>
+  </city>
+  <city name="Kidagarazi">
+    <latitude>-4.1108333</latitude>
+    <longitude>29.9844444</longitude>
+  </city>
+  <city name="Kidasha">
+    <latitude>-2.7180556</latitude>
+    <longitude>30.2111111</longitude>
+  </city>
+  <city name="Kidatemba">
+    <latitude>-3.1625</latitude>
+    <longitude>30.1416667</longitude>
+  </city>
+  <city name="Kidiha">
+    <latitude>-3.6619444</latitude>
+    <longitude>30.0583333</longitude>
+  </city>
+  <city name="Kidogo">
+    <latitude>-3.2355556</latitude>
+    <longitude>30.4013889</longitude>
+  </city>
+  <city name="Kidumbugu">
+    <latitude>-2.9991667</latitude>
+    <longitude>30.6338889</longitude>
+  </city>
+  <city name="Kigabiro">
+    <latitude>-3.8202778</latitude>
+    <longitude>29.6027778</longitude>
+  </city>
+  <city name="Kigabo">
+    <latitude>-3.4336111</latitude>
+    <longitude>30.1344444</longitude>
+  </city>
+  <city name="Kigamba">
+    <latitude>-3.075</latitude>
+    <longitude>30.5291667</longitude>
+  </city>
+  <city name="Kiganda">
+    <latitude>-3.3472222</latitude>
+    <longitude>29.6875</longitude>
+  </city>
+  <city name="Kigandu">
+    <latitude>-3.0502778</latitude>
+    <longitude>29.4847222</longitude>
+  </city>
+  <city name="Kiganza">
+    <latitude>-3.7219444</latitude>
+    <longitude>29.4755556</longitude>
+  </city>
+  <city name="Kigarama">
+    <latitude>-3.2980556</latitude>
+    <longitude>29.8225</longitude>
+  </city>
+  <city name="Kigari">
+    <latitude>-3.2705556</latitude>
+    <longitude>30.0630556</longitude>
+  </city>
+  <city name="Kigasare">
+    <latitude>-3.5697222</latitude>
+    <longitude>29.6316667</longitude>
+  </city>
+  <city name="Kigazi">
+    <latitude>-2.9605556</latitude>
+    <longitude>29.2947222</longitude>
+  </city>
+  <city name="Kigeme">
+    <latitude>-3.0944444</latitude>
+    <longitude>30.7558333</longitude>
+  </city>
+  <city name="Kigenda">
+    <latitude>-3.5327778</latitude>
+    <longitude>30.1036111</longitude>
+  </city>
+  <city name="Kigende">
+    <latitude>-3.2663889</latitude>
+    <longitude>30.4794444</longitude>
+  </city>
+  <city name="Kigera">
+    <latitude>-3.7005556</latitude>
+    <longitude>30.0438889</longitude>
+  </city>
+  <city name="Kigeyo">
+    <latitude>-2.9113889</latitude>
+    <longitude>30.1808333</longitude>
+  </city>
+  <city name="Kigina">
+    <latitude>-3.3633333</latitude>
+    <longitude>29.7983333</longitude>
+  </city>
+  <city name="Kigogo">
+    <latitude>-2.8369444</latitude>
+    <longitude>30.1111111</longitude>
+  </city>
+  <city name="Kigo">
+    <latitude>-3.3330556</latitude>
+    <longitude>30.0502778</longitude>
+  </city>
+  <city name="Kigoma">
+    <latitude>-3.0902778</latitude>
+    <longitude>30.1516667</longitude>
+  </city>
+  <city name="Kigomero">
+    <latitude>-2.5544444</latitude>
+    <longitude>30.215</longitude>
+  </city>
+  <city name="Kigora">
+    <latitude>-3.3286111</latitude>
+    <longitude>30.0783333</longitude>
+  </city>
+  <city name="Kigozi">
+    <latitude>-2.5369444</latitude>
+    <longitude>30.105</longitude>
+  </city>
+  <city name="Kigufi">
+    <latitude>-3.5636111</latitude>
+    <longitude>30.1538889</longitude>
+  </city>
+  <city name="Kiguruka">
+    <latitude>-3.6244444</latitude>
+    <longitude>29.7955556</longitude>
+  </city>
+  <city name="Kigutu">
+    <latitude>-3.5022222</latitude>
+    <longitude>29.7083333</longitude>
+  </city>
+  <city name="Kigwati">
+    <latitude>-3.2069444</latitude>
+    <longitude>29.3730556</longitude>
+  </city>
+  <city name="Kigwena">
+    <latitude>-4.1438889</latitude>
+    <longitude>29.5352778</longitude>
+  </city>
+  <city name="Kihanga">
+    <latitude>-3.1947222</latitude>
+    <longitude>29.2952778</longitude>
+  </city>
+  <city name="Kiheko">
+    <latitude>-3.8555556</latitude>
+    <longitude>30.2052778</longitude>
+  </city>
+  <city name="Kijugu">
+    <latitude>-3.8191667</latitude>
+    <longitude>29.6244444</longitude>
+  </city>
+  <city name="Kilemba">
+    <latitude>-3.9430556</latitude>
+    <longitude>29.675</longitude>
+  </city>
+  <city name="Kimani">
+    <latitude>-3.2908333</latitude>
+    <longitude>30.1377778</longitude>
+  </city>
+  <city name="Kimati">
+    <latitude>-2.7488889</latitude>
+    <longitude>30.2208333</longitude>
+  </city>
+  <city name="Kimeza">
+    <latitude>-2.5583333</latitude>
+    <longitude>30.3791667</longitude>
+  </city>
+  <city name="Kimina">
+    <latitude>-3.8019444</latitude>
+    <longitude>30.0713889</longitude>
+  </city>
+  <city name="Kimiranzovu">
+    <latitude>-3.8455556</latitude>
+    <longitude>29.5344444</longitude>
+  </city>
+  <city name="Kimongozi">
+    <latitude>-3.9183333</latitude>
+    <longitude>29.6616667</longitude>
+  </city>
+  <city name="Kinama">
+    <latitude>-3.3344444</latitude>
+    <longitude>29.3775</longitude>
+  </city>
+  <city name="Kinani">
+    <latitude>-3.3252778</latitude>
+    <longitude>29.7963889</longitude>
+  </city>
+  <city name="Kinazi">
+    <latitude>-2.9377778</latitude>
+    <longitude>29.3613889</longitude>
+  </city>
+  <city name="Kingari">
+    <latitude>-2.7111111</latitude>
+    <longitude>29.9855556</longitude>
+  </city>
+  <city name="Kingoro">
+    <latitude>-3.4716667</latitude>
+    <longitude>30.5661111</longitude>
+  </city>
+  <city name="Kinihura">
+    <latitude>-3.1888889</latitude>
+    <longitude>30.1911111</longitude>
+  </city>
+  <city name="Kinoga">
+    <latitude>-3.3244444</latitude>
+    <longitude>30.545</longitude>
+  </city>
+  <city name="Kinombe">
+    <latitude>-3.7472222</latitude>
+    <longitude>30.1613889</longitude>
+  </city>
+  <city name="Kinoso">
+    <latitude>-4.1011111</latitude>
+    <longitude>29.87</longitude>
+  </city>
+  <city name="Kinwa">
+    <latitude>-2.9025</latitude>
+    <longitude>29.7675</longitude>
+  </city>
+  <city name="Kinyambo">
+    <latitude>-2.4808333</latitude>
+    <longitude>30.0605556</longitude>
+  </city>
+  <city name="Kinyamugera">
+    <latitude>-3.2344444</latitude>
+    <longitude>29.585</longitude>
+  </city>
+  <city name="Kinyanza">
+    <latitude>-3.8180556</latitude>
+    <longitude>29.9708333</longitude>
+  </city>
+  <city name="Kinyanzi">
+    <latitude>-3.8180556</latitude>
+    <longitude>29.9708333</longitude>
+  </city>
+  <city name="Kinyasheshe">
+    <latitude>-3.1977778</latitude>
+    <longitude>29.5038889</longitude>
+  </city>
+  <city name="Kinyinya">
+    <latitude>-3.6583333</latitude>
+    <longitude>30.3430556</longitude>
+  </city>
+  <city name="Kinyoni">
+    <latitude>-3.7280556</latitude>
+    <longitude>29.5961111</longitude>
+  </city>
+  <city name="Kinyonza">
+    <latitude>-3.8180556</latitude>
+    <longitude>29.9708333</longitude>
+  </city>
+  <city name="Kinyovu">
+    <latitude>-2.9094444</latitude>
+    <longitude>29.8466667</longitude>
+  </city>
+  <city name="Kinzerere">
+    <latitude>-3.2252778</latitude>
+    <longitude>29.9902778</longitude>
+  </city>
+  <city name="Kiofi">
+    <latitude>-4.0244444</latitude>
+    <longitude>30.1119444</longitude>
+  </city>
+  <city name="Kirabo">
+    <latitude>-3.4172222</latitude>
+    <longitude>30.1391667</longitude>
+  </city>
+  <city name="Kirabuke">
+    <latitude>-3.9652778</latitude>
+    <longitude>29.7536111</longitude>
+  </city>
+  <city name="Kirama">
+    <latitude>-3.9227778</latitude>
+    <longitude>29.4761111</longitude>
+  </city>
+  <city name="Kirambi">
+    <latitude>-3.6280556</latitude>
+    <longitude>29.7541667</longitude>
+  </city>
+  <city name="Kiramvya">
+    <latitude>-3.9575</latitude>
+    <longitude>30.1138889</longitude>
+  </city>
+  <city name="Kirare">
+    <latitude>-3.3936111</latitude>
+    <longitude>29.5402778</longitude>
+  </city>
+  <city name="Kirari">
+    <latitude>-3.3936111</latitude>
+    <longitude>29.5402778</longitude>
+  </city>
+  <city name="Kirasa">
+    <latitude>-3.5838889</latitude>
+    <longitude>29.4266667</longitude>
+  </city>
+  <city name="Kiravumba">
+    <latitude>-2.6022222</latitude>
+    <longitude>30.2069444</longitude>
+  </city>
+  <city name="Kirehe">
+    <latitude>-3.2738889</latitude>
+    <longitude>29.7802778</longitude>
+  </city>
+  <city name="Kireka">
+    <latitude>-2.6319444</latitude>
+    <longitude>30.0747222</longitude>
+  </city>
+  <city name="Kiremba">
+    <latitude>-3.9430556</latitude>
+    <longitude>29.675</longitude>
+  </city>
+  <city name="Kiremera">
+    <latitude>-3.1355556</latitude>
+    <longitude>29.8013889</longitude>
+  </city>
+  <city name="Kirerama">
+    <latitude>-3.1922222</latitude>
+    <longitude>30.4713889</longitude>
+  </city>
+  <city name="Kiribata">
+    <latitude>-3.4322222</latitude>
+    <longitude>30.0302778</longitude>
+  </city>
+  <city name="Kirima">
+    <latitude>-3.2852778</latitude>
+    <longitude>29.9052778</longitude>
+  </city>
+  <city name="Kirimba">
+    <latitude>-3.0338889</latitude>
+    <longitude>29.9144444</longitude>
+  </city>
+  <city name="Kirimbi">
+    <latitude>-3.5091667</latitude>
+    <longitude>29.6566667</longitude>
+  </city>
+  <city name="Kirinzi">
+    <latitude>-3.5261111</latitude>
+    <longitude>29.4347222</longitude>
+  </city>
+  <city name="Kiripinga">
+    <latitude>-2.9083333</latitude>
+    <longitude>29.2902778</longitude>
+  </city>
+  <city name="Kiriza">
+    <latitude>-3.7955556</latitude>
+    <longitude>29.6811111</longitude>
+  </city>
+  <city name="Kirugungu">
+    <latitude>-3.2697222</latitude>
+    <longitude>30.3633333</longitude>
+  </city>
+  <city name="Kirundo">
+    <latitude>-2.5847222</latitude>
+    <longitude>30.0972222</longitude>
+  </city>
+  <city name="Kirungu">
+    <latitude>-4.3144444</latitude>
+    <longitude>29.6277778</longitude>
+  </city>
+  <city name="Kiryama">
+    <latitude>-3.3388889</latitude>
+    <longitude>29.81</longitude>
+  </city>
+  <city name="Kisabi">
+    <latitude>-2.8388889</latitude>
+    <longitude>29.1583333</longitude>
+  </city>
+  <city name="Kisenga">
+    <latitude>-3.0305556</latitude>
+    <longitude>30.5572222</longitude>
+  </city>
+  <city name="Kitara">
+    <latitude>-4.3672222</latitude>
+    <longitude>29.7675</longitude>
+  </city>
+  <city name="Kitega">
+    <latitude>-3.425</latitude>
+    <longitude>29.9333333</longitude>
+  </city>
+  <city name="Kitongo">
+    <latitude>-3.1833333</latitude>
+    <longitude>29.8722222</longitude>
+  </city>
+  <city name="Kivega">
+    <latitude>-3.3697222</latitude>
+    <longitude>30.265</longitude>
+  </city>
+  <city name="Kivimba">
+    <latitude>-3.2972222</latitude>
+    <longitude>29.7972222</longitude>
+  </city>
+  <city name="Kivoga">
+    <latitude>-3.2805556</latitude>
+    <longitude>29.4222222</longitude>
+  </city>
+  <city name="Kivogera">
+    <latitude>-3.7261111</latitude>
+    <longitude>29.6538889</longitude>
+  </city>
+  <city name="Kivubo">
+    <latitude>-2.785</latitude>
+    <longitude>30.3025</longitude>
+  </city>
+  <city name="Kivumu">
+    <latitude>-3.3308333</latitude>
+    <longitude>29.7830556</longitude>
+  </city>
+  <city name="Kivungwe">
+    <latitude>-3.555</latitude>
+    <longitude>29.3969444</longitude>
+  </city>
+  <city name="Kivuruga">
+    <latitude>-3.9697222</latitude>
+    <longitude>29.7166667</longitude>
+  </city>
+  <city name="Kivyihusha">
+    <latitude>-3.1291667</latitude>
+    <longitude>29.4119444</longitude>
+  </city>
+  <city name="Kiyagara">
+    <latitude>-3.4380556</latitude>
+    <longitude>30.5033333</longitude>
+  </city>
+  <city name="Kiyange">
+    <latitude>-2.9863889</latitude>
+    <longitude>29.7613889</longitude>
+  </city>
+  <city name="Kiyanza">
+    <latitude>-2.5136111</latitude>
+    <longitude>30.1441667</longitude>
+  </city>
+  <city name="Kiyenzi">
+    <latitude>-3.4527778</latitude>
+    <longitude>29.4163889</longitude>
+  </city>
+  <city name="Kiziba">
+    <latitude>-3.3047222</latitude>
+    <longitude>30.0172222</longitude>
+  </city>
+  <city name="Kizingoma">
+    <latitude>-4.1086111</latitude>
+    <longitude>29.8286111</longitude>
+  </city>
+  <city name="Kizuga">
+    <latitude>-3.7597222</latitude>
+    <longitude>29.5469444</longitude>
+  </city>
+  <city name="Kobero">
+    <latitude>-2.6497222</latitude>
+    <longitude>30.4133333</longitude>
+  </city>
+  <city name="Kubahima">
+    <latitude>-3.7733333</latitude>
+    <longitude>30.1694444</longitude>
+  </city>
+  <city name="Kubahinia">
+    <latitude>-3.7733333</latitude>
+    <longitude>30.1694444</longitude>
+  </city>
+  <city name="Kumana">
+    <latitude>-2.4380556</latitude>
+    <longitude>30.3436111</longitude>
+  </city>
+  <city name="Kumetente">
+    <latitude>-3.2352778</latitude>
+    <longitude>30.0408333</longitude>
+  </city>
+  <city name="Kumparo">
+    <latitude>-2.8808333</latitude>
+    <longitude>29.3044444</longitude>
+  </city>
+  <city name="Kumubanga">
+    <latitude>-3.6888889</latitude>
+    <longitude>30.3380556</longitude>
+  </city>
+  <city name="Kumubuga">
+    <latitude>-3.5469444</latitude>
+    <longitude>30.3463889</longitude>
+  </city>
+  <city name="Kumuguma">
+    <latitude>-3.4388889</latitude>
+    <longitude>29.5188889</longitude>
+  </city>
+  <city name="Kumuhafu">
+    <latitude>-3.935</latitude>
+    <longitude>30.1761111</longitude>
+  </city>
+  <city name="Kumuhera">
+    <latitude>-3.2419444</latitude>
+    <longitude>30.1208333</longitude>
+  </city>
+  <city name="Kumuhuma">
+    <latitude>-3.4388889</latitude>
+    <longitude>29.5188889</longitude>
+  </city>
+  <city name="Kumuka">
+    <latitude>-3.6733333</latitude>
+    <longitude>29.7588889</longitude>
+  </city>
+  <city name="Kumutende">
+    <latitude>-3.2352778</latitude>
+    <longitude>30.0408333</longitude>
+  </city>
+  <city name="Kumutente">
+    <latitude>-3.2352778</latitude>
+    <longitude>30.0408333</longitude>
+  </city>
+  <city name="Kumuzu">
+    <latitude>-3.2927778</latitude>
+    <longitude>30.5125</longitude>
+  </city>
+  <city name="Kunkubi">
+    <latitude>-2.8427778</latitude>
+    <longitude>29.7197222</longitude>
+  </city>
+  <city name="Kuntunda">
+    <latitude>-2.8827778</latitude>
+    <longitude>30.0119444</longitude>
+  </city>
+  <city name="Kurasiro">
+    <latitude>-3.2191667</latitude>
+    <longitude>30.4291667</longitude>
+  </city>
+  <city name="Kurugabano">
+    <latitude>-3.6</latitude>
+    <longitude>30.18</longitude>
+  </city>
+  <city name="Kurunyinya">
+    <latitude>-3.7963889</latitude>
+    <longitude>30.0280556</longitude>
+  </city>
+  <city name="Kuwankero">
+    <latitude>-3.4625</latitude>
+    <longitude>30.4869444</longitude>
+  </city>
+  <city name="Kuwico">
+    <latitude>-2.8869444</latitude>
+    <longitude>30.1586111</longitude>
+  </city>
+  <city name="Kuwigitabu">
+    <latitude>-3.3130556</latitude>
+    <longitude>30.0891667</longitude>
+  </city>
+  <city name="Kuwimpfizi">
+    <latitude>-3.2011111</latitude>
+    <longitude>29.6127778</longitude>
+  </city>
+  <city name="Kuwingwa">
+    <latitude>-3.8930556</latitude>
+    <longitude>29.7163889</longitude>
+  </city>
+  <city name="Kuwintaba">
+    <latitude>-3.1191667</latitude>
+    <longitude>29.4319444</longitude>
+  </city>
+  <city name="Kuwisovu">
+    <latitude>-3.2208333</latitude>
+    <longitude>30.4013889</longitude>
+  </city>
+  <city name="Kwihigiro">
+    <latitude>-4.2283333</latitude>
+    <longitude>29.9336111</longitude>
+  </city>
+  <city name="Kwinzero">
+    <latitude>-3.6775</latitude>
+    <longitude>29.8641667</longitude>
+  </city>
+  <city name="Kwirarire">
+    <latitude>-3.1633333</latitude>
+    <longitude>29.5127778</longitude>
+  </city>
+  <city name="Kwishwi">
+    <latitude>-3.7408333</latitude>
+    <longitude>29.5691667</longitude>
+  </city>
+  <city name="Kwisigu">
+    <latitude>-2.4111111</latitude>
+    <longitude>30.3597222</longitude>
+  </city>
+  <city name="Kwisumo">
+    <latitude>-3.3611111</latitude>
+    <longitude>30.2708333</longitude>
+  </city>
+  <city name="Kwitaba">
+    <latitude>-3.3025</latitude>
+    <longitude>30.4775</longitude>
+  </city>
+  <city name="Kwituro">
+    <latitude>-2.4263889</latitude>
+    <longitude>30.3591667</longitude>
+  </city>
+  <city name="Mabanda">
+    <latitude>-4.2738889</latitude>
+    <longitude>29.7775</longitude>
+  </city>
+  <city name="Mabayi">
+    <latitude>-2.7083333</latitude>
+    <longitude>29.2430556</longitude>
+  </city>
+  <city name="Mabinga">
+    <latitude>-2.7797222</latitude>
+    <longitude>30.3358333</longitude>
+  </city>
+  <city name="Magara">
+    <latitude>-3.7263889</latitude>
+    <longitude>29.3194444</longitude>
+  </city>
+  <city name="Magarama">
+    <latitude>-3.4236111</latitude>
+    <longitude>29.9166667</longitude>
+  </city>
+  <city name="Magaramango">
+    <latitude>-2.5083333</latitude>
+    <longitude>30.2394444</longitude>
+  </city>
+  <city name="Mageyo">
+    <latitude>-3.3261111</latitude>
+    <longitude>29.5097222</longitude>
+  </city>
+  <city name="Mago">
+    <latitude>-3.5080556</latitude>
+    <longitude>30.3061111</longitude>
+  </city>
+  <city name="Maguruka">
+    <latitude>-4.2361111</latitude>
+    <longitude>29.5483333</longitude>
+  </city>
+  <city name="Mahamba">
+    <latitude>-2.55</latitude>
+    <longitude>30.2813889</longitude>
+  </city>
+  <city name="Mahando">
+    <latitude>-3.9880556</latitude>
+    <longitude>29.6688889</longitude>
+  </city>
+  <city name="Mahanga">
+    <latitude>-4.2472222</latitude>
+    <longitude>29.9533333</longitude>
+  </city>
+  <city name="Mahembe">
+    <latitude>-4.1452778</latitude>
+    <longitude>29.63</longitude>
+  </city>
+  <city name="Mahinda">
+    <latitude>-4.1047222</latitude>
+    <longitude>29.8916667</longitude>
+  </city>
+  <city name="Mahinga">
+    <latitude>-3.7766667</latitude>
+    <longitude>30.0472222</longitude>
+  </city>
+  <city name="Mahonda">
+    <latitude>-3.8038889</latitude>
+    <longitude>29.635</longitude>
+  </city>
+  <city name="Mahwa">
+    <latitude>-3.8055556</latitude>
+    <longitude>29.7833333</longitude>
+  </city>
+  <city name="Mahwane">
+    <latitude>-3.6611111</latitude>
+    <longitude>29.55</longitude>
+  </city>
+  <city name="Majuri">
+    <latitude>-2.7238889</latitude>
+    <longitude>30.0069444</longitude>
+  </city>
+  <city name="Makamba">
+    <latitude>-3.5091667</latitude>
+    <longitude>29.6683333</longitude>
+  </city>
+  <city name="Makebuko">
+    <latitude>-3.6027778</latitude>
+    <longitude>30.0005556</longitude>
+  </city>
+  <city name="Makera">
+    <latitude>-3.3591667</latitude>
+    <longitude>29.9772222</longitude>
+  </city>
+  <city name="Makombe">
+    <latitude>-3.1819444</latitude>
+    <longitude>30.7277778</longitude>
+  </city>
+  <city name="Makoronkwe">
+    <latitude>-4.2041667</latitude>
+    <longitude>29.8786111</longitude>
+  </city>
+  <city name="Mamasake">
+    <latitude>-3.4525</latitude>
+    <longitude>30.1625</longitude>
+  </city>
+  <city name="Mamfu">
+    <latitude>-2.3733333</latitude>
+    <longitude>29.9936111</longitude>
+  </city>
+  <city name="Manenge">
+    <latitude>-3.7127778</latitude>
+    <longitude>29.8616667</longitude>
+  </city>
+  <city name="Manga">
+    <latitude>-3.5097222</latitude>
+    <longitude>29.4688889</longitude>
+  </city>
+  <city name="Mangoma">
+    <latitude>-2.6055556</latitude>
+    <longitude>30.4036111</longitude>
+  </city>
+  <city name="Manogo">
+    <latitude>-3.4008333</latitude>
+    <longitude>29.8766667</longitude>
+  </city>
+  <city name="Manyoni">
+    <latitude>-3.8444444</latitude>
+    <longitude>29.6244444</longitude>
+  </city>
+  <city name="Marambi">
+    <latitude>-3.4786111</latitude>
+    <longitude>29.8688889</longitude>
+  </city>
+  <city name="Maramuya">
+    <latitude>-3.665</latitude>
+    <longitude>29.7616667</longitude>
+  </city>
+  <city name="Maramvya">
+    <latitude>-3.2922222</latitude>
+    <longitude>29.3405556</longitude>
+  </city>
+  <city name="Marangara">
+    <latitude>-2.7444444</latitude>
+    <longitude>29.9944444</longitude>
+  </city>
+  <city name="Marari">
+    <latitude>-3.28</latitude>
+    <longitude>29.8036111</longitude>
+  </city>
+  <city name="Marembo">
+    <latitude>-2.4577778</latitude>
+    <longitude>30.1775</longitude>
+  </city>
+  <city name="Mariza">
+    <latitude>-3.1877778</latitude>
+    <longitude>29.8347222</longitude>
+  </city>
+  <city name="Marizi">
+    <latitude>-4.2291667</latitude>
+    <longitude>30.0202778</longitude>
+  </city>
+  <city name="Martyazo">
+    <latitude>-3.2808333</latitude>
+    <longitude>29.4563889</longitude>
+  </city>
+  <city name="Marumane">
+    <latitude>-3.2663889</latitude>
+    <longitude>29.7944444</longitude>
+  </city>
+  <city name="Maruri">
+    <latitude>-3.1088889</latitude>
+    <longitude>29.99</longitude>
+  </city>
+  <city name="Masabo">
+    <latitude>-3.1505556</latitude>
+    <longitude>30.0669444</longitude>
+  </city>
+  <city name="Masake">
+    <latitude>-3.4525</latitude>
+    <longitude>30.1625</longitude>
+  </city>
+  <city name="Masama">
+    <latitude>-3.2041667</latitude>
+    <longitude>29.46</longitude>
+  </city>
+  <city name="Masango">
+    <latitude>-2.9319444</latitude>
+    <longitude>29.4236111</longitude>
+  </city>
+  <city name="Masenga">
+    <latitude>-3.5972222</latitude>
+    <longitude>29.7738889</longitude>
+  </city>
+  <city name="Masha">
+    <latitude>-2.6677778</latitude>
+    <longitude>29.2302778</longitude>
+  </city>
+  <city name="Mashiga">
+    <latitude>-2.9666667</latitude>
+    <longitude>30.6194444</longitude>
+  </city>
+  <city name="Masuma">
+    <latitude>-3.3675</latitude>
+    <longitude>29.5241667</longitude>
+  </city>
+  <city name="Mata">
+    <latitude>-3.0155556</latitude>
+    <longitude>30.7316667</longitude>
+  </city>
+  <city name="Matana">
+    <latitude>-3.7666667</latitude>
+    <longitude>29.6833333</longitude>
+  </city>
+  <city name="Matara">
+    <latitude>-3.4805556</latitude>
+    <longitude>29.4741667</longitude>
+  </city>
+  <city name="Materwa">
+    <latitude>-4.4433333</latitude>
+    <longitude>29.7408333</longitude>
+  </city>
+  <city name="Matongo">
+    <latitude>-3.0555556</latitude>
+    <longitude>29.6138889</longitude>
+  </city>
+  <city name="Mavubi">
+    <latitude>-3.1725</latitude>
+    <longitude>30.2144444</longitude>
+  </city>
+  <city name="Mayanza">
+    <latitude>-3.3408333</latitude>
+    <longitude>30.2355556</longitude>
+  </city>
+  <city name="Mazakinde">
+    <latitude>-2.4058333</latitude>
+    <longitude>30.4697222</longitude>
+  </city>
+  <city name="Mazege">
+    <latitude>-3.6516667</latitude>
+    <longitude>29.7577778</longitude>
+  </city>
+  <city name="Mazinga">
+    <latitude>-4.095</latitude>
+    <longitude>29.565</longitude>
+  </city>
+  <city name="Mbariza">
+    <latitude>-3.8725</latitude>
+    <longitude>29.5911111</longitude>
+  </city>
+  <city name="Mbizi">
+    <latitude>-2.5997222</latitude>
+    <longitude>30.2597222</longitude>
+  </city>
+  <city name="Mbuga">
+    <latitude>-3.9427778</latitude>
+    <longitude>29.4177778</longitude>
+  </city>
+  <city name="Mbundura">
+    <latitude>-3.045</latitude>
+    <longitude>30.1447222</longitude>
+  </city>
+  <city name="Mbuye">
+    <latitude>-3.2305556</latitude>
+    <longitude>29.7222222</longitude>
+  </city>
+  <city name="Mibakwe">
+    <latitude>-2.4530556</latitude>
+    <longitude>30.5108333</longitude>
+  </city>
+  <city name="Mibanga">
+    <latitude>-4.2263889</latitude>
+    <longitude>29.9738889</longitude>
+  </city>
+  <city name="Mibare">
+    <latitude>-2.9911111</latitude>
+    <longitude>30.66</longitude>
+  </city>
+  <city name="Mibazo">
+    <latitude>-4.2380556</latitude>
+    <longitude>30.0311111</longitude>
+  </city>
+  <city name="Mibindi">
+    <latitude>-2.9069444</latitude>
+    <longitude>30.2069444</longitude>
+  </city>
+  <city name="Miciro">
+    <latitude>-3.2613889</latitude>
+    <longitude>30.6944444</longitude>
+  </city>
+  <city name="Miduha">
+    <latitude>-2.7986111</latitude>
+    <longitude>29.0222222</longitude>
+  </city>
+  <city name="Migarika">
+    <latitude>-3.7625</latitude>
+    <longitude>30.1947222</longitude>
+  </city>
+  <city name="Migende">
+    <latitude>-3.0516667</latitude>
+    <longitude>29.6736111</longitude>
+  </city>
+  <city name="Migereka">
+    <latitude>-2.5</latitude>
+    <longitude>30.4919444</longitude>
+  </city>
+  <city name="Migerere">
+    <latitude>-3.7738889</latitude>
+    <longitude>29.6719444</longitude>
+  </city>
+  <city name="Migezi">
+    <latitude>-3.2025</latitude>
+    <longitude>29.7772222</longitude>
+  </city>
+  <city name="Migina">
+    <latitude>-3.2436111</latitude>
+    <longitude>29.8647222</longitude>
+  </city>
+  <city name="Migongo">
+    <latitude>-2.9327778</latitude>
+    <longitude>30.0863889</longitude>
+  </city>
+  <city name="Miguruka">
+    <latitude>-3.2866667</latitude>
+    <longitude>30.6888889</longitude>
+  </city>
+  <city name="Mihama">
+    <latitude>-3.1175</latitude>
+    <longitude>30.2594444</longitude>
+  </city>
+  <city name="Miheto">
+    <latitude>-3.2283333</latitude>
+    <longitude>29.4652778</longitude>
+  </city>
+  <city name="Mihigo">
+    <latitude>-3.0897222</latitude>
+    <longitude>29.6727778</longitude>
+  </city>
+  <city name="Mihiza">
+    <latitude>-3.4669444</latitude>
+    <longitude>30.1183333</longitude>
+  </city>
+  <city name="Mihongo">
+    <latitude>-4.1291667</latitude>
+    <longitude>29.9008333</longitude>
+  </city>
+  <city name="Mikanira">
+    <latitude>-3.5158333</latitude>
+    <longitude>30.1658333</longitude>
+  </city>
+  <city name="Mikimba">
+    <latitude>-2.8177778</latitude>
+    <longitude>30.3088889</longitude>
+  </city>
+  <city name="Mikingu">
+    <latitude>-3.0636111</latitude>
+    <longitude>30.0530556</longitude>
+  </city>
+  <city name="Mikore">
+    <latitude>-2.9608333</latitude>
+    <longitude>30.5286111</longitude>
+  </city>
+  <city name="Mikuku">
+    <latitude>-3.1941667</latitude>
+    <longitude>30.4966667</longitude>
+  </city>
+  <city name="Mikwaro">
+    <latitude>-3.6816667</latitude>
+    <longitude>29.9163889</longitude>
+  </city>
+  <city name="Minago">
+    <latitude>-3.8069444</latitude>
+    <longitude>29.3480556</longitude>
+  </city>
+  <city name="Minyare">
+    <latitude>-3.2027778</latitude>
+    <longitude>30.5166667</longitude>
+  </city>
+  <city name="Mirama">
+    <latitude>-3.2094444</latitude>
+    <longitude>29.8213889</longitude>
+  </city>
+  <city name="Mirayi">
+    <latitude>-3.1561111</latitude>
+    <longitude>29.8311111</longitude>
+  </city>
+  <city name="Miremera">
+    <latitude>-3.9102778</latitude>
+    <longitude>29.7030556</longitude>
+  </city>
+  <city name="Misasa">
+    <latitude>-3.1238889</latitude>
+    <longitude>29.7788889</longitude>
+  </city>
+  <city name="Mishiha">
+    <latitude>-3.0622222</latitude>
+    <longitude>30.7016667</longitude>
+  </city>
+  <city name="Mishira">
+    <latitude>-3.0622222</latitude>
+    <longitude>30.7016667</longitude>
+  </city>
+  <city name="Mitaha">
+    <latitude>-2.7680556</latitude>
+    <longitude>30.3711111</longitude>
+  </city>
+  <city name="Mitakataka">
+    <latitude>-3.1361111</latitude>
+    <longitude>29.3652778</longitude>
+  </city>
+  <city name="Mitoza">
+    <latitude>-3.1377778</latitude>
+    <longitude>30.3358333</longitude>
+  </city>
+  <city name="Mivumanyi">
+    <latitude>-3.2688889</latitude>
+    <longitude>30.385</longitude>
+  </city>
+  <city name="Mizenga">
+    <latitude>-3.0611111</latitude>
+    <longitude>29.8766667</longitude>
+  </city>
+  <city name="Mizigo">
+    <latitude>-3.9902778</latitude>
+    <longitude>29.5736111</longitude>
+  </city>
+  <city name="Mont Kibago">
+    <latitude>-4.2930556</latitude>
+    <longitude>29.8344444</longitude>
+  </city>
+  <city name="Mpama">
+    <latitude>-3.4894444</latitude>
+    <longitude>29.8905556</longitude>
+  </city>
+  <city name="Mpamarugamba">
+    <latitude>-2.4058333</latitude>
+    <longitude>30.4480556</longitude>
+  </city>
+  <city name="Mpanda">
+    <latitude>-3.1708333</latitude>
+    <longitude>29.4041667</longitude>
+  </city>
+  <city name="Mparo">
+    <latitude>-3.1413889</latitude>
+    <longitude>29.6197222</longitude>
+  </city>
+  <city name="Mpete">
+    <latitude>-2.7838889</latitude>
+    <longitude>30.1344444</longitude>
+  </city>
+  <city name="Mpinga-Kayove">
+    <latitude>-3.7969444</latitude>
+    <longitude>30.1566667</longitude>
+  </city>
+  <city name="Mpinga">
+    <latitude>-3.5413889</latitude>
+    <longitude>29.4230556</longitude>
+  </city>
+  <city name="Mponyi">
+    <latitude>-3.7288889</latitude>
+    <longitude>29.8983333</longitude>
+  </city>
+  <city name="Mpunge">
+    <latitude>-3.6541667</latitude>
+    <longitude>29.7758333</longitude>
+  </city>
+  <city name="Mubanga">
+    <latitude>-3.5558333</latitude>
+    <longitude>29.4733333</longitude>
+  </city>
+  <city name="Mubimbi">
+    <latitude>-3.2833333</latitude>
+    <longitude>29.4958333</longitude>
+  </city>
+  <city name="Mubira">
+    <latitude>-2.555</latitude>
+    <longitude>30.2402778</longitude>
+  </city>
+  <city name="Mubogora">
+    <latitude>-3.0680556</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Mubone">
+    <latitude>-3.5097222</latitude>
+    <longitude>29.3813889</longitude>
+  </city>
+  <city name="Mubuga">
+    <latitude>-3.4552778</latitude>
+    <longitude>29.8444444</longitude>
+  </city>
+  <city name="Mubukanye">
+    <latitude>-3.2144444</latitude>
+    <longitude>30.7222222</longitude>
+  </city>
+  <city name="Mubungere">
+    <latitude>-3.2241667</latitude>
+    <longitude>29.4338889</longitude>
+  </city>
+  <city name="Mubwiga">
+    <latitude>-3.2777778</latitude>
+    <longitude>30.0425</longitude>
+  </city>
+  <city name="Mucagara">
+    <latitude>-2.9397222</latitude>
+    <longitude>29.2577778</longitude>
+  </city>
+  <city name="Mucori">
+    <latitude>-3.3091667</latitude>
+    <longitude>30.6222222</longitude>
+  </city>
+  <city name="Mudafraza">
+    <latitude>-3.93</latitude>
+    <longitude>29.7227778</longitude>
+  </city>
+  <city name="Mudahwera">
+    <latitude>-3.8233333</latitude>
+    <longitude>30.0569444</longitude>
+  </city>
+  <city name="Mudaraza">
+    <latitude>-3.93</latitude>
+    <longitude>29.7227778</longitude>
+  </city>
+  <city name="Mudende">
+    <latitude>-3.8908333</latitude>
+    <longitude>29.5138889</longitude>
+  </city>
+  <city name="Mudida">
+    <latitude>-2.7755556</latitude>
+    <longitude>30.1166667</longitude>
+  </city>
+  <city name="Mugabomure">
+    <latitude>-3.2358333</latitude>
+    <longitude>29.7738889</longitude>
+  </city>
+  <city name="Mugamba">
+    <latitude>-3.6666667</latitude>
+    <longitude>29.5861111</longitude>
+  </city>
+  <city name="Mugano">
+    <latitude>-3.7663889</latitude>
+    <longitude>29.7691667</longitude>
+  </city>
+  <city name="Muganza">
+    <latitude>-3.4308333</latitude>
+    <longitude>30.5202778</longitude>
+  </city>
+  <city name="Mugarama">
+    <latitude>-3.8533333</latitude>
+    <longitude>30.0305556</longitude>
+  </city>
+  <city name="Mugara">
+    <latitude>-4.0472222</latitude>
+    <longitude>29.5255556</longitude>
+  </city>
+  <city name="Mugaruro">
+    <latitude>-3.2969444</latitude>
+    <longitude>30.3805556</longitude>
+  </city>
+  <city name="Mugatare">
+    <latitude>-3.1713889</latitude>
+    <longitude>30.4822222</longitude>
+  </city>
+  <city name="Mugazi">
+    <latitude>-2.8669444</latitude>
+    <longitude>29.8941667</longitude>
+  </city>
+  <city name="Mugeni">
+    <latitude>-4.0961111</latitude>
+    <longitude>30.0072222</longitude>
+  </city>
+  <city name="Mugerama">
+    <latitude>-4.3036111</latitude>
+    <longitude>29.6097222</longitude>
+  </city>
+  <city name="Mugera">
+    <latitude>-3.0652778</latitude>
+    <longitude>30.6680556</longitude>
+  </city>
+  <city name="Mugerema">
+    <latitude>-4.3036111</latitude>
+    <longitude>29.6097222</longitude>
+  </city>
+  <city name="Mugerero">
+    <latitude>-2.8963889</latitude>
+    <longitude>29.2758333</longitude>
+  </city>
+  <city name="Mugina">
+    <latitude>-2.7555556</latitude>
+    <longitude>29.1069444</longitude>
+  </city>
+  <city name="Mugobe">
+    <latitude>-2.5355556</latitude>
+    <longitude>30.2105556</longitude>
+  </city>
+  <city name="Mugoboka">
+    <latitude>-3.6180556</latitude>
+    <longitude>29.4466667</longitude>
+  </city>
+  <city name="Mugobweka">
+    <latitude>-3.495</latitude>
+    <longitude>30.4472222</longitude>
+  </city>
+  <city name="Mugogo">
+    <latitude>-3.3327778</latitude>
+    <longitude>30.6052778</longitude>
+  </city>
+  <city name="Mugomera">
+    <latitude>-3.3716667</latitude>
+    <longitude>29.7283333</longitude>
+  </city>
+  <city name="Mugona">
+    <latitude>-3.0711111</latitude>
+    <longitude>29.8380556</longitude>
+  </city>
+  <city name="Mugongomanga">
+    <latitude>-3.4694444</latitude>
+    <longitude>29.5444444</longitude>
+  </city>
+  <city name="Mugongo">
+    <latitude>-3.5397222</latitude>
+    <longitude>29.3869444</longitude>
+  </city>
+  <city name="Mugongora">
+    <latitude>-2.8258333</latitude>
+    <longitude>30.2880556</longitude>
+  </city>
+  <city name="Mugotora">
+    <latitude>-3.8469444</latitude>
+    <longitude>29.3905556</longitude>
+  </city>
+  <city name="Mugumya">
+    <latitude>-3.6158333</latitude>
+    <longitude>29.5966667</longitude>
+  </city>
+  <city name="Muguramo">
+    <latitude>-3.7275</latitude>
+    <longitude>29.7958333</longitude>
+  </city>
+  <city name="Muguruka">
+    <latitude>-3.4622222</latitude>
+    <longitude>30.1191667</longitude>
+  </city>
+  <city name="Muhafu">
+    <latitude>-3.9</latitude>
+    <longitude>30.1833333</longitude>
+  </city>
+  <city name="Muhaganya">
+    <latitude>-3.4583333</latitude>
+    <longitude>29.7722222</longitude>
+  </city>
+  <city name="Muhagaze">
+    <latitude>-3.0347222</latitude>
+    <longitude>29.5755556</longitude>
+  </city>
+  <city name="Muhama">
+    <latitude>-4.1922222</latitude>
+    <longitude>29.9630556</longitude>
+  </city>
+  <city name="Muhanda">
+    <latitude>-3.7069444</latitude>
+    <longitude>29.3747222</longitude>
+  </city>
+  <city name="Muhanga">
+    <latitude>-3.4894444</latitude>
+    <longitude>29.8447222</longitude>
+  </city>
+  <city name="Muharara">
+    <latitude>-2.92</latitude>
+    <longitude>30.0847222</longitude>
+  </city>
+  <city name="Muhare">
+    <latitude>-3.4241667</latitude>
+    <longitude>30.0294444</longitude>
+  </city>
+  <city name="Muharuro">
+    <latitude>-2.7561111</latitude>
+    <longitude>30.245</longitude>
+  </city>
+  <city name="Muhenja">
+    <latitude>-2.8477778</latitude>
+    <longitude>30.0147222</longitude>
+  </city>
+  <city name="Muhera">
+    <latitude>-3.2727778</latitude>
+    <longitude>30.145</longitude>
+  </city>
+  <city name="Muhetsi">
+    <latitude>-2.5436111</latitude>
+    <longitude>30.2266667</longitude>
+  </city>
+  <city name="Muhigira">
+    <latitude>-2.5530556</latitude>
+    <longitude>30.4413889</longitude>
+  </city>
+  <city name="Muhindo">
+    <latitude>-3.3633333</latitude>
+    <longitude>29.7713889</longitude>
+  </city>
+  <city name="Muhingo">
+    <latitude>-2.7094444</latitude>
+    <longitude>29.1919444</longitude>
+  </city>
+  <city name="Muhoroge">
+    <latitude>-2.9875</latitude>
+    <longitude>29.2669444</longitude>
+  </city>
+  <city name="Muhororo">
+    <latitude>-3.3452778</latitude>
+    <longitude>29.7525</longitude>
+  </city>
+  <city name="Muhoza">
+    <latitude>-3.6780556</latitude>
+    <longitude>30.0438889</longitude>
+  </city>
+  <city name="Muhumya">
+    <latitude>-3.5538889</latitude>
+    <longitude>29.7972222</longitude>
+  </city>
+  <city name="Muhuta">
+    <latitude>-3.6333333</latitude>
+    <longitude>29.3666667</longitude>
+  </city>
+  <city name="Muhuzo">
+    <latitude>-2.7166667</latitude>
+    <longitude>29.9638889</longitude>
+  </city>
+  <city name="Muhwanya">
+    <latitude>-3.1969444</latitude>
+    <longitude>29.7736111</longitude>
+  </city>
+  <city name="Muhwazi">
+    <latitude>-2.74</latitude>
+    <longitude>30.3402778</longitude>
+  </city>
+  <city name="Mukabarangara">
+    <latitude>-3.1769444</latitude>
+    <longitude>29.825</longitude>
+  </city>
+  <city name="Mukamano">
+    <latitude>-3.3255556</latitude>
+    <longitude>30.3022222</longitude>
+  </city>
+  <city name="Muka">
+    <latitude>-3.8305556</latitude>
+    <longitude>29.7377778</longitude>
+  </city>
+  <city name="Mukanamba">
+    <latitude>-3.3586111</latitude>
+    <longitude>30.4566667</longitude>
+  </city>
+  <city name="Mukaroba">
+    <latitude>-2.9586111</latitude>
+    <longitude>30.6402778</longitude>
+  </city>
+  <city name="Mukigo">
+    <latitude>-3.3330556</latitude>
+    <longitude>30.0502778</longitude>
+  </city>
+  <city name="Mukike">
+    <latitude>-3.525</latitude>
+    <longitude>29.5138889</longitude>
+  </city>
+  <city name="Mukindu">
+    <latitude>-3.1586111</latitude>
+    <longitude>29.2575</longitude>
+  </city>
+  <city name="Mukingiro">
+    <latitude>-2.9111111</latitude>
+    <longitude>29.1069444</longitude>
+  </city>
+  <city name="Mukinya">
+    <latitude>-3.4427778</latitude>
+    <longitude>29.8111111</longitude>
+  </city>
+  <city name="Mukobe">
+    <latitude>-3.2883333</latitude>
+    <longitude>30.6161111</longitude>
+  </city>
+  <city name="Muko">
+    <latitude>-2.9802778</latitude>
+    <longitude>30.3433333</longitude>
+  </city>
+  <city name="Mukoni">
+    <latitude>-3.495</latitude>
+    <longitude>29.8688889</longitude>
+  </city>
+  <city name="Mukonko">
+    <latitude>-3.505</latitude>
+    <longitude>29.4858333</longitude>
+  </city>
+  <city name="Mukugu">
+    <latitude>-3.0</latitude>
+    <longitude>29.4666667</longitude>
+  </city>
+  <city name="Mukungugu">
+    <latitude>-3.39</latitude>
+    <longitude>29.9091667</longitude>
+  </city>
+  <city name="Mukuzanyana">
+    <latitude>-2.8244444</latitude>
+    <longitude>30.0733333</longitude>
+  </city>
+  <city name="Mumana">
+    <latitude>-2.5222222</latitude>
+    <longitude>30.4027778</longitude>
+  </city>
+  <city name="Mumasuma">
+    <latitude>-3.3675</latitude>
+    <longitude>29.5241667</longitude>
+  </city>
+  <city name="Mumbanza">
+    <latitude>-2.7722222</latitude>
+    <longitude>29.0361111</longitude>
+  </city>
+  <city name="Mumbizi">
+    <latitude>-2.9958333</latitude>
+    <longitude>30.3866667</longitude>
+  </city>
+  <city name="Mumigende">
+    <latitude>-2.9769444</latitude>
+    <longitude>30.0172222</longitude>
+  </city>
+  <city name="Mumihindo">
+    <latitude>-2.6191667</latitude>
+    <longitude>29.9447222</longitude>
+  </city>
+  <city name="Mumivo">
+    <latitude>-4.2280556</latitude>
+    <longitude>29.7886111</longitude>
+  </city>
+  <city name="Mumpwishi">
+    <latitude>-2.8213889</latitude>
+    <longitude>30.3419444</longitude>
+  </city>
+  <city name="Mumuri">
+    <latitude>-3.5144444</latitude>
+    <longitude>29.9597222</longitude>
+  </city>
+  <city name="Munanira">
+    <latitude>-3.2947222</latitude>
+    <longitude>29.7405556</longitude>
+  </city>
+  <city name="Munazi">
+    <latitude>-2.9652778</latitude>
+    <longitude>30.4341667</longitude>
+  </city>
+  <city name="Munege">
+    <latitude>-3.8930556</latitude>
+    <longitude>29.4077778</longitude>
+  </city>
+  <city name="Mungaji">
+    <latitude>-2.7705556</latitude>
+    <longitude>30.2730556</longitude>
+  </city>
+  <city name="Mungwa">
+    <latitude>-3.4525</latitude>
+    <longitude>29.8833333</longitude>
+  </city>
+  <city name="Munini">
+    <latitude>-4.0086111</latitude>
+    <longitude>29.7419444</longitude>
+  </city>
+  <city name="Munterana">
+    <latitude>-3.3305556</latitude>
+    <longitude>30.4541667</longitude>
+  </city>
+  <city name="Muntita">
+    <latitude>-3.8263889</latitude>
+    <longitude>29.6522222</longitude>
+  </city>
+  <city name="Muntwana">
+    <latitude>-3.8161111</latitude>
+    <longitude>30.2602778</longitude>
+  </city>
+  <city name="Munyegere">
+    <latitude>-3.9122222</latitude>
+    <longitude>29.6794444</longitude>
+  </city>
+  <city name="Munyegeri">
+    <latitude>-3.9122222</latitude>
+    <longitude>29.6794444</longitude>
+  </city>
+  <city name="Munyika">
+    <latitude>-3.4202778</latitude>
+    <longitude>30.2902778</longitude>
+  </city>
+  <city name="Munyinya">
+    <latitude>-3.0083333</latitude>
+    <longitude>30.6491667</longitude>
+  </city>
+  <city name="Munyo">
+    <latitude>-3.355</latitude>
+    <longitude>29.8236111</longitude>
+  </city>
+  <city name="Munzenze">
+    <latitude>-3.025</latitude>
+    <longitude>30.7666667</longitude>
+  </city>
+  <city name="Munzugu">
+    <latitude>-2.7619444</latitude>
+    <longitude>29.9316667</longitude>
+  </city>
+  <city name="Murago">
+    <latitude>-3.4344444</latitude>
+    <longitude>29.8363889</longitude>
+  </city>
+  <city name="Murama">
+    <latitude>-3.02</latitude>
+    <longitude>30.2544444</longitude>
+  </city>
+  <city name="Murambagize">
+    <latitude>-2.9416667</latitude>
+    <longitude>29.1944444</longitude>
+  </city>
+  <city name="Muramba">
+    <latitude>-3.6666667</latitude>
+    <longitude>29.5916667</longitude>
+  </city>
+  <city name="Murambi">
+    <latitude>-3.4169444</latitude>
+    <longitude>30.3586111</longitude>
+  </city>
+  <city name="Murambo">
+    <latitude>-4.3566667</latitude>
+    <longitude>29.6766667</longitude>
+  </city>
+  <city name="Muramvya">
+    <latitude>-3.5763889</latitude>
+    <longitude>29.4166667</longitude>
+  </city>
+  <city name="Murangara">
+    <latitude>-3.4361111</latitude>
+    <longitude>29.8661111</longitude>
+  </city>
+  <city name="Murango">
+    <latitude>-3.7413889</latitude>
+    <longitude>29.6691667</longitude>
+  </city>
+  <city name="Murehe">
+    <latitude>-4.0277778</latitude>
+    <longitude>29.7113889</longitude>
+  </city>
+  <city name="Mureke">
+    <latitude>-2.9780556</latitude>
+    <longitude>29.8666667</longitude>
+  </city>
+  <city name="Muremera">
+    <latitude>-3.2213889</latitude>
+    <longitude>29.7891667</longitude>
+  </city>
+  <city name="Muremure">
+    <latitude>-4.3461111</latitude>
+    <longitude>29.8277778</longitude>
+  </city>
+  <city name="Murenda">
+    <latitude>-3.695</latitude>
+    <longitude>29.7113889</longitude>
+  </city>
+  <city name="Murenge">
+    <latitude>-2.6380556</latitude>
+    <longitude>30.365</longitude>
+  </city>
+  <city name="Murenguko">
+    <latitude>-3.3336111</latitude>
+    <longitude>29.7047222</longitude>
+  </city>
+  <city name="Murinda">
+    <latitude>-3.9466667</latitude>
+    <longitude>29.5805556</longitude>
+  </city>
+  <city name="Murira">
+    <latitude>-3.1805556</latitude>
+    <longitude>29.3416667</longitude>
+  </city>
+  <city name="Murore">
+    <latitude>-3.1875</latitude>
+    <longitude>30.6625</longitude>
+  </city>
+  <city name="Murubi">
+    <latitude>-2.8952778</latitude>
+    <longitude>30.2788889</longitude>
+  </city>
+  <city name="Murunazi">
+    <latitude>-3.2325</latitude>
+    <longitude>30.7044444</longitude>
+  </city>
+  <city name="Murungurira">
+    <latitude>-3.5244444</latitude>
+    <longitude>29.6908333</longitude>
+  </city>
+  <city name="Murunyinya">
+    <latitude>-3.21</latitude>
+    <longitude>30.7036111</longitude>
+  </city>
+  <city name="Mururi">
+    <latitude>-3.1225</latitude>
+    <longitude>29.9191667</longitude>
+  </city>
+  <city name="Mururinzi">
+    <latitude>-3.1361111</latitude>
+    <longitude>30.4508333</longitude>
+  </city>
+  <city name="Muruta">
+    <latitude>-2.9519444</latitude>
+    <longitude>29.5891667</longitude>
+  </city>
+  <city name="Murwampore">
+    <latitude>-3.5522222</latitude>
+    <longitude>29.7297222</longitude>
+  </city>
+  <city name="Murwanzu">
+    <latitude>-3.8008333</latitude>
+    <longitude>30.2980556</longitude>
+  </city>
+  <city name="Murwi">
+    <latitude>-2.8861111</latitude>
+    <longitude>29.2027778</longitude>
+  </city>
+  <city name="Murwoga">
+    <latitude>-2.7255556</latitude>
+    <longitude>30.2963889</longitude>
+  </city>
+  <city name="Muryakiyago">
+    <latitude>-3.5877778</latitude>
+    <longitude>30.0666667</longitude>
+  </city>
+  <city name="Muryakyago">
+    <latitude>-3.5877778</latitude>
+    <longitude>30.0666667</longitude>
+  </city>
+  <city name="Muryamvubu">
+    <latitude>-3.0994444</latitude>
+    <longitude>30.2775</longitude>
+  </city>
+  <city name="Muryaruyigi">
+    <latitude>-3.3272222</latitude>
+    <longitude>30.2858333</longitude>
+  </city>
+  <city name="Musabagi">
+    <latitude>-3.2080556</latitude>
+    <longitude>29.665</longitude>
+  </city>
+  <city name="Musaga">
+    <latitude>-3.4158333</latitude>
+    <longitude>29.375</longitude>
+  </city>
+  <city name="Musagara">
+    <latitude>-3.6741667</latitude>
+    <longitude>29.7347222</longitude>
+  </city>
+  <city name="Musagare">
+    <latitude>-3.6741667</latitude>
+    <longitude>29.7347222</longitude>
+  </city>
+  <city name="Musama">
+    <latitude>-3.3369444</latitude>
+    <longitude>29.8558333</longitude>
+  </city>
+  <city name="Musamba">
+    <latitude>-3.8372222</latitude>
+    <longitude>29.6433333</longitude>
+  </city>
+  <city name="Musamo">
+    <latitude>-3.3983333</latitude>
+    <longitude>29.8452778</longitude>
+  </city>
+  <city name="Musanga">
+    <latitude>-3.765</latitude>
+    <longitude>29.6108333</longitude>
+  </city>
+  <city name="Musasa">
+    <latitude>-3.7152778</latitude>
+    <longitude>29.6491667</longitude>
+  </city>
+  <city name="Musaswe">
+    <latitude>-4.2819444</latitude>
+    <longitude>29.8738889</longitude>
+  </city>
+  <city name="Musave">
+    <latitude>-3.8361111</latitude>
+    <longitude>29.3930556</longitude>
+  </city>
+  <city name="Musavu">
+    <latitude>-3.0994444</latitude>
+    <longitude>30.2191667</longitude>
+  </city>
+  <city name="Musema">
+    <latitude>-3.0805556</latitude>
+    <longitude>29.6722222</longitude>
+  </city>
+  <city name="Musenga">
+    <latitude>-3.1669444</latitude>
+    <longitude>30.5147222</longitude>
+  </city>
+  <city name="Musenyi">
+    <latitude>-3.1916667</latitude>
+    <longitude>29.4055556</longitude>
+  </city>
+  <city name="Musezero">
+    <latitude>-2.7847222</latitude>
+    <longitude>29.8338889</longitude>
+  </city>
+  <city name="Mushasha">
+    <latitude>-3.4416667</latitude>
+    <longitude>29.9333333</longitude>
+  </city>
+  <city name="Mushiha">
+    <latitude>-3.0622222</latitude>
+    <longitude>30.7016667</longitude>
+  </city>
+  <city name="Mushihi">
+    <latitude>-3.8013889</latitude>
+    <longitude>29.5388889</longitude>
+  </city>
+  <city name="Mushikanwa">
+    <latitude>-3.1605556</latitude>
+    <longitude>29.85</longitude>
+  </city>
+  <city name="Mushishi">
+    <latitude>-3.3980556</latitude>
+    <longitude>29.5936111</longitude>
+  </city>
+  <city name="Mushonji">
+    <latitude>-3.4897222</latitude>
+    <longitude>29.7916667</longitude>
+  </city>
+  <city name="Mushubi">
+    <latitude>-3.3986111</latitude>
+    <longitude>30.5877778</longitude>
+  </city>
+  <city name="Musigati">
+    <latitude>-3.0725</latitude>
+    <longitude>29.4491667</longitude>
+  </city>
+  <city name="Musivya">
+    <latitude>-2.9727778</latitude>
+    <longitude>30.135</longitude>
+  </city>
+  <city name="Musongati">
+    <latitude>-3.7291667</latitude>
+    <longitude>30.1005556</longitude>
+  </city>
+  <city name="Musorora">
+    <latitude>-3.9597222</latitude>
+    <longitude>29.7336111</longitude>
+  </city>
+  <city name="Musura">
+    <latitude>-3.9916667</latitude>
+    <longitude>29.6977778</longitude>
+  </city>
+  <city name="Musuti">
+    <latitude>-3.5925</latitude>
+    <longitude>29.5230556</longitude>
+  </city>
+  <city name="Mutaho">
+    <latitude>-3.2219444</latitude>
+    <longitude>29.6011111</longitude>
+  </city>
+  <city name="Mutakura">
+    <latitude>-2.685</latitude>
+    <longitude>30.3811111</longitude>
+  </city>
+  <city name="Mutambara">
+    <latitude>-4.0130556</latitude>
+    <longitude>29.4558333</longitude>
+  </city>
+  <city name="Mutambu">
+    <latitude>-3.5305556</latitude>
+    <longitude>29.4291667</longitude>
+  </city>
+  <city name="Mutanga">
+    <latitude>-3.3786111</latitude>
+    <longitude>29.3938889</longitude>
+  </city>
+  <city name="Mutara">
+    <latitude>-3.9858333</latitude>
+    <longitude>29.5213889</longitude>
+  </city>
+  <city name="Mutare">
+    <latitude>-4.1527778</latitude>
+    <longitude>29.8819444</longitude>
+  </city>
+  <city name="Mutegeka">
+    <latitude>-3.3780556</latitude>
+    <longitude>30.0708333</longitude>
+  </city>
+  <city name="Mutenza">
+    <latitude>-2.9869444</latitude>
+    <longitude>30.4163889</longitude>
+  </city>
+  <city name="Muterama">
+    <latitude>-4.3380556</latitude>
+    <longitude>29.8169444</longitude>
+  </city>
+  <city name="Mutimbuzi">
+    <latitude>-3.3166667</latitude>
+    <longitude>29.3666667</longitude>
+  </city>
+  <city name="Mutobo">
+    <latitude>-3.12</latitude>
+    <longitude>30.5452778</longitude>
+  </city>
+  <city name="Mutoye">
+    <latitude>-3.5055556</latitude>
+    <longitude>29.5855556</longitude>
+  </city>
+  <city name="Mutoyi">
+    <latitude>-3.5055556</latitude>
+    <longitude>29.5855556</longitude>
+  </city>
+  <city name="Mutukura">
+    <latitude>-3.2966667</latitude>
+    <longitude>30.0280556</longitude>
+  </city>
+  <city name="Mutumba">
+    <latitude>-3.4222222</latitude>
+    <longitude>29.3583333</longitude>
+  </city>
+  <city name="Mutwankoma">
+    <latitude>-3.8211111</latitude>
+    <longitude>30.1413889</longitude>
+  </city>
+  <city name="Muvugangoma">
+    <latitude>-3.6069444</latitude>
+    <longitude>30.4372222</longitude>
+  </city>
+  <city name="Muvumero">
+    <latitude>-3.6644444</latitude>
+    <longitude>29.9558333</longitude>
+  </city>
+  <city name="Muvumu">
+    <latitude>-3.8483333</latitude>
+    <longitude>29.5822222</longitude>
+  </city>
+  <city name="Muvyuko">
+    <latitude>-2.5058333</latitude>
+    <longitude>30.3066667</longitude>
+  </city>
+  <city name="Muyaga">
+    <latitude>-3.2258333</latitude>
+    <longitude>29.7638889</longitude>
+  </city>
+  <city name="Muyama">
+    <latitude>-3.8066667</latitude>
+    <longitude>29.5316667</longitude>
+  </city>
+  <city name="Muyange-Gashoho">
+    <latitude>-2.8141667</latitude>
+    <longitude>30.1283333</longitude>
+  </city>
+  <city name="Muyange">
+    <latitude>-3.5077778</latitude>
+    <longitude>29.8427778</longitude>
+  </city>
+  <city name="Muyebe">
+    <latitude>-3.4969444</latitude>
+    <longitude>29.7788889</longitude>
+  </city>
+  <city name="Muyinga">
+    <latitude>-2.8494444</latitude>
+    <longitude>30.3361111</longitude>
+  </city>
+  <city name="Muyogoro">
+    <latitude>-3.8030556</latitude>
+    <longitude>30.1558333</longitude>
+  </city>
+  <city name="Muyuga">
+    <latitude>-4.0</latitude>
+    <longitude>29.6158333</longitude>
+  </city>
+  <city name="Muzamba">
+    <latitude>-3.8227778</latitude>
+    <longitude>29.6377778</longitude>
+  </city>
+  <city name="Muzenga">
+    <latitude>-3.3958333</latitude>
+    <longitude>29.7786111</longitude>
+  </city>
+  <city name="Muzima">
+    <latitude>-2.8277778</latitude>
+    <longitude>30.0283333</longitude>
+  </city>
+  <city name="Muzimu">
+    <latitude>-3.7280556</latitude>
+    <longitude>29.5655556</longitude>
+  </city>
+  <city name="Muzi">
+    <latitude>-3.5466667</latitude>
+    <longitude>29.5022222</longitude>
+  </city>
+  <city name="Muzinda">
+    <latitude>-3.2638889</latitude>
+    <longitude>29.4208333</longitude>
+  </city>
+  <city name="Muzirangerera">
+    <latitude>-2.9847222</latitude>
+    <longitude>30.6913889</longitude>
+  </city>
+  <city name="Muzuga">
+    <latitude>-3.4911111</latitude>
+    <longitude>29.5955556</longitude>
+  </city>
+  <city name="Muzumure">
+    <latitude>-3.2194444</latitude>
+    <longitude>30.5236111</longitude>
+  </city>
+  <city name="Muzura">
+    <latitude>-3.9916667</latitude>
+    <longitude>29.6977778</longitude>
+  </city>
+  <city name="Mwakiro">
+    <latitude>-3.1313889</latitude>
+    <longitude>30.2897222</longitude>
+  </city>
+  <city name="Mwandaro">
+    <latitude>-4.1119444</latitude>
+    <longitude>29.6244444</longitude>
+  </city>
+  <city name="Mwange">
+    <latitude>-3.9236111</latitude>
+    <longitude>29.4205556</longitude>
+  </city>
+  <city name="Mwarambago">
+    <latitude>-2.7572222</latitude>
+    <longitude>29.1416667</longitude>
+  </city>
+  <city name="Mwarangabo">
+    <latitude>-2.7572222</latitude>
+    <longitude>29.1416667</longitude>
+  </city>
+  <city name="Mwaro">
+    <latitude>-3.5263889</latitude>
+    <longitude>29.7027778</longitude>
+  </city>
+  <city name="Mwayi">
+    <latitude>-3.9680556</latitude>
+    <longitude>30.0213889</longitude>
+  </city>
+  <city name="Mwebeya">
+    <latitude>-3.8402778</latitude>
+    <longitude>30.2025</longitude>
+  </city>
+  <city name="Mwegera">
+    <latitude>-3.4063889</latitude>
+    <longitude>29.8516667</longitude>
+  </city>
+  <city name="Mwendo">
+    <latitude>-2.6469444</latitude>
+    <longitude>30.0055556</longitude>
+  </city>
+  <city name="Mweya">
+    <latitude>-3.4902778</latitude>
+    <longitude>29.9283333</longitude>
+  </city>
+  <city name="Mwibero">
+    <latitude>-3.1286111</latitude>
+    <longitude>30.2827778</longitude>
+  </city>
+  <city name="Mwibu">
+    <latitude>-2.4313889</latitude>
+    <longitude>30.5252778</longitude>
+  </city>
+  <city name="Mwiburaniro">
+    <latitude>-3.22</latitude>
+    <longitude>30.7008333</longitude>
+  </city>
+  <city name="Mwihayiro">
+    <latitude>-3.1705556</latitude>
+    <longitude>29.8616667</longitude>
+  </city>
+  <city name="Mwihero">
+    <latitude>-3.1286111</latitude>
+    <longitude>30.2827778</longitude>
+  </city>
+  <city name="Mwitaba">
+    <latitude>-2.9944444</latitude>
+    <longitude>30.1233333</longitude>
+  </city>
+  <city name="Mwiteka">
+    <latitude>-2.8405556</latitude>
+    <longitude>30.0794444</longitude>
+  </city>
+  <city name="Mwumba">
+    <latitude>-2.8611111</latitude>
+    <longitude>29.7916667</longitude>
+  </city>
+  <city name="Mwurire">
+    <latitude>-3.7586111</latitude>
+    <longitude>29.645</longitude>
+  </city>
+  <city name="Myugariro">
+    <latitude>-3.4697222</latitude>
+    <longitude>30.4772222</longitude>
+  </city>
+  <city name="Myukwe">
+    <latitude>-3.0358333</latitude>
+    <longitude>30.0575</longitude>
+  </city>
+  <city name="Myuzi">
+    <latitude>-3.1269444</latitude>
+    <longitude>29.9263889</longitude>
+  </city>
+  <city name="Namba">
+    <latitude>-3.6797222</latitude>
+    <longitude>29.6805556</longitude>
+  </city>
+  <city name="Nanira">
+    <latitude>-3.9230556</latitude>
+    <longitude>29.6572222</longitude>
+  </city>
+  <city name="Ncanyi">
+    <latitude>-4.2569444</latitude>
+    <longitude>29.7969444</longitude>
+  </city>
+  <city name="Ncaramba">
+    <latitude>-3.1119444</latitude>
+    <longitude>29.8652778</longitude>
+  </city>
+  <city name="Ncarambo">
+    <latitude>-3.1119444</latitude>
+    <longitude>29.8652778</longitude>
+  </city>
+  <city name="Nciri">
+    <latitude>-2.4966667</latitude>
+    <longitude>30.1747222</longitude>
+  </city>
+  <city name="Ncunda">
+    <latitude>-3.3388889</latitude>
+    <longitude>30.2463889</longitude>
+  </city>
+  <city name="Ndagano">
+    <latitude>-4.0088889</latitude>
+    <longitude>29.6780556</longitude>
+  </city>
+  <city name="Ndaro">
+    <latitude>-3.5188889</latitude>
+    <longitude>30.0255556</longitude>
+  </city>
+  <city name="Ndava">
+    <latitude>-3.3777778</latitude>
+    <longitude>29.7805556</longitude>
+  </city>
+  <city name="Ndawa">
+    <latitude>-3.4291667</latitude>
+    <longitude>29.7111111</longitude>
+  </city>
+  <city name="Ndege">
+    <latitude>-3.3511111</latitude>
+    <longitude>30.4127778</longitude>
+  </city>
+  <city name="Ndego">
+    <latitude>-3.1027778</latitude>
+    <longitude>29.675</longitude>
+  </city>
+  <city name="Ndengane">
+    <latitude>-2.6916667</latitude>
+    <longitude>30.1858333</longitude>
+  </city>
+  <city name="Ndera">
+    <latitude>-2.7544444</latitude>
+    <longitude>30.2730556</longitude>
+  </city>
+  <city name="Ndimo">
+    <latitude>-3.6325</latitude>
+    <longitude>29.8316667</longitude>
+  </city>
+  <city name="Ndora">
+    <latitude>-2.9194444</latitude>
+    <longitude>29.3888889</longitude>
+  </city>
+  <city name="Nemba">
+    <latitude>-3.9311111</latitude>
+    <longitude>29.9513889</longitude>
+  </city>
+  <city name="Ngagara">
+    <latitude>-3.3536111</latitude>
+    <longitude>29.3686111</longitude>
+  </city>
+  <city name="Ngambwe">
+    <latitude>-3.5297222</latitude>
+    <longitude>29.3797222</longitude>
+  </city>
+  <city name="Ngara">
+    <latitude>-2.7625</latitude>
+    <longitude>29.2916667</longitude>
+  </city>
+  <city name="Ngati">
+    <latitude>-3.4894444</latitude>
+    <longitude>30.4697222</longitude>
+  </city>
+  <city name="Ngere">
+    <latitude>-3.1627778</latitude>
+    <longitude>29.7619444</longitude>
+  </city>
+  <city name="Ngobeke">
+    <latitude>-3.7683333</latitude>
+    <longitude>30.0436111</longitude>
+  </city>
+  <city name="Ngoma">
+    <latitude>-3.7147222</latitude>
+    <longitude>29.5141667</longitude>
+  </city>
+  <city name="Ngomiraronka">
+    <latitude>-2.4122222</latitude>
+    <longitude>30.0113889</longitude>
+  </city>
+  <city name="Ngonie">
+    <latitude>-3.0097222</latitude>
+    <longitude>29.4405556</longitude>
+  </city>
+  <city name="Ngonyi">
+    <latitude>-3.0097222</latitude>
+    <longitude>29.4405556</longitude>
+  </city>
+  <city name="Ngoro">
+    <latitude>-3.4263889</latitude>
+    <longitude>29.8102778</longitude>
+  </city>
+  <city name="Ngozi">
+    <latitude>-2.9083333</latitude>
+    <longitude>29.8277778</longitude>
+  </city>
+  <city name="Ninga">
+    <latitude>-3.2388889</latitude>
+    <longitude>29.3138889</longitude>
+  </city>
+  <city name="Ningwe">
+    <latitude>-3.885</latitude>
+    <longitude>30.0566667</longitude>
+  </city>
+  <city name="Nini">
+    <latitude>-3.5419444</latitude>
+    <longitude>30.1638889</longitude>
+  </city>
+  <city name="Nkamba">
+    <latitude>-3.0652778</latitude>
+    <longitude>30.2730556</longitude>
+  </city>
+  <city name="Nkanda">
+    <latitude>-3.2602778</latitude>
+    <longitude>30.1852778</longitude>
+  </city>
+  <city name="Nkavyi">
+    <latitude>-3.4483333</latitude>
+    <longitude>30.2405556</longitude>
+  </city>
+  <city name="Nkenke">
+    <latitude>-3.6036111</latitude>
+    <longitude>29.5166667</longitude>
+  </city>
+  <city name="Nkingo">
+    <latitude>-3.4797222</latitude>
+    <longitude>29.8294444</longitude>
+  </city>
+  <city name="Nkingu">
+    <latitude>-3.5333333</latitude>
+    <longitude>29.6875</longitude>
+  </city>
+  <city name="Nkiranyi">
+    <latitude>-3.4291667</latitude>
+    <longitude>29.8311111</longitude>
+  </city>
+  <city name="Nkoma">
+    <latitude>-3.5047222</latitude>
+    <longitude>29.6072222</longitude>
+  </city>
+  <city name="Nkomera">
+    <latitude>-2.7644444</latitude>
+    <longitude>29.9944444</longitude>
+  </city>
+  <city name="Nkomero">
+    <latitude>-2.6844444</latitude>
+    <longitude>30.1508333</longitude>
+  </city>
+  <city name="Nkondo">
+    <latitude>-3.6963889</latitude>
+    <longitude>29.8444444</longitude>
+  </city>
+  <city name="Nkoronko">
+    <latitude>-2.8588889</latitude>
+    <longitude>30.2188889</longitude>
+  </city>
+  <city name="Nkukwe">
+    <latitude>-3.6094444</latitude>
+    <longitude>29.6427778</longitude>
+  </city>
+  <city name="Nkurye">
+    <latitude>-3.7780556</latitude>
+    <longitude>30.2575</longitude>
+  </city>
+  <city name="Noge">
+    <latitude>-2.525</latitude>
+    <longitude>30.4361111</longitude>
+  </city>
+  <city name="Ntabandwa">
+    <latitude>-3.1425</latitude>
+    <longitude>29.8427778</longitude>
+  </city>
+  <city name="Ntabwome">
+    <latitude>-3.3569444</latitude>
+    <longitude>29.7544444</longitude>
+  </city>
+  <city name="Ntaho">
+    <latitude>-4.0144444</latitude>
+    <longitude>30.1541667</longitude>
+  </city>
+  <city name="Ntamba">
+    <latitude>-2.9833333</latitude>
+    <longitude>29.4375</longitude>
+  </city>
+  <city name="Ntanda">
+    <latitude>-3.0636111</latitude>
+    <longitude>29.9502778</longitude>
+  </city>
+  <city name="Ntatemwa">
+    <latitude>-3.0719444</latitude>
+    <longitude>30.1419444</longitude>
+  </city>
+  <city name="Ntawantunze">
+    <latitude>-3.8277778</latitude>
+    <longitude>29.7261111</longitude>
+  </city>
+  <city name="Ntebe">
+    <latitude>-3.7169444</latitude>
+    <longitude>29.3702778</longitude>
+  </city>
+  <city name="Ntega">
+    <latitude>-2.6083333</latitude>
+    <longitude>29.9930556</longitude>
+  </city>
+  <city name="Ntentamaza">
+    <latitude>-3.6591667</latitude>
+    <longitude>29.5961111</longitude>
+  </city>
+  <city name="Nterakanonko">
+    <latitude>-3.6094444</latitude>
+    <longitude>30.045</longitude>
+  </city>
+  <city name="Nterakaronko">
+    <latitude>-3.6094444</latitude>
+    <longitude>30.045</longitude>
+  </city>
+  <city name="Nterana">
+    <latitude>-3.0266667</latitude>
+    <longitude>29.9916667</longitude>
+  </city>
+  <city name="Nterema">
+    <latitude>-4.2580556</latitude>
+    <longitude>29.7291667</longitude>
+  </city>
+  <city name="Ntita">
+    <latitude>-3.6777778</latitude>
+    <longitude>29.8777778</longitude>
+  </city>
+  <city name="Ntunda">
+    <latitude>-3.6988889</latitude>
+    <longitude>29.6394444</longitude>
+  </city>
+  <city name="Numbwe">
+    <latitude>-3.7563889</latitude>
+    <longitude>29.4666667</longitude>
+  </city>
+  <city name="Nunga">
+    <latitude>-3.3836111</latitude>
+    <longitude>30.3586111</longitude>
+  </city>
+  <city name="Nyabahira">
+    <latitude>-3.3836111</latitude>
+    <longitude>30.3433333</longitude>
+  </city>
+  <city name="Nyabibugu">
+    <latitude>-2.5444444</latitude>
+    <longitude>30.1430556</longitude>
+  </city>
+  <city name="Nyabibuye">
+    <latitude>-3.33</latitude>
+    <longitude>30.0188889</longitude>
+  </city>
+  <city name="Nyabiduha">
+    <latitude>-3.3252778</latitude>
+    <longitude>29.8127778</longitude>
+  </city>
+  <city name="Nyabiganba">
+    <latitude>-3.9863889</latitude>
+    <longitude>30.1416667</longitude>
+  </city>
+  <city name="Nyabigina">
+    <latitude>-4.1305556</latitude>
+    <longitude>29.8488889</longitude>
+  </city>
+  <city name="Nyabigura">
+    <latitude>-3.6966667</latitude>
+    <longitude>30.2436111</longitude>
+  </city>
+  <city name="Nyabihanga">
+    <latitude>-3.4694444</latitude>
+    <longitude>29.8083333</longitude>
+  </city>
+  <city name="Nyabihange">
+    <latitude>-3.9561111</latitude>
+    <longitude>29.4683333</longitude>
+  </city>
+  <city name="Nyabikenke">
+    <latitude>-3.3438889</latitude>
+    <longitude>29.9027778</longitude>
+  </city>
+  <city name="Nyabikere">
+    <latitude>-3.2663889</latitude>
+    <longitude>30.1125</longitude>
+  </city>
+  <city name="Nyabikinja">
+    <latitude>-3.6266667</latitude>
+    <longitude>30.0405556</longitude>
+  </city>
+  <city name="Nyabikoma">
+    <latitude>-3.5555556</latitude>
+    <longitude>29.5202778</longitude>
+  </city>
+  <city name="Nyabikona">
+    <latitude>-3.5555556</latitude>
+    <longitude>29.5202778</longitude>
+  </city>
+  <city name="Nyabikonge">
+    <latitude>-3.6286111</latitude>
+    <longitude>29.5869444</longitude>
+  </city>
+  <city name="Nyabiraba">
+    <latitude>-3.5625</latitude>
+    <longitude>29.8930556</longitude>
+  </city>
+  <city name="Nyabisaka">
+    <latitude>-3.2997222</latitude>
+    <longitude>29.8413889</longitude>
+  </city>
+  <city name="Nyabishinowi">
+    <latitude>-3.9127778</latitude>
+    <longitude>30.2275</longitude>
+  </city>
+  <city name="Nyabisinda">
+    <latitude>-2.9344444</latitude>
+    <longitude>30.4236111</longitude>
+  </city>
+  <city name="Nyabisindu">
+    <latitude>-3.3197222</latitude>
+    <longitude>29.8341667</longitude>
+  </city>
+  <city name="Nyabitanga">
+    <latitude>-3.6591667</latitude>
+    <longitude>29.9019444</longitude>
+  </city>
+  <city name="Nyabitare">
+    <latitude>-3.4361111</latitude>
+    <longitude>30.4083333</longitude>
+  </city>
+  <city name="Nyabitsinda">
+    <latitude>-3.5375</latitude>
+    <longitude>30.2758333</longitude>
+  </city>
+  <city name="Nyabitwe">
+    <latitude>-3.2091667</latitude>
+    <longitude>29.9066667</longitude>
+  </city>
+  <city name="Nyabugete">
+    <latitude>-3.4683333</latitude>
+    <longitude>29.3516667</longitude>
+  </city>
+  <city name="Nyabugimbu">
+    <latitude>-2.7655556</latitude>
+    <longitude>29.1605556</longitude>
+  </city>
+  <city name="Nyabugoye">
+    <latitude>-3.1363889</latitude>
+    <longitude>29.3941667</longitude>
+  </city>
+  <city name="Nyabuhuna">
+    <latitude>-2.9361111</latitude>
+    <longitude>29.2130556</longitude>
+  </city>
+  <city name="Nyabumwe">
+    <latitude>-3.4994444</latitude>
+    <longitude>29.8427778</longitude>
+  </city>
+  <city name="Nyabunigu">
+    <latitude>-3.0277778</latitude>
+    <longitude>30.1752778</longitude>
+  </city>
+  <city name="Nyabunya">
+    <latitude>-3.2155556</latitude>
+    <longitude>29.9230556</longitude>
+  </city>
+  <city name="Nyabusaro">
+    <latitude>-4.0441667</latitude>
+    <longitude>30.0886111</longitude>
+  </city>
+  <city name="Nyabutare">
+    <latitude>-4.1180556</latitude>
+    <longitude>29.9427778</longitude>
+  </city>
+  <city name="Nyabweru">
+    <latitude>-3.7197222</latitude>
+    <longitude>30.3397222</longitude>
+  </city>
+  <city name="Nyagahara">
+    <latitude>-3.675</latitude>
+    <longitude>30.2380556</longitude>
+  </city>
+  <city name="Nyagakobe">
+    <latitude>-3.5011111</latitude>
+    <longitude>30.1002778</longitude>
+  </city>
+  <city name="Nyagasasa">
+    <latitude>-3.5916667</latitude>
+    <longitude>29.5902778</longitude>
+  </city>
+  <city name="Nyagasenge">
+    <latitude>-3.6605556</latitude>
+    <longitude>30.2327778</longitude>
+  </city>
+  <city name="Nyagashubi">
+    <latitude>-3.4497222</latitude>
+    <longitude>30.1236111</longitude>
+  </city>
+  <city name="Nyagatoke">
+    <latitude>-4.3027778</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Nyagatovu">
+    <latitude>-3.79</latitude>
+    <longitude>29.7286111</longitude>
+  </city>
+  <city name="Nyagatwe">
+    <latitude>-3.895</latitude>
+    <longitude>29.6758333</longitude>
+  </city>
+  <city name="Nyagishiha">
+    <latitude>-3.6613889</latitude>
+    <longitude>29.5383333</longitude>
+  </city>
+  <city name="Nyagisovu">
+    <latitude>-3.4255556</latitude>
+    <longitude>30.5555556</longitude>
+  </city>
+  <city name="Nyagitwenzi">
+    <latitude>-3.6711111</latitude>
+    <longitude>29.5744444</longitude>
+  </city>
+  <city name="Nyagonga">
+    <latitude>-2.7619444</latitude>
+    <longitude>30.0394444</longitude>
+  </city>
+  <city name="Nyaguhaga">
+    <latitude>-3.5266667</latitude>
+    <longitude>30.1477778</longitude>
+  </city>
+  <city name="Nyakabiga">
+    <latitude>-3.3733333</latitude>
+    <longitude>29.3766667</longitude>
+  </city>
+  <city name="Nyakabingo">
+    <latitude>-3.2236111</latitude>
+    <longitude>29.9527778</longitude>
+  </city>
+  <city name="Nyakarambi">
+    <latitude>-3.3280556</latitude>
+    <longitude>29.7694444</longitude>
+  </city>
+  <city name="Nyakarambo">
+    <latitude>-3.9855556</latitude>
+    <longitude>29.6186111</longitude>
+  </city>
+  <city name="Nyakararo">
+    <latitude>-3.53</latitude>
+    <longitude>29.6055556</longitude>
+  </city>
+  <city name="Nyakatsi">
+    <latitude>-3.1563889</latitude>
+    <longitude>30.6316667</longitude>
+  </city>
+  <city name="Nyakavomo">
+    <latitude>-3.8241667</latitude>
+    <longitude>30.2152778</longitude>
+  </city>
+  <city name="Nyakayi">
+    <latitude>-3.33</latitude>
+    <longitude>30.3138889</longitude>
+  </city>
+  <city name="Nyakazu">
+    <latitude>-3.9041667</latitude>
+    <longitude>30.1166667</longitude>
+  </city>
+  <city name="Nyakerera">
+    <latitude>-3.4127778</latitude>
+    <longitude>30.1913889</longitude>
+  </city>
+  <city name="Nyakibaka">
+    <latitude>-3.9647222</latitude>
+    <longitude>29.9083333</longitude>
+  </city>
+  <city name="Nyakibanda">
+    <latitude>-2.7752778</latitude>
+    <longitude>29.1802778</longitude>
+  </city>
+  <city name="Nyakibereko">
+    <latitude>-3.2091667</latitude>
+    <longitude>30.8166667</longitude>
+  </city>
+  <city name="Nyakibuye">
+    <latitude>-3.5419444</latitude>
+    <longitude>29.5272222</longitude>
+  </city>
+  <city name="Nyakigati">
+    <latitude>-3.2327778</latitude>
+    <longitude>29.905</longitude>
+  </city>
+  <city name="Nyakigi">
+    <latitude>-3.7972222</latitude>
+    <longitude>29.7016667</longitude>
+  </city>
+  <city name="Nyakinazi">
+    <latitude>-3.1547222</latitude>
+    <longitude>29.7411111</longitude>
+  </city>
+  <city name="Nyakirehe">
+    <latitude>-2.9491667</latitude>
+    <longitude>30.5522222</longitude>
+  </city>
+  <city name="Nyakungo">
+    <latitude>-3.8291667</latitude>
+    <longitude>29.6208333</longitude>
+  </city>
+  <city name="Nyakuremba">
+    <latitude>-3.3841667</latitude>
+    <longitude>30.2625</longitude>
+  </city>
+  <city name="Nyamaborogo">
+    <latitude>-3.4541667</latitude>
+    <longitude>30.1102778</longitude>
+  </city>
+  <city name="Nyamabuye">
+    <latitude>-3.4725</latitude>
+    <longitude>29.4705556</longitude>
+  </city>
+  <city name="Nyamagana">
+    <latitude>-4.13</latitude>
+    <longitude>29.6227778</longitude>
+  </city>
+  <city name="Nyamateke">
+    <latitude>-3.1711111</latitude>
+    <longitude>30.0238889</longitude>
+  </city>
+  <city name="Nyamayenzi">
+    <latitude>-3.6455556</latitude>
+    <longitude>29.6138889</longitude>
+  </city>
+  <city name="Nyamazi">
+    <latitude>-3.2244444</latitude>
+    <longitude>29.6488889</longitude>
+  </city>
+  <city name="Nyambaba">
+    <latitude>-3.5175</latitude>
+    <longitude>29.5991667</longitude>
+  </city>
+  <city name="Nyambeho">
+    <latitude>-3.3469444</latitude>
+    <longitude>29.8272222</longitude>
+  </city>
+  <city name="Nyambuye">
+    <latitude>-3.7013889</latitude>
+    <longitude>30.0077778</longitude>
+  </city>
+  <city name="Nyamibanga">
+    <latitude>-3.4183333</latitude>
+    <longitude>29.8291667</longitude>
+  </city>
+  <city name="Nyamigende">
+    <latitude>-3.5941667</latitude>
+    <longitude>29.6425</longitude>
+  </city>
+  <city name="Nyamigongo">
+    <latitude>-3.5411111</latitude>
+    <longitude>29.5661111</longitude>
+  </city>
+  <city name="Nyamirama">
+    <latitude>-2.7791667</latitude>
+    <longitude>29.955</longitude>
+  </city>
+  <city name="Nyamirambo">
+    <latitude>-3.1541667</latitude>
+    <longitude>29.6091667</longitude>
+  </city>
+  <city name="Nyamirande">
+    <latitude>-4.3172222</latitude>
+    <longitude>29.8358333</longitude>
+  </city>
+  <city name="Nyamishiba">
+    <latitude>-3.1008333</latitude>
+    <longitude>29.9047222</longitude>
+  </city>
+  <city name="Nyamisoma">
+    <latitude>-3.1897222</latitude>
+    <longitude>30.6072222</longitude>
+  </city>
+  <city name="Nyamitare">
+    <latitude>-4.0269444</latitude>
+    <longitude>29.6708333</longitude>
+  </city>
+  <city name="Nyamivo">
+    <latitude>-3.2402778</latitude>
+    <longitude>29.4591667</longitude>
+  </city>
+  <city name="Nyamiyaga">
+    <latitude>-3.0886111</latitude>
+    <longitude>30.2677778</longitude>
+  </city>
+  <city name="Nyampereza">
+    <latitude>-3.7397222</latitude>
+    <longitude>30.1002778</longitude>
+  </city>
+  <city name="Nyamubuye">
+    <latitude>-3.4725</latitude>
+    <longitude>29.4705556</longitude>
+  </city>
+  <city name="Nyamugari">
+    <latitude>-3.5275</latitude>
+    <longitude>29.5811111</longitude>
+  </city>
+  <city name="Nyamuhanga">
+    <latitude>-3.8283333</latitude>
+    <longitude>29.5947222</longitude>
+  </city>
+  <city name="Nyamuhogoti">
+    <latitude>-3.3755556</latitude>
+    <longitude>29.9325</longitude>
+  </city>
+  <city name="Nyamuko">
+    <latitude>-2.3886111</latitude>
+    <longitude>30.45</longitude>
+  </city>
+  <city name="Nyamurenge">
+    <latitude>-3.4627778</latitude>
+    <longitude>29.715</longitude>
+  </city>
+  <city name="Nyamurenza">
+    <latitude>-2.8236111</latitude>
+    <longitude>29.8638889</longitude>
+  </city>
+  <city name="Nyamusenyi">
+    <latitude>-2.7544444</latitude>
+    <longitude>29.1991667</longitude>
+  </city>
+  <city name="Nyamutabo">
+    <latitude>-3.4627778</latitude>
+    <longitude>30.2558333</longitude>
+  </city>
+  <city name="Nyamutobo">
+    <latitude>-3.4627778</latitude>
+    <longitude>30.2558333</longitude>
+  </city>
+  <city name="Nyamuyaga">
+    <latitude>-3.4002778</latitude>
+    <longitude>30.2561111</longitude>
+  </city>
+  <city name="Nyamuzi">
+    <latitude>-3.4788889</latitude>
+    <longitude>29.43</longitude>
+  </city>
+  <city name="Nyamyotsi">
+    <latitude>-2.9644444</latitude>
+    <longitude>30.5036111</longitude>
+  </city>
+  <city name="Nyanganda">
+    <latitude>-3.9738889</latitude>
+    <longitude>30.1725</longitude>
+  </city>
+  <city name="Nyangati">
+    <latitude>-3.0611111</latitude>
+    <longitude>30.1330556</longitude>
+  </city>
+  <city name="Nyange">
+    <latitude>-3.6652778</latitude>
+    <longitude>29.355</longitude>
+  </city>
+  <city name="Nyangwa">
+    <latitude>-3.6427778</latitude>
+    <longitude>29.7625</longitude>
+  </city>
+  <city name="Nyangwe">
+    <latitude>-3.0891667</latitude>
+    <longitude>29.91</longitude>
+  </city>
+  <city name="Nyankanda">
+    <latitude>-3.2902778</latitude>
+    <longitude>30.3180556</longitude>
+  </city>
+  <city name="Nyankara">
+    <latitude>-4.1852778</latitude>
+    <longitude>29.8272222</longitude>
+  </city>
+  <city name="Nyankere">
+    <latitude>-3.1436111</latitude>
+    <longitude>30.5966667</longitude>
+  </city>
+  <city name="Nyankorogo">
+    <latitude>-3.0772222</latitude>
+    <longitude>30.7863889</longitude>
+  </city>
+  <city name="Nyankubati">
+    <latitude>-2.7683333</latitude>
+    <longitude>29.0777778</longitude>
+  </city>
+  <city name="Nyankubushi">
+    <latitude>-2.7638889</latitude>
+    <longitude>29.0705556</longitude>
+  </city>
+  <city name="Nyantakara">
+    <latitude>-4.1966667</latitude>
+    <longitude>30.0213889</longitude>
+  </city>
+  <city name="Nyantunwa">
+    <latitude>-2.5586111</latitude>
+    <longitude>30.4280556</longitude>
+  </city>
+  <city name="Nyanza-Lac">
+    <latitude>-4.3441667</latitude>
+    <longitude>29.5936111</longitude>
+  </city>
+  <city name="Nyanza">
+    <latitude>-3.6719444</latitude>
+    <longitude>29.5608333</longitude>
+  </city>
+  <city name="Nyarubanga">
+    <latitude>-3.1144444</latitude>
+    <longitude>29.8838889</longitude>
+  </city>
+  <city name="Nyarubaye">
+    <latitude>-3.12</latitude>
+    <longitude>29.8697222</longitude>
+  </city>
+  <city name="Nyarubunyo">
+    <latitude>-3.7080556</latitude>
+    <longitude>29.9111111</longitude>
+  </city>
+  <city name="Nyarubuye">
+    <latitude>-3.1361111</latitude>
+    <longitude>29.8886111</longitude>
+  </city>
+  <city name="Nyarucamo">
+    <latitude>-3.4875</latitude>
+    <longitude>29.6666667</longitude>
+  </city>
+  <city name="Nyarudehe">
+    <latitude>-3.1797222</latitude>
+    <longitude>30.1794444</longitude>
+  </city>
+  <city name="Nyarugano">
+    <latitude>-3.3988889</latitude>
+    <longitude>30.0627778</longitude>
+  </city>
+  <city name="Nyarugati">
+    <latitude>-3.6452778</latitude>
+    <longitude>29.4683333</longitude>
+  </city>
+  <city name="Nyarugegene">
+    <latitude>-3.7819444</latitude>
+    <longitude>29.6944444</longitude>
+  </city>
+  <city name="Nyaruhengeri">
+    <latitude>-2.5638889</latitude>
+    <longitude>30.0047222</longitude>
+  </city>
+  <city name="Nyarumanga">
+    <latitude>-3.4608333</latitude>
+    <longitude>29.4380556</longitude>
+  </city>
+  <city name="Nyarumashi">
+    <latitude>-2.9622222</latitude>
+    <longitude>30.3247222</longitude>
+  </city>
+  <city name="Nyarumonyi">
+    <latitude>-3.0597222</latitude>
+    <longitude>30.2902778</longitude>
+  </city>
+  <city name="Nyarumuri">
+    <latitude>-3.2888889</latitude>
+    <longitude>30.4569444</longitude>
+  </city>
+  <city name="Nyarunazi">
+    <latitude>-3.2136111</latitude>
+    <longitude>30.3769444</longitude>
+  </city>
+  <city name="Nyarurama">
+    <latitude>-3.3013889</latitude>
+    <longitude>29.9105556</longitude>
+  </city>
+  <city name="Nyarurambi">
+    <latitude>-3.5505556</latitude>
+    <longitude>30.0505556</longitude>
+  </city>
+  <city name="Nyarure">
+    <latitude>-3.1805556</latitude>
+    <longitude>29.8472222</longitude>
+  </city>
+  <city name="Nyaruruma">
+    <latitude>-3.1519444</latitude>
+    <longitude>30.6875</longitude>
+  </city>
+  <city name="Nyarusabagi">
+    <latitude>-3.3925</latitude>
+    <longitude>30.0672222</longitude>
+  </city>
+  <city name="Nyarusagare">
+    <latitude>-3.0272222</latitude>
+    <longitude>29.3822222</longitude>
+  </city>
+  <city name="Nyarusange">
+    <latitude>-3.5777778</latitude>
+    <longitude>29.8097222</longitude>
+  </city>
+  <city name="Nyarutambika">
+    <latitude>-3.1611111</latitude>
+    <longitude>29.9847222</longitude>
+  </city>
+  <city name="Nyaruteza">
+    <latitude>-2.6566667</latitude>
+    <longitude>30.2344444</longitude>
+  </city>
+  <city name="Nyarutiti">
+    <latitude>-3.4016667</latitude>
+    <longitude>30.3783333</longitude>
+  </city>
+  <city name="Nyarutumba">
+    <latitude>-3.6980556</latitude>
+    <longitude>29.65</longitude>
+  </city>
+  <city name="Nyarutwenzi">
+    <latitude>-3.5886111</latitude>
+    <longitude>29.6183333</longitude>
+  </city>
+  <city name="Nyaruyange">
+    <latitude>-3.6627778</latitude>
+    <longitude>30.3613889</longitude>
+  </city>
+  <city name="Nyarwonga">
+    <latitude>-3.7002778</latitude>
+    <longitude>29.8175</longitude>
+  </city>
+  <city name="Nyawaga">
+    <latitude>-3.9247222</latitude>
+    <longitude>30.0233333</longitude>
+  </city>
+  <city name="Nyembuye">
+    <latitude>-3.96</latitude>
+    <longitude>30.0797222</longitude>
+  </city>
+  <city name="Nyesasa">
+    <latitude>-3.9377778</latitude>
+    <longitude>30.1402778</longitude>
+  </city>
+  <city name="Nyeshanga">
+    <latitude>-3.2055556</latitude>
+    <longitude>29.3194444</longitude>
+  </city>
+  <city name="Nyeshenza">
+    <latitude>-2.7511111</latitude>
+    <longitude>29.11</longitude>
+  </city>
+  <city name="Nyetasha">
+    <latitude>-3.745</latitude>
+    <longitude>29.6366667</longitude>
+  </city>
+  <city name="Nyogoro">
+    <latitude>-3.0138889</latitude>
+    <longitude>30.0277778</longitude>
+  </city>
+  <city name="Nyunzwe">
+    <latitude>-3.2097222</latitude>
+    <longitude>29.4077778</longitude>
+  </city>
+  <city name="Nzara">
+    <latitude>-2.9255556</latitude>
+    <longitude>30.4380556</longitude>
+  </city>
+  <city name="Nzibo">
+    <latitude>-2.7547222</latitude>
+    <longitude>30.0861111</longitude>
+  </city>
+  <city name="Nzobe">
+    <latitude>-3.0605556</latitude>
+    <longitude>29.7552778</longitude>
+  </city>
+  <city name="Nzove">
+    <latitude>-2.3794444</latitude>
+    <longitude>30.3852778</longitude>
+  </city>
+  <city name="Nzunga">
+    <latitude>-3.0066667</latitude>
+    <longitude>29.9736111</longitude>
+  </city>
+  <city name="Rabiro">
+    <latitude>-3.375</latitude>
+    <longitude>29.8136111</longitude>
+  </city>
+  <city name="Rambwe">
+    <latitude>-3.1608333</latitude>
+    <longitude>29.3902778</longitude>
+  </city>
+  <city name="Ramvya">
+    <latitude>-4.2988889</latitude>
+    <longitude>29.9211111</longitude>
+  </city>
+  <city name="Ranga">
+    <latitude>-3.325</latitude>
+    <longitude>30.1052778</longitude>
+  </city>
+  <city name="Rangare">
+    <latitude>-3.445</latitude>
+    <longitude>30.3583333</longitude>
+  </city>
+  <city name="Rangi">
+    <latitude>-3.4716667</latitude>
+    <longitude>30.2019444</longitude>
+  </city>
+  <city name="Rango">
+    <latitude>-3.1541667</latitude>
+    <longitude>29.7597222</longitude>
+  </city>
+  <city name="Rarire">
+    <latitude>-3.8347222</latitude>
+    <longitude>29.5291667</longitude>
+  </city>
+  <city name="Remba">
+    <latitude>-2.9061111</latitude>
+    <longitude>29.3441667</longitude>
+  </city>
+  <city name="Remera">
+    <latitude>-3.0525</latitude>
+    <longitude>30.6805556</longitude>
+  </city>
+  <city name="Renga">
+    <latitude>-2.5227778</latitude>
+    <longitude>30.1638889</longitude>
+  </city>
+  <city name="Ringira">
+    <latitude>-3.6522222</latitude>
+    <longitude>29.5627778</longitude>
+  </city>
+  <city name="Rohero">
+    <latitude>-3.3797222</latitude>
+    <longitude>29.365</longitude>
+  </city>
+  <city name="Rubagabaga">
+    <latitude>-3.1325</latitude>
+    <longitude>29.8561111</longitude>
+  </city>
+  <city name="Rubangabanga">
+    <latitude>-3.005</latitude>
+    <longitude>30.7919444</longitude>
+  </city>
+  <city name="Rubanga">
+    <latitude>-3.7538889</latitude>
+    <longitude>29.6897222</longitude>
+  </city>
+  <city name="Rubavu">
+    <latitude>-3.0488889</latitude>
+    <longitude>30.2191667</longitude>
+  </city>
+  <city name="Rubaya">
+    <latitude>-2.6994444</latitude>
+    <longitude>29.99</longitude>
+  </city>
+  <city name="Rubimba II">
+    <latitude>-3.9286111</latitude>
+    <longitude>29.9063889</longitude>
+  </city>
+  <city name="Rubimba">
+    <latitude>-3.9819444</latitude>
+    <longitude>29.8363889</longitude>
+  </city>
+  <city name="Rubindi">
+    <latitude>-4.2602778</latitude>
+    <longitude>29.5752778</longitude>
+  </city>
+  <city name="Rubirizi">
+    <latitude>-3.2891667</latitude>
+    <longitude>29.3908333</longitude>
+  </city>
+  <city name="Rubona">
+    <latitude>-3.4655556</latitude>
+    <longitude>30.0255556</longitude>
+  </city>
+  <city name="Rubuga">
+    <latitude>-3.5272222</latitude>
+    <longitude>29.6172222</longitude>
+  </city>
+  <city name="Rubura">
+    <latitude>-2.8333333</latitude>
+    <longitude>29.6305556</longitude>
+  </city>
+  <city name="Rubuye">
+    <latitude>-2.9244444</latitude>
+    <longitude>30.4155556</longitude>
+  </city>
+  <city name="Rucu">
+    <latitude>-3.8055556</latitude>
+    <longitude>29.6775</longitude>
+  </city>
+  <city name="Rudegwe">
+    <latitude>-3.9680556</latitude>
+    <longitude>29.6897222</longitude>
+  </city>
+  <city name="Rugabano">
+    <latitude>-3.2880556</latitude>
+    <longitude>29.8655556</longitude>
+  </city>
+  <city name="Rugabo">
+    <latitude>-3.0016667</latitude>
+    <longitude>30.1483333</longitude>
+  </city>
+  <city name="Rugaga">
+    <latitude>-3.6811111</latitude>
+    <longitude>30.1211111</longitude>
+  </city>
+  <city name="Rugaju">
+    <latitude>-3.3580556</latitude>
+    <longitude>30.0044444</longitude>
+  </city>
+  <city name="Ruganda">
+    <latitude>-3.2</latitude>
+    <longitude>30.7025</longitude>
+  </city>
+  <city name="Rugando">
+    <latitude>-2.4166667</latitude>
+    <longitude>30.0330556</longitude>
+  </city>
+  <city name="Rugano">
+    <latitude>-2.9433333</latitude>
+    <longitude>29.2733333</longitude>
+  </city>
+  <city name="Rugarama">
+    <latitude>-3.1294444</latitude>
+    <longitude>29.6430556</longitude>
+  </city>
+  <city name="Rugari">
+    <latitude>-3.8427778</latitude>
+    <longitude>29.5794444</longitude>
+  </city>
+  <city name="Rugaruye">
+    <latitude>-3.3822222</latitude>
+    <longitude>29.4658333</longitude>
+  </city>
+  <city name="Rugata">
+    <latitude>-3.6133333</latitude>
+    <longitude>29.54</longitude>
+  </city>
+  <city name="Rugazi">
+    <latitude>-2.8433333</latitude>
+    <longitude>29.505</longitude>
+  </city>
+  <city name="Rugenge">
+    <latitude>-3.0513889</latitude>
+    <longitude>30.7666667</longitude>
+  </city>
+  <city name="Rugina">
+    <latitude>-2.6369444</latitude>
+    <longitude>30.2705556</longitude>
+  </city>
+  <city name="Rugobwe">
+    <latitude>-2.9747222</latitude>
+    <longitude>30.2427778</longitude>
+  </city>
+  <city name="Rugogwe">
+    <latitude>-2.7827778</latitude>
+    <longitude>30.4122222</longitude>
+  </city>
+  <city name="Rugojo">
+    <latitude>-3.3469444</latitude>
+    <longitude>30.2138889</longitude>
+  </city>
+  <city name="Rugoma">
+    <latitude>-2.9258333</latitude>
+    <longitude>30.5819444</longitude>
+  </city>
+  <city name="Rugombero">
+    <latitude>-3.6180556</latitude>
+    <longitude>29.4333333</longitude>
+  </city>
+  <city name="Rugombo">
+    <latitude>-2.8097222</latitude>
+    <longitude>29.0791667</longitude>
+  </city>
+  <city name="Rugomero">
+    <latitude>-2.6597222</latitude>
+    <longitude>30.1916667</longitude>
+  </city>
+  <city name="Rugonga">
+    <latitude>-3.8372222</latitude>
+    <longitude>30.0594444</longitude>
+  </city>
+  <city name="Rugongo">
+    <latitude>-3.2388889</latitude>
+    <longitude>30.7197222</longitude>
+  </city>
+  <city name="Rugoti">
+    <latitude>-2.8125</latitude>
+    <longitude>30.0033333</longitude>
+  </city>
+  <city name="Rugunga">
+    <latitude>-2.5844444</latitude>
+    <longitude>30.2869444</longitude>
+  </city>
+  <city name="Rugwiza">
+    <latitude>-3.2111111</latitude>
+    <longitude>30.1344444</longitude>
+  </city>
+  <city name="Ruhagarika">
+    <latitude>-2.9552778</latitude>
+    <longitude>29.1697222</longitude>
+  </city>
+  <city name="Ruhata">
+    <latitude>-3.5283333</latitude>
+    <longitude>30.4797222</longitude>
+  </city>
+  <city name="Ruhehe">
+    <latitude>-2.4361111</latitude>
+    <longitude>30.0333333</longitude>
+  </city>
+  <city name="Ruhengeri">
+    <latitude>-3.3716667</latitude>
+    <longitude>30.32</longitude>
+  </city>
+  <city name="Ruhinga">
+    <latitude>-3.3586111</latitude>
+    <longitude>29.5044444</longitude>
+  </city>
+  <city name="Ruhogwe">
+    <latitude>-3.0138889</latitude>
+    <longitude>29.2058333</longitude>
+  </city>
+  <city name="Ruhoha">
+    <latitude>-2.9738889</latitude>
+    <longitude>30.3147222</longitude>
+  </city>
+  <city name="Ruhona">
+    <latitude>-3.4655556</latitude>
+    <longitude>30.0255556</longitude>
+  </city>
+  <city name="Ruhongore">
+    <latitude>-3.7044444</latitude>
+    <longitude>29.615</longitude>
+  </city>
+  <city name="Ruhongoro">
+    <latitude>-3.6375</latitude>
+    <longitude>30.3777778</longitude>
+  </city>
+  <city name="Ruhorongo">
+    <latitude>-2.6108333</latitude>
+    <longitude>30.3344444</longitude>
+  </city>
+  <city name="Ruhororo">
+    <latitude>-2.6352778</latitude>
+    <longitude>29.2213889</longitude>
+  </city>
+  <city name="Ruhuma">
+    <latitude>-3.855</latitude>
+    <longitude>29.7352778</longitude>
+  </city>
+  <city name="Ruhura">
+    <latitude>-2.9722222</latitude>
+    <longitude>30.3022222</longitude>
+  </city>
+  <city name="Rujeni">
+    <latitude>-2.7452778</latitude>
+    <longitude>29.2944444</longitude>
+  </city>
+  <city name="Rukago">
+    <latitude>-2.9833333</latitude>
+    <longitude>29.7263889</longitude>
+  </city>
+  <city name="Rukara">
+    <latitude>-3.1713889</latitude>
+    <longitude>29.9236111</longitude>
+  </city>
+  <city name="Rukere">
+    <latitude>-3.695</latitude>
+    <longitude>29.4341667</longitude>
+  </city>
+  <city name="Rukina">
+    <latitude>-3.5211111</latitude>
+    <longitude>29.5119444</longitude>
+  </city>
+  <city name="Rukiniro">
+    <latitude>-3.4677778</latitude>
+    <longitude>30.1605556</longitude>
+  </city>
+  <city name="Rukobero">
+    <latitude>-2.6433333</latitude>
+    <longitude>30.2938889</longitude>
+  </city>
+  <city name="Rukoko">
+    <latitude>-3.5536111</latitude>
+    <longitude>30.1108333</longitude>
+  </city>
+  <city name="Rukoma">
+    <latitude>-3.8552778</latitude>
+    <longitude>29.6252778</longitude>
+  </city>
+  <city name="Rukonwe">
+    <latitude>-4.2769444</latitude>
+    <longitude>29.7319444</longitude>
+  </city>
+  <city name="Rukorobwa">
+    <latitude>-3.1280556</latitude>
+    <longitude>29.8958333</longitude>
+  </city>
+  <city name="Ruko">
+    <latitude>-3.6158333</latitude>
+    <longitude>29.5897222</longitude>
+  </city>
+  <city name="Rukoyoyo">
+    <latitude>-3.1463889</latitude>
+    <longitude>30.2683333</longitude>
+  </city>
+  <city name="Rukuramigabo">
+    <latitude>-2.4980556</latitude>
+    <longitude>30.0883333</longitude>
+  </city>
+  <city name="Rukwega">
+    <latitude>-3.0708333</latitude>
+    <longitude>30.7433333</longitude>
+  </city>
+  <city name="Rulende">
+    <latitude>-3.2919444</latitude>
+    <longitude>29.7147222</longitude>
+  </city>
+  <city name="Rumanga">
+    <latitude>-2.6897222</latitude>
+    <longitude>30.4727778</longitude>
+  </city>
+  <city name="Rumeza">
+    <latitude>-3.8305556</latitude>
+    <longitude>29.6291667</longitude>
+  </city>
+  <city name="Ruminamina">
+    <latitude>-3.8877778</latitude>
+    <longitude>29.6541667</longitude>
+  </city>
+  <city name="Rumonge">
+    <latitude>-3.9722222</latitude>
+    <longitude>29.4388889</longitude>
+  </city>
+  <city name="Runazi">
+    <latitude>-3.32</latitude>
+    <longitude>30.2741667</longitude>
+  </city>
+  <city name="Runyangwe">
+    <latitude>-2.495</latitude>
+    <longitude>30.3041667</longitude>
+  </city>
+  <city name="Runyankezi">
+    <latitude>-2.6586111</latitude>
+    <longitude>30.2625</longitude>
+  </city>
+  <city name="Runyinya">
+    <latitude>-3.0072222</latitude>
+    <longitude>30.1913889</longitude>
+  </city>
+  <city name="Runyoni">
+    <latitude>-3.1602778</latitude>
+    <longitude>30.0033333</longitude>
+  </city>
+  <city name="Runyonza">
+    <latitude>-2.4936111</latitude>
+    <longitude>30.0875</longitude>
+  </city>
+  <city name="Runywero">
+    <latitude>-3.1597222</latitude>
+    <longitude>30.1272222</longitude>
+  </city>
+  <city name="Runzenze">
+    <latitude>-2.4069444</latitude>
+    <longitude>30.0455556</longitude>
+  </city>
+  <city name="Rurambira">
+    <latitude>-3.5936111</latitude>
+    <longitude>29.4861111</longitude>
+  </city>
+  <city name="Rurambi">
+    <latitude>-3.5544444</latitude>
+    <longitude>29.6002778</longitude>
+  </city>
+  <city name="Ruremba">
+    <latitude>-3.9619444</latitude>
+    <longitude>30.1302778</longitude>
+  </city>
+  <city name="Rurembera">
+    <latitude>-3.9563889</latitude>
+    <longitude>29.6516667</longitude>
+  </city>
+  <city name="Rurenda">
+    <latitude>-3.2919444</latitude>
+    <longitude>29.7147222</longitude>
+  </city>
+  <city name="Rurenga">
+    <latitude>-3.6466667</latitude>
+    <longitude>30.1158333</longitude>
+  </city>
+  <city name="Rurengera">
+    <latitude>-3.1872222</latitude>
+    <longitude>30.6361111</longitude>
+  </city>
+  <city name="Rurenzwa">
+    <latitude>-3.7319444</latitude>
+    <longitude>29.7508333</longitude>
+  </city>
+  <city name="Rurinzi">
+    <latitude>-2.6708333</latitude>
+    <longitude>29.2388889</longitude>
+  </city>
+  <city name="Rusagamba">
+    <latitude>-3.4877778</latitude>
+    <longitude>30.1972222</longitude>
+  </city>
+  <city name="Rusagara">
+    <latitude>-2.9730556</latitude>
+    <longitude>29.2894444</longitude>
+  </city>
+  <city name="Rusaka">
+    <latitude>-3.4402778</latitude>
+    <longitude>29.6305556</longitude>
+  </city>
+  <city name="Rusakiro">
+    <latitude>-3.6938889</latitude>
+    <longitude>29.4844444</longitude>
+  </city>
+  <city name="Rusamaza">
+    <latitude>-3.3230556</latitude>
+    <longitude>30.0252778</longitude>
+  </city>
+  <city name="Rusange">
+    <latitude>-3.2155556</latitude>
+    <longitude>30.1216667</longitude>
+  </city>
+  <city name="Rusarenda">
+    <latitude>-3.1325</latitude>
+    <longitude>29.5577778</longitude>
+  </city>
+  <city name="Rusasa">
+    <latitude>-2.8533333</latitude>
+    <longitude>30.0625</longitude>
+  </city>
+  <city name="Rusenda">
+    <latitude>-2.8222222</latitude>
+    <longitude>29.2638889</longitude>
+  </city>
+  <city name="Rusengo">
+    <latitude>-2.8863889</latitude>
+    <longitude>30.3347222</longitude>
+  </city>
+  <city name="Ruseseka">
+    <latitude>-2.7444444</latitude>
+    <longitude>29.2152778</longitude>
+  </city>
+  <city name="Rushakashaka">
+    <latitude>-3.1258333</latitude>
+    <longitude>29.305</longitude>
+  </city>
+  <city name="Rushamvu">
+    <latitude>-3.5580556</latitude>
+    <longitude>30.0783333</longitude>
+  </city>
+  <city name="Rushiba">
+    <latitude>-3.1675</latitude>
+    <longitude>29.6530556</longitude>
+  </city>
+  <city name="Rushiha">
+    <latitude>-3.9897222</latitude>
+    <longitude>29.7419444</longitude>
+  </city>
+  <city name="Rushombo">
+    <latitude>-3.1341667</latitude>
+    <longitude>30.0894444</longitude>
+  </city>
+  <city name="Rushubije">
+    <latitude>-2.9980556</latitude>
+    <longitude>30.5322222</longitude>
+  </city>
+  <city name="Rushubi">
+    <latitude>-3.3486111</latitude>
+    <longitude>29.4863889</longitude>
+  </city>
+  <city name="Rushuru">
+    <latitude>-3.5186111</latitude>
+    <longitude>29.7655556</longitude>
+  </city>
+  <city name="Rusigabangazi">
+    <latitude>-3.2508333</latitude>
+    <longitude>30.7752778</longitude>
+  </city>
+  <city name="Rusi">
+    <latitude>-3.7558333</latitude>
+    <longitude>29.625</longitude>
+  </city>
+  <city name="Rusohanya">
+    <latitude>-3.515</latitude>
+    <longitude>30.2377778</longitude>
+  </city>
+  <city name="Rusumwe">
+    <latitude>-3.57</latitude>
+    <longitude>30.1475</longitude>
+  </city>
+  <city name="Rusunu">
+    <latitude>-4.0208333</latitude>
+    <longitude>30.1408333</longitude>
+  </city>
+  <city name="Rusunwe">
+    <latitude>-3.0511111</latitude>
+    <longitude>29.9180556</longitude>
+  </city>
+  <city name="Rusura">
+    <latitude>-3.7719444</latitude>
+    <longitude>29.7061111</longitude>
+  </city>
+  <city name="Rusyanane">
+    <latitude>-3.0547222</latitude>
+    <longitude>30.1211111</longitude>
+  </city>
+  <city name="Rutabo">
+    <latitude>-2.7480556</latitude>
+    <longitude>29.2791667</longitude>
+  </city>
+  <city name="Rutamba">
+    <latitude>-2.5113889</latitude>
+    <longitude>30.35</longitude>
+  </city>
+  <city name="Rutambiro">
+    <latitude>-3.5080556</latitude>
+    <longitude>29.3933333</longitude>
+  </city>
+  <city name="Rutambwe">
+    <latitude>-2.5455556</latitude>
+    <longitude>30.2536111</longitude>
+  </city>
+  <city name="Rutamo">
+    <latitude>-3.2025</latitude>
+    <longitude>30.6683333</longitude>
+  </city>
+  <city name="Rutana">
+    <latitude>-3.9191667</latitude>
+    <longitude>29.9936111</longitude>
+  </city>
+  <city name="Rutarabana">
+    <latitude>-3.0825</latitude>
+    <longitude>30.3027778</longitude>
+  </city>
+  <city name="Rutare">
+    <latitude>-3.6858333</latitude>
+    <longitude>29.8244444</longitude>
+  </city>
+  <city name="Rutegama">
+    <latitude>-3.3063889</latitude>
+    <longitude>29.7452778</longitude>
+  </city>
+  <city name="Rutega">
+    <latitude>-2.4683333</latitude>
+    <longitude>30.0991667</longitude>
+  </city>
+  <city name="Rutimbura">
+    <latitude>-3.2352778</latitude>
+    <longitude>30.7330556</longitude>
+  </city>
+  <city name="Rutoke">
+    <latitude>-3.2483333</latitude>
+    <longitude>30.1430556</longitude>
+  </city>
+  <city name="Rutonde">
+    <latitude>-3.4261111</latitude>
+    <longitude>29.9441667</longitude>
+  </city>
+  <city name="Rutonganikwa">
+    <latitude>-3.2397222</latitude>
+    <longitude>29.9833333</longitude>
+  </city>
+  <city name="Rutovu">
+    <latitude>-3.8911111</latitude>
+    <longitude>29.8519444</longitude>
+  </city>
+  <city name="Rutumo">
+    <latitude>-3.7333333</latitude>
+    <longitude>29.3244444</longitude>
+  </city>
+  <city name="Rutundu">
+    <latitude>-4.2405556</latitude>
+    <longitude>29.7833333</longitude>
+  </city>
+  <city name="Ruvigi">
+    <latitude>-3.4125</latitude>
+    <longitude>29.9413889</longitude>
+  </city>
+  <city name="Ruvumura">
+    <latitude>-3.1847222</latitude>
+    <longitude>29.9497222</longitude>
+  </city>
+  <city name="Ruvumu">
+    <latitude>-3.8352778</latitude>
+    <longitude>29.6758333</longitude>
+  </city>
+  <city name="Ruvuye">
+    <latitude>-3.9486111</latitude>
+    <longitude>29.8461111</longitude>
+  </city>
+  <city name="Ruyange">
+    <latitude>-3.5966667</latitude>
+    <longitude>29.6766667</longitude>
+  </city>
+  <city name="Ruyengo">
+    <latitude>-3.6186111</latitude>
+    <longitude>29.9125</longitude>
+  </city>
+  <city name="Ruyenzi">
+    <latitude>-3.5405556</latitude>
+    <longitude>29.7116667</longitude>
+  </city>
+  <city name="Ruyigi">
+    <latitude>-3.335</latitude>
+    <longitude>29.8883333</longitude>
+  </city>
+  <city name="Ruyivyi">
+    <latitude>-2.4891667</latitude>
+    <longitude>30.0641667</longitude>
+  </city>
+  <city name="Ruyogoro">
+    <latitude>-3.1461111</latitude>
+    <longitude>30.085</longitude>
+  </city>
+  <city name="Ruzibira">
+    <latitude>-2.8563889</latitude>
+    <longitude>30.2897222</longitude>
+  </city>
+  <city name="Ruzirakabogi">
+    <latitude>-2.5136111</latitude>
+    <longitude>30.0847222</longitude>
+  </city>
+  <city name="Ruzirasazi">
+    <latitude>-2.9694444</latitude>
+    <longitude>29.33</longitude>
+  </city>
+  <city name="Rwakagari">
+    <latitude>-3.3069444</latitude>
+    <longitude>30.0952778</longitude>
+  </city>
+  <city name="Rwamabare">
+    <latitude>-2.6444444</latitude>
+    <longitude>29.9377778</longitude>
+  </city>
+  <city name="Rwamabasa">
+    <latitude>-3.5166667</latitude>
+    <longitude>30.4536111</longitude>
+  </city>
+  <city name="Rwamabuye">
+    <latitude>-3.9013889</latitude>
+    <longitude>29.6436111</longitude>
+  </city>
+  <city name="Rwamahasa">
+    <latitude>-3.5166667</latitude>
+    <longitude>30.4536111</longitude>
+  </city>
+  <city name="Rwamatanga">
+    <latitude>-2.4627778</latitude>
+    <longitude>30.4327778</longitude>
+  </city>
+  <city name="Rwamiko">
+    <latitude>-2.975</latitude>
+    <longitude>29.6069444</longitude>
+  </city>
+  <city name="Rwampiri">
+    <latitude>-3.3397222</latitude>
+    <longitude>29.7802778</longitude>
+  </city>
+  <city name="Rwamvura">
+    <latitude>-3.3683333</latitude>
+    <longitude>29.8730556</longitude>
+  </city>
+  <city name="Rwangara">
+    <latitude>-3.1952778</latitude>
+    <longitude>30.2558333</longitude>
+  </city>
+  <city name="Rwaniro">
+    <latitude>-4.1711111</latitude>
+    <longitude>29.7722222</longitude>
+  </city>
+  <city name="Rwankona">
+    <latitude>-3.96</latitude>
+    <longitude>29.6777778</longitude>
+  </city>
+  <city name="Rwansonge">
+    <latitude>-3.8552778</latitude>
+    <longitude>29.6505556</longitude>
+  </city>
+  <city name="Rwansongo">
+    <latitude>-3.8552778</latitude>
+    <longitude>29.6505556</longitude>
+  </city>
+  <city name="Rwarama">
+    <latitude>-2.6872222</latitude>
+    <longitude>30.2227778</longitude>
+  </city>
+  <city name="Rwega">
+    <latitude>-3.8227778</latitude>
+    <longitude>30.0927778</longitude>
+  </city>
+  <city name="Rwegura">
+    <latitude>-2.9180556</latitude>
+    <longitude>29.5194444</longitude>
+  </city>
+  <city name="Rweru">
+    <latitude>-3.8019444</latitude>
+    <longitude>29.9391667</longitude>
+  </city>
+  <city name="Rweza">
+    <latitude>-3.6416667</latitude>
+    <longitude>29.7730556</longitude>
+  </city>
+  <city name="Rwibaga">
+    <latitude>-3.475</latitude>
+    <longitude>29.5469444</longitude>
+  </city>
+  <city name="Rwihanza">
+    <latitude>-3.4155556</latitude>
+    <longitude>30.5463889</longitude>
+  </city>
+  <city name="Rwikubo">
+    <latitude>-2.5608333</latitude>
+    <longitude>30.1980556</longitude>
+  </city>
+  <city name="Rwimbogo">
+    <latitude>-3.2808333</latitude>
+    <longitude>30.4641667</longitude>
+  </city>
+  <city name="Rwinago">
+    <latitude>-2.6591667</latitude>
+    <longitude>30.1447222</longitude>
+  </city>
+  <city name="Rwingiri">
+    <latitude>-3.0508333</latitude>
+    <longitude>30.3513889</longitude>
+  </city>
+  <city name="Rwingoma">
+    <latitude>-3.0441667</latitude>
+    <longitude>30.1544444</longitude>
+  </city>
+  <city name="Rwinka">
+    <latitude>-3.1877778</latitude>
+    <longitude>30.1416667</longitude>
+  </city>
+  <city name="Rwinkona">
+    <latitude>-3.3863889</latitude>
+    <longitude>30.0852778</longitude>
+  </city>
+  <city name="Rwira">
+    <latitude>-2.8213889</latitude>
+    <longitude>29.5838889</longitude>
+  </city>
+  <city name="Rwisabi">
+    <latitude>-3.0958333</latitude>
+    <longitude>29.8694444</longitude>
+  </city>
+  <city name="Rwoga">
+    <latitude>-2.7533333</latitude>
+    <longitude>30.2630556</longitude>
+  </city>
+  <city name="Rwonga">
+    <latitude>-3.5380556</latitude>
+    <longitude>29.6180556</longitude>
+  </city>
+  <city name="Ryakaramba">
+    <latitude>-3.0708333</latitude>
+    <longitude>29.5963889</longitude>
+  </city>
+  <city name="Ryakarambo">
+    <latitude>-2.9063889</latitude>
+    <longitude>29.9716667</longitude>
+  </city>
+  <city name="Ryansoro">
+    <latitude>-3.7138889</latitude>
+    <longitude>29.7941667</longitude>
+  </city>
+  <city name="Ryaruhinda">
+    <latitude>-2.7863889</latitude>
+    <longitude>29.8777778</longitude>
+  </city>
+  <city name="Ryarumuri">
+    <latitude>-2.7902778</latitude>
+    <longitude>29.7825</longitude>
+  </city>
+  <city name="Sagara">
+    <latitude>-3.3886111</latitude>
+    <longitude>29.7291667</longitude>
+  </city>
+  <city name="Sakanyege">
+    <latitude>-3.595</latitude>
+    <longitude>30.0747222</longitude>
+  </city>
+  <city name="Sankwi">
+    <latitude>-2.4086111</latitude>
+    <longitude>30.4966667</longitude>
+  </city>
+  <city name="Sema">
+    <latitude>-3.3063889</latitude>
+    <longitude>29.7686111</longitude>
+  </city>
+  <city name="Shanga">
+    <latitude>-3.8119444</latitude>
+    <longitude>30.0686111</longitude>
+  </city>
+  <city name="Shatanya">
+    <latitude>-3.2388889</latitude>
+    <longitude>29.9455556</longitude>
+  </city>
+  <city name="Shekera">
+    <latitude>-3.6458333</latitude>
+    <longitude>29.8227778</longitude>
+  </city>
+  <city name="Shembe">
+    <latitude>-3.9077778</latitude>
+    <longitude>29.5930556</longitude>
+  </city>
+  <city name="Shinya">
+    <latitude>-3.0552778</latitude>
+    <longitude>29.6897222</longitude>
+  </city>
+  <city name="Shombo">
+    <latitude>-3.2808333</latitude>
+    <longitude>30.0491667</longitude>
+  </city>
+  <city name="Shori">
+    <latitude>-3.0166667</latitude>
+    <longitude>30.3830556</longitude>
+  </city>
+  <city name="Shoti">
+    <latitude>-3.8958333</latitude>
+    <longitude>30.0180556</longitude>
+  </city>
+  <city name="Showe">
+    <latitude>-3.9136111</latitude>
+    <longitude>29.7947222</longitude>
+  </city>
+  <city name="Sinini">
+    <latitude>-3.2283333</latitude>
+    <longitude>30.0794444</longitude>
+  </city>
+  <city name="Songa">
+    <latitude>-3.8325</latitude>
+    <longitude>29.6413889</longitude>
+  </city>
+  <city name="Songorere">
+    <latitude>-3.8383333</latitude>
+    <longitude>29.5822222</longitude>
+  </city>
+  <city name="Songore">
+    <latitude>-2.9538889</latitude>
+    <longitude>29.7983333</longitude>
+  </city>
+  <city name="Sovu">
+    <latitude>-3.7830556</latitude>
+    <longitude>29.6297222</longitude>
+  </city>
+  <city name="Suture">
+    <latitude>-3.7511111</latitude>
+    <longitude>30.2413889</longitude>
+  </city>
+  <city name="Taba">
+    <latitude>-3.8769444</latitude>
+    <longitude>29.6083333</longitude>
+  </city>
+  <city name="Tabi">
+    <latitude>-3.4469444</latitude>
+    <longitude>29.8661111</longitude>
+  </city>
+  <city name="Takwe">
+    <latitude>-4.1466667</latitude>
+    <longitude>29.7594444</longitude>
+  </city>
+  <city name="Tangara">
+    <latitude>-2.9222222</latitude>
+    <longitude>29.9736111</longitude>
+  </city>
+  <city name="Tarire">
+    <latitude>-3.9755556</latitude>
+    <longitude>29.6141667</longitude>
+  </city>
+  <city name="Teka">
+    <latitude>-3.1344444</latitude>
+    <longitude>29.875</longitude>
+  </city>
+  <city name="Tetero">
+    <latitude>-3.0</latitude>
+    <longitude>30.7847222</longitude>
+  </city>
+  <city name="Teza">
+    <latitude>-3.2152778</latitude>
+    <longitude>29.5625</longitude>
+  </city>
+  <city name="Titi">
+    <latitude>-3.0822222</latitude>
+    <longitude>29.4336111</longitude>
+  </city>
+  <city name="Tora">
+    <latitude>-3.6875</latitude>
+    <longitude>29.5611111</longitude>
+  </city>
+  <city name="Twe">
+    <latitude>-3.5452778</latitude>
+    <longitude>29.6208333</longitude>
+  </city>
+  <city name="Tyazo">
+    <latitude>-2.7902778</latitude>
+    <longitude>29.7691667</longitude>
+  </city>
+  <city name="Usumbura">
+    <latitude>-3.3761111</latitude>
+    <longitude>29.36</longitude>
+  </city>
+  <city name="Uwimpfizi">
+    <latitude>-3.6088889</latitude>
+    <longitude>29.7855556</longitude>
+  </city>
+  <city name="Uwurugo">
+    <latitude>-3.6061111</latitude>
+    <longitude>29.5608333</longitude>
+  </city>
+  <city name="Vubi">
+    <latitude>-3.5863889</latitude>
+    <longitude>30.2419444</longitude>
+  </city>
+  <city name="Vugizo">
+    <latitude>-3.0802778</latitude>
+    <longitude>29.8147222</longitude>
+  </city>
+  <city name="Vumbi-Bukuba">
+    <latitude>-2.6986111</latitude>
+    <longitude>30.1041667</longitude>
+  </city>
+  <city name="Vumbi">
+    <latitude>-2.6986111</latitude>
+    <longitude>30.1041667</longitude>
+  </city>
+  <city name="Vumwe">
+    <latitude>-3.625</latitude>
+    <longitude>30.3166667</longitude>
+  </city>
+  <city name="Vungu">
+    <latitude>-4.2680556</latitude>
+    <longitude>29.7391667</longitude>
+  </city>
+  <city name="Vyanda">
+    <latitude>-4.1038889</latitude>
+    <longitude>29.6080556</longitude>
+  </city>
+  <city name="Vyinkona">
+    <latitude>-3.2016667</latitude>
+    <longitude>30.6044444</longitude>
+  </city>
+  <city name="Vyinkora">
+    <latitude>-3.2016667</latitude>
+    <longitude>30.6044444</longitude>
+  </city>
+  <city name="Vyuma">
+    <latitude>-3.8072222</latitude>
+    <longitude>30.0255556</longitude>
+  </city>
+  <city name="Vyuya">
+    <latitude>-3.7055556</latitude>
+    <longitude>29.6611111</longitude>
+  </city>
+  <city name="Wambogo">
+    <latitude>-3.5416667</latitude>
+    <longitude>30.3391667</longitude>
+  </city>
+  <city name="Yamuremye">
+    <latitude>-3.2069444</latitude>
+    <longitude>29.8052778</longitude>
+  </city>
+  <city name="Yanza">
+    <latitude>-3.3927778</latitude>
+    <longitude>29.6088889</longitude>
+  </city>
+  <city name="Yenda">
+    <latitude>-3.7144444</latitude>
+    <longitude>30.1086111</longitude>
+  </city>
+  <city name="Yonga">
+    <latitude>-2.4194444</latitude>
+    <longitude>30.4722222</longitude>
+  </city>
+  <city name="Zanandore">
+    <latitude>-3.2552778</latitude>
+    <longitude>30.1080556</longitude>
+  </city>
+</country>

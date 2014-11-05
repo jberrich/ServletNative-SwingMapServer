@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="nr" name="Nauru">
+  <city name="Anabar">
+    <latitude>-0.5166667</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Aneber">
+    <latitude>-0.5166667</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Anibare">
+    <latitude>-0.5333333</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Anna">
+    <latitude>-0.5</latitude>
+    <longitude>166.9333333</longitude>
+  </city>
+  <city name="Enniberri">
+    <latitude>-0.5333333</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Ijub">
+    <latitude>-0.5166667</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Ijuh">
+    <latitude>-0.5166667</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Ijuw">
+    <latitude>-0.5166667</latitude>
+    <longitude>166.95</longitude>
+  </city>
+  <city name="Mueoen">
+    <latitude>-0.5166667</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Ronave">
+    <latitude>-0.5</latitude>
+    <longitude>166.9333333</longitude>
+  </city>
+  <city name="Uaboe">
+    <latitude>-0.5166667</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Waboe">
+    <latitude>-0.5166667</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+  <city name="Yangor">
+    <latitude>-0.5333333</latitude>
+    <longitude>166.9166667</longitude>
+  </city>
+</country>

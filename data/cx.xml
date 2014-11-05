@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="cx" name="Christmas (Île)">
+  <city name="Drumsite">
+    <latitude>-10.4333333</latitude>
+    <longitude>105.6833333</longitude>
+  </city>
+  <city name="Flying Fish Cove">
+    <latitude>-10.4166667</latitude>
+    <longitude>105.7166667</longitude>
+  </city>
+  <city name="Settlement">
+    <latitude>-10.4166667</latitude>
+    <longitude>105.6666667</longitude>
+  </city>
+  <city name="South Point">
+    <latitude>-10.5666667</latitude>
+    <longitude>105.65</longitude>
+  </city>
+  <city name="The Settlement">
+    <latitude>-10.4166667</latitude>
+    <longitude>105.7166667</longitude>
+  </city>
+  <city name="Waterfall">
+    <latitude>-10.45</latitude>
+    <longitude>105.6666667</longitude>
+  </city>
+</country>

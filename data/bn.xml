@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="bn" name="Brunei">
+  <city name="Abang">
+    <latitude>4.7</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Bandar Seri Begawan">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Bandong">
+    <latitude>4.8833333</latitude>
+    <longitude>114.7666667</longitude>
+  </city>
+  <city name="Bangar">
+    <latitude>4.7166667</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Bang Pangan">
+    <latitude>4.65</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Bang Tangur">
+    <latitude>4.6166667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Batu Apoi">
+    <latitude>4.7</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Belait">
+    <latitude>4.45</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Benutan">
+    <latitude>4.6</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Biang">
+    <latitude>4.65</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Binchaya">
+    <latitude>4.7333333</latitude>
+    <longitude>114.5666667</longitude>
+  </city>
+  <city name="Bintauran">
+    <latitude>4.8666667</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Brooketon">
+    <latitude>5.0333333</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Brunei">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Brunei Town">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Bruni">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Buang Tawar">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9666667</longitude>
+  </city>
+  <city name="Bukit Puan">
+    <latitude>4.5333333</latitude>
+    <longitude>114.45</longitude>
+  </city>
+  <city name="Butir">
+    <latitude>4.85</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Danau">
+    <latitude>4.7666667</latitude>
+    <longitude>114.5833333</longitude>
+  </city>
+  <city name="Istana Darul Hana">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Jerudong">
+    <latitude>4.95</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Abang">
+    <latitude>4.6833333</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Amo">
+    <latitude>4.6166667</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Ampar">
+    <latitude>4.7833333</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Ampat Setengah">
+    <latitude>4.95</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Anching">
+    <latitude>4.9666667</latitude>
+    <longitude>114.9666667</longitude>
+  </city>
+  <city name="Kampong Baharu">
+    <latitude>4.8</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Bakaladong">
+    <latitude>4.6833333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Bandong">
+    <latitude>4.8833333</latitude>
+    <longitude>114.7666667</longitude>
+  </city>
+  <city name="Kampong Bangana">
+    <latitude>4.65</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Bang Pangan">
+    <latitude>4.65</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Bang Tagor">
+    <latitude>4.6166667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Kampong Bang Togor">
+    <latitude>4.6166667</latitude>
+    <longitude>114.6166667</longitude>
+  </city>
+  <city name="Kampong Bantun">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8666667</longitude>
+  </city>
+  <city name="Kampong Baru Baru">
+    <latitude>4.6666667</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Batang Duri">
+    <latitude>4.5666667</latitude>
+    <longitude>115.1333333</longitude>
+  </city>
+  <city name="Kampong Batong">
+    <latitude>4.8166667</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Batu Empat">
+    <latitude>4.7833333</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Batu Lapan">
+    <latitude>4.8833333</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Batu Marang">
+    <latitude>4.9833333</latitude>
+    <longitude>115.0333333</longitude>
+  </city>
+  <city name="Kampong Bawong">
+    <latitude>4.8333333</latitude>
+    <longitude>114.9666667</longitude>
+  </city>
+  <city name="Kampong Bebatek">
+    <latitude>4.85</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Bebatok">
+    <latitude>4.85</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Belaban">
+    <latitude>4.6666667</latitude>
+    <longitude>115.0833333</longitude>
+  </city>
+  <city name="Kampong Belayong">
+    <latitude>4.6333333</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Kampong Belima">
+    <latitude>4.95</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Benuta">
+    <latitude>4.6</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Benutan">
+    <latitude>4.6</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Berakas">
+    <latitude>4.9333333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Berangan">
+    <latitude>4.9</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Berbunot">
+    <latitude>4.8833333</latitude>
+    <longitude>115.0333333</longitude>
+  </city>
+  <city name="Kampong Berdang">
+    <latitude>4.9</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Beribi">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8833333</longitude>
+  </city>
+  <city name="Kampong Biang">
+    <latitude>4.65</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Bibit">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9</longitude>
+  </city>
+  <city name="Kampong Binchaya">
+    <latitude>4.7333333</latitude>
+    <longitude>114.5666667</longitude>
+  </city>
+  <city name="Kampong Bintauran">
+    <latitude>4.8666667</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Birau">
+    <latitude>4.7833333</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Buangang">
+    <latitude>4.6166667</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Kampong Buang Bulan">
+    <latitude>4.6833333</latitude>
+    <longitude>115.0833333</longitude>
+  </city>
+  <city name="Kampong Buangsakar">
+    <latitude>4.85</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Buang Tawar">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9666667</longitude>
+  </city>
+  <city name="Kampong Bukit Bang Tangur">
+    <latitude>4.6166667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Kampong Bukit">
+    <latitude>4.6333333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Bukit Kota">
+    <latitude>4.7</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Bukit Panggal">
+    <latitude>4.8333333</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Bukit Sulang">
+    <latitude>4.65</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Bukit Tambai">
+    <latitude>4.7666667</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Bukok">
+    <latitude>4.65</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Kampong Bunot">
+    <latitude>4.85</latitude>
+    <longitude>114.8833333</longitude>
+  </city>
+  <city name="Kampong Bupangang">
+    <latitude>4.65</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Bupungan">
+    <latitude>4.65</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Burong Pingai Berakas">
+    <latitude>4.9333333</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Burong Pingai">
+    <latitude>4.65</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Damuan">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Danau">
+    <latitude>4.7666667</latitude>
+    <longitude>114.5833333</longitude>
+  </city>
+  <city name="Kampong Delima">
+    <latitude>4.95</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Empat Setengah">
+    <latitude>4.95</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Gadong">
+    <latitude>4.9166667</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Ikas">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Imang">
+    <latitude>4.8</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Jangsak">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8666667</longitude>
+  </city>
+  <city name="Kampong Jerudong">
+    <latitude>4.95</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Jerundong">
+    <latitude>4.95</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Junjongan">
+    <latitude>4.8</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Kalamasi">
+    <latitude>4.8333333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Kandang">
+    <latitude>4.8</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Kapok">
+    <latitude>5.0333333</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Kampong Kasat">
+    <latitude>4.85</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Katimahar">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Katok">
+    <latitude>4.9333333</latitude>
+    <longitude>114.8833333</longitude>
+  </city>
+  <city name="Kampong Kayu Kapur">
+    <latitude>4.7333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Kebia">
+    <latitude>4.7666667</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Kebun">
+    <latitude>4.75</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Kelalang">
+    <latitude>4.7333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Keluyoh">
+    <latitude>4.6666667</latitude>
+    <longitude>114.5</longitude>
+  </city>
+  <city name="Kampong Kenua">
+    <latitude>4.6166667</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Kampong Kerangan Nyatan">
+    <latitude>4.4166667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Kampong Keriam">
+    <latitude>4.8166667</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Kampong Ketimahar">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Kiajong">
+    <latitude>4.9166667</latitude>
+    <longitude>114.7833333</longitude>
+  </city>
+  <city name="Kampong Kiarong">
+    <latitude>4.9</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Kiudang">
+    <latitude>4.75</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Kiulap">
+    <latitude>4.9</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Kobong">
+    <latitude>4.6333333</latitude>
+    <longitude>115.0333333</longitude>
+  </city>
+  <city name="Kampong Kopang">
+    <latitude>4.85</latitude>
+    <longitude>114.7833333</longitude>
+  </city>
+  <city name="Kampong Kota Batu">
+    <latitude>4.8833333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Krulap">
+    <latitude>4.9</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Kuala Abang">
+    <latitude>4.7</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Kampong Kuala Balai">
+    <latitude>4.45</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Kampong Kuala Tutong">
+    <latitude>4.7833333</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Kampong Kuala Ungar">
+    <latitude>4.6166667</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Kuidang">
+    <latitude>4.75</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Kupang">
+    <latitude>4.85</latitude>
+    <longitude>114.7833333</longitude>
+  </city>
+  <city name="Kampong Kwidong">
+    <latitude>4.75</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Labi">
+    <latitude>4.3833333</latitude>
+    <longitude>114.4333333</longitude>
+  </city>
+  <city name="Kampong Labut">
+    <latitude>4.75</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Lagu">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Lambak">
+    <latitude>4.9666667</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Lamunin">
+    <latitude>4.6833333</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Layong">
+    <latitude>4.6833333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Lepong">
+    <latitude>4.6</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Kampong Lilas">
+    <latitude>4.7</latitude>
+    <longitude>114.5166667</longitude>
+  </city>
+  <city name="Kampong Limau Manis">
+    <latitude>4.75</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Limpas">
+    <latitude>4.8333333</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Lopat">
+    <latitude>4.6833333</latitude>
+    <longitude>115.2</longitude>
+  </city>
+  <city name="Kampong Luagan Dudok">
+    <latitude>4.8166667</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Lubok Johar">
+    <latitude>4.8</latitude>
+    <longitude>114.6166667</longitude>
+  </city>
+  <city name="Kampong Lubok Johor">
+    <latitude>4.8</latitude>
+    <longitude>114.6166667</longitude>
+  </city>
+  <city name="Kampong Lubok">
+    <latitude>4.7833333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Lubok Pulau">
+    <latitude>4.7833333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Lubok Tanjong Maya">
+    <latitude>4.75</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Lugu">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Lumapas">
+    <latitude>4.85</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Luminin">
+    <latitude>4.6833333</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Lupak Luas">
+    <latitude>4.8666667</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Kampong Madewa">
+    <latitude>4.85</latitude>
+    <longitude>114.9</longitude>
+  </city>
+  <city name="Kampong Mangkam">
+    <latitude>4.7333333</latitude>
+    <longitude>114.75</longitude>
+  </city>
+  <city name="Kampong Mata Mata">
+    <latitude>4.9</latitude>
+    <longitude>114.9</longitude>
+  </city>
+  <city name="Kampong Medaras">
+    <latitude>4.9666667</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Mengawang">
+    <latitude>4.8833333</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Mentiri">
+    <latitude>4.9833333</latitude>
+    <longitude>115.0166667</longitude>
+  </city>
+  <city name="Kampong Menua">
+    <latitude>4.6166667</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Kampong Menunggol">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Menunggul">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Meranti">
+    <latitude>4.75</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Mongawang">
+    <latitude>4.8833333</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Mulaut">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Mulut">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Mungkom">
+    <latitude>4.7333333</latitude>
+    <longitude>114.75</longitude>
+  </city>
+  <city name="Kampong Mungunul">
+    <latitude>4.9333333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Nangka">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Nong Kelulau">
+    <latitude>4.7333333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Padanok">
+    <latitude>4.7166667</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Padnunok">
+    <latitude>4.7166667</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Pagalan">
+    <latitude>4.7833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Paganan">
+    <latitude>4.55</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Kampong Pak">
+    <latitude>4.6833333</latitude>
+    <longitude>115.1833333</longitude>
+  </city>
+  <city name="Kampong Palait">
+    <latitude>4.9333333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Panapa">
+    <latitude>4.7333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Panchor Dulit">
+    <latitude>4.8166667</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Panchor">
+    <latitude>4.8</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Panchor Papan">
+    <latitude>4.8</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Panchuran">
+    <latitude>4.9666667</latitude>
+    <longitude>115.0166667</longitude>
+  </city>
+  <city name="Kampong Panchur Dulit">
+    <latitude>4.8166667</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Panchur Papan">
+    <latitude>4.8</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Pangkalan Mau">
+    <latitude>4.75</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Pangkalan Parai">
+    <latitude>4.6666667</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Pangkalan Piasau">
+    <latitude>4.6833333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Pangkalan Ran">
+    <latitude>4.6666667</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Panjang">
+    <latitude>4.95</latitude>
+    <longitude>114.9</longitude>
+  </city>
+  <city name="Kampong Pantau Marai">
+    <latitude>4.8</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kampong Paring">
+    <latitude>4.95</latitude>
+    <longitude>115.0166667</longitude>
+  </city>
+  <city name="Kampong Parit Biang">
+    <latitude>4.6166667</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Parit">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Kampong Pasang">
+    <latitude>4.9166667</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Patong">
+    <latitude>4.8166667</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Pegalayan">
+    <latitude>4.7833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Pelambayan">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9666667</longitude>
+  </city>
+  <city name="Kampong Pelombong">
+    <latitude>5.0333333</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Pelumpong">
+    <latitude>5.0333333</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Penabai">
+    <latitude>4.8</latitude>
+    <longitude>114.6166667</longitude>
+  </city>
+  <city name="Kampong Penanjong">
+    <latitude>4.85</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Kampong Penapar">
+    <latitude>4.7333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Penchor Dulit">
+    <latitude>4.8166667</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Penchor Papan">
+    <latitude>4.8</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Pengkalan Batu">
+    <latitude>4.7833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Pengkalan Maut">
+    <latitude>4.75</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Pengkalan Parai">
+    <latitude>4.6666667</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Pengkalan Piasau">
+    <latitude>4.6833333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Pengkalan Ran">
+    <latitude>4.6666667</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Peninjau">
+    <latitude>4.9333333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Penonok">
+    <latitude>4.7166667</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Penulud">
+    <latitude>4.75</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Penyatang">
+    <latitude>4.75</latitude>
+    <longitude>114.5833333</longitude>
+  </city>
+  <city name="Kampong Pepara">
+    <latitude>4.8</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Pepatan">
+    <latitude>4.9</latitude>
+    <longitude>115.0333333</longitude>
+  </city>
+  <city name="Kampong Peradayan">
+    <latitude>4.7333333</latitude>
+    <longitude>115.0833333</longitude>
+  </city>
+  <city name="Kampong Perumpang">
+    <latitude>4.6833333</latitude>
+    <longitude>114.4833333</longitude>
+  </city>
+  <city name="Kampong Perumpong">
+    <latitude>4.6833333</latitude>
+    <longitude>114.4833333</longitude>
+  </city>
+  <city name="Kampong Perupok">
+    <latitude>4.75</latitude>
+    <longitude>114.6166667</longitude>
+  </city>
+  <city name="Kampong Potong">
+    <latitude>4.8333333</latitude>
+    <longitude>114.7833333</longitude>
+  </city>
+  <city name="Kampong Pudak">
+    <latitude>4.9</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Pugat">
+    <latitude>4.8</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Pulaie">
+    <latitude>4.9333333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Pulai">
+    <latitude>4.9333333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Pulau Muda">
+    <latitude>4.9333333</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Purau Purau">
+    <latitude>4.3666667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Kampong Putat">
+    <latitude>4.8333333</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Rambai">
+    <latitude>4.6333333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Rambal">
+    <latitude>4.6333333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Rampaya">
+    <latitude>4.6333333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Ranggu">
+    <latitude>4.8666667</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Rendangan">
+    <latitude>4.8333333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Rimba">
+    <latitude>4.9166667</latitude>
+    <longitude>114.9</longitude>
+  </city>
+  <city name="Kampong Riong">
+    <latitude>4.8166667</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Kampong Sabun">
+    <latitude>5.0333333</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Kampong Salam Bigar">
+    <latitude>4.9833333</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Salapit">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Sangkarai">
+    <latitude>4.8</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Sawah">
+    <latitude>4.5166667</latitude>
+    <longitude>114.55</longitude>
+  </city>
+  <city name="Kampong Selangan">
+    <latitude>4.9166667</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Selayan">
+    <latitude>4.9</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Selayun">
+    <latitude>4.9</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Kampong Semabat">
+    <latitude>4.5666667</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Kampong Sengkarai">
+    <latitude>4.8</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Kampong Sengkurong">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Sentul">
+    <latitude>4.7833333</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Kampong Serasa">
+    <latitude>5.0166667</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Kampong Serdang">
+    <latitude>4.9</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Serusup">
+    <latitude>4.95</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Kampong Sibakit">
+    <latitude>4.7333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Sibut">
+    <latitude>4.6166667</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Silirubai">
+    <latitude>4.8333333</latitude>
+    <longitude>114.8666667</longitude>
+  </city>
+  <city name="Kampong Sinarubai">
+    <latitude>4.8333333</latitude>
+    <longitude>114.8666667</longitude>
+  </city>
+  <city name="Kampong Sinaut">
+    <latitude>4.8166667</latitude>
+    <longitude>114.75</longitude>
+  </city>
+  <city name="Kampong Sinonuk">
+    <latitude>4.6333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Subok">
+    <latitude>4.8833333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Subun">
+    <latitude>5.0333333</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Kampong Sumbiling">
+    <latitude>4.5833333</latitude>
+    <longitude>115.1166667</longitude>
+  </city>
+  <city name="Kampong Sungai Asam">
+    <latitude>4.8833333</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Kampong Sungai Besar">
+    <latitude>4.9333333</latitude>
+    <longitude>115.0166667</longitude>
+  </city>
+  <city name="Kampong Sungai Bubus">
+    <latitude>5.0166667</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Kampong Sungai Burong">
+    <latitude>4.7166667</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Sungai Hanching">
+    <latitude>4.9666667</latitude>
+    <longitude>114.9666667</longitude>
+  </city>
+  <city name="Kampong Sungai Kelugus">
+    <latitude>4.8333333</latitude>
+    <longitude>114.9166667</longitude>
+  </city>
+  <city name="Kampong Sungai Lampai">
+    <latitude>4.8833333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Kampong Sungai Liang">
+    <latitude>4.6833333</latitude>
+    <longitude>114.5</longitude>
+  </city>
+  <city name="Kampong Sungai Liang Kechil">
+    <latitude>4.6666667</latitude>
+    <longitude>114.4833333</longitude>
+  </city>
+  <city name="Kampong Sungai Salam Begar">
+    <latitude>4.9833333</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Supodian">
+    <latitude>4.6833333</latitude>
+    <longitude>114.5</longitude>
+  </city>
+  <city name="Kampong Tanah Burok">
+    <latitude>4.8333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Tanjong Berapan">
+    <latitude>4.8166667</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Tanjong Durian">
+    <latitude>4.8166667</latitude>
+    <longitude>114.75</longitude>
+  </city>
+  <city name="Kampong Tanjong">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Tanjong Maya">
+    <latitude>4.75</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Tanjong Menugan">
+    <latitude>4.8333333</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Tanjong Menungan">
+    <latitude>4.8333333</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Kampong Tanjong Nangka">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Tanjong Santul">
+    <latitude>4.6833333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kampong Telaga Baka">
+    <latitude>4.8166667</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Kampong Telaga Beka">
+    <latitude>4.8166667</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Kampong Telamba">
+    <latitude>4.7333333</latitude>
+    <longitude>114.5666667</longitude>
+  </city>
+  <city name="Kampong Telisai">
+    <latitude>4.7333333</latitude>
+    <longitude>114.5666667</longitude>
+  </city>
+  <city name="Kampong Terap Bau">
+    <latitude>4.8666667</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Kampong Timahu">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8166667</longitude>
+  </city>
+  <city name="Kampong Timbunan">
+    <latitude>4.95</latitude>
+    <longitude>114.9666667</longitude>
+  </city>
+  <city name="Kampong Tulang">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Kampong Tunah Jambu">
+    <latitude>4.9833333</latitude>
+    <longitude>114.9833333</longitude>
+  </city>
+  <city name="Kampong Tunggulian">
+    <latitude>4.6833333</latitude>
+    <longitude>114.5</longitude>
+  </city>
+  <city name="Kampong Ugar">
+    <latitude>4.7666667</latitude>
+    <longitude>114.5833333</longitude>
+  </city>
+  <city name="Kampong Ukong">
+    <latitude>4.6666667</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+  <city name="Kampong Wasan">
+    <latitude>4.7666667</latitude>
+    <longitude>114.7833333</longitude>
+  </city>
+  <city name="Karangan Nyatan">
+    <latitude>4.4166667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Karangen Nyatan">
+    <latitude>4.4166667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Karengen Nyatan">
+    <latitude>4.4166667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Kayukapur">
+    <latitude>4.7333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Kebia">
+    <latitude>4.7666667</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Ketimahar">
+    <latitude>4.8666667</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Kiajong">
+    <latitude>4.9166667</latitude>
+    <longitude>114.7833333</longitude>
+  </city>
+  <city name="Krangan Nyata">
+    <latitude>4.4166667</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Kuala Balai">
+    <latitude>4.45</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Kuala Belait">
+    <latitude>4.5833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Kubong">
+    <latitude>4.6333333</latitude>
+    <longitude>115.0333333</longitude>
+  </city>
+  <city name="Kupang">
+    <latitude>4.85</latitude>
+    <longitude>114.7833333</longitude>
+  </city>
+  <city name="Kwala Balai">
+    <latitude>4.45</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Kwala Belait">
+    <latitude>4.5833333</latitude>
+    <longitude>114.1833333</longitude>
+  </city>
+  <city name="Labi">
+    <latitude>4.3833333</latitude>
+    <longitude>114.4333333</longitude>
+  </city>
+  <city name="Lambak">
+    <latitude>4.9666667</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Lilas">
+    <latitude>4.7</latitude>
+    <longitude>114.5166667</longitude>
+  </city>
+  <city name="Lombak Pulau">
+    <latitude>4.7833333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Lombok">
+    <latitude>4.7833333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Luagan Dudok">
+    <latitude>4.8166667</latitude>
+    <longitude>114.7166667</longitude>
+  </city>
+  <city name="Lubok Tanjong Maya">
+    <latitude>4.75</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Lugu">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8</longitude>
+  </city>
+  <city name="Maura">
+    <latitude>5.0333333</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Melilas">
+    <latitude>4.2333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Muara">
+    <latitude>5.0333333</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Nong Kelulau">
+    <latitude>4.7333333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Panaga">
+    <latitude>4.6</latitude>
+    <longitude>114.2833333</longitude>
+  </city>
+  <city name="Panapar">
+    <latitude>4.7333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Pangkalan Siong">
+    <latitude>4.4833333</latitude>
+    <longitude>114.55</longitude>
+  </city>
+  <city name="Pelumpong">
+    <latitude>5.0333333</latitude>
+    <longitude>115.1</longitude>
+  </city>
+  <city name="Penanjong">
+    <latitude>4.85</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Pengkalan Maut">
+    <latitude>4.75</latitude>
+    <longitude>114.7333333</longitude>
+  </city>
+  <city name="Pengkalan Piasau">
+    <latitude>4.6833333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Pengkalan Siong">
+    <latitude>4.4833333</latitude>
+    <longitude>114.55</longitude>
+  </city>
+  <city name="Penulud">
+    <latitude>4.75</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Perumpong">
+    <latitude>4.6833333</latitude>
+    <longitude>114.4833333</longitude>
+  </city>
+  <city name="Purau Purau">
+    <latitude>4.3833333</latitude>
+    <longitude>114.6166667</longitude>
+  </city>
+  <city name="Rambai">
+    <latitude>4.6333333</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Rampayoh">
+    <latitude>4.3833333</latitude>
+    <longitude>114.45</longitude>
+  </city>
+  <city name="Rasau">
+    <latitude>4.55</latitude>
+    <longitude>114.2166667</longitude>
+  </city>
+  <city name="Rimba">
+    <latitude>4.9166667</latitude>
+    <longitude>114.9</longitude>
+  </city>
+  <city name="Rumah Bawang Grang">
+    <latitude>4.2166667</latitude>
+    <longitude>114.6833333</longitude>
+  </city>
+  <city name="Rumah Samawa">
+    <latitude>4.2333333</latitude>
+    <longitude>114.6666667</longitude>
+  </city>
+  <city name="Rumah Supon">
+    <latitude>4.4833333</latitude>
+    <longitude>114.7833333</longitude>
+  </city>
+  <city name="Salayan">
+    <latitude>4.9</latitude>
+    <longitude>114.85</longitude>
+  </city>
+  <city name="Sangkurong">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Sarasap">
+    <latitude>5.0166667</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Sengkurong">
+    <latitude>4.8833333</latitude>
+    <longitude>114.8333333</longitude>
+  </city>
+  <city name="Serasa">
+    <latitude>5.0166667</latitude>
+    <longitude>115.05</longitude>
+  </city>
+  <city name="Seria">
+    <latitude>4.6166667</latitude>
+    <longitude>114.3166667</longitude>
+  </city>
+  <city name="Subok">
+    <latitude>4.8833333</latitude>
+    <longitude>114.95</longitude>
+  </city>
+  <city name="Sukang Hilir">
+    <latitude>4.4</latitude>
+    <longitude>114.6</longitude>
+  </city>
+  <city name="Sukang">
+    <latitude>4.3166667</latitude>
+    <longitude>114.6166667</longitude>
+  </city>
+  <city name="Tangki Ayer">
+    <latitude>4.9166667</latitude>
+    <longitude>114.9333333</longitude>
+  </city>
+  <city name="Temada">
+    <latitude>4.55</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Temburong">
+    <latitude>4.7166667</latitude>
+    <longitude>115.0666667</longitude>
+  </city>
+  <city name="Tempuan Ugar">
+    <latitude>4.7666667</latitude>
+    <longitude>114.5833333</longitude>
+  </city>
+  <city name="Tempuan Ugas">
+    <latitude>4.7666667</latitude>
+    <longitude>114.5833333</longitude>
+  </city>
+  <city name="Tutong">
+    <latitude>4.8</latitude>
+    <longitude>114.65</longitude>
+  </city>
+  <city name="Ukong">
+    <latitude>4.6666667</latitude>
+    <longitude>114.6333333</longitude>
+  </city>
+</country>

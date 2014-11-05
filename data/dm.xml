@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="dm" name="Dominique">
+  <city name="Anse Du Mé">
+    <latitude>15.6</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Atkinson">
+    <latitude>15.5166667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Au Parc">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Baroui">
+    <latitude>15.4333333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Barroui">
+    <latitude>15.4333333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Basin Will">
+    <latitude>15.4333333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Bassinville">
+    <latitude>15.4333333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Bataka">
+    <latitude>15.5</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Bellevue Chopin">
+    <latitude>15.2666667</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Bells">
+    <latitude>15.4166667</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Belmanier">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Belvidere">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Bense">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Berekua">
+    <latitude>15.2333333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Bioche">
+    <latitude>15.5</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Boetica">
+    <latitude>15.3</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Bornes">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Cachacrou">
+    <latitude>15.2</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Calibishi">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Calibishie">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Capucin">
+    <latitude>15.6333333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Castle Bruce">
+    <latitude>15.4333333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Charlotte Town">
+    <latitude>15.3</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Charlotte Ville">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Clifton">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Cochrane">
+    <latitude>15.3333333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Cocoyer">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Colihaut">
+    <latitude>15.4833333</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Cottage">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Coulibistri">
+    <latitude>15.45</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Coulihaut">
+    <latitude>15.4833333</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Crayfish River">
+    <latitude>15.5</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Délices">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Demitrie">
+    <latitude>15.6333333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Docteur">
+    <latitude>15.3</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Dos D'Âne">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Dublanc">
+    <latitude>15.5166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Dubuc">
+    <latitude>15.25</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Fond Cani">
+    <latitude>15.3166667</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Fond Saint Jean">
+    <latitude>15.25</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Galion">
+    <latitude>15.2166667</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Gaulette">
+    <latitude>15.4833333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Geneva">
+    <latitude>15.25</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Gillon">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Giraudel">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Giraudet">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Glanville">
+    <latitude>15.5666667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Glanvillia">
+    <latitude>15.5666667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Gommier">
+    <latitude>15.6</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Good Hope">
+    <latitude>15.4</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Goodwill">
+    <latitude>15.3</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Grand-Anse">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Grand Baie">
+    <latitude>15.2333333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Grand Bay">
+    <latitude>15.2333333</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Grand Fond">
+    <latitude>15.3666667</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Griaudel">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Guillet">
+    <latitude>15.6</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Hampstead">
+    <latitude>15.6</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Itassi">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Kulihao">
+    <latitude>15.4833333</latitude>
+    <longitude>-61.4833333</longitude>
+  </city>
+  <city name="Lagon">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Là Haut">
+    <latitude>15.6333333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="La Plaine">
+    <latitude>15.3333333</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="La Pointe">
+    <latitude>15.25</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Larieu">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="La Soie">
+    <latitude>15.5666667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="La Source">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Laudat">
+    <latitude>15.3333333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Layou">
+    <latitude>15.3833333</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Loubiere">
+    <latitude>15.2666667</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Madjini">
+    <latitude>15.4666667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Mahaut">
+    <latitude>15.35</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Marigot">
+    <latitude>15.5333333</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Massacre">
+    <latitude>15.35</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Méro">
+    <latitude>15.4166667</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Meudon">
+    <latitude>15.3333333</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Monkey Hill">
+    <latitude>15.5</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Morne Aux Frégates">
+    <latitude>15.35</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Morne Jaune">
+    <latitude>15.35</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Morne Prosper">
+    <latitude>15.3</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Morne Raquette">
+    <latitude>15.45</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Morne Soleil">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Morpo">
+    <latitude>15.4166667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="New Town">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Northern Loop">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Paix Bouche">
+    <latitude>15.6</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Peineville">
+    <latitude>15.6333333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Petite Savane">
+    <latitude>15.25</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Petite Savanne">
+    <latitude>15.25</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Petite Soufrière">
+    <latitude>15.3833333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Petit Marigot">
+    <latitude>15.5333333</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Pichelin">
+    <latitude>15.2666667</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+  <city name="Pointe Michel">
+    <latitude>15.25</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Pont Cassé">
+    <latitude>15.3666667</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Portsmouth">
+    <latitude>15.5833333</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Potters Ville">
+    <latitude>15.3</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Riversdale">
+    <latitude>15.4166667</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Rivière Ciriques">
+    <latitude>15.35</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Roger">
+    <latitude>15.3333333</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Rosalie">
+    <latitude>15.3666667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Roseau">
+    <latitude>15.3</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Saint Cyr">
+    <latitude>15.4833333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Saint Joseph">
+    <latitude>15.4</latitude>
+    <longitude>-61.4333333</longitude>
+  </city>
+  <city name="Saint Sauveur">
+    <latitude>15.4</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Salibia">
+    <latitude>15.4833333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Salisbury">
+    <latitude>15.4333333</latitude>
+    <longitude>-61.45</longitude>
+  </city>
+  <city name="Salybia">
+    <latitude>15.4833333</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Scotts Head Village">
+    <latitude>15.2</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Sibouli">
+    <latitude>15.25</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Sineku">
+    <latitude>15.4666667</latitude>
+    <longitude>-61.25</longitude>
+  </city>
+  <city name="Soufrière">
+    <latitude>15.2333333</latitude>
+    <longitude>-61.3666667</longitude>
+  </city>
+  <city name="Stowe">
+    <latitude>15.25</latitude>
+    <longitude>-61.3</longitude>
+  </city>
+  <city name="Tanetane">
+    <latitude>15.6</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Tarou">
+    <latitude>15.3833333</latitude>
+    <longitude>-61.4166667</longitude>
+  </city>
+  <city name="Tête Morne">
+    <latitude>15.2333333</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="The Cross">
+    <latitude>15.3666667</latitude>
+    <longitude>-61.2833333</longitude>
+  </city>
+  <city name="Thibaud">
+    <latitude>15.6</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Tobino">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Toucari">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4666667</longitude>
+  </city>
+  <city name="Trafalgar">
+    <latitude>15.3166667</latitude>
+    <longitude>-61.35</longitude>
+  </city>
+  <city name="Veille Case">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Vieille Case">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Vielle Case">
+    <latitude>15.6166667</latitude>
+    <longitude>-61.4</longitude>
+  </city>
+  <city name="Wall House">
+    <latitude>15.2833333</latitude>
+    <longitude>-61.3833333</longitude>
+  </city>
+  <city name="Warakal">
+    <latitude>15.5166667</latitude>
+    <longitude>-61.2666667</longitude>
+  </city>
+  <city name="Wesley">
+    <latitude>15.5666667</latitude>
+    <longitude>-61.3166667</longitude>
+  </city>
+  <city name="Woodford Hill">
+    <latitude>15.5666667</latitude>
+    <longitude>-61.3333333</longitude>
+  </city>
+</country>

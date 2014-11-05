@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="sc" name="Seychelles">
+  <city name="Anse Boileau">
+    <latitude>-4.7166667</latitude>
+    <longitude>55.4833333</longitude>
+  </city>
+  <city name="Anse Royal">
+    <latitude>-4.7333333</latitude>
+    <longitude>55.5166667</longitude>
+  </city>
+  <city name="Anse Royale">
+    <latitude>-4.7333333</latitude>
+    <longitude>55.5166667</longitude>
+  </city>
+  <city name="Anse Volbert Village">
+    <latitude>-4.3166667</latitude>
+    <longitude>55.7333333</longitude>
+  </city>
+  <city name="Beau Vallon">
+    <latitude>-4.6</latitude>
+    <longitude>55.4166667</longitude>
+  </city>
+  <city name="Belle Ombre">
+    <latitude>-4.6166667</latitude>
+    <longitude>55.4166667</longitude>
+  </city>
+  <city name="Bel Ombre">
+    <latitude>-4.6166667</latitude>
+    <longitude>55.4166667</longitude>
+  </city>
+  <city name="Cascade">
+    <latitude>-4.6666667</latitude>
+    <longitude>55.5</longitude>
+  </city>
+  <city name="De Quincey Village">
+    <latitude>-4.6</latitude>
+    <longitude>55.45</longitude>
+  </city>
+  <city name="De Quincy Village">
+    <latitude>-4.6</latitude>
+    <longitude>55.45</longitude>
+  </city>
+  <city name="Donja Mahala">
+    <latitude>42.6408333</latitude>
+    <longitude>22.0330556</longitude>
+  </city>
+  <city name="La Misere">
+    <latitude>-4.6666667</latitude>
+    <longitude>55.4666667</longitude>
+  </city>
+  <city name="La Réunion">
+    <latitude>-4.35</latitude>
+    <longitude>55.8333333</longitude>
+  </city>
+  <city name="L'Espérance">
+    <latitude>-4.7166667</latitude>
+    <longitude>55.4833333</longitude>
+  </city>
+  <city name="Machabee">
+    <latitude>-4.5666667</latitude>
+    <longitude>55.45</longitude>
+  </city>
+  <city name="Mahé">
+    <latitude>-4.6166667</latitude>
+    <longitude>55.45</longitude>
+  </city>
+  <city name="Misere">
+    <latitude>-4.6666667</latitude>
+    <longitude>55.4666667</longitude>
+  </city>
+  <city name="Port Glaud">
+    <latitude>-4.6666667</latitude>
+    <longitude>55.4166667</longitude>
+  </city>
+  <city name="Port Victoria">
+    <latitude>-4.6166667</latitude>
+    <longitude>55.45</longitude>
+  </city>
+  <city name="Takamaka">
+    <latitude>-4.7666667</latitude>
+    <longitude>55.5</longitude>
+  </city>
+  <city name="Victoria">
+    <latitude>-4.6166667</latitude>
+    <longitude>55.45</longitude>
+  </city>
+</country>

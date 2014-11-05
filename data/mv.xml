@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="mv" name="Maldives (Îles)">
+  <city name="Dhidhdhoo">
+    <latitude>6.8833333</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Eydhafushi">
+    <latitude>5.1166667</latitude>
+    <longitude>73.0333333</longitude>
+  </city>
+  <city name="Farukolhufunadhoo">
+    <latitude>6.15</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Felidhoo">
+    <latitude>3.4833333</latitude>
+    <longitude>73.5333333</longitude>
+  </city>
+  <city name="Funadhoo">
+    <latitude>6.15</latitude>
+    <longitude>73.2666667</longitude>
+  </city>
+  <city name="Gamu">
+    <latitude>-0.7</latitude>
+    <longitude>73.15</longitude>
+  </city>
+  <city name="Gan">
+    <latitude>-0.7</latitude>
+    <longitude>73.15</longitude>
+  </city>
+  <city name="Hitaddu">
+    <latitude>-0.6</latitude>
+    <longitude>73.0833333</longitude>
+  </city>
+  <city name="Hithadhoo">
+    <latitude>-0.6</latitude>
+    <longitude>73.0833333</longitude>
+  </city>
+  <city name="Kudahuvadhoo">
+    <latitude>2.6666667</latitude>
+    <longitude>72.9</longitude>
+  </city>
+  <city name="Kulhudhuffushi">
+    <latitude>6.6166667</latitude>
+    <longitude>73.05</longitude>
+  </city>
+  <city name="Maale">
+    <latitude>4.1666667</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Magoodhoo">
+    <latitude>3.1</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Mahibadhoo">
+    <latitude>3.7833333</latitude>
+    <longitude>72.9666667</longitude>
+  </city>
+  <city name="Male">
+    <latitude>4.1666667</latitude>
+    <longitude>73.5</longitude>
+  </city>
+  <city name="Manadhoo">
+    <latitude>5.7666667</latitude>
+    <longitude>73.3833333</longitude>
+  </city>
+  <city name="Midu">
+    <latitude>-0.5833333</latitude>
+    <longitude>73.2333333</longitude>
+  </city>
+  <city name="Mula">
+    <latitude>-0.3</latitude>
+    <longitude>73.4333333</longitude>
+  </city>
+  <city name="Muli">
+    <latitude>2.9166667</latitude>
+    <longitude>73.5666667</longitude>
+  </city>
+  <city name="Naifaru">
+    <latitude>5.4333333</latitude>
+    <longitude>73.3333333</longitude>
+  </city>
+  <city name="Nolhivaranfaru">
+    <latitude>6.7166667</latitude>
+    <longitude>73.1</longitude>
+  </city>
+  <city name="Thinadhoo">
+    <latitude>0.5333333</latitude>
+    <longitude>72.9333333</longitude>
+  </city>
+  <city name="Ugoofaaru">
+    <latitude>5.6666667</latitude>
+    <longitude>73.0</longitude>
+  </city>
+  <city name="U'ngoofaaru">
+    <latitude>5.6666667</latitude>
+    <longitude>73.0</longitude>
+  </city>
+  <city name="Veymandhoo">
+    <latitude>2.1833333</latitude>
+    <longitude>73.1166667</longitude>
+  </city>
+  <city name="Veymandoo">
+    <latitude>2.1833333</latitude>
+    <longitude>73.1166667</longitude>
+  </city>
+  <city name="Viligili">
+    <latitude>0.75</latitude>
+    <longitude>73.3833333</longitude>
+  </city>
+  <city name="Villingili">
+    <latitude>0.75</latitude>
+    <longitude>73.3833333</longitude>
+  </city>
+</country>

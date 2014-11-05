@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="yt" name="Mayotte">
+  <city name="Accua">
+    <latitude>-12.7225</latitude>
+    <longitude>45.0563889</longitude>
+  </city>
+  <city name="Acoua">
+    <latitude>-12.7225</latitude>
+    <longitude>45.0563889</longitude>
+  </city>
+  <city name="Andréma">
+    <latitude>-12.6786111</latitude>
+    <longitude>45.0977778</longitude>
+  </city>
+  <city name="Apandzo">
+    <latitude>-12.8305556</latitude>
+    <longitude>45.1302778</longitude>
+  </city>
+  <city name="Bambo Est">
+    <latitude>-12.9261111</latitude>
+    <longitude>45.1738889</longitude>
+  </city>
+  <city name="Bambo Ouest">
+    <latitude>-12.9219444</latitude>
+    <longitude>45.0872222</longitude>
+  </city>
+  <city name="Bandraboua">
+    <latitude>-12.7016667</latitude>
+    <longitude>45.1205556</longitude>
+  </city>
+  <city name="Bandrajou">
+    <latitude>-12.7452778</latitude>
+    <longitude>45.2186111</longitude>
+  </city>
+  <city name="Bandrani">
+    <latitude>-12.845</latitude>
+    <longitude>45.1019444</longitude>
+  </city>
+  <city name="Bandrélé">
+    <latitude>-12.9066667</latitude>
+    <longitude>45.1913889</longitude>
+  </city>
+  <city name="Barakani">
+    <latitude>-12.835</latitude>
+    <longitude>45.1280556</longitude>
+  </city>
+  <city name="Bouéni">
+    <latitude>-12.9025</latitude>
+    <longitude>45.0761111</longitude>
+  </city>
+  <city name="Bouilloni">
+    <latitude>-12.7355556</latitude>
+    <longitude>45.1383333</longitude>
+  </city>
+  <city name="Bouyouni">
+    <latitude>-12.7355556</latitude>
+    <longitude>45.1383333</longitude>
+  </city>
+  <city name="Chembénioumba">
+    <latitude>-12.7622222</latitude>
+    <longitude>45.0752778</longitude>
+  </city>
+  <city name="Chembényoumba">
+    <latitude>-12.7622222</latitude>
+    <longitude>45.0752778</longitude>
+  </city>
+  <city name="Chiconi">
+    <latitude>-12.8333333</latitude>
+    <longitude>45.1105556</longitude>
+  </city>
+  <city name="Chirongui">
+    <latitude>-12.9319444</latitude>
+    <longitude>45.1483333</longitude>
+  </city>
+  <city name="Choungui">
+    <latitude>-12.9594444</latitude>
+    <longitude>45.1244444</longitude>
+  </city>
+  <city name="Choungui Kéli">
+    <latitude>-12.9686111</latitude>
+    <longitude>45.1308333</longitude>
+  </city>
+  <city name="Coconi">
+    <latitude>-12.8330556</latitude>
+    <longitude>45.1347222</longitude>
+  </city>
+  <city name="Combani">
+    <latitude>-12.7863889</latitude>
+    <longitude>45.1336111</longitude>
+  </city>
+  <city name="Dapani">
+    <latitude>-12.9691667</latitude>
+    <longitude>45.1588889</longitude>
+  </city>
+  <city name="Djivani">
+    <latitude>-12.8313889</latitude>
+    <longitude>45.12</longitude>
+  </city>
+  <city name="Doujani">
+    <latitude>-12.7908333</latitude>
+    <longitude>45.2138889</longitude>
+  </city>
+  <city name="Dzaoudzi">
+    <latitude>-12.7794444</latitude>
+    <longitude>45.2536111</longitude>
+  </city>
+  <city name="Dzoumogne">
+    <latitude>-12.7172222</latitude>
+    <longitude>45.1127778</longitude>
+  </city>
+  <city name="Dzoumonyé">
+    <latitude>-12.7172222</latitude>
+    <longitude>45.1127778</longitude>
+  </city>
+  <city name="Florence">
+    <latitude>-12.8597222</latitude>
+    <longitude>45.1916667</longitude>
+  </city>
+  <city name="Foungoujou">
+    <latitude>-12.7838889</latitude>
+    <longitude>45.2588889</longitude>
+  </city>
+  <city name="Gnambo">
+    <latitude>-12.7069444</latitude>
+    <longitude>45.1205556</longitude>
+  </city>
+  <city name="Hachénoua">
+    <latitude>-12.7872222</latitude>
+    <longitude>45.1111111</longitude>
+  </city>
+  <city name="Hajangoua">
+    <latitude>-12.8655556</latitude>
+    <longitude>45.1933333</longitude>
+  </city>
+  <city name="Hamjago">
+    <latitude>-12.6858333</latitude>
+    <longitude>45.0719444</longitude>
+  </city>
+  <city name="Hamouro">
+    <latitude>-12.8786111</latitude>
+    <longitude>45.2133333</longitude>
+  </city>
+  <city name="Handréma">
+    <latitude>-12.6786111</latitude>
+    <longitude>45.0977778</longitude>
+  </city>
+  <city name="Hanyoundrou">
+    <latitude>-12.9005556</latitude>
+    <longitude>45.0986111</longitude>
+  </city>
+  <city name="Iloni">
+    <latitude>-12.8411111</latitude>
+    <longitude>45.1888889</longitude>
+  </city>
+  <city name="Ironi Bé">
+    <latitude>-12.8305556</latitude>
+    <longitude>45.1886111</longitude>
+  </city>
+  <city name="Kahani">
+    <latitude>-12.8208333</latitude>
+    <longitude>45.1294444</longitude>
+  </city>
+  <city name="Kangani">
+    <latitude>-12.7272222</latitude>
+    <longitude>45.185</longitude>
+  </city>
+  <city name="Kani Bé">
+    <latitude>-12.9613889</latitude>
+    <longitude>45.1091667</longitude>
+  </city>
+  <city name="Kani Kéli">
+    <latitude>-12.9536111</latitude>
+    <longitude>45.1033333</longitude>
+  </city>
+  <city name="Kaouéni">
+    <latitude>-12.7702778</latitude>
+    <longitude>45.2180556</longitude>
+  </city>
+  <city name="Karoni">
+    <latitude>-12.9288889</latitude>
+    <longitude>45.1172222</longitude>
+  </city>
+  <city name="Kavani">
+    <latitude>-12.7788889</latitude>
+    <longitude>45.2188889</longitude>
+  </city>
+  <city name="Kongo">
+    <latitude>-12.7336111</latitude>
+    <longitude>45.2041667</longitude>
+  </city>
+  <city name="Koualé">
+    <latitude>-12.7952778</latitude>
+    <longitude>45.1641667</longitude>
+  </city>
+  <city name="Koualé-Légion">
+    <latitude>-12.795</latitude>
+    <longitude>45.1861111</longitude>
+  </city>
+  <city name="Koungou">
+    <latitude>-12.7336111</latitude>
+    <longitude>45.2041667</longitude>
+  </city>
+  <city name="Labattoir">
+    <latitude>-12.785</latitude>
+    <longitude>45.2702778</longitude>
+  </city>
+  <city name="La Ferme">
+    <latitude>-12.7844444</latitude>
+    <longitude>45.2775</longitude>
+  </city>
+  <city name="Longoni">
+    <latitude>-12.7316667</latitude>
+    <longitude>45.1611111</longitude>
+  </city>
+  <city name="Maboungani">
+    <latitude>-12.8705556</latitude>
+    <longitude>45.1975</longitude>
+  </city>
+  <city name="Majikavo 1">
+    <latitude>-12.7497222</latitude>
+    <longitude>45.2286111</longitude>
+  </city>
+  <city name="Majikavo 2">
+    <latitude>-12.7413889</latitude>
+    <longitude>45.2169444</longitude>
+  </city>
+  <city name="Majikavo Koropa">
+    <latitude>-12.7413889</latitude>
+    <longitude>45.2169444</longitude>
+  </city>
+  <city name="Majikavo Lamir">
+    <latitude>-12.7497222</latitude>
+    <longitude>45.2286111</longitude>
+  </city>
+  <city name="Majiméouni">
+    <latitude>-12.9222222</latitude>
+    <longitude>45.1058333</longitude>
+  </city>
+  <city name="Malamani">
+    <latitude>-12.9169444</latitude>
+    <longitude>45.1563889</longitude>
+  </city>
+  <city name="Mambutzou">
+    <latitude>-12.7794444</latitude>
+    <longitude>45.2272222</longitude>
+  </city>
+  <city name="Mamoudzou">
+    <latitude>-12.7794444</latitude>
+    <longitude>45.2272222</longitude>
+  </city>
+  <city name="Mamoutzou">
+    <latitude>-12.7794444</latitude>
+    <longitude>45.2272222</longitude>
+  </city>
+  <city name="Mamutzu">
+    <latitude>-12.7794444</latitude>
+    <longitude>45.2272222</longitude>
+  </city>
+  <city name="Mangajou">
+    <latitude>-12.8416667</latitude>
+    <longitude>45.1138889</longitude>
+  </city>
+  <city name="Manyassini">
+    <latitude>-12.8888889</latitude>
+    <longitude>45.1411111</longitude>
+  </city>
+  <city name="Mbouéanatsa">
+    <latitude>-12.9416667</latitude>
+    <longitude>45.0997222</longitude>
+  </city>
+  <city name="Mbouini">
+    <latitude>-12.9875</latitude>
+    <longitude>45.1347222</longitude>
+  </city>
+  <city name="Mbouyouni">
+    <latitude>-12.9027778</latitude>
+    <longitude>45.1486111</longitude>
+  </city>
+  <city name="M'Gombani">
+    <latitude>-12.7016667</latitude>
+    <longitude>45.1205556</longitude>
+  </city>
+  <city name="Miréréni">
+    <latitude>-12.7863889</latitude>
+    <longitude>45.1386111</longitude>
+  </city>
+  <city name="Mitséni">
+    <latitude>-12.7358333</latitude>
+    <longitude>45.1438889</longitude>
+  </city>
+  <city name="M'Jago">
+    <latitude>-12.7069444</latitude>
+    <longitude>45.1205556</longitude>
+  </city>
+  <city name="Mliha">
+    <latitude>-12.7483333</latitude>
+    <longitude>45.0530556</longitude>
+  </city>
+  <city name="Mouanatrindi">
+    <latitude>-12.8969444</latitude>
+    <longitude>45.0952778</longitude>
+  </city>
+  <city name="Mounadzini">
+    <latitude>-12.8930556</latitude>
+    <longitude>45.14</longitude>
+  </city>
+  <city name="Moutsamoudou">
+    <latitude>-12.9605556</latitude>
+    <longitude>45.1733333</longitude>
+  </city>
+  <city name="Moutsatoundou">
+    <latitude>-12.9152778</latitude>
+    <longitude>45.1827778</longitude>
+  </city>
+  <city name="Moutsoumbatsou">
+    <latitude>-12.7408333</latitude>
+    <longitude>45.0505556</longitude>
+  </city>
+  <city name="Mramadoudou">
+    <latitude>-12.9252778</latitude>
+    <longitude>45.1511111</longitude>
+  </city>
+  <city name="Mréréni Bé">
+    <latitude>-12.9030556</latitude>
+    <longitude>45.1527778</longitude>
+  </city>
+  <city name="Mréréni">
+    <latitude>-12.9022222</latitude>
+    <longitude>45.1491667</longitude>
+  </city>
+  <city name="Mronaléia">
+    <latitude>-12.9769444</latitude>
+    <longitude>45.1216667</longitude>
+  </city>
+  <city name="Mronyombéni">
+    <latitude>-12.7847222</latitude>
+    <longitude>45.2622222</longitude>
+  </city>
+  <city name="Mrowalé">
+    <latitude>-12.7866667</latitude>
+    <longitude>45.1252778</longitude>
+  </city>
+  <city name="Mtsahara">
+    <latitude>-12.6791667</latitude>
+    <longitude>45.0797222</longitude>
+  </city>
+  <city name="Mtsamboro">
+    <latitude>-12.6966667</latitude>
+    <longitude>45.0666667</longitude>
+  </city>
+  <city name="Mtsamgamouji">
+    <latitude>-12.7594444</latitude>
+    <longitude>45.0836111</longitude>
+  </city>
+  <city name="Mtsangachéhi">
+    <latitude>-12.8833333</latitude>
+    <longitude>45.1294444</longitude>
+  </city>
+  <city name="M'Tsangadoi">
+    <latitude>-12.7080556</latitude>
+    <longitude>45.0477778</longitude>
+  </city>
+  <city name="Mtsangadoua">
+    <latitude>-12.7080556</latitude>
+    <longitude>45.0477778</longitude>
+  </city>
+  <city name="M'Tsangamboi">
+    <latitude>-12.6883333</latitude>
+    <longitude>45.1075</longitude>
+  </city>
+  <city name="Mtsangamboua">
+    <latitude>-12.6883333</latitude>
+    <longitude>45.1075</longitude>
+  </city>
+  <city name="M'Tsangamouji">
+    <latitude>-12.7594444</latitude>
+    <longitude>45.0836111</longitude>
+  </city>
+  <city name="Mtsapéré">
+    <latitude>-12.7877778</latitude>
+    <longitude>45.2183333</longitude>
+  </city>
+  <city name="Musicale Plage">
+    <latitude>-12.9152778</latitude>
+    <longitude>45.1827778</longitude>
+  </city>
+  <city name="M'Zamboro">
+    <latitude>-12.6966667</latitude>
+    <longitude>45.0666667</longitude>
+  </city>
+  <city name="Mzouazia">
+    <latitude>-12.9255556</latitude>
+    <longitude>45.1011111</longitude>
+  </city>
+  <city name="Ngouja">
+    <latitude>-12.9591667</latitude>
+    <longitude>45.0836111</longitude>
+  </city>
+  <city name="Nyambadao">
+    <latitude>-12.8905556</latitude>
+    <longitude>45.2008333</longitude>
+  </city>
+  <city name="Nyambo">
+    <latitude>-12.7069444</latitude>
+    <longitude>45.1205556</longitude>
+  </city>
+  <city name="Ongojou">
+    <latitude>-12.8347222</latitude>
+    <longitude>45.1563889</longitude>
+  </city>
+  <city name="Ouangani">
+    <latitude>-12.8463889</latitude>
+    <longitude>45.1361111</longitude>
+  </city>
+  <city name="Pamandzi">
+    <latitude>-12.7963889</latitude>
+    <longitude>45.2736111</longitude>
+  </city>
+  <city name="Passamaïnti">
+    <latitude>-12.7988889</latitude>
+    <longitude>45.2102778</longitude>
+  </city>
+  <city name="Passi Kéli">
+    <latitude>-12.9833333</latitude>
+    <longitude>45.1244444</longitude>
+  </city>
+  <city name="Poroani">
+    <latitude>-12.8894444</latitude>
+    <longitude>45.1383333</longitude>
+  </city>
+  <city name="Rampe Cannelle">
+    <latitude>-12.9363889</latitude>
+    <longitude>45.14</longitude>
+  </city>
+  <city name="Sada">
+    <latitude>-12.8480556</latitude>
+    <longitude>45.0975</longitude>
+  </city>
+  <city name="Sazilé">
+    <latitude>-12.9819444</latitude>
+    <longitude>45.1788889</longitude>
+  </city>
+  <city name="Sohoa Kavani">
+    <latitude>-12.8186111</latitude>
+    <longitude>45.1061111</longitude>
+  </city>
+  <city name="Sohoa Kéli">
+    <latitude>-12.8211111</latitude>
+    <longitude>45.1033333</longitude>
+  </city>
+  <city name="Sohoa">
+    <latitude>-12.8197222</latitude>
+    <longitude>45.1036111</longitude>
+  </city>
+  <city name="Tanaraki">
+    <latitude>-12.7561111</latitude>
+    <longitude>45.0666667</longitude>
+  </city>
+  <city name="Trévani">
+    <latitude>-12.7308333</latitude>
+    <longitude>45.1961111</longitude>
+  </city>
+  <city name="Trotrondjéou">
+    <latitude>-12.8041667</latitude>
+    <longitude>45.2036111</longitude>
+  </city>
+  <city name="Tsararano">
+    <latitude>-12.8338889</latitude>
+    <longitude>45.1725</longitude>
+  </city>
+  <city name="Tsimkoura">
+    <latitude>-12.9372222</latitude>
+    <longitude>45.1352778</longitude>
+  </city>
+  <city name="Tsingoni">
+    <latitude>-12.7872222</latitude>
+    <longitude>45.1027778</longitude>
+  </city>
+  <city name="Tsoundzou 1">
+    <latitude>-12.8041667</latitude>
+    <longitude>45.2036111</longitude>
+  </city>
+  <city name="Tsoundzou 2">
+    <latitude>-12.8133333</latitude>
+    <longitude>45.1966667</longitude>
+  </city>
+  <city name="Vahibéni">
+    <latitude>-12.7819444</latitude>
+    <longitude>45.1705556</longitude>
+  </city>
+</country>

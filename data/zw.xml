@@ -1,0 +1,5339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="zw" name="Zimbabwe">
+  <city name="100 Acre Lots">
+    <latitude>-20.2086111</latitude>
+    <longitude>28.7213889</longitude>
+  </city>
+  <city name="Adylinn">
+    <latitude>-17.7622222</latitude>
+    <longitude>30.9888889</longitude>
+  </city>
+  <city name="Alexandra Park">
+    <latitude>-17.7941667</latitude>
+    <longitude>31.0522222</longitude>
+  </city>
+  <city name="Amandas">
+    <latitude>-17.3666667</latitude>
+    <longitude>30.95</longitude>
+  </city>
+  <city name="Amby">
+    <latitude>-17.8333333</latitude>
+    <longitude>31.1152778</longitude>
+  </city>
+  <city name="Angus Ranch">
+    <latitude>-20.4194444</latitude>
+    <longitude>31.9638889</longitude>
+  </city>
+  <city name="Antelope">
+    <latitude>-21.05</latitude>
+    <longitude>28.45</longitude>
+  </city>
+  <city name="Antelope Mine">
+    <latitude>-21.05</latitude>
+    <longitude>28.45</longitude>
+  </city>
+  <city name="Antenior">
+    <latitude>-20.9833333</latitude>
+    <longitude>29.0333333</longitude>
+  </city>
+  <city name="Arcadia">
+    <latitude>-17.8433333</latitude>
+    <longitude>31.0533333</longitude>
+  </city>
+  <city name="Arcadia South">
+    <latitude>-17.85</latitude>
+    <longitude>31.0666667</longitude>
+  </city>
+  <city name="Arcadia West">
+    <latitude>-17.8666667</latitude>
+    <longitude>31.0666667</longitude>
+  </city>
+  <city name="Arcturas">
+    <latitude>-17.7858333</latitude>
+    <longitude>31.3233333</longitude>
+  </city>
+  <city name="Arcturus">
+    <latitude>-17.7858333</latitude>
+    <longitude>31.3233333</longitude>
+  </city>
+  <city name="Ardbennie">
+    <latitude>-17.8780556</latitude>
+    <longitude>31.0272222</longitude>
+  </city>
+  <city name="Arlington">
+    <latitude>-17.9130556</latitude>
+    <longitude>31.0947222</longitude>
+  </city>
+  <city name="Arlington Estate">
+    <latitude>-17.9130556</latitude>
+    <longitude>31.0947222</longitude>
+  </city>
+  <city name="Ascot">
+    <latitude>-20.1613889</latitude>
+    <longitude>28.61</longitude>
+  </city>
+  <city name="Ashbrittle">
+    <latitude>-17.7686111</latitude>
+    <longitude>31.0311111</longitude>
+  </city>
+  <city name="Ashdown Park">
+    <latitude>-17.7936111</latitude>
+    <longitude>30.9827778</longitude>
+  </city>
+  <city name="Aspindale Park">
+    <latitude>-17.8708333</latitude>
+    <longitude>30.955</longitude>
+  </city>
+  <city name="Athlone">
+    <latitude>-17.82</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Avenues">
+    <latitude>-17.8188889</latitude>
+    <longitude>31.0394444</longitude>
+  </city>
+  <city name="Avoca">
+    <latitude>-20.8</latitude>
+    <longitude>29.5333333</longitude>
+  </city>
+  <city name="Avondale">
+    <latitude>-17.7961111</latitude>
+    <longitude>31.0347222</longitude>
+  </city>
+  <city name="Avondale Township">
+    <latitude>-17.7961111</latitude>
+    <longitude>31.0347222</longitude>
+  </city>
+  <city name="Avondale West">
+    <latitude>-17.7825</latitude>
+    <longitude>31.0241667</longitude>
+  </city>
+  <city name="Avonlea">
+    <latitude>-17.7730556</latitude>
+    <longitude>31.0125</longitude>
+  </city>
+  <city name="Avon Rise">
+    <latitude>-17.7825</latitude>
+    <longitude>31.0416667</longitude>
+  </city>
+  <city name="Babblespruit">
+    <latitude>-20.3</latitude>
+    <longitude>32.6166667</longitude>
+  </city>
+  <city name="Badminton Block">
+    <latitude>-20.0705556</latitude>
+    <longitude>28.3</longitude>
+  </city>
+  <city name="Balabala">
+    <latitude>-20.45</latitude>
+    <longitude>29.05</longitude>
+  </city>
+  <city name="Balla Balla">
+    <latitude>-20.45</latitude>
+    <longitude>29.05</longitude>
+  </city>
+  <city name="Ballantyne Park">
+    <latitude>-17.7716667</latitude>
+    <longitude>31.1030556</longitude>
+  </city>
+  <city name="Balule">
+    <latitude>-20.1</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Bangamakuni">
+    <latitude>-19.3833333</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Bangamukumi">
+    <latitude>-19.3833333</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Banke">
+    <latitude>-19.3166667</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Banket">
+    <latitude>-17.3833333</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Banket Junction">
+    <latitude>-17.3833333</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Bannockburn">
+    <latitude>-20.2805556</latitude>
+    <longitude>29.8847222</longitude>
+  </city>
+  <city name="Barbour Fields">
+    <latitude>-20.1288889</latitude>
+    <longitude>28.57</longitude>
+  </city>
+  <city name="Barham Green">
+    <latitude>-20.1916667</latitude>
+    <longitude>28.5683333</longitude>
+  </city>
+  <city name="Barrington">
+    <latitude>-17.9388889</latitude>
+    <longitude>30.9583333</longitude>
+  </city>
+  <city name="Battlefield">
+    <latitude>-18.6</latitude>
+    <longitude>29.8333333</longitude>
+  </city>
+  <city name="Battlefields">
+    <latitude>-18.6</latitude>
+    <longitude>29.8333333</longitude>
+  </city>
+  <city name="Bauhinia">
+    <latitude>-17.3666667</latitude>
+    <longitude>31.0333333</longitude>
+  </city>
+  <city name="Bayi Bayi">
+    <latitude>-19.1166667</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Beatrice">
+    <latitude>-18.2666667</latitude>
+    <longitude>30.8666667</longitude>
+  </city>
+  <city name="Beitbridge">
+    <latitude>-22.2166667</latitude>
+    <longitude>30.0</longitude>
+  </city>
+  <city name="Belgravia">
+    <latitude>-17.8030556</latitude>
+    <longitude>31.0497222</longitude>
+  </city>
+  <city name="Belingwe">
+    <latitude>-20.4833333</latitude>
+    <longitude>29.9166667</longitude>
+  </city>
+  <city name="Bellevue">
+    <latitude>-20.1708333</latitude>
+    <longitude>28.5077778</longitude>
+  </city>
+  <city name="Belmont">
+    <latitude>-20.1716667</latitude>
+    <longitude>28.5713889</longitude>
+  </city>
+  <city name="Belmont East">
+    <latitude>-20.1722222</latitude>
+    <longitude>28.5786111</longitude>
+  </city>
+  <city name="Belvedere">
+    <latitude>-17.8211111</latitude>
+    <longitude>31.0180556</longitude>
+  </city>
+  <city name="Belvedere North">
+    <latitude>-17.8211111</latitude>
+    <longitude>31.0180556</longitude>
+  </city>
+  <city name="Belvedere South">
+    <latitude>-17.8305556</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Bemba">
+    <latitude>-19.45</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Bembesi">
+    <latitude>-20.0</latitude>
+    <longitude>28.9333333</longitude>
+  </city>
+  <city name="Bembezi">
+    <latitude>-20.0</latitude>
+    <longitude>28.9333333</longitude>
+  </city>
+  <city name="Bemthree">
+    <latitude>-18.9833333</latitude>
+    <longitude>30.1</longitude>
+  </city>
+  <city name="Beswota">
+    <latitude>-20.3333333</latitude>
+    <longitude>32.5</longitude>
+  </city>
+  <city name="Beverley">
+    <latitude>-17.8458333</latitude>
+    <longitude>31.1266667</longitude>
+  </city>
+  <city name="Beverley West">
+    <latitude>-17.8375</latitude>
+    <longitude>31.1058333</longitude>
+  </city>
+  <city name="Bezha">
+    <latitude>-20.2</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Bikeni Nyemba">
+    <latitude>-17.4166667</latitude>
+    <longitude>28.4333333</longitude>
+  </city>
+  <city name="Bikita">
+    <latitude>-20.0833333</latitude>
+    <longitude>31.6166667</longitude>
+  </city>
+  <city name="Bindura">
+    <latitude>-17.2963889</latitude>
+    <longitude>31.3297222</longitude>
+  </city>
+  <city name="Bindura Town">
+    <latitude>-17.2963889</latitude>
+    <longitude>31.3297222</longitude>
+  </city>
+  <city name="Binga">
+    <latitude>-17.6166667</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Bingley">
+    <latitude>-17.8302778</latitude>
+    <longitude>31.1227778</longitude>
+  </city>
+  <city name="Birchenough Bridge">
+    <latitude>-19.9666667</latitude>
+    <longitude>32.3333333</longitude>
+  </city>
+  <city name="Bivis">
+    <latitude>-21.15</latitude>
+    <longitude>31.2833333</longitude>
+  </city>
+  <city name="Bizene">
+    <latitude>-19.8166667</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Blew Bonny">
+    <latitude>-20.1602778</latitude>
+    <longitude>28.3058333</longitude>
+  </city>
+  <city name="Bloomingdale">
+    <latitude>-17.7902778</latitude>
+    <longitude>30.9775</longitude>
+  </city>
+  <city name="Blue Gum">
+    <latitude>-18.45</latitude>
+    <longitude>29.45</longitude>
+  </city>
+  <city name="Bluff Hill">
+    <latitude>-17.7697222</latitude>
+    <longitude>30.9802778</longitude>
+  </city>
+  <city name="Bluff Hill Park">
+    <latitude>-17.7844444</latitude>
+    <longitude>30.9886111</longitude>
+  </city>
+  <city name="Boli">
+    <latitude>-21.5333333</latitude>
+    <longitude>31.4833333</longitude>
+  </city>
+  <city name="Bolton">
+    <latitude>-18.5166667</latitude>
+    <longitude>31.4</longitude>
+  </city>
+  <city name="Bonke">
+    <latitude>-19.3166667</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Bonko">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.15</longitude>
+  </city>
+  <city name="Bonkwe">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.15</longitude>
+  </city>
+  <city name="Bonzo">
+    <latitude>-18.65</latitude>
+    <longitude>32.6166667</longitude>
+  </city>
+  <city name="Borrowdale">
+    <latitude>-17.7566667</latitude>
+    <longitude>31.1036111</longitude>
+  </city>
+  <city name="Borrowdale Brook">
+    <latitude>-17.7136111</latitude>
+    <longitude>31.145</longitude>
+  </city>
+  <city name="Borrowdale Brooke">
+    <latitude>-17.7136111</latitude>
+    <longitude>31.145</longitude>
+  </city>
+  <city name="Borrowdale Estate">
+    <latitude>-17.7566667</latitude>
+    <longitude>31.1036111</longitude>
+  </city>
+  <city name="Borrowdale West">
+    <latitude>-17.7627778</latitude>
+    <longitude>31.0755556</longitude>
+  </city>
+  <city name="Bota">
+    <latitude>-20.6027778</latitude>
+    <longitude>31.3972222</longitude>
+  </city>
+  <city name="Bothashof">
+    <latitude>-17.7330556</latitude>
+    <longitude>31.0480556</longitude>
+  </city>
+  <city name="Bradley Institute">
+    <latitude>-17.0163889</latitude>
+    <longitude>31.4591667</longitude>
+  </city>
+  <city name="Braeside">
+    <latitude>-17.8427778</latitude>
+    <longitude>31.0641667</longitude>
+  </city>
+  <city name="Brawlands">
+    <latitude>-17.3833333</latitude>
+    <longitude>31.0333333</longitude>
+  </city>
+  <city name="Bromley">
+    <latitude>-18.0833333</latitude>
+    <longitude>31.3333333</longitude>
+  </city>
+  <city name="Brooke Ridge">
+    <latitude>-17.7097222</latitude>
+    <longitude>31.1372222</longitude>
+  </city>
+  <city name="Bubu">
+    <latitude>-19.15</latitude>
+    <longitude>28.6666667</longitude>
+  </city>
+  <city name="Budiriro 2">
+    <latitude>-17.9022222</latitude>
+    <longitude>30.9230556</longitude>
+  </city>
+  <city name="Budiriro 4">
+    <latitude>-17.8938889</latitude>
+    <longitude>30.9133333</longitude>
+  </city>
+  <city name="Budiriro 5">
+    <latitude>-17.8788889</latitude>
+    <longitude>30.9233333</longitude>
+  </city>
+  <city name="Budiriro">
+    <latitude>-17.8972222</latitude>
+    <longitude>30.9336111</longitude>
+  </city>
+  <city name="Buffalo Range">
+    <latitude>-21.0166667</latitude>
+    <longitude>31.5333333</longitude>
+  </city>
+  <city name="Buhera">
+    <latitude>-19.3333333</latitude>
+    <longitude>31.4333333</longitude>
+  </city>
+  <city name="Bulale">
+    <latitude>-19.8</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Bulawayo">
+    <latitude>-20.15</latitude>
+    <longitude>28.5833333</longitude>
+  </city>
+  <city name="Bumi Hills">
+    <latitude>-16.8166667</latitude>
+    <longitude>28.35</longitude>
+  </city>
+  <city name="Burnside">
+    <latitude>-20.2175</latitude>
+    <longitude>28.6155556</longitude>
+  </city>
+  <city name="Buschtick">
+    <latitude>-20.2333333</latitude>
+    <longitude>28.9166667</longitude>
+  </city>
+  <city name="Bushtick">
+    <latitude>-20.2333333</latitude>
+    <longitude>28.9166667</longitude>
+  </city>
+  <city name="Butabubili">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.2166667</longitude>
+  </city>
+  <city name="Butabulili">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.2166667</longitude>
+  </city>
+  <city name="Cashel">
+    <latitude>-19.55</latitude>
+    <longitude>32.7833333</longitude>
+  </city>
+  <city name="Cathleen">
+    <latitude>-20.0883333</latitude>
+    <longitude>28.7219444</longitude>
+  </city>
+  <city name="Cawunajena">
+    <latitude>-19.6833333</latitude>
+    <longitude>27.0166667</longitude>
+  </city>
+  <city name="Cement">
+    <latitude>-20.1138889</latitude>
+    <longitude>28.6855556</longitude>
+  </city>
+  <city name="Cement Siding">
+    <latitude>-20.1138889</latitude>
+    <longitude>28.6855556</longitude>
+  </city>
+  <city name="Cement Station">
+    <latitude>-20.1138889</latitude>
+    <longitude>28.6855556</longitude>
+  </city>
+  <city name="Centenary">
+    <latitude>-16.8</latitude>
+    <longitude>31.1166667</longitude>
+  </city>
+  <city name="Chababomera">
+    <latitude>-17.7666667</latitude>
+    <longitude>30.1666667</longitude>
+  </city>
+  <city name="Chabili">
+    <latitude>-22.15</latitude>
+    <longitude>30.6333333</longitude>
+  </city>
+  <city name="Chadcombe">
+    <latitude>-17.8563889</latitude>
+    <longitude>31.1011111</longitude>
+  </city>
+  <city name="Chafutchi">
+    <latitude>-22.0166667</latitude>
+    <longitude>30.1666667</longitude>
+  </city>
+  <city name="Chakara">
+    <latitude>-18.4666667</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Chakari">
+    <latitude>-18.0666667</latitude>
+    <longitude>29.85</longitude>
+  </city>
+  <city name="Chamnanga">
+    <latitude>-22.1166667</latitude>
+    <longitude>30.0666667</longitude>
+  </city>
+  <city name="Chancit">
+    <latitude>-20.0938889</latitude>
+    <longitude>28.6605556</longitude>
+  </city>
+  <city name="Chatsworth">
+    <latitude>-19.6333333</latitude>
+    <longitude>30.8333333</longitude>
+  </city>
+  <city name="Cheguto">
+    <latitude>-18.1333333</latitude>
+    <longitude>30.15</longitude>
+  </city>
+  <city name="Chegutu">
+    <latitude>-18.1333333</latitude>
+    <longitude>30.15</longitude>
+  </city>
+  <city name="Chemhondoro">
+    <latitude>-17.6869444</latitude>
+    <longitude>31.5627778</longitude>
+  </city>
+  <city name="Chereya">
+    <latitude>-17.55</latitude>
+    <longitude>28.6</longitude>
+  </city>
+  <city name="Chibi">
+    <latitude>-20.3166667</latitude>
+    <longitude>30.5166667</longitude>
+  </city>
+  <city name="Chibuwe">
+    <latitude>-20.55</latitude>
+    <longitude>32.4</longitude>
+  </city>
+  <city name="Chichindwe">
+    <latitude>-20.4166667</latitude>
+    <longitude>32.1</longitude>
+  </city>
+  <city name="Chief Chereya's Village">
+    <latitude>-17.55</latitude>
+    <longitude>28.6</longitude>
+  </city>
+  <city name="Chief Dabola">
+    <latitude>-18.1166667</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Chief Mabigwa">
+    <latitude>-18.7166667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Chief Mabikwa">
+    <latitude>-18.7166667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Chief Madhliwa">
+    <latitude>-18.7333333</latitude>
+    <longitude>28.8166667</longitude>
+  </city>
+  <city name="Chief Mahlaba">
+    <latitude>-19.35</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Chief Mswigana">
+    <latitude>-19.5833333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Chief Myinga">
+    <latitude>-18.7833333</latitude>
+    <longitude>28.6666667</longitude>
+  </city>
+  <city name="Chief Nebiris Village">
+    <latitude>-17.0833333</latitude>
+    <longitude>28.4</longitude>
+  </city>
+  <city name="Chief Saba">
+    <latitude>-18.0166667</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Chief Sai">
+    <latitude>-18.15</latitude>
+    <longitude>28.3833333</longitude>
+  </city>
+  <city name="Chief Sikobokobo">
+    <latitude>-18.7666667</latitude>
+    <longitude>28.5</longitude>
+  </city>
+  <city name="Chief Simupas Village">
+    <latitude>-17.1833333</latitude>
+    <longitude>28.0666667</longitude>
+  </city>
+  <city name="Chief Sinampande">
+    <latitude>-17.4833333</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Chief Sinangatenkes Village">
+    <latitude>-17.15</latitude>
+    <longitude>28.1166667</longitude>
+  </city>
+  <city name="Chief Sinasenkwe">
+    <latitude>-17.5333333</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Chief Sinsalis Village">
+    <latitude>-18.0</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Chief Siposa">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Chief Siposo">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Chief Sivalo">
+    <latitude>-18.8</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Chikombu">
+    <latitude>-21.5833333</latitude>
+    <longitude>31.25</longitude>
+  </city>
+  <city name="Chikomo">
+    <latitude>-19.9166667</latitude>
+    <longitude>30.05</longitude>
+  </city>
+  <city name="Chilimanzi">
+    <latitude>-19.5833333</latitude>
+    <longitude>30.75</longitude>
+  </city>
+  <city name="Chimanimani">
+    <latitude>-19.8</latitude>
+    <longitude>32.8666667</longitude>
+  </city>
+  <city name="Chimbango">
+    <latitude>-16.25</latitude>
+    <longitude>31.5166667</longitude>
+  </city>
+  <city name="Chimsasa">
+    <latitude>-17.4333333</latitude>
+    <longitude>32.9833333</longitude>
+  </city>
+  <city name="Chinex">
+    <latitude>-16.95</latitude>
+    <longitude>30.5</longitude>
+  </city>
+  <city name="Chinhoyi">
+    <latitude>-17.3666667</latitude>
+    <longitude>30.2</longitude>
+  </city>
+  <city name="Chinoyi">
+    <latitude>-17.3666667</latitude>
+    <longitude>30.2</longitude>
+  </city>
+  <city name="Chipimfwe">
+    <latitude>-16.2</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Chipinga">
+    <latitude>-20.2</latitude>
+    <longitude>32.6166667</longitude>
+  </city>
+  <city name="Chipinge">
+    <latitude>-20.2</latitude>
+    <longitude>32.6166667</longitude>
+  </city>
+  <city name="Chipise">
+    <latitude>-22.2333333</latitude>
+    <longitude>30.9333333</longitude>
+  </city>
+  <city name="Chiporiro">
+    <latitude>-16.6666667</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Chipuriro">
+    <latitude>-16.6666667</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Chiredzi">
+    <latitude>-21.05</latitude>
+    <longitude>31.6666667</longitude>
+  </city>
+  <city name="Chirimuanzu">
+    <latitude>-19.5833333</latitude>
+    <longitude>30.75</longitude>
+  </city>
+  <city name="Chirunda">
+    <latitude>-16.0333333</latitude>
+    <longitude>28.85</longitude>
+  </city>
+  <city name="Chirundo">
+    <latitude>-16.0333333</latitude>
+    <longitude>28.85</longitude>
+  </city>
+  <city name="Chirundu">
+    <latitude>-16.0333333</latitude>
+    <longitude>28.85</longitude>
+  </city>
+  <city name="Chirundu Township">
+    <latitude>-16.0333333</latitude>
+    <longitude>28.85</longitude>
+  </city>
+  <city name="Chisipite">
+    <latitude>-17.7886111</latitude>
+    <longitude>31.1227778</longitude>
+  </city>
+  <city name="Chiso">
+    <latitude>-20.55</latitude>
+    <longitude>31.3166667</longitude>
+  </city>
+  <city name="Chisumbanje">
+    <latitude>-20.8</latitude>
+    <longitude>32.2333333</longitude>
+  </city>
+  <city name="Chitofa">
+    <latitude>-20.55</latitude>
+    <longitude>30.5333333</longitude>
+  </city>
+  <city name="Chitsunga">
+    <latitude>-16.9333333</latitude>
+    <longitude>32.0666667</longitude>
+  </city>
+  <city name="Chitsungo">
+    <latitude>-16.9333333</latitude>
+    <longitude>32.0666667</longitude>
+  </city>
+  <city name="Chitungwiza">
+    <latitude>-17.9938889</latitude>
+    <longitude>31.0480556</longitude>
+  </city>
+  <city name="Chiva">
+    <latitude>-18.2666667</latitude>
+    <longitude>30.5666667</longitude>
+  </city>
+  <city name="Chivhu">
+    <latitude>-19.0166667</latitude>
+    <longitude>30.9</longitude>
+  </city>
+  <city name="Chiwakanyama">
+    <latitude>-16.95</latitude>
+    <longitude>29.3</longitude>
+  </city>
+  <city name="Chizanje">
+    <latitude>-17.8502778</latitude>
+    <longitude>31.1761111</longitude>
+  </city>
+  <city name="Chomwedzi">
+    <latitude>-18.1833333</latitude>
+    <longitude>31.4</longitude>
+  </city>
+  <city name="Chulu">
+    <latitude>-17.9325</latitude>
+    <longitude>30.9297222</longitude>
+  </city>
+  <city name="Churugwi">
+    <latitude>-19.6666667</latitude>
+    <longitude>30.0</longitude>
+  </city>
+  <city name="City Centre">
+    <latitude>-20.1525</latitude>
+    <longitude>28.5847222</longitude>
+  </city>
+  <city name="City">
+    <latitude>-20.1525</latitude>
+    <longitude>28.5847222</longitude>
+  </city>
+  <city name="Civic Centre">
+    <latitude>-17.8313889</latitude>
+    <longitude>31.0386111</longitude>
+  </city>
+  <city name="Claremont">
+    <latitude>-20.2336111</latitude>
+    <longitude>28.7197222</longitude>
+  </city>
+  <city name="Cleveland Park">
+    <latitude>-17.82</latitude>
+    <longitude>31.1452778</longitude>
+  </city>
+  <city name="Clovelly">
+    <latitude>-20.05</latitude>
+    <longitude>30.8</longitude>
+  </city>
+  <city name="Cold Comfort">
+    <latitude>-17.8336111</latitude>
+    <longitude>30.9441667</longitude>
+  </city>
+  <city name="Colleen Bawn">
+    <latitude>-21.0</latitude>
+    <longitude>29.2166667</longitude>
+  </city>
+  <city name="Colne Valley">
+    <latitude>-17.7822222</latitude>
+    <longitude>31.1072222</longitude>
+  </city>
+  <city name="Colray">
+    <latitude>-17.7572222</latitude>
+    <longitude>31.1119444</longitude>
+  </city>
+  <city name="Comet Rise">
+    <latitude>-17.7686111</latitude>
+    <longitude>31.0436111</longitude>
+  </city>
+  <city name="Concession">
+    <latitude>-17.3833333</latitude>
+    <longitude>30.95</longitude>
+  </city>
+  <city name="Connemara">
+    <latitude>-19.2</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Connemara Mine">
+    <latitude>-19.2</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Coronation Park">
+    <latitude>-17.8322222</latitude>
+    <longitude>31.1008333</longitude>
+  </city>
+  <city name="Cotswold Hills">
+    <latitude>-17.7936111</latitude>
+    <longitude>30.9911111</longitude>
+  </city>
+  <city name="Craigengower">
+    <latitude>-17.3166667</latitude>
+    <longitude>31.0333333</longitude>
+  </city>
+  <city name="Craiglee">
+    <latitude>-20.14</latitude>
+    <longitude>28.3394444</longitude>
+  </city>
+  <city name="Craigmore">
+    <latitude>-20.4333333</latitude>
+    <longitude>32.4833333</longitude>
+  </city>
+  <city name="Cranborne">
+    <latitude>-17.8511111</latitude>
+    <longitude>31.0786111</longitude>
+  </city>
+  <city name="Cranborne Park">
+    <latitude>-17.8511111</latitude>
+    <longitude>31.0786111</longitude>
+  </city>
+  <city name="Crawborough">
+    <latitude>-17.8463889</latitude>
+    <longitude>30.9455556</longitude>
+  </city>
+  <city name="Croft Mine">
+    <latitude>-20.5666667</latitude>
+    <longitude>29.3333333</longitude>
+  </city>
+  <city name="Crowborough North">
+    <latitude>-17.8408333</latitude>
+    <longitude>30.9338889</longitude>
+  </city>
+  <city name="Dabolas">
+    <latitude>-18.1166667</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Dabula">
+    <latitude>-19.4</latitude>
+    <longitude>28.45</longitude>
+  </city>
+  <city name="Dagamella">
+    <latitude>-18.8166667</latitude>
+    <longitude>28.65</longitude>
+  </city>
+  <city name="Dahlia">
+    <latitude>-18.6166667</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Daisyfield">
+    <latitude>-19.7166667</latitude>
+    <longitude>29.5</longitude>
+  </city>
+  <city name="Dangamvura">
+    <latitude>-19.0</latitude>
+    <longitude>32.5833333</longitude>
+  </city>
+  <city name="Darwendale">
+    <latitude>-17.7166667</latitude>
+    <longitude>30.55</longitude>
+  </city>
+  <city name="Darwin">
+    <latitude>-16.7833333</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Dawn Hill">
+    <latitude>-17.8186111</latitude>
+    <longitude>31.1169444</longitude>
+  </city>
+  <city name="Dawsons">
+    <latitude>-17.0333333</latitude>
+    <longitude>30.85</longitude>
+  </city>
+  <city name="Delmore">
+    <latitude>-20.1058333</latitude>
+    <longitude>28.6605556</longitude>
+  </city>
+  <city name="Dema Business Centre">
+    <latitude>-18.0833333</latitude>
+    <longitude>31.2166667</longitude>
+  </city>
+  <city name="Dema">
+    <latitude>-18.0833333</latitude>
+    <longitude>31.2166667</longitude>
+  </city>
+  <city name="Derbyshire Township">
+    <latitude>-17.9344444</latitude>
+    <longitude>31.0105556</longitude>
+  </city>
+  <city name="Dete">
+    <latitude>-18.6166667</latitude>
+    <longitude>26.8666667</longitude>
+  </city>
+  <city name="Dett">
+    <latitude>-18.6166667</latitude>
+    <longitude>26.8666667</longitude>
+  </city>
+  <city name="Dewsbury">
+    <latitude>-20.2405556</latitude>
+    <longitude>28.3827778</longitude>
+  </city>
+  <city name="Dhlakapiya">
+    <latitude>-19.5166667</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Dhlamini">
+    <latitude>-19.5</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Dingandawo">
+    <latitude>-19.65</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Dingindawa">
+    <latitude>-19.65</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Disi">
+    <latitude>-16.9166667</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Doma">
+    <latitude>-16.75</latitude>
+    <longitude>30.2333333</longitude>
+  </city>
+  <city name="Dombo">
+    <latitude>-19.7166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Domboshawa">
+    <latitude>-17.605</latitude>
+    <longitude>31.14</longitude>
+  </city>
+  <city name="Dombosnawa">
+    <latitude>-17.605</latitude>
+    <longitude>31.14</longitude>
+  </city>
+  <city name="Donnington">
+    <latitude>-20.1855556</latitude>
+    <longitude>28.5591667</longitude>
+  </city>
+  <city name="Donnybrook">
+    <latitude>-17.8122222</latitude>
+    <longitude>31.1477778</longitude>
+  </city>
+  <city name="Dorowa Claims">
+    <latitude>-19.0666667</latitude>
+    <longitude>31.75</longitude>
+  </city>
+  <city name="Dorowa">
+    <latitude>-19.0666667</latitude>
+    <longitude>31.75</longitude>
+  </city>
+  <city name="Dorowa Mining Lease">
+    <latitude>-19.0666667</latitude>
+    <longitude>31.75</longitude>
+  </city>
+  <city name="Douglasdale">
+    <latitude>-20.24</latitude>
+    <longitude>28.6419444</longitude>
+  </city>
+  <city name="Downlands Park">
+    <latitude>-17.7980556</latitude>
+    <longitude>31.1411111</longitude>
+  </city>
+  <city name="Duchess Hill">
+    <latitude>-18.3</latitude>
+    <longitude>30.2166667</longitude>
+  </city>
+  <city name="Dungarven">
+    <latitude>-17.7563889</latitude>
+    <longitude>31.0930556</longitude>
+  </city>
+  <city name="Dunkirk">
+    <latitude>-20.1833333</latitude>
+    <longitude>28.4166667</longitude>
+  </city>
+  <city name="Dunowen">
+    <latitude>-17.8913889</latitude>
+    <longitude>31.1166667</longitude>
+  </city>
+  <city name="Dzivareskwa">
+    <latitude>-17.8052778</latitude>
+    <longitude>30.9266667</longitude>
+  </city>
+  <city name="Dzorora">
+    <latitude>-20.3166667</latitude>
+    <longitude>32.7333333</longitude>
+  </city>
+  <city name="Eastlea">
+    <latitude>-17.8244444</latitude>
+    <longitude>31.0736111</longitude>
+  </city>
+  <city name="Eastlea North">
+    <latitude>-17.8244444</latitude>
+    <longitude>31.0736111</longitude>
+  </city>
+  <city name="Eastlea South">
+    <latitude>-17.83</latitude>
+    <longitude>31.0755556</longitude>
+  </city>
+  <city name="Eastnor">
+    <latitude>-19.4833333</latitude>
+    <longitude>28.5666667</longitude>
+  </city>
+  <city name="East Queens Park">
+    <latitude>-20.1163889</latitude>
+    <longitude>28.6152778</longitude>
+  </city>
+  <city name="Ebabeni">
+    <latitude>-19.5666667</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Ebizeni">
+    <latitude>-19.8166667</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Egagwini">
+    <latitude>-19.3666667</latitude>
+    <longitude>27.05</longitude>
+  </city>
+  <city name="Egomeni">
+    <latitude>-19.6166667</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Ehampeni">
+    <latitude>-19.85</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Eiffel Flats">
+    <latitude>-18.3166667</latitude>
+    <longitude>29.9833333</longitude>
+  </city>
+  <city name="Elandshoek">
+    <latitude>-18.8166667</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Elangeni">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Eldorado">
+    <latitude>-17.35</latitude>
+    <longitude>30.2333333</longitude>
+  </city>
+  <city name="Eloana">
+    <latitude>-20.22</latitude>
+    <longitude>28.5786111</longitude>
+  </city>
+  <city name="Emakhandeni">
+    <latitude>-20.1138889</latitude>
+    <longitude>28.5277778</longitude>
+  </city>
+  <city name="Emanaleni">
+    <latitude>-19.3833333</latitude>
+    <longitude>27.0166667</longitude>
+  </city>
+  <city name="Emangweni">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Emateshaneni">
+    <latitude>-19.4</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Ematetshaneni">
+    <latitude>-19.4</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Emerald Hill">
+    <latitude>-17.775</latitude>
+    <longitude>31.0311111</longitude>
+  </city>
+  <city name="Emfelabuso">
+    <latitude>-20.5333333</latitude>
+    <longitude>29.2833333</longitude>
+  </city>
+  <city name="Emgolweni">
+    <latitude>-19.2333333</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Emgomeni">
+    <latitude>-19.6166667</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Emkayeni">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Empafeni">
+    <latitude>-19.7166667</latitude>
+    <longitude>27.5833333</longitude>
+  </city>
+  <city name="Empisini">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Empress Mine Township">
+    <latitude>-18.45</latitude>
+    <longitude>29.45</longitude>
+  </city>
+  <city name="Emqolweni">
+    <latitude>-19.2333333</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Emvana">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Emyana">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Enhlangano">
+    <latitude>-19.85</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Enkeldoorn">
+    <latitude>-19.0166667</latitude>
+    <longitude>30.9</longitude>
+  </city>
+  <city name="Enqameni">
+    <latitude>-20.1202778</latitude>
+    <longitude>28.5111111</longitude>
+  </city>
+  <city name="Enqotsheni">
+    <latitude>-20.1041667</latitude>
+    <longitude>28.5175</longitude>
+  </city>
+  <city name="Ensedhlwini">
+    <latitude>-19.7</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Entumbane">
+    <latitude>-20.1252778</latitude>
+    <longitude>28.5438889</longitude>
+  </city>
+  <city name="Epworth">
+    <latitude>-17.89</latitude>
+    <longitude>31.1475</longitude>
+  </city>
+  <city name="Esibomvu">
+    <latitude>-20.4</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Esigodini">
+    <latitude>-20.3</latitude>
+    <longitude>28.9333333</longitude>
+  </city>
+  <city name="Esimbomvu">
+    <latitude>-20.4</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Esinganeni">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Essexvale">
+    <latitude>-20.3</latitude>
+    <longitude>28.9333333</longitude>
+  </city>
+  <city name="Eversley">
+    <latitude>-20.2127778</latitude>
+    <longitude>28.2630556</longitude>
+  </city>
+  <city name="Excelsior">
+    <latitude>-18.1</latitude>
+    <longitude>30.9</longitude>
+  </city>
+  <city name="Ezanguweni">
+    <latitude>-19.4166667</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Fagadola">
+    <latitude>-20.0986111</latitude>
+    <longitude>28.6116667</longitude>
+  </city>
+  <city name="Fairland">
+    <latitude>-20.2244444</latitude>
+    <longitude>28.7025</longitude>
+  </city>
+  <city name="Fairstar">
+    <latitude>-20.1005556</latitude>
+    <longitude>28.7061111</longitude>
+  </city>
+  <city name="Famona">
+    <latitude>-20.1844444</latitude>
+    <longitude>28.5861111</longitude>
+  </city>
+  <city name="Featherstone">
+    <latitude>-18.7166667</latitude>
+    <longitude>30.8166667</longitude>
+  </city>
+  <city name="Felixburg">
+    <latitude>-19.4333333</latitude>
+    <longitude>30.8333333</longitude>
+  </city>
+  <city name="Figtree">
+    <latitude>-20.3666667</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Filabusi">
+    <latitude>-20.5333333</latitude>
+    <longitude>29.2833333</longitude>
+  </city>
+  <city name="Filimons Village">
+    <latitude>-18.8833333</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Fishan">
+    <latitude>-21.4333333</latitude>
+    <longitude>32.0333333</longitude>
+  </city>
+  <city name="Folosi">
+    <latitude>-19.6</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Fombe">
+    <latitude>-17.3333333</latitude>
+    <longitude>32.9833333</longitude>
+  </city>
+  <city name="(( Forestvale ))">
+    <latitude>-20.1216667</latitude>
+    <longitude>28.5286111</longitude>
+  </city>
+  <city name="Fort Rixon">
+    <latitude>-20.0166667</latitude>
+    <longitude>29.2666667</longitude>
+  </city>
+  <city name="Fortunes Gate">
+    <latitude>-20.1994444</latitude>
+    <longitude>28.6319444</longitude>
+  </city>
+  <city name="Fort Usher">
+    <latitude>-20.4166667</latitude>
+    <longitude>28.6</longitude>
+  </city>
+  <city name="Fort Victoria">
+    <latitude>-20.0833333</latitude>
+    <longitude>30.8333333</longitude>
+  </city>
+  <city name="Four Winds">
+    <latitude>-20.2222222</latitude>
+    <longitude>28.5836111</longitude>
+  </city>
+  <city name="Fred Mine">
+    <latitude>-20.5166667</latitude>
+    <longitude>29.3166667</longitude>
+  </city>
+  <city name="Freelands">
+    <latitude>-18.2166667</latitude>
+    <longitude>30.9333333</longitude>
+  </city>
+  <city name="Fresnaye">
+    <latitude>-20.2372222</latitude>
+    <longitude>28.7461111</longitude>
+  </city>
+  <city name="Fumabatshena">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Fumbatshena">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Funda">
+    <latitude>-19.1833333</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Fura">
+    <latitude>-16.7833333</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Gadzema">
+    <latitude>-18.0333333</latitude>
+    <longitude>30.15</longitude>
+  </city>
+  <city name="Gagwini">
+    <latitude>-19.3666667</latitude>
+    <longitude>27.05</longitude>
+  </city>
+  <city name="Gambisa">
+    <latitude>-18.1333333</latitude>
+    <longitude>29.6</longitude>
+  </city>
+  <city name="Gambiza">
+    <latitude>-18.1333333</latitude>
+    <longitude>29.6</longitude>
+  </city>
+  <city name="Gampagalale">
+    <latitude>-18.8</latitude>
+    <longitude>28.4666667</longitude>
+  </city>
+  <city name="Gaths Mine">
+    <latitude>-20.0166667</latitude>
+    <longitude>30.5166667</longitude>
+  </city>
+  <city name="Gatooma">
+    <latitude>-18.35</latitude>
+    <longitude>29.9166667</longitude>
+  </city>
+  <city name="Gawa">
+    <latitude>-19.5</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Gempo">
+    <latitude>-20.1</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Georgia">
+    <latitude>-18.2</latitude>
+    <longitude>29.9166667</longitude>
+  </city>
+  <city name="Gevstein Park">
+    <latitude>-17.8155556</latitude>
+    <longitude>30.9425</longitude>
+  </city>
+  <city name="Gibixegu">
+    <latitude>-19.4</latitude>
+    <longitude>26.9666667</longitude>
+  </city>
+  <city name="Glass Block">
+    <latitude>-20.6491667</latitude>
+    <longitude>29.1513889</longitude>
+  </city>
+  <city name="Glenavon Est">
+    <latitude>-17.7491667</latitude>
+    <longitude>31.0916667</longitude>
+  </city>
+  <city name="Glencoe">
+    <latitude>-20.1638889</latitude>
+    <longitude>28.6525</longitude>
+  </city>
+  <city name="Glencova">
+    <latitude>-19.9666667</latitude>
+    <longitude>31.4333333</longitude>
+  </city>
+  <city name="Glendale">
+    <latitude>-17.3605556</latitude>
+    <longitude>31.0597222</longitude>
+  </city>
+  <city name="Glendevon">
+    <latitude>-20.6986111</latitude>
+    <longitude>31.625</longitude>
+  </city>
+  <city name="Glendye">
+    <latitude>-18.9333333</latitude>
+    <longitude>30.05</longitude>
+  </city>
+  <city name="Gleneagles">
+    <latitude>-17.8658333</latitude>
+    <longitude>30.9052778</longitude>
+  </city>
+  <city name="Glenearn">
+    <latitude>-18.1166667</latitude>
+    <longitude>29.85</longitude>
+  </city>
+  <city name="Glengarry">
+    <latitude>-20.1283333</latitude>
+    <longitude>28.6311111</longitude>
+  </city>
+  <city name="Glenlivet">
+    <latitude>-20.1666667</latitude>
+    <longitude>31.0833333</longitude>
+  </city>
+  <city name="Glen Lorne">
+    <latitude>-17.7419444</latitude>
+    <longitude>31.1661111</longitude>
+  </city>
+  <city name="Glen Norah">
+    <latitude>-17.9083333</latitude>
+    <longitude>30.9727778</longitude>
+  </city>
+  <city name="Glenview">
+    <latitude>-17.9077778</latitude>
+    <longitude>30.9480556</longitude>
+  </city>
+  <city name="Glenville">
+    <latitude>-20.0988889</latitude>
+    <longitude>28.5588889</longitude>
+  </city>
+  <city name="Glenwood">
+    <latitude>-17.7516667</latitude>
+    <longitude>31.1580556</longitude>
+  </city>
+  <city name="Gletwyn A">
+    <latitude>-17.7666667</latitude>
+    <longitude>31.1613889</longitude>
+  </city>
+  <city name="Gletwyn">
+    <latitude>-17.7666667</latitude>
+    <longitude>31.1613889</longitude>
+  </city>
+  <city name="Gokwe">
+    <latitude>-18.2166667</latitude>
+    <longitude>28.9333333</longitude>
+  </city>
+  <city name="Golden Valley">
+    <latitude>-18.2166667</latitude>
+    <longitude>29.8</longitude>
+  </city>
+  <city name="Good Hope">
+    <latitude>-17.7355556</latitude>
+    <longitude>30.9552778</longitude>
+  </city>
+  <city name="Goredema District Chief Camp">
+    <latitude>-17.85</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Gorodema">
+    <latitude>-17.85</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Goromonzi">
+    <latitude>-17.8583333</latitude>
+    <longitude>31.3822222</longitude>
+  </city>
+  <city name="Granite Park">
+    <latitude>-20.2186111</latitude>
+    <longitude>28.5891667</longitude>
+  </city>
+  <city name="Graniteside">
+    <latitude>-17.8508333</latitude>
+    <longitude>31.0513889</longitude>
+  </city>
+  <city name="Greencroft">
+    <latitude>-17.775</latitude>
+    <longitude>31.0063889</longitude>
+  </city>
+  <city name="Greendale">
+    <latitude>-17.8141667</latitude>
+    <longitude>31.1272222</longitude>
+  </city>
+  <city name="Green Grove">
+    <latitude>-17.8313889</latitude>
+    <longitude>31.1366667</longitude>
+  </city>
+  <city name="Greenhill">
+    <latitude>-20.1944444</latitude>
+    <longitude>28.5816667</longitude>
+  </city>
+  <city name="Greenspan">
+    <latitude>-20.1277778</latitude>
+    <longitude>28.5786111</longitude>
+  </city>
+  <city name="Greystone A">
+    <latitude>-17.7475</latitude>
+    <longitude>31.1208333</longitude>
+  </city>
+  <city name="Greystone">
+    <latitude>-17.7475</latitude>
+    <longitude>31.1208333</longitude>
+  </city>
+  <city name="Greystone Park">
+    <latitude>-17.7475</latitude>
+    <longitude>31.1208333</longitude>
+  </city>
+  <city name="Grobbie Park">
+    <latitude>-17.9211111</latitude>
+    <longitude>30.9897222</longitude>
+  </city>
+  <city name="Groombridge">
+    <latitude>-17.7683333</latitude>
+    <longitude>31.0536111</longitude>
+  </city>
+  <city name="Guinea Fowl">
+    <latitude>-19.5333333</latitude>
+    <longitude>29.9333333</longitude>
+  </city>
+  <city name="Gulakabili">
+    <latitude>-19.7</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Gulakibili">
+    <latitude>-19.7</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Gumtree">
+    <latitude>-20.2222222</latitude>
+    <longitude>28.7111111</longitude>
+  </city>
+  <city name="Gun Hill">
+    <latitude>-17.7963889</latitude>
+    <longitude>31.0691667</longitude>
+  </city>
+  <city name="Guruwe">
+    <latitude>-16.6666667</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Gutu">
+    <latitude>-19.65</latitude>
+    <longitude>31.1666667</longitude>
+  </city>
+  <city name="Guwa">
+    <latitude>-17.595</latitude>
+    <longitude>31.4077778</longitude>
+  </city>
+  <city name="Gwaai">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Gwabalanda">
+    <latitude>-20.1083333</latitude>
+    <longitude>28.4988889</longitude>
+  </city>
+  <city name="Gwai">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Gwanda">
+    <latitude>-20.9333333</latitude>
+    <longitude>29.0</longitude>
+  </city>
+  <city name="Gwangwari">
+    <latitude>-17.6833333</latitude>
+    <longitude>31.0833333</longitude>
+  </city>
+  <city name="Gwelo">
+    <latitude>-19.45</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Gwelutshena">
+    <latitude>-18.6666667</latitude>
+    <longitude>28.6833333</longitude>
+  </city>
+  <city name="Gwembgwa">
+    <latitude>-19.2666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Gwemga">
+    <latitude>-19.2666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Gweru">
+    <latitude>-19.45</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Gwesi">
+    <latitude>-19.9333333</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Gxobonolo">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Haig Park">
+    <latitude>-17.7977778</latitude>
+    <longitude>30.9927778</longitude>
+  </city>
+  <city name="Halale">
+    <latitude>-20.6833333</latitude>
+    <longitude>28.4166667</longitude>
+  </city>
+  <city name="Hamilton">
+    <latitude>-17.3666667</latitude>
+    <longitude>31.1</longitude>
+  </city>
+  <city name="Hampeni">
+    <latitude>-19.85</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Handsworth">
+    <latitude>-17.0333333</latitude>
+    <longitude>30.8666667</longitude>
+  </city>
+  <city name="Hangapu">
+    <latitude>-19.5166667</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Harare African Township">
+    <latitude>-17.8638889</latitude>
+    <longitude>31.0297222</longitude>
+  </city>
+  <city name="Harare">
+    <latitude>-17.8177778</latitude>
+    <longitude>31.0447222</longitude>
+  </city>
+  <city name="Harari">
+    <latitude>-17.8638889</latitude>
+    <longitude>31.0297222</longitude>
+  </city>
+  <city name="Harrisvale">
+    <latitude>-20.0905556</latitude>
+    <longitude>28.5822222</longitude>
+  </city>
+  <city name="Harrisville">
+    <latitude>-20.0905556</latitude>
+    <longitude>28.5822222</longitude>
+  </city>
+  <city name="Hartlands">
+    <latitude>-17.9441667</latitude>
+    <longitude>30.9775</longitude>
+  </city>
+  <city name="Hartley">
+    <latitude>-18.1333333</latitude>
+    <longitude>30.15</longitude>
+  </city>
+  <city name="Hatcliffe">
+    <latitude>-17.6883333</latitude>
+    <longitude>31.1097222</longitude>
+  </city>
+  <city name="Hatfield">
+    <latitude>-17.8722222</latitude>
+    <longitude>31.0955556</longitude>
+  </city>
+  <city name="Haydon">
+    <latitude>-17.7536111</latitude>
+    <longitude>30.9366667</longitude>
+  </city>
+  <city name="Headlands">
+    <latitude>-18.2833333</latitude>
+    <longitude>32.05</longitude>
+  </city>
+  <city name="Heany">
+    <latitude>-20.0833333</latitude>
+    <longitude>28.7833333</longitude>
+  </city>
+  <city name="Heany Junction">
+    <latitude>-20.0833333</latitude>
+    <longitude>28.7833333</longitude>
+  </city>
+  <city name="Helensvale">
+    <latitude>-17.7291667</latitude>
+    <longitude>31.145</longitude>
+  </city>
+  <city name="Hewu">
+    <latitude>-19.8</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Highfield">
+    <latitude>-17.8894444</latitude>
+    <longitude>30.985</longitude>
+  </city>
+  <city name="Highfield Native Village">
+    <latitude>-17.8894444</latitude>
+    <longitude>30.985</longitude>
+  </city>
+  <city name="Highlands Estate">
+    <latitude>-17.8075</latitude>
+    <longitude>31.0880556</longitude>
+  </city>
+  <city name="Highlands">
+    <latitude>-17.8075</latitude>
+    <longitude>31.0880556</longitude>
+  </city>
+  <city name="Highmount">
+    <latitude>-20.1019444</latitude>
+    <longitude>28.5780556</longitude>
+  </city>
+  <city name="Hillcrest">
+    <latitude>-20.1877778</latitude>
+    <longitude>28.5938889</longitude>
+  </city>
+  <city name="Hillside East">
+    <latitude>-20.19</latitude>
+    <longitude>28.6205556</longitude>
+  </city>
+  <city name="Hillside">
+    <latitude>-17.8375</latitude>
+    <longitude>31.0816667</longitude>
+  </city>
+  <city name="Hillside South">
+    <latitude>-20.2147222</latitude>
+    <longitude>28.5952778</longitude>
+  </city>
+  <city name="Hillside West">
+    <latitude>-20.2063889</latitude>
+    <longitude>28.5819444</longitude>
+  </city>
+  <city name="Hingwe">
+    <latitude>-20.15</latitude>
+    <longitude>27.3</longitude>
+  </city>
+  <city name="Hippo Valley">
+    <latitude>-21.1666667</latitude>
+    <longitude>31.55</longitude>
+  </city>
+  <city name="Hlananisas">
+    <latitude>-19.8333333</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Hlangano">
+    <latitude>-19.85</latitude>
+    <longitude>27.8666667</longitude>
+  </city>
+  <city name="Hogerty Hill">
+    <latitude>-17.6977778</latitude>
+    <longitude>31.1341667</longitude>
+  </city>
+  <city name="Homefield">
+    <latitude>-17.7497222</latitude>
+    <longitude>30.9152778</longitude>
+  </city>
+  <city name="Hope Valley">
+    <latitude>-20.1858333</latitude>
+    <longitude>28.7355556</longitude>
+  </city>
+  <city name="Hopley">
+    <latitude>-17.9313889</latitude>
+    <longitude>30.9897222</longitude>
+  </city>
+  <city name="Hot Springs">
+    <latitude>-19.65</latitude>
+    <longitude>32.4666667</longitude>
+  </city>
+  <city name="Houghton Park">
+    <latitude>-17.8836111</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Howard Institute">
+    <latitude>-17.2333333</latitude>
+    <longitude>31.0</longitude>
+  </city>
+  <city name="Hoyuyu">
+    <latitude>-17.6166667</latitude>
+    <longitude>32.0166667</longitude>
+  </city>
+  <city name="Hume Park">
+    <latitude>-20.1494444</latitude>
+    <longitude>28.5952778</longitude>
+  </city>
+  <city name="Hundred Acre Lots">
+    <latitude>-20.0933333</latitude>
+    <longitude>28.5861111</longitude>
+  </city>
+  <city name="Hunters Road">
+    <latitude>-19.15</latitude>
+    <longitude>29.8</longitude>
+  </city>
+  <city name="Hunts Road Halt">
+    <latitude>-19.7666667</latitude>
+    <longitude>28.7666667</longitude>
+  </city>
+  <city name="Hwali">
+    <latitude>-21.7</latitude>
+    <longitude>29.2</longitude>
+  </city>
+  <city name="Hwange">
+    <latitude>-18.3666667</latitude>
+    <longitude>26.4833333</longitude>
+  </city>
+  <city name="Hwe Hwe">
+    <latitude>-18.9166667</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Hyde Park Estate">
+    <latitude>-20.1127778</latitude>
+    <longitude>28.4563889</longitude>
+  </city>
+  <city name="Hyde Park">
+    <latitude>-20.0777778</latitude>
+    <longitude>28.4294444</longitude>
+  </city>
+  <city name="Iiunkub">
+    <latitude>-20.1166667</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Ilanda">
+    <latitude>-20.1794444</latitude>
+    <longitude>28.6097222</longitude>
+  </city>
+  <city name="Ilunkubo">
+    <latitude>-20.1166667</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Imbesu Park">
+    <latitude>-20.0327778</latitude>
+    <longitude>28.7491667</longitude>
+  </city>
+  <city name="Iminyela">
+    <latitude>-20.1491667</latitude>
+    <longitude>28.5294444</longitude>
+  </city>
+  <city name="Impampa">
+    <latitude>-17.6166667</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Impampas">
+    <latitude>-17.6166667</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Induna">
+    <latitude>-17.9216667</latitude>
+    <longitude>30.9972222</longitude>
+  </city>
+  <city name="Ingesi">
+    <latitude>-20.5666667</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Ingezi">
+    <latitude>-20.5666667</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Ingwe">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Inkubusi">
+    <latitude>-17.9336111</latitude>
+    <longitude>30.9744444</longitude>
+  </city>
+  <city name="Inoro">
+    <latitude>-18.4666667</latitude>
+    <longitude>31.5166667</longitude>
+  </city>
+  <city name="Insiza">
+    <latitude>-19.7833333</latitude>
+    <longitude>29.2</longitude>
+  </city>
+  <city name="Insukamini">
+    <latitude>-19.3833333</latitude>
+    <longitude>29.6</longitude>
+  </city>
+  <city name="Intabayezinduna">
+    <latitude>-20.0166667</latitude>
+    <longitude>28.85</longitude>
+  </city>
+  <city name="Intini">
+    <latitude>-20.2286111</latitude>
+    <longitude>28.6183333</longitude>
+  </city>
+  <city name="Inyanga">
+    <latitude>-18.2166667</latitude>
+    <longitude>32.75</longitude>
+  </city>
+  <city name="Inyati">
+    <latitude>-19.6833333</latitude>
+    <longitude>28.85</longitude>
+  </city>
+  <city name="Inyazura">
+    <latitude>-18.7166667</latitude>
+    <longitude>32.1666667</longitude>
+  </city>
+  <city name="Ireland">
+    <latitude>-20.1833333</latitude>
+    <longitude>28.2833333</longitude>
+  </city>
+  <city name="Irene">
+    <latitude>-18.9333333</latitude>
+    <longitude>32.5833333</longitude>
+  </city>
+  <city name="Irisvale Halt">
+    <latitude>-20.5163889</latitude>
+    <longitude>29.0555556</longitude>
+  </city>
+  <city name="Ivorie">
+    <latitude>-20.3666667</latitude>
+    <longitude>32.6</longitude>
+  </city>
+  <city name="Jacaranda">
+    <latitude>-20.1</latitude>
+    <longitude>28.6383333</longitude>
+  </city>
+  <city name="Jakalasi">
+    <latitude>-19.2666667</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Jalume">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="James">
+    <latitude>-17.9</latitude>
+    <longitude>27.3</longitude>
+  </city>
+  <city name="Janisa">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Janiza">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Jawunda">
+    <latitude>-20.9333333</latitude>
+    <longitude>29.0</longitude>
+  </city>
+  <city name="Jerera">
+    <latitude>-20.4</latitude>
+    <longitude>31.45</longitude>
+  </city>
+  <city name="Jimila">
+    <latitude>-19.5</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Jirira">
+    <latitude>-18.2666667</latitude>
+    <longitude>31.1</longitude>
+  </city>
+  <city name="Jissi">
+    <latitude>-19.1</latitude>
+    <longitude>27.9666667</longitude>
+  </city>
+  <city name="Jojos Village">
+    <latitude>-18.9666667</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Jolume">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Jowa">
+    <latitude>-19.6</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Juliasdale">
+    <latitude>-18.3666667</latitude>
+    <longitude>32.6666667</longitude>
+  </city>
+  <city name="Jumbo">
+    <latitude>-17.4666667</latitude>
+    <longitude>30.9166667</longitude>
+  </city>
+  <city name="Junction Gate">
+    <latitude>-20.1666667</latitude>
+    <longitude>32.7833333</longitude>
+  </city>
+  <city name="Junction Tea Room">
+    <latitude>-19.5166667</latitude>
+    <longitude>32.55</longitude>
+  </city>
+  <city name="Juru">
+    <latitude>-17.6830556</latitude>
+    <longitude>31.4744444</longitude>
+  </city>
+  <city name="Kadelas Village">
+    <latitude>-18.8666667</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Kadoma">
+    <latitude>-18.35</latitude>
+    <longitude>29.9166667</longitude>
+  </city>
+  <city name="Kalane">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Kalugus Village">
+    <latitude>-18.9</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Kamativi">
+    <latitude>-18.3166667</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Kambanji">
+    <latitude>-17.7622222</latitude>
+    <longitude>31.1311111</longitude>
+  </city>
+  <city name="Kambuzuma">
+    <latitude>-17.8544444</latitude>
+    <longitude>30.9672222</longitude>
+  </city>
+  <city name="Kame">
+    <latitude>-20.0758333</latitude>
+    <longitude>28.4066667</longitude>
+  </city>
+  <city name="Kamitivi">
+    <latitude>-18.3166667</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Kandana">
+    <latitude>-20.2166667</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Kanukamwe School">
+    <latitude>-17.1255556</latitude>
+    <longitude>31.0030556</longitude>
+  </city>
+  <city name="Kanyemba">
+    <latitude>-15.7</latitude>
+    <longitude>30.3166667</longitude>
+  </city>
+  <city name="Kanyonga Camp">
+    <latitude>-17.1333333</latitude>
+    <longitude>29.2</longitude>
+  </city>
+  <city name="Kapane">
+    <latitude>-19.2666667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Kapateni">
+    <latitude>-21.6333333</latitude>
+    <longitude>32.1</longitude>
+  </city>
+  <city name="Kapoka">
+    <latitude>-17.1</latitude>
+    <longitude>28.4</longitude>
+  </city>
+  <city name="Kariba">
+    <latitude>-16.5166667</latitude>
+    <longitude>28.8</longitude>
+  </city>
+  <city name="Kariyangwe">
+    <latitude>-17.9666667</latitude>
+    <longitude>27.5</longitude>
+  </city>
+  <city name="Karoi">
+    <latitude>-16.8166667</latitude>
+    <longitude>29.6833333</longitude>
+  </city>
+  <city name="Karoyi">
+    <latitude>-16.8166667</latitude>
+    <longitude>29.6833333</longitude>
+  </city>
+  <city name="Kashambi">
+    <latitude>-20.0327778</latitude>
+    <longitude>29.8847222</longitude>
+  </city>
+  <city name="Katoma">
+    <latitude>-18.35</latitude>
+    <longitude>29.9166667</longitude>
+  </city>
+  <city name="Kawahove">
+    <latitude>-17.4166667</latitude>
+    <longitude>30.1666667</longitude>
+  </city>
+  <city name="Kayisa">
+    <latitude>-19.85</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Kazangarare">
+    <latitude>-16.5</latitude>
+    <longitude>29.9333333</longitude>
+  </city>
+  <city name="Kelvin East">
+    <latitude>-20.1625</latitude>
+    <longitude>28.5388889</longitude>
+  </city>
+  <city name="Kelvin North">
+    <latitude>-20.1547222</latitude>
+    <longitude>28.5252778</longitude>
+  </city>
+  <city name="Kelvin West">
+    <latitude>-20.1641667</latitude>
+    <longitude>28.525</longitude>
+  </city>
+  <city name="Kenilworth Estates">
+    <latitude>-19.4333333</latitude>
+    <longitude>28.95</longitude>
+  </city>
+  <city name="Kenilworth">
+    <latitude>-20.1194444</latitude>
+    <longitude>28.5894444</longitude>
+  </city>
+  <city name="Kensington">
+    <latitude>-17.8061111</latitude>
+    <longitude>31.0297222</longitude>
+  </city>
+  <city name="Kenyandavu Camp">
+    <latitude>-18.3</latitude>
+    <longitude>27.9833333</longitude>
+  </city>
+  <city name="Kenyandavu">
+    <latitude>-18.3</latitude>
+    <longitude>27.9833333</longitude>
+  </city>
+  <city name="Kenyungu">
+    <latitude>-17.1333333</latitude>
+    <longitude>29.2</longitude>
+  </city>
+  <city name="Keynshamburg">
+    <latitude>-19.2833333</latitude>
+    <longitude>29.6166667</longitude>
+  </city>
+  <city name="Kezi">
+    <latitude>-20.9166667</latitude>
+    <longitude>28.4666667</longitude>
+  </city>
+  <city name="Kilallo">
+    <latitude>-20.0833333</latitude>
+    <longitude>28.5905556</longitude>
+  </city>
+  <city name="Killarney">
+    <latitude>-20.1338889</latitude>
+    <longitude>28.6505556</longitude>
+  </city>
+  <city name="Kimberley Reefs">
+    <latitude>-17.2963889</latitude>
+    <longitude>31.3297222</longitude>
+  </city>
+  <city name="King Mine">
+    <latitude>-20.0833333</latitude>
+    <longitude>30.5333333</longitude>
+  </city>
+  <city name="Kingsdale">
+    <latitude>-20.1008333</latitude>
+    <longitude>28.6102778</longitude>
+  </city>
+  <city name="Kingsmead">
+    <latitude>-17.7569444</latitude>
+    <longitude>31.1025</longitude>
+  </city>
+  <city name="Kings Mine">
+    <latitude>-20.0833333</latitude>
+    <longitude>30.5333333</longitude>
+  </city>
+  <city name="Kopje">
+    <latitude>-17.8366667</latitude>
+    <longitude>31.0402778</longitude>
+  </city>
+  <city name="Korodziba">
+    <latitude>-19.3833333</latitude>
+    <longitude>26.9166667</longitude>
+  </city>
+  <city name="Kubiko">
+    <latitude>-19.7166667</latitude>
+    <longitude>31.8333333</longitude>
+  </city>
+  <city name="Kudjwara">
+    <latitude>-16.7</latitude>
+    <longitude>31.9666667</longitude>
+  </city>
+  <city name="Kumalo">
+    <latitude>-20.15</latitude>
+    <longitude>28.6166667</longitude>
+  </city>
+  <city name="Kumalo North">
+    <latitude>-20.1433333</latitude>
+    <longitude>28.6161111</longitude>
+  </city>
+  <city name="Kutsaga Village">
+    <latitude>-17.9188889</latitude>
+    <longitude>31.1455556</longitude>
+  </city>
+  <city name="Kuwadzana 3">
+    <latitude>-17.8119444</latitude>
+    <longitude>30.9311111</longitude>
+  </city>
+  <city name="Kuwadzana 4">
+    <latitude>-17.8255556</latitude>
+    <longitude>30.8852778</longitude>
+  </city>
+  <city name="Kuwadzana">
+    <latitude>-17.8252778</latitude>
+    <longitude>30.9263889</longitude>
+  </city>
+  <city name="Kwekwe">
+    <latitude>-18.9166667</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Lakeside">
+    <latitude>-20.1988889</latitude>
+    <longitude>28.62</longitude>
+  </city>
+  <city name="Lalapansi">
+    <latitude>-19.3333333</latitude>
+    <longitude>30.1833333</longitude>
+  </city>
+  <city name="Lalapanzi">
+    <latitude>-19.3333333</latitude>
+    <longitude>30.1833333</longitude>
+  </city>
+  <city name="Lancaster">
+    <latitude>-20.2166667</latitude>
+    <longitude>29.3</longitude>
+  </city>
+  <city name="Legion">
+    <latitude>-21.4166667</latitude>
+    <longitude>28.5333333</longitude>
+  </city>
+  <city name="Legion Mine">
+    <latitude>-21.4166667</latitude>
+    <longitude>28.5333333</longitude>
+  </city>
+  <city name="Letombo Park">
+    <latitude>-17.8355556</latitude>
+    <longitude>31.1202778</longitude>
+  </city>
+  <city name="Lewisam">
+    <latitude>-17.7880556</latitude>
+    <longitude>31.1138889</longitude>
+  </city>
+  <city name="Lewisham">
+    <latitude>-17.7880556</latitude>
+    <longitude>31.1138889</longitude>
+  </city>
+  <city name="Lichendale">
+    <latitude>-17.8033333</latitude>
+    <longitude>31.1555556</longitude>
+  </city>
+  <city name="Limbeck">
+    <latitude>-17.2833333</latitude>
+    <longitude>31.05</longitude>
+  </city>
+  <city name="Lincoln Green">
+    <latitude>-17.83</latitude>
+    <longitude>31.0075</longitude>
+  </city>
+  <city name="Lingombenetshankwe">
+    <latitude>-19.55</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Lions Den">
+    <latitude>-17.2666667</latitude>
+    <longitude>30.0333333</longitude>
+  </city>
+  <city name="Little Norfolk">
+    <latitude>-17.7716667</latitude>
+    <longitude>31.0375</longitude>
+  </city>
+  <city name="Lobengula">
+    <latitude>-20.1361111</latitude>
+    <longitude>28.5172222</longitude>
+  </city>
+  <city name="Lobenvale">
+    <latitude>-20.1002778</latitude>
+    <longitude>28.5963889</longitude>
+  </city>
+  <city name="Lochinvar">
+    <latitude>-17.8694444</latitude>
+    <longitude>30.9877778</longitude>
+  </city>
+  <city name="Lockview">
+    <latitude>-20.1872222</latitude>
+    <longitude>28.6677778</longitude>
+  </city>
+  <city name="Logan Park">
+    <latitude>-17.8841667</latitude>
+    <longitude>31.0761111</longitude>
+  </city>
+  <city name="Lonely Mine">
+    <latitude>-19.5</latitude>
+    <longitude>28.75</longitude>
+  </city>
+  <city name="Lorelei">
+    <latitude>-17.8488889</latitude>
+    <longitude>31.1288889</longitude>
+  </city>
+  <city name="Lower Gwelo">
+    <latitude>-19.2333333</latitude>
+    <longitude>29.25</longitude>
+  </city>
+  <city name="Lower Nondwene">
+    <latitude>-20.0355556</latitude>
+    <longitude>28.7044444</longitude>
+  </city>
+  <city name="Lower Rangemore">
+    <latitude>-20.1752778</latitude>
+    <longitude>28.4652778</longitude>
+  </city>
+  <city name="Lubesi">
+    <latitude>-19.6333333</latitude>
+    <longitude>27.1833333</longitude>
+  </city>
+  <city name="Lucu">
+    <latitude>-19.5</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Luhonja">
+    <latitude>-19.5166667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Luhotswa">
+    <latitude>-19.5166667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Luipaards Vlei">
+    <latitude>-20.3166667</latitude>
+    <longitude>32.65</longitude>
+  </city>
+  <city name="Luna">
+    <latitude>-17.7011111</latitude>
+    <longitude>31.1747222</longitude>
+  </city>
+  <city name="Lundi">
+    <latitude>-20.8994444</latitude>
+    <longitude>30.7861111</longitude>
+  </city>
+  <city name="Lupando">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Lupane">
+    <latitude>-18.9333333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Lupani">
+    <latitude>-18.9333333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Lupinde">
+    <latitude>-19.75</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Lupindi">
+    <latitude>-19.75</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Lupondo">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Lusulu">
+    <latitude>-18.0666667</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Lusulu Settlement">
+    <latitude>-18.0666667</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Lutombe">
+    <latitude>-22.0833333</latitude>
+    <longitude>30.15</longitude>
+  </city>
+  <city name="Lutsha">
+    <latitude>-19.0333333</latitude>
+    <longitude>28.6</longitude>
+  </city>
+  <city name="Luveve">
+    <latitude>-20.1</latitude>
+    <longitude>28.5</longitude>
+  </city>
+  <city name="Luveve Native Village">
+    <latitude>-20.1</latitude>
+    <longitude>28.5</longitude>
+  </city>
+  <city name="Mabalanas">
+    <latitude>-19.85</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Mabaye">
+    <latitude>-19.0833333</latitude>
+    <longitude>28.7166667</longitude>
+  </city>
+  <city name="Mabele">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Mabelreign">
+    <latitude>-17.7905556</latitude>
+    <longitude>31.0013889</longitude>
+  </city>
+  <city name="Mabiriya">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.25</longitude>
+  </city>
+  <city name="Mabutweni">
+    <latitude>-20.1425</latitude>
+    <longitude>28.5316667</longitude>
+  </city>
+  <city name="Mabuze">
+    <latitude>-20.9277778</latitude>
+    <longitude>29.4416667</longitude>
+  </city>
+  <city name="Mabvuku">
+    <latitude>-17.8388889</latitude>
+    <longitude>31.1858333</longitude>
+  </city>
+  <city name="Machachuta">
+    <latitude>-21.85</latitude>
+    <longitude>29.35</longitude>
+  </city>
+  <city name="Macheke">
+    <latitude>-18.15</latitude>
+    <longitude>31.85</longitude>
+  </city>
+  <city name="Machendu">
+    <latitude>-21.4666667</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Machihiri">
+    <latitude>-17.3333333</latitude>
+    <longitude>28.9333333</longitude>
+  </city>
+  <city name="Machiroli">
+    <latitude>-17.7666667</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Machrole">
+    <latitude>-17.7666667</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Maclear">
+    <latitude>-16.5166667</latitude>
+    <longitude>31.1833333</longitude>
+  </city>
+  <city name="Madadzi">
+    <latitude>-16.9</latitude>
+    <longitude>29.75</longitude>
+  </city>
+  <city name="Mademauli">
+    <latitude>-19.35</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Madhlosi">
+    <latitude>-19.4</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Madioma">
+    <latitude>-17.8166667</latitude>
+    <longitude>32.7666667</longitude>
+  </city>
+  <city name="Madona">
+    <latitude>-19.75</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Madonga">
+    <latitude>-21.9166667</latitude>
+    <longitude>29.3666667</longitude>
+  </city>
+  <city name="Madubus">
+    <latitude>-19.85</latitude>
+    <longitude>27.3833333</longitude>
+  </city>
+  <city name="Madziwa">
+    <latitude>-16.9166667</latitude>
+    <longitude>31.5333333</longitude>
+  </city>
+  <city name="Mafayfa">
+    <latitude>-19.4</latitude>
+    <longitude>28.4</longitude>
+  </city>
+  <city name="Mafusini">
+    <latitude>-19.8833333</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Mafuto">
+    <latitude>-16.7166667</latitude>
+    <longitude>32.7666667</longitude>
+  </city>
+  <city name="Magazi">
+    <latitude>-19.0166667</latitude>
+    <longitude>28.5333333</longitude>
+  </city>
+  <city name="Magodi Masili">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.3166667</longitude>
+  </city>
+  <city name="Magunge">
+    <latitude>-16.85</latitude>
+    <longitude>29.4166667</longitude>
+  </city>
+  <city name="Magwegwe">
+    <latitude>-20.1369444</latitude>
+    <longitude>28.5058333</longitude>
+  </city>
+  <city name="Magwegwe North">
+    <latitude>-20.1225</latitude>
+    <longitude>28.4955556</longitude>
+  </city>
+  <city name="Magwegwe West">
+    <latitude>-20.1316667</latitude>
+    <longitude>28.4947222</longitude>
+  </city>
+  <city name="Mahanzwa">
+    <latitude>-19.8</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Mahlalayedwa">
+    <latitude>-19.35</latitude>
+    <longitude>27.0166667</longitude>
+  </city>
+  <city name="Mahlosi">
+    <latitude>-19.4</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Mahusekwa">
+    <latitude>-18.3166667</latitude>
+    <longitude>31.2</longitude>
+  </city>
+  <city name="Mahusekwa Township">
+    <latitude>-18.3166667</latitude>
+    <longitude>31.2</longitude>
+  </city>
+  <city name="Maimi">
+    <latitude>-16.6666667</latitude>
+    <longitude>29.7666667</longitude>
+  </city>
+  <city name="Mainway Meadows">
+    <latitude>-17.9002778</latitude>
+    <longitude>31.0416667</longitude>
+  </city>
+  <city name="Majabane">
+    <latitude>-19.3833333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Majabani">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.5</longitude>
+  </city>
+  <city name="Majumi">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Makabusi">
+    <latitude>-17.8563889</latitude>
+    <longitude>31.1305556</longitude>
+  </city>
+  <city name="Makado">
+    <latitude>-21.9666667</latitude>
+    <longitude>29.5833333</longitude>
+  </city>
+  <city name="Makaha">
+    <latitude>-17.2833333</latitude>
+    <longitude>32.6166667</longitude>
+  </city>
+  <city name="Makhaza">
+    <latitude>-19.9333333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Makokoba">
+    <latitude>-20.1419444</latitude>
+    <longitude>28.5752778</longitude>
+  </city>
+  <city name="Makokwe">
+    <latitude>-21.4333333</latitude>
+    <longitude>28.8555556</longitude>
+  </city>
+  <city name="Mako">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Makonis">
+    <latitude>-18.7166667</latitude>
+    <longitude>31.9833333</longitude>
+  </city>
+  <city name="Makosa Business Centre">
+    <latitude>-17.2833333</latitude>
+    <longitude>32.4666667</longitude>
+  </city>
+  <city name="Makosa Township">
+    <latitude>-17.2833333</latitude>
+    <longitude>32.4666667</longitude>
+  </city>
+  <city name="Makose">
+    <latitude>-17.2166667</latitude>
+    <longitude>32.7166667</longitude>
+  </city>
+  <city name="Makulugusi">
+    <latitude>-19.7333333</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Makulukusa">
+    <latitude>-19.7333333</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Makuti">
+    <latitude>-16.3</latitude>
+    <longitude>29.25</longitude>
+  </city>
+  <city name="Makvlela">
+    <latitude>-19.9333333</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Makwino">
+    <latitude>-17.9666667</latitude>
+    <longitude>30.4333333</longitude>
+  </city>
+  <city name="Makwira">
+    <latitude>-17.9666667</latitude>
+    <longitude>30.4333333</longitude>
+  </city>
+  <city name="Makwiro">
+    <latitude>-17.9666667</latitude>
+    <longitude>30.4333333</longitude>
+  </city>
+  <city name="Malanda">
+    <latitude>-19.8333333</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Malapati">
+    <latitude>-22.0666667</latitude>
+    <longitude>31.4166667</longitude>
+  </city>
+  <city name="Malhera">
+    <latitude>-20.3833333</latitude>
+    <longitude>32.25</longitude>
+  </city>
+  <city name="Malila">
+    <latitude>-19.2</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Malindela">
+    <latitude>-20.185</latitude>
+    <longitude>28.6011111</longitude>
+  </city>
+  <city name="Malindi">
+    <latitude>-19.5166667</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Maloba">
+    <latitude>-19.3</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Malube">
+    <latitude>-18.3</latitude>
+    <longitude>30.6833333</longitude>
+  </city>
+  <city name="Malvern">
+    <latitude>-17.9013889</latitude>
+    <longitude>31.0002778</longitude>
+  </city>
+  <city name="Malvulashaba">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Manala">
+    <latitude>-19.3666667</latitude>
+    <longitude>26.9833333</longitude>
+  </city>
+  <city name="Mananzwa">
+    <latitude>-19.8</latitude>
+    <longitude>27.8333333</longitude>
+  </city>
+  <city name="Mandamambge">
+    <latitude>-20.1166667</latitude>
+    <longitude>30.3666667</longitude>
+  </city>
+  <city name="Mandamombge">
+    <latitude>-20.1166667</latitude>
+    <longitude>30.3666667</longitude>
+  </city>
+  <city name="Mandara">
+    <latitude>-17.7913889</latitude>
+    <longitude>31.15</longitude>
+  </city>
+  <city name="Mandau">
+    <latitude>-20.0833333</latitude>
+    <longitude>28.2677778</longitude>
+  </city>
+  <city name="Mandidzudzure">
+    <latitude>-19.8</latitude>
+    <longitude>32.8666667</longitude>
+  </city>
+  <city name="Mangula">
+    <latitude>-16.9</latitude>
+    <longitude>30.15</longitude>
+  </city>
+  <city name="Manguta">
+    <latitude>-19.4166667</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Mangwalu">
+    <latitude>-19.1833333</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Mangwatu">
+    <latitude>-19.1833333</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Mangwe">
+    <latitude>-20.7</latitude>
+    <longitude>28.0666667</longitude>
+  </city>
+  <city name="Mangwende">
+    <latitude>-18.3833333</latitude>
+    <longitude>31.35</longitude>
+  </city>
+  <city name="Mangwendi">
+    <latitude>-18.3833333</latitude>
+    <longitude>31.35</longitude>
+  </city>
+  <city name="Mangweni">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Manjelengwa">
+    <latitude>-19.2666667</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Mankonekaze">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Mankonekazi">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Manningdale">
+    <latitude>-20.2122222</latitude>
+    <longitude>28.6816667</longitude>
+  </city>
+  <city name="Manondweni">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Manresa">
+    <latitude>-17.8191667</latitude>
+    <longitude>31.1975</longitude>
+  </city>
+  <city name="Manubvu">
+    <latitude>-20.2166667</latitude>
+    <longitude>31.4166667</longitude>
+  </city>
+  <city name="Manyati">
+    <latitude>-16.5166667</latitude>
+    <longitude>29.9833333</longitude>
+  </city>
+  <city name="Manzamahle">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Manzemuhle">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Mapengula">
+    <latitude>-19.3666667</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Mapili">
+    <latitude>-19.4166667</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Mapolisa">
+    <latitude>-21.5</latitude>
+    <longitude>28.0833333</longitude>
+  </city>
+  <city name="Mapulubusi">
+    <latitude>-19.6</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Maramani">
+    <latitude>-22.0166667</latitude>
+    <longitude>29.3666667</longitude>
+  </city>
+  <city name="Maranami">
+    <latitude>-22.0166667</latitude>
+    <longitude>29.3666667</longitude>
+  </city>
+  <city name="Marandellas">
+    <latitude>-18.1833333</latitude>
+    <longitude>31.55</longitude>
+  </city>
+  <city name="Marimba Park">
+    <latitude>-17.8608333</latitude>
+    <longitude>30.9461111</longitude>
+  </city>
+  <city name="Mari Phumbi">
+    <latitude>-17.2666667</latitude>
+    <longitude>31.0666667</longitude>
+  </city>
+  <city name="Marlands">
+    <latitude>-20.1683333</latitude>
+    <longitude>28.6713889</longitude>
+  </city>
+  <city name="Marlborough">
+    <latitude>-17.7522222</latitude>
+    <longitude>31.0036111</longitude>
+  </city>
+  <city name="Marondera">
+    <latitude>-18.1833333</latitude>
+    <longitude>31.55</longitude>
+  </city>
+  <city name="Marongwe">
+    <latitude>-16.2333333</latitude>
+    <longitude>31.5333333</longitude>
+  </city>
+  <city name="Marshbrook">
+    <latitude>-18.5666667</latitude>
+    <longitude>31.05</longitude>
+  </city>
+  <city name="Marvel A">
+    <latitude>-20.1369444</latitude>
+    <longitude>28.6508333</longitude>
+  </city>
+  <city name="Marvel">
+    <latitude>-20.1191667</latitude>
+    <longitude>28.6447222</longitude>
+  </city>
+  <city name="Maryland Junction">
+    <latitude>-17.65</latitude>
+    <longitude>30.4833333</longitude>
+  </city>
+  <city name="Maryland">
+    <latitude>-17.65</latitude>
+    <longitude>30.4833333</longitude>
+  </city>
+  <city name="Masachuta">
+    <latitude>-21.85</latitude>
+    <longitude>29.35</longitude>
+  </city>
+  <city name="Mashaba">
+    <latitude>-20.05</latitude>
+    <longitude>30.4833333</longitude>
+  </city>
+  <city name="Mashachuta">
+    <latitude>-21.85</latitude>
+    <longitude>29.35</longitude>
+  </city>
+  <city name="Mashambahaka School">
+    <latitude>-17.5975</latitude>
+    <longitude>31.3563889</longitude>
+  </city>
+  <city name="Mashami">
+    <latitude>-17.0666667</latitude>
+    <longitude>28.8</longitude>
+  </city>
+  <city name="Mashava">
+    <latitude>-20.05</latitude>
+    <longitude>30.4833333</longitude>
+  </city>
+  <city name="Mashula">
+    <latitude>-19.35</latitude>
+    <longitude>27.3833333</longitude>
+  </city>
+  <city name="Mashule">
+    <latitude>-19.35</latitude>
+    <longitude>27.3833333</longitude>
+  </city>
+  <city name="Masilingana">
+    <latitude>-19.4166667</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Masole">
+    <latitude>-21.85</latitude>
+    <longitude>29.4</longitude>
+  </city>
+  <city name="Masvingo">
+    <latitude>-20.0833333</latitude>
+    <longitude>30.8333333</longitude>
+  </city>
+  <city name="Maswi">
+    <latitude>-19.3</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Mataga">
+    <latitude>-20.85</latitude>
+    <longitude>30.2</longitude>
+  </city>
+  <city name="Matapula">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Matemaganya">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Matemawule">
+    <latitude>-19.35</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Matibi">
+    <latitude>-22.0833333</latitude>
+    <longitude>30.65</longitude>
+  </city>
+  <city name="Matibis">
+    <latitude>-21.6833333</latitude>
+    <longitude>31.3166667</longitude>
+  </city>
+  <city name="Matidoda Park">
+    <latitude>-17.8063889</latitude>
+    <longitude>30.9686111</longitude>
+  </city>
+  <city name="Matinka">
+    <latitude>-17.4833333</latitude>
+    <longitude>27.9833333</longitude>
+  </city>
+  <city name="Matiwaza">
+    <latitude>-19.9666667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Matoba">
+    <latitude>-19.8944444</latitude>
+    <longitude>30.7583333</longitude>
+  </city>
+  <city name="Matobo">
+    <latitude>-20.4166667</latitude>
+    <longitude>28.4833333</longitude>
+  </city>
+  <city name="Matole">
+    <latitude>-19.65</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Matombo">
+    <latitude>-20.4166667</latitude>
+    <longitude>28.4833333</longitude>
+  </city>
+  <city name="Matopos">
+    <latitude>-20.4166667</latitude>
+    <longitude>28.4833333</longitude>
+  </city>
+  <city name="Matorashangu">
+    <latitude>-17.15</latitude>
+    <longitude>30.6666667</longitude>
+  </city>
+  <city name="Matsai Township">
+    <latitude>-20.4666667</latitude>
+    <longitude>31.8666667</longitude>
+  </city>
+  <city name="Matsheumhlope Lots">
+    <latitude>-20.1833333</latitude>
+    <longitude>28.6333333</longitude>
+  </city>
+  <city name="Matsheumhlope">
+    <latitude>-20.1930556</latitude>
+    <longitude>28.6361111</longitude>
+  </city>
+  <city name="Matshobana">
+    <latitude>-20.1380556</latitude>
+    <longitude>28.5525</longitude>
+  </city>
+  <city name="Matshwaheni">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Matswaheni">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Matswaire">
+    <latitude>-18.1833333</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Matupula">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Mavele">
+    <latitude>-18.6166667</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Mayfield Park">
+    <latitude>-17.7886111</latitude>
+    <longitude>31.0138889</longitude>
+  </city>
+  <city name="Mazabisa">
+    <latitude>-19.7</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Mazabiza">
+    <latitude>-19.7</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Mazanzi">
+    <latitude>-19.3333333</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Mazhula">
+    <latitude>-19.5</latitude>
+    <longitude>28.75</longitude>
+  </city>
+  <city name="Mazibulala">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.3166667</longitude>
+  </city>
+  <city name="Mazilingana">
+    <latitude>-19.4166667</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Mazoe">
+    <latitude>-17.4666667</latitude>
+    <longitude>30.9166667</longitude>
+  </city>
+  <city name="Mazowe">
+    <latitude>-17.5166667</latitude>
+    <longitude>30.9666667</longitude>
+  </city>
+  <city name="Mazunga">
+    <latitude>-21.7333333</latitude>
+    <longitude>29.8666667</longitude>
+  </city>
+  <city name="Mazunga Ranch Headquarters">
+    <latitude>-21.7333333</latitude>
+    <longitude>29.8666667</longitude>
+  </city>
+  <city name="Mbalabala">
+    <latitude>-20.45</latitude>
+    <longitude>29.05</longitude>
+  </city>
+  <city name="Mbamba">
+    <latitude>-19.9166667</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Mbanuana">
+    <latitude>-19.3333333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Mbanyana">
+    <latitude>-19.3333333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Mbare">
+    <latitude>-17.8580556</latitude>
+    <longitude>31.0372222</longitude>
+  </city>
+  <city name="Mbembezi">
+    <latitude>-20.0</latitude>
+    <longitude>28.9333333</longitude>
+  </city>
+  <city name="Mberengwa">
+    <latitude>-20.4833333</latitude>
+    <longitude>29.9166667</longitude>
+  </city>
+  <city name="Mbiriya">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.25</longitude>
+  </city>
+  <city name="Mbiza">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Mbizi">
+    <latitude>-21.3833333</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Mbizo">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Mbizo Township">
+    <latitude>-18.9166667</latitude>
+    <longitude>29.8333333</longitude>
+  </city>
+  <city name="Mbungu Settlement">
+    <latitude>-18.4166667</latitude>
+    <longitude>28.0166667</longitude>
+  </city>
+  <city name="Mcetshwa">
+    <latitude>-19.35</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Melfort">
+    <latitude>-17.9952778</latitude>
+    <longitude>31.3194444</longitude>
+  </city>
+  <city name="Melsetter Junction">
+    <latitude>-19.5166667</latitude>
+    <longitude>32.55</longitude>
+  </city>
+  <city name="Melsetter">
+    <latitude>-19.8</latitude>
+    <longitude>32.8666667</longitude>
+  </city>
+  <city name="Melton">
+    <latitude>-18.1</latitude>
+    <longitude>29.9333333</longitude>
+  </city>
+  <city name="Mendamu">
+    <latitude>-18.3</latitude>
+    <longitude>31.3666667</longitude>
+  </city>
+  <city name="Meyrick Park">
+    <latitude>-17.8025</latitude>
+    <longitude>31.0033333</longitude>
+  </city>
+  <city name="Mgadzi">
+    <latitude>-16.9333333</latitude>
+    <longitude>31.7166667</longitude>
+  </city>
+  <city name="Mgodi Masili">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.3166667</longitude>
+  </city>
+  <city name="Mhanda">
+    <latitude>-17.3666667</latitude>
+    <longitude>30.95</longitude>
+  </city>
+  <city name="Mhangura">
+    <latitude>-16.9</latitude>
+    <longitude>30.15</longitude>
+  </city>
+  <city name="Miami">
+    <latitude>-16.6666667</latitude>
+    <longitude>29.7666667</longitude>
+  </city>
+  <city name="Miasi">
+    <latitude>-20.0511111</latitude>
+    <longitude>28.2694444</longitude>
+  </city>
+  <city name="Midlands">
+    <latitude>-17.9044444</latitude>
+    <longitude>31.0141667</longitude>
+  </city>
+  <city name="Miketwa">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Milan">
+    <latitude>-18.1333333</latitude>
+    <longitude>29.9166667</longitude>
+  </city>
+  <city name="Millievale">
+    <latitude>-20.2047222</latitude>
+    <longitude>28.3422222</longitude>
+  </city>
+  <city name="Milton Park">
+    <latitude>-17.8147222</latitude>
+    <longitude>31.0247222</longitude>
+  </city>
+  <city name="Mjumi">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Mkasa">
+    <latitude>-20.6666667</latitude>
+    <longitude>32.2666667</longitude>
+  </city>
+  <city name="Mkauzaan">
+    <latitude>-19.5666667</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Mkayeni">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.5666667</longitude>
+  </city>
+  <city name="Mketwa">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Mkoba">
+    <latitude>-19.4666667</latitude>
+    <longitude>29.75</longitude>
+  </city>
+  <city name="Mkombo">
+    <latitude>-19.6333333</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Mkubazi">
+    <latitude>-19.6333333</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Mnene">
+    <latitude>-20.6166667</latitude>
+    <longitude>30.05</longitude>
+  </city>
+  <city name="Mneni">
+    <latitude>-20.6166667</latitude>
+    <longitude>30.05</longitude>
+  </city>
+  <city name="Mon Abri">
+    <latitude>-17.745</latitude>
+    <longitude>31.0933333</longitude>
+  </city>
+  <city name="Monavale">
+    <latitude>-17.8047222</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Monema">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Monovale">
+    <latitude>-17.8047222</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Montgomery">
+    <latitude>-20.0977778</latitude>
+    <longitude>28.6808333</longitude>
+  </city>
+  <city name="Montrose">
+    <latitude>-20.2008333</latitude>
+    <longitude>28.5675</longitude>
+  </city>
+  <city name="Mormon Hill">
+    <latitude>-16.7333333</latitude>
+    <longitude>29.8833333</longitude>
+  </city>
+  <city name="Morningside">
+    <latitude>-20.2019444</latitude>
+    <longitude>28.5772222</longitude>
+  </city>
+  <city name="Mount Darwin">
+    <latitude>-16.7833333</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Mount Fura">
+    <latitude>-16.7833333</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Mount Hampden Junction">
+    <latitude>-17.7416667</latitude>
+    <longitude>30.9388889</longitude>
+  </city>
+  <city name="Mount Hampden">
+    <latitude>-17.7416667</latitude>
+    <longitude>30.9388889</longitude>
+  </city>
+  <city name="Mount Hampton">
+    <latitude>-17.7416667</latitude>
+    <longitude>30.9388889</longitude>
+  </city>
+  <city name="Mount Pleasant">
+    <latitude>-17.7769444</latitude>
+    <longitude>31.0486111</longitude>
+  </city>
+  <city name="Mount Pleasant Park">
+    <latitude>-17.7566667</latitude>
+    <longitude>31.0419444</longitude>
+  </city>
+  <city name="Mowonema">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.45</longitude>
+  </city>
+  <city name="Moyeni">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Mpafani">
+    <latitude>-19.7166667</latitude>
+    <longitude>27.5833333</longitude>
+  </city>
+  <city name="Mpate">
+    <latitude>-20.6166667</latitude>
+    <longitude>28.4</longitude>
+  </city>
+  <city name="Mphoeng">
+    <latitude>-21.2</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Mphoengs">
+    <latitude>-21.2</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Mphoweng">
+    <latitude>-21.2</latitude>
+    <longitude>27.85</longitude>
+  </city>
+  <city name="Mpilo">
+    <latitude>-19.6666667</latitude>
+    <longitude>26.9666667</longitude>
+  </city>
+  <city name="Mpinjwana">
+    <latitude>-19.1333333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Mpinjwani">
+    <latitude>-19.1333333</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Mpopoma">
+    <latitude>-20.145</latitude>
+    <longitude>28.5408333</longitude>
+  </city>
+  <city name="Mpopomo South">
+    <latitude>-20.1525</latitude>
+    <longitude>28.5366667</longitude>
+  </city>
+  <city name="Mpulubuzi">
+    <latitude>-19.6</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Mrazor">
+    <latitude>-16.9</latitude>
+    <longitude>29.4166667</longitude>
+  </city>
+  <city name="Mrewa">
+    <latitude>-17.6469444</latitude>
+    <longitude>31.7775</longitude>
+  </city>
+  <city name="Msasa">
+    <latitude>-17.8405556</latitude>
+    <longitude>31.1161111</longitude>
+  </city>
+  <city name="Msasa Park">
+    <latitude>-17.855</latitude>
+    <longitude>31.1097222</longitude>
+  </city>
+  <city name="Msonedi">
+    <latitude>-17.1333333</latitude>
+    <longitude>30.9</longitude>
+  </city>
+  <city name="Msonneddi">
+    <latitude>-17.1333333</latitude>
+    <longitude>30.9</longitude>
+  </city>
+  <city name="Mswiganas Kraal">
+    <latitude>-19.5833333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Mtampane">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Mtawalos Village">
+    <latitude>-18.95</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Mtemaganyu">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Mtendere">
+    <latitude>-17.7505556</latitude>
+    <longitude>31.1</longitude>
+  </city>
+  <city name="Mtepatepa">
+    <latitude>-16.95</latitude>
+    <longitude>31.3333333</longitude>
+  </city>
+  <city name="Mtoko">
+    <latitude>-17.4</latitude>
+    <longitude>32.2166667</longitude>
+  </city>
+  <city name="Mtole">
+    <latitude>-19.65</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Mtorashangu">
+    <latitude>-17.15</latitude>
+    <longitude>30.6666667</longitude>
+  </city>
+  <city name="Mtoroshanga">
+    <latitude>-17.15</latitude>
+    <longitude>30.6666667</longitude>
+  </city>
+  <city name="Mtshayeli">
+    <latitude>-19.3166667</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Mtsuli">
+    <latitude>-19.9666667</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Mubayira">
+    <latitude>-18.3333333</latitude>
+    <longitude>30.6</longitude>
+  </city>
+  <city name="Mubayira Township Reserve">
+    <latitude>-18.3166667</latitude>
+    <longitude>30.6</longitude>
+  </city>
+  <city name="Mucheke Township">
+    <latitude>-20.0833333</latitude>
+    <longitude>30.8166667</longitude>
+  </city>
+  <city name="Mucheki">
+    <latitude>-18.15</latitude>
+    <longitude>31.85</longitude>
+  </city>
+  <city name="Mucibwa">
+    <latitude>-20.6138889</latitude>
+    <longitude>31.1138889</longitude>
+  </city>
+  <city name="Mufakose">
+    <latitude>-17.8666667</latitude>
+    <longitude>30.9225</longitude>
+  </city>
+  <city name="Muhlonga">
+    <latitude>-19.9111111</latitude>
+    <longitude>29.6916667</longitude>
+  </city>
+  <city name="Mukuvisi">
+    <latitude>-17.8563889</latitude>
+    <longitude>31.1305556</longitude>
+  </city>
+  <city name="Mukuvisi Park">
+    <latitude>-17.8461111</latitude>
+    <longitude>31.1086111</longitude>
+  </city>
+  <city name="Mukuvisi Woodlands">
+    <latitude>-17.8430556</latitude>
+    <longitude>31.095</longitude>
+  </city>
+  <city name="Mulujawane">
+    <latitude>-20.3666667</latitude>
+    <longitude>28.9833333</longitude>
+  </city>
+  <city name="Mulujawane Siding">
+    <latitude>-20.3666667</latitude>
+    <longitude>28.9833333</longitude>
+  </city>
+  <city name="Mulungwane">
+    <latitude>-20.3666667</latitude>
+    <longitude>28.9833333</longitude>
+  </city>
+  <city name="Munda">
+    <latitude>-20.2294444</latitude>
+    <longitude>28.6111111</longitude>
+  </city>
+  <city name="Munene">
+    <latitude>-20.6166667</latitude>
+    <longitude>30.05</longitude>
+  </city>
+  <city name="Munyati">
+    <latitude>-18.65</latitude>
+    <longitude>29.7833333</longitude>
+  </city>
+  <city name="Murehwa">
+    <latitude>-17.6469444</latitude>
+    <longitude>31.7775</longitude>
+  </city>
+  <city name="Murewa">
+    <latitude>-17.6469444</latitude>
+    <longitude>31.7775</longitude>
+  </city>
+  <city name="Muri Pumbi">
+    <latitude>-17.2666667</latitude>
+    <longitude>31.0666667</longitude>
+  </city>
+  <city name="Musitkwe">
+    <latitude>-17.7416667</latitude>
+    <longitude>30.9388889</longitude>
+  </city>
+  <city name="Musondzo">
+    <latitude>-18.3833333</latitude>
+    <longitude>30.6833333</longitude>
+  </city>
+  <city name="Musonza">
+    <latitude>-18.3833333</latitude>
+    <longitude>30.6833333</longitude>
+  </city>
+  <city name="Muswewenhede">
+    <latitude>-17.1333333</latitude>
+    <longitude>30.9</longitude>
+  </city>
+  <city name="Mutambara">
+    <latitude>-19.55</latitude>
+    <longitude>32.6666667</longitude>
+  </city>
+  <city name="Mutare">
+    <latitude>-18.9666667</latitude>
+    <longitude>32.6666667</longitude>
+  </city>
+  <city name="Mutepatepa">
+    <latitude>-16.95</latitude>
+    <longitude>31.3333333</longitude>
+  </city>
+  <city name="Mutoko">
+    <latitude>-17.4</latitude>
+    <longitude>32.2166667</longitude>
+  </city>
+  <city name="Mutorashanga">
+    <latitude>-17.15</latitude>
+    <longitude>30.6666667</longitude>
+  </city>
+  <city name="Muvumi">
+    <latitude>-19.2833333</latitude>
+    <longitude>30.5333333</longitude>
+  </city>
+  <city name="Muvuti">
+    <latitude>-19.9361111</latitude>
+    <longitude>31.6361111</longitude>
+  </city>
+  <city name="Mvudhlana">
+    <latitude>-19.7833333</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Mvuma">
+    <latitude>-19.2833333</latitude>
+    <longitude>30.5333333</longitude>
+  </city>
+  <city name="Mvundhlana">
+    <latitude>-19.7833333</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Mvurwi">
+    <latitude>-17.0333333</latitude>
+    <longitude>30.85</longitude>
+  </city>
+  <city name="Mwami">
+    <latitude>-16.6666667</latitude>
+    <longitude>29.7666667</longitude>
+  </city>
+  <city name="Mwanezi">
+    <latitude>-20.7491667</latitude>
+    <longitude>29.7013889</longitude>
+  </city>
+  <city name="Mwenezi">
+    <latitude>-20.7491667</latitude>
+    <longitude>29.7013889</longitude>
+  </city>
+  <city name="Mzenzi">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.05</longitude>
+  </city>
+  <city name="Mzilikazi">
+    <latitude>-19.5833333</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Nakabindana">
+    <latitude>-19.5166667</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Nandi Mill">
+    <latitude>-20.9666667</latitude>
+    <longitude>31.7333333</longitude>
+  </city>
+  <city name="Nandi">
+    <latitude>-20.9666667</latitude>
+    <longitude>31.7333333</longitude>
+  </city>
+  <city name="Napemando">
+    <latitude>-20.1666667</latitude>
+    <longitude>27.6</longitude>
+  </city>
+  <city name="Narakati">
+    <latitude>-17.3166667</latitude>
+    <longitude>30.5166667</longitude>
+  </city>
+  <city name="Narira">
+    <latitude>-19.0833333</latitude>
+    <longitude>31.1666667</longitude>
+  </city>
+  <city name="Nbira District Chief Camp">
+    <latitude>-17.0833333</latitude>
+    <longitude>28.4</longitude>
+  </city>
+  <city name="Nbira">
+    <latitude>-17.0833333</latitude>
+    <longitude>28.4</longitude>
+  </city>
+  <city name="Ndanga">
+    <latitude>-20.1833333</latitude>
+    <longitude>31.3333333</longitude>
+  </city>
+  <city name="Ndolwane">
+    <latitude>-19.95</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Nembe">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.7</longitude>
+  </city>
+  <city name="Nembudzia">
+    <latitude>-17.6833333</latitude>
+    <longitude>29.0166667</longitude>
+  </city>
+  <city name="Nembudziya">
+    <latitude>-17.6833333</latitude>
+    <longitude>29.0166667</longitude>
+  </city>
+  <city name="Nenyuka">
+    <latitude>-17.45</latitude>
+    <longitude>28.2666667</longitude>
+  </city>
+  <city name="Nenyunka">
+    <latitude>-17.45</latitude>
+    <longitude>28.2666667</longitude>
+  </city>
+  <city name="Neuso Business Centre">
+    <latitude>-18.5333333</latitude>
+    <longitude>30.5333333</longitude>
+  </city>
+  <city name="New Alexandra Park">
+    <latitude>-17.7872222</latitude>
+    <longitude>31.0661111</longitude>
+  </city>
+  <city name="New Ardbennie">
+    <latitude>-17.8830556</latitude>
+    <longitude>31.0063889</longitude>
+  </city>
+  <city name="Newbiggin">
+    <latitude>-18.1</latitude>
+    <longitude>29.9</longitude>
+  </city>
+  <city name="New Bromley">
+    <latitude>-18.0833333</latitude>
+    <longitude>31.3333333</longitude>
+  </city>
+  <city name="New Hartley">
+    <latitude>-18.1333333</latitude>
+    <longitude>30.15</longitude>
+  </city>
+  <city name="Newlands">
+    <latitude>-17.8080556</latitude>
+    <longitude>31.0816667</longitude>
+  </city>
+  <city name="Newmansford">
+    <latitude>-20.1063889</latitude>
+    <longitude>28.6058333</longitude>
+  </city>
+  <city name="New Marlborough">
+    <latitude>-17.7394444</latitude>
+    <longitude>30.9730556</longitude>
+  </city>
+  <city name="Newton">
+    <latitude>-20.2216667</latitude>
+    <longitude>28.5738889</longitude>
+  </city>
+  <city name="Newton West">
+    <latitude>-20.2141667</latitude>
+    <longitude>28.5583333</longitude>
+  </city>
+  <city name="Ngadza">
+    <latitude>-20.1777778</latitude>
+    <longitude>30.8361111</longitude>
+  </city>
+  <city name="Ngesi">
+    <latitude>-18.3833333</latitude>
+    <longitude>29.8666667</longitude>
+  </city>
+  <city name="Ngezi">
+    <latitude>-20.5666667</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Ngezi Siding">
+    <latitude>-20.5666667</latitude>
+    <longitude>30.4</longitude>
+  </city>
+  <city name="Ngiki">
+    <latitude>-19.35</latitude>
+    <longitude>28.4666667</longitude>
+  </city>
+  <city name="Ngoku">
+    <latitude>-19.7</latitude>
+    <longitude>27.5</longitude>
+  </city>
+  <city name="Ngomahura Leper Settlement">
+    <latitude>-20.4333333</latitude>
+    <longitude>30.7333333</longitude>
+  </city>
+  <city name="Ngomahuru">
+    <latitude>-20.4333333</latitude>
+    <longitude>30.7333333</longitude>
+  </city>
+  <city name="Ngoma">
+    <latitude>-19.6166667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Nguboyenia">
+    <latitude>-20.1402778</latitude>
+    <longitude>28.5644444</longitude>
+  </city>
+  <city name="Ngulalikashi">
+    <latitude>-19.7</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Ngundu Halt">
+    <latitude>-20.8</latitude>
+    <longitude>30.8</longitude>
+  </city>
+  <city name="Nigonenanse">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.2</longitude>
+  </city>
+  <city name="Ningombeneshango">
+    <latitude>-19.55</latitude>
+    <longitude>27.1666667</longitude>
+  </city>
+  <city name="Ningombenonzi">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.2</longitude>
+  </city>
+  <city name="Nintila">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.1</longitude>
+  </city>
+  <city name="Nintili">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.1</longitude>
+  </city>
+  <city name="Nizhou">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Nizhowu">
+    <latitude>-19.4666667</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Njube">
+    <latitude>-20.1361111</latitude>
+    <longitude>28.5325</longitude>
+  </city>
+  <city name="Nkai">
+    <latitude>-19.0</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Nkanzaan">
+    <latitude>-19.5666667</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Nkarakati">
+    <latitude>-17.3166667</latitude>
+    <longitude>30.5166667</longitude>
+  </city>
+  <city name="Nkayi">
+    <latitude>-19.0</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Nketa">
+    <latitude>-20.1975</latitude>
+    <longitude>28.5319444</longitude>
+  </city>
+  <city name="Nkosikazi">
+    <latitude>-19.45</latitude>
+    <longitude>27.25</longitude>
+  </city>
+  <city name="Nkulumane">
+    <latitude>-20.185</latitude>
+    <longitude>28.5169444</longitude>
+  </city>
+  <city name="Nkwichu">
+    <latitude>-19.55</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Nkwisi Park">
+    <latitude>-17.8127778</latitude>
+    <longitude>30.965</longitude>
+  </city>
+  <city name="Nkwizhu">
+    <latitude>-19.55</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="North End">
+    <latitude>-20.1316667</latitude>
+    <longitude>28.5911111</longitude>
+  </city>
+  <city name="Northgate">
+    <latitude>-20.1033333</latitude>
+    <longitude>28.6066667</longitude>
+  </city>
+  <city name="Northlea">
+    <latitude>-20.1013889</latitude>
+    <longitude>28.6452778</longitude>
+  </city>
+  <city name="North Lynne">
+    <latitude>-20.0936111</latitude>
+    <longitude>28.5977778</longitude>
+  </city>
+  <city name="North Trenance Estate">
+    <latitude>-20.0811111</latitude>
+    <longitude>28.5688889</longitude>
+  </city>
+  <city name="North Trenance">
+    <latitude>-20.0811111</latitude>
+    <longitude>28.5688889</longitude>
+  </city>
+  <city name="Northwood">
+    <latitude>-17.7511111</latitude>
+    <longitude>31.0505556</longitude>
+  </city>
+  <city name="Norton">
+    <latitude>-17.8833333</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Npuma">
+    <latitude>-20.6</latitude>
+    <longitude>28.3833333</longitude>
+  </city>
+  <city name="Nsukumini">
+    <latitude>-19.3833333</latitude>
+    <longitude>29.6</longitude>
+  </city>
+  <city name="Ntaba Moya">
+    <latitude>-20.2277778</latitude>
+    <longitude>28.6380556</longitude>
+  </city>
+  <city name="Ntabazinduna">
+    <latitude>-20.0166667</latitude>
+    <longitude>28.85</longitude>
+  </city>
+  <city name="Ntakwa">
+    <latitude>-19.4</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Ntampane">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Ntawha">
+    <latitude>-19.4</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Ntulula">
+    <latitude>-19.3333333</latitude>
+    <longitude>27.5</longitude>
+  </city>
+  <city name="Ntumbuwamayi">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Ntumbuyamai">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Nuanetsi">
+    <latitude>-21.4166667</latitude>
+    <longitude>30.7333333</longitude>
+  </city>
+  <city name="Nxabamude">
+    <latitude>-19.3</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Nyabira">
+    <latitude>-17.6666667</latitude>
+    <longitude>30.8</longitude>
+  </city>
+  <city name="Nyadzi">
+    <latitude>-19.5</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Nyakatha">
+    <latitude>-19.85</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Nyala">
+    <latitude>-21.9447222</latitude>
+    <longitude>31.6277778</longitude>
+  </city>
+  <city name="Nyamandhlovu">
+    <latitude>-19.8666667</latitude>
+    <longitude>28.2666667</longitude>
+  </city>
+  <city name="Nyamandholovu">
+    <latitude>-19.8666667</latitude>
+    <longitude>28.2666667</longitude>
+  </city>
+  <city name="Nyamapanda Customs Post">
+    <latitude>-16.9666667</latitude>
+    <longitude>32.8666667</longitude>
+  </city>
+  <city name="Nyamapanda">
+    <latitude>-16.9666667</latitude>
+    <longitude>32.8666667</longitude>
+  </city>
+  <city name="Nyamapande">
+    <latitude>-16.9666667</latitude>
+    <longitude>32.8666667</longitude>
+  </city>
+  <city name="Nyamkoho Township">
+    <latitude>-17.1</latitude>
+    <longitude>32.35</longitude>
+  </city>
+  <city name="Nyamwanga">
+    <latitude>-17.2547222</latitude>
+    <longitude>31.5202778</longitude>
+  </city>
+  <city name="Nyamweda">
+    <latitude>-18.1833333</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Nyanda">
+    <latitude>-20.0833333</latitude>
+    <longitude>30.8333333</longitude>
+  </city>
+  <city name="Nyandoros">
+    <latitude>-17.3666667</latitude>
+    <longitude>32.9833333</longitude>
+  </city>
+  <city name="Nyanga">
+    <latitude>-18.2166667</latitude>
+    <longitude>32.75</longitude>
+  </city>
+  <city name="Nyanganyeni">
+    <latitude>-19.5</latitude>
+    <longitude>27.1</longitude>
+  </city>
+  <city name="Nyanganyuni">
+    <latitude>-19.5</latitude>
+    <longitude>27.1</longitude>
+  </city>
+  <city name="Nyangwene">
+    <latitude>-18.3166667</latitude>
+    <longitude>30.5833333</longitude>
+  </city>
+  <city name="Nyangweni">
+    <latitude>-18.3166667</latitude>
+    <longitude>30.5833333</longitude>
+  </city>
+  <city name="Nyanyadzi Business Center">
+    <latitude>-19.7666667</latitude>
+    <longitude>32.4166667</longitude>
+  </city>
+  <city name="Nyanyadzi">
+    <latitude>-19.7666667</latitude>
+    <longitude>32.4166667</longitude>
+  </city>
+  <city name="Nyariba">
+    <latitude>-17.6666667</latitude>
+    <longitude>30.8</longitude>
+  </city>
+  <city name="Nyautare">
+    <latitude>-18.9666667</latitude>
+    <longitude>32.6666667</longitude>
+  </city>
+  <city name="Nyazura">
+    <latitude>-18.7166667</latitude>
+    <longitude>32.1666667</longitude>
+  </city>
+  <city name="Nyazure">
+    <latitude>-18.7166667</latitude>
+    <longitude>32.1666667</longitude>
+  </city>
+  <city name="Nykasikana">
+    <latitude>-16.7333333</latitude>
+    <longitude>31.7833333</longitude>
+  </city>
+  <city name="Odzi">
+    <latitude>-18.9666667</latitude>
+    <longitude>32.3833333</longitude>
+  </city>
+  <city name="One Hundred Acre Lots">
+    <latitude>-20.2086111</latitude>
+    <longitude>28.7213889</longitude>
+  </city>
+  <city name="Orange Grove">
+    <latitude>-20.1033333</latitude>
+    <longitude>28.6219444</longitude>
+  </city>
+  <city name="Otto Beit Bridge">
+    <latitude>-16.0333333</latitude>
+    <longitude>28.85</longitude>
+  </city>
+  <city name="Oval Park">
+    <latitude>-17.8183333</latitude>
+    <longitude>31.0933333</longitude>
+  </city>
+  <city name="Paddonhurst">
+    <latitude>-20.1411111</latitude>
+    <longitude>28.6</longitude>
+  </city>
+  <city name="Pakana">
+    <latitude>-19.0166667</latitude>
+    <longitude>28.55</longitude>
+  </city>
+  <city name="Pambuka African Township">
+    <latitude>-20.4333333</latitude>
+    <longitude>29.6833333</longitude>
+  </city>
+  <city name="Pambuka">
+    <latitude>-20.4333333</latitude>
+    <longitude>29.6833333</longitude>
+  </city>
+  <city name="Pamula">
+    <latitude>-20.1444444</latitude>
+    <longitude>28.4733333</longitude>
+  </city>
+  <city name="Parklands">
+    <latitude>-20.1422222</latitude>
+    <longitude>28.6227778</longitude>
+  </city>
+  <city name="Park Meadowlands">
+    <latitude>-17.8677778</latitude>
+    <longitude>31.1152778</longitude>
+  </city>
+  <city name="Parkridge Estate">
+    <latitude>-17.8383333</latitude>
+    <longitude>30.9158333</longitude>
+  </city>
+  <city name="Parktown">
+    <latitude>-17.8916667</latitude>
+    <longitude>31.03</longitude>
+  </city>
+  <city name="Parkview">
+    <latitude>-20.1458333</latitude>
+    <longitude>28.5947222</longitude>
+  </city>
+  <city name="Pashu">
+    <latitude>-18.2166667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Pashus">
+    <latitude>-18.2166667</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Patalika">
+    <latitude>-19.65</latitude>
+    <longitude>27.05</longitude>
+  </city>
+  <city name="Pearson Settlement">
+    <latitude>-17.6333333</latitude>
+    <longitude>30.95</longitude>
+  </city>
+  <city name="Pelandaba">
+    <latitude>-20.1483333</latitude>
+    <longitude>28.5211111</longitude>
+  </city>
+  <city name="Pelela">
+    <latitude>-19.65</latitude>
+    <longitude>27.15</longitude>
+  </city>
+  <city name="Pelendaba">
+    <latitude>-19.5333333</latitude>
+    <longitude>26.9166667</longitude>
+  </city>
+  <city name="Pembe">
+    <latitude>-19.9333333</latitude>
+    <longitude>27.2666667</longitude>
+  </city>
+  <city name="Pendennis">
+    <latitude>-20.2333333</latitude>
+    <longitude>28.3333333</longitude>
+  </city>
+  <city name="Penhalonga">
+    <latitude>-18.8833333</latitude>
+    <longitude>32.6833333</longitude>
+  </city>
+  <city name="Pfupajena">
+    <latitude>-18.1333333</latitude>
+    <longitude>30.1333333</longitude>
+  </city>
+  <city name="Philadelphia">
+    <latitude>-17.7119444</latitude>
+    <longitude>31.1225</longitude>
+  </city>
+  <city name="Plumtree">
+    <latitude>-20.4833333</latitude>
+    <longitude>27.8166667</longitude>
+  </city>
+  <city name="Pomona">
+    <latitude>-17.7541667</latitude>
+    <longitude>31.0863889</longitude>
+  </city>
+  <city name="Pondo">
+    <latitude>-19.5833333</latitude>
+    <longitude>27.6666667</longitude>
+  </city>
+  <city name="Poomula">
+    <latitude>-18.1833333</latitude>
+    <longitude>31.4</longitude>
+  </city>
+  <city name="Poorte River">
+    <latitude>-17.33</latitude>
+    <longitude>31.4955556</longitude>
+  </city>
+  <city name="Prospect Park">
+    <latitude>-17.8736111</latitude>
+    <longitude>31.0636111</longitude>
+  </city>
+  <city name="Prospect">
+    <latitude>-17.8852778</latitude>
+    <longitude>31.0525</longitude>
+  </city>
+  <city name="Protea">
+    <latitude>-17.3333333</latitude>
+    <longitude>31.0333333</longitude>
+  </city>
+  <city name="Pumula African Township">
+    <latitude>-20.1444444</latitude>
+    <longitude>28.4733333</longitude>
+  </city>
+  <city name="Pumula East">
+    <latitude>-20.1469444</latitude>
+    <longitude>28.4922222</longitude>
+  </city>
+  <city name="Pumula North">
+    <latitude>-20.1375</latitude>
+    <longitude>28.4858333</longitude>
+  </city>
+  <city name="Pumula">
+    <latitude>-19.3333333</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Qedajaha">
+    <latitude>-19.2666667</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Quedajaha">
+    <latitude>-19.2666667</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Queensdale">
+    <latitude>-17.8541667</latitude>
+    <longitude>31.0922222</longitude>
+  </city>
+  <city name="Queens Mine">
+    <latitude>-19.8</latitude>
+    <longitude>28.75</longitude>
+  </city>
+  <city name="Que Que">
+    <latitude>-18.9166667</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Quinnington">
+    <latitude>-17.7347222</latitude>
+    <longitude>31.1219444</longitude>
+  </city>
+  <city name="Raffingora">
+    <latitude>-17.0333333</latitude>
+    <longitude>30.4333333</longitude>
+  </city>
+  <city name="Rangemore">
+    <latitude>-20.1852778</latitude>
+    <longitude>28.495</longitude>
+  </city>
+  <city name="Raylton">
+    <latitude>-20.1627778</latitude>
+    <longitude>28.5686111</longitude>
+  </city>
+  <city name="Redcliffe">
+    <latitude>-19.0333333</latitude>
+    <longitude>29.7833333</longitude>
+  </city>
+  <city name="Redcliff">
+    <latitude>-19.0333333</latitude>
+    <longitude>29.7833333</longitude>
+  </city>
+  <city name="Reigate">
+    <latitude>-20.0875</latitude>
+    <longitude>28.635</longitude>
+  </city>
+  <city name="Rhodesville">
+    <latitude>-17.8241667</latitude>
+    <longitude>31.0986111</longitude>
+  </city>
+  <city name="Richmond">
+    <latitude>-20.085</latitude>
+    <longitude>28.5519444</longitude>
+  </city>
+  <city name="Ridgeview">
+    <latitude>-17.8375</latitude>
+    <longitude>31.0163889</longitude>
+  </city>
+  <city name="Rietfontein">
+    <latitude>-17.7819444</latitude>
+    <longitude>31.0994444</longitude>
+  </city>
+  <city name="Rimuka">
+    <latitude>-18.35</latitude>
+    <longitude>29.8833333</longitude>
+  </city>
+  <city name="Riverside Estates">
+    <latitude>-20.1883333</latitude>
+    <longitude>28.6516667</longitude>
+  </city>
+  <city name="Riverside North">
+    <latitude>-20.1808333</latitude>
+    <longitude>28.6491667</longitude>
+  </city>
+  <city name="Riverside South">
+    <latitude>-20.2144444</latitude>
+    <longitude>28.6525</longitude>
+  </city>
+  <city name="Robert Sinyoka">
+    <latitude>-20.1366667</latitude>
+    <longitude>28.4569444</longitude>
+  </city>
+  <city name="Robert Sinyoka Suburb">
+    <latitude>-20.1366667</latitude>
+    <longitude>28.4569444</longitude>
+  </city>
+  <city name="Rocky Spruit">
+    <latitude>-18.3166667</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Rolfe Valley">
+    <latitude>-17.7672222</latitude>
+    <longitude>31.1152778</longitude>
+  </city>
+  <city name="Rolf Valley">
+    <latitude>-17.7672222</latitude>
+    <longitude>31.1152778</longitude>
+  </city>
+  <city name="Romney Park">
+    <latitude>-20.1230556</latitude>
+    <longitude>28.6097222</longitude>
+  </city>
+  <city name="Rosa">
+    <latitude>-17.135</latitude>
+    <longitude>31.0441667</longitude>
+  </city>
+  <city name="Rosmalind">
+    <latitude>-19.3666667</latitude>
+    <longitude>29.5666667</longitude>
+  </city>
+  <city name="Rowa">
+    <latitude>-19.1666667</latitude>
+    <longitude>32.6166667</longitude>
+  </city>
+  <city name="Rowena">
+    <latitude>-20.1194444</latitude>
+    <longitude>28.5838889</longitude>
+  </city>
+  <city name="Rugare">
+    <latitude>-17.8547222</latitude>
+    <longitude>30.99</longitude>
+  </city>
+  <city name="Rugari">
+    <latitude>-17.8547222</latitude>
+    <longitude>30.99</longitude>
+  </city>
+  <city name="Rukodora">
+    <latitude>-17.8608333</latitude>
+    <longitude>30.9461111</longitude>
+  </city>
+  <city name="Runiville">
+    <latitude>-17.8088889</latitude>
+    <longitude>31.0988889</longitude>
+  </city>
+  <city name="Runnivale">
+    <latitude>-17.8088889</latitude>
+    <longitude>31.0988889</longitude>
+  </city>
+  <city name="Rupepwe">
+    <latitude>-19.7333333</latitude>
+    <longitude>30.6666667</longitude>
+  </city>
+  <city name="Rupisi">
+    <latitude>-20.3666667</latitude>
+    <longitude>32.4</longitude>
+  </city>
+  <city name="Rurgwe">
+    <latitude>-20.05</latitude>
+    <longitude>31.2666667</longitude>
+  </city>
+  <city name="Rurwi">
+    <latitude>-20.05</latitude>
+    <longitude>31.2666667</longitude>
+  </city>
+  <city name="Rusape">
+    <latitude>-18.5333333</latitude>
+    <longitude>32.1166667</longitude>
+  </city>
+  <city name="Rusapi">
+    <latitude>-18.5333333</latitude>
+    <longitude>32.1166667</longitude>
+  </city>
+  <city name="Rutenga">
+    <latitude>-21.25</latitude>
+    <longitude>30.7333333</longitude>
+  </city>
+  <city name="Ruwa">
+    <latitude>-17.8875</latitude>
+    <longitude>31.2444444</longitude>
+  </city>
+  <city name="Rwatsumbu">
+    <latitude>-18.6833333</latitude>
+    <longitude>32.6333333</longitude>
+  </city>
+  <city name="Ryelands">
+    <latitude>-17.7461111</latitude>
+    <longitude>31.0925</longitude>
+  </city>
+  <city name="Saba">
+    <latitude>-18.0166667</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Sablevale">
+    <latitude>-20.9166667</latitude>
+    <longitude>28.95</longitude>
+  </city>
+  <city name="Sableville">
+    <latitude>-20.9166667</latitude>
+    <longitude>28.95</longitude>
+  </city>
+  <city name="Sadza">
+    <latitude>-18.9</latitude>
+    <longitude>31.2833333</longitude>
+  </city>
+  <city name="Sahlupeka">
+    <latitude>-19.6333333</latitude>
+    <longitude>27.1</longitude>
+  </city>
+  <city name="Saint Andrews Park">
+    <latitude>-17.8069444</latitude>
+    <longitude>30.9955556</longitude>
+  </city>
+  <city name="Saint Martins">
+    <latitude>-17.8597222</latitude>
+    <longitude>31.0611111</longitude>
+  </city>
+  <city name="Saint Marys">
+    <latitude>-17.9833333</latitude>
+    <longitude>31.0666667</longitude>
+  </city>
+  <city name="Sakubva">
+    <latitude>-18.9833333</latitude>
+    <longitude>32.6166667</longitude>
+  </city>
+  <city name="Salagushle">
+    <latitude>-18.4833333</latitude>
+    <longitude>29.4166667</longitude>
+  </city>
+  <city name="Salankomo">
+    <latitude>-19.55</latitude>
+    <longitude>27.05</longitude>
+  </city>
+  <city name="Salisbury Park">
+    <latitude>-17.8586111</latitude>
+    <longitude>30.95</longitude>
+  </city>
+  <city name="Salisbury">
+    <latitude>-17.8177778</latitude>
+    <longitude>31.0447222</longitude>
+  </city>
+  <city name="Salukwe">
+    <latitude>-19.6666667</latitude>
+    <longitude>30.0</longitude>
+  </city>
+  <city name="Samlupeka">
+    <latitude>-19.6333333</latitude>
+    <longitude>27.1</longitude>
+  </city>
+  <city name="Sandawana">
+    <latitude>-19.6833333</latitude>
+    <longitude>27.3833333</longitude>
+  </city>
+  <city name="Sanyati">
+    <latitude>-18.65</latitude>
+    <longitude>29.7833333</longitude>
+  </city>
+  <city name="Sanyatwe">
+    <latitude>-18.3666667</latitude>
+    <longitude>32.6</longitude>
+  </city>
+  <city name="Sauers">
+    <latitude>-20.1111111</latitude>
+    <longitude>28.5969444</longitude>
+  </city>
+  <city name="Sauers Town">
+    <latitude>-20.1111111</latitude>
+    <longitude>28.5969444</longitude>
+  </city>
+  <city name="Sauers Township">
+    <latitude>-20.1111111</latitude>
+    <longitude>28.5969444</longitude>
+  </city>
+  <city name="Sauers Town West">
+    <latitude>-20.1075</latitude>
+    <longitude>28.5919444</longitude>
+  </city>
+  <city name="Sava">
+    <latitude>-18.0166667</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Sawa Sawa">
+    <latitude>-20.9666667</latitude>
+    <longitude>30.2666667</longitude>
+  </city>
+  <city name="Sawmills">
+    <latitude>-19.5833333</latitude>
+    <longitude>28.0333333</longitude>
+  </city>
+  <city name="Science Park">
+    <latitude>-17.6963889</latitude>
+    <longitude>31.0905556</longitude>
+  </city>
+  <city name="Seboza">
+    <latitude>-21.6669444</latitude>
+    <longitude>29.1247222</longitude>
+  </city>
+  <city name="Sedhlwini">
+    <latitude>-19.7</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Seke">
+    <latitude>-18.1</latitude>
+    <longitude>31.1666667</longitude>
+  </city>
+  <city name="Seki African Township">
+    <latitude>-18.0333333</latitude>
+    <longitude>31.1</longitude>
+  </city>
+  <city name="Seki">
+    <latitude>-18.0166667</latitude>
+    <longitude>31.1</longitude>
+  </city>
+  <city name="Seki Township">
+    <latitude>-18.0166667</latitude>
+    <longitude>31.1</longitude>
+  </city>
+  <city name="Selous">
+    <latitude>-18.0833333</latitude>
+    <longitude>30.45</longitude>
+  </city>
+  <city name="Selukwe">
+    <latitude>-19.6666667</latitude>
+    <longitude>30.0</longitude>
+  </city>
+  <city name="Semawuru">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.1833333</longitude>
+  </city>
+  <city name="Senka">
+    <latitude>-19.5</latitude>
+    <longitude>29.75</longitude>
+  </city>
+  <city name="Sentosa">
+    <latitude>-17.7908333</latitude>
+    <longitude>31.01</longitude>
+  </city>
+  <city name="Setana">
+    <latitude>-22.1333333</latitude>
+    <longitude>30.6666667</longitude>
+  </city>
+  <city name="Sewela">
+    <latitude>-19.1833333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Shabani">
+    <latitude>-20.3333333</latitude>
+    <longitude>30.0333333</longitude>
+  </city>
+  <city name="Shaba">
+    <latitude>-20.05</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Shagari">
+    <latitude>-18.0666667</latitude>
+    <longitude>29.85</longitude>
+  </city>
+  <city name="Shamaburu">
+    <latitude>-19.7</latitude>
+    <longitude>29.6666667</longitude>
+  </city>
+  <city name="Shamva">
+    <latitude>-17.3155556</latitude>
+    <longitude>31.5705556</longitude>
+  </city>
+  <city name="Shangani">
+    <latitude>-19.0</latitude>
+    <longitude>28.9</longitude>
+  </city>
+  <city name="Shavani">
+    <latitude>-20.3333333</latitude>
+    <longitude>30.0333333</longitude>
+  </city>
+  <city name="Shawasha Hills">
+    <latitude>-17.7533333</latitude>
+    <longitude>31.1986111</longitude>
+  </city>
+  <city name="Shawila">
+    <latitude>-20.2166667</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Sheleni">
+    <latitude>-21.0833333</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Sherwood Park">
+    <latitude>-17.7797222</latitude>
+    <longitude>31.0180556</longitude>
+  </city>
+  <city name="Sherwood">
+    <latitude>-17.7183333</latitude>
+    <longitude>31.1172222</longitude>
+  </city>
+  <city name="Shingwe">
+    <latitude>-20.15</latitude>
+    <longitude>27.3</longitude>
+  </city>
+  <city name="Shololezhou">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Shortson">
+    <latitude>-17.9044444</latitude>
+    <longitude>31.0141667</longitude>
+  </city>
+  <city name="Shoteli">
+    <latitude>-21.9666667</latitude>
+    <longitude>29.3666667</longitude>
+  </city>
+  <city name="Shurugwi">
+    <latitude>-19.6666667</latitude>
+    <longitude>30.0</longitude>
+  </city>
+  <city name="Siabuwa">
+    <latitude>-17.4666667</latitude>
+    <longitude>28.05</longitude>
+  </city>
+  <city name="Sibanjiba">
+    <latitude>-19.35</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Sibunkululu">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Sigwini">
+    <latitude>-19.45</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Sihazela">
+    <latitude>-19.4</latitude>
+    <longitude>27.2</longitude>
+  </city>
+  <city name="Sikende">
+    <latitude>-19.8333333</latitude>
+    <longitude>27.2166667</longitude>
+  </city>
+  <city name="Silisi">
+    <latitude>-20.2333333</latitude>
+    <longitude>27.3</longitude>
+  </city>
+  <city name="Silobela">
+    <latitude>-18.9833333</latitude>
+    <longitude>29.3</longitude>
+  </city>
+  <city name="Silonkwe">
+    <latitude>-19.5666667</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Simchembo">
+    <latitude>-17.4833333</latitude>
+    <longitude>27.8833333</longitude>
+  </city>
+  <city name="Sinamatella Camp">
+    <latitude>-18.5833333</latitude>
+    <longitude>26.3166667</longitude>
+  </city>
+  <city name="Sinamatila Camp">
+    <latitude>-18.5833333</latitude>
+    <longitude>26.3166667</longitude>
+  </city>
+  <city name="Sinangeti">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.4</longitude>
+  </city>
+  <city name="Sinoia">
+    <latitude>-17.3666667</latitude>
+    <longitude>30.2</longitude>
+  </city>
+  <city name="Sinyoni">
+    <latitude>-22.2</latitude>
+    <longitude>30.35</longitude>
+  </city>
+  <city name="Sipolilo">
+    <latitude>-16.6666667</latitude>
+    <longitude>30.7</longitude>
+  </city>
+  <city name="Sipongweni">
+    <latitude>-19.25</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Siqwini">
+    <latitude>-19.45</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Siringa">
+    <latitude>-19.9166667</latitude>
+    <longitude>27.3666667</longitude>
+  </city>
+  <city name="Sitambala">
+    <latitude>-19.1666667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Sitambarara">
+    <latitude>-19.1666667</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Sitauze">
+    <latitude>-21.5166667</latitude>
+    <longitude>29.5333333</longitude>
+  </city>
+  <city name="Sitauzis">
+    <latitude>-21.5166667</latitude>
+    <longitude>29.5333333</longitude>
+  </city>
+  <city name="Siwela">
+    <latitude>-19.1833333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Siwila">
+    <latitude>-19.7333333</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Siwile">
+    <latitude>-19.7333333</latitude>
+    <longitude>27.7166667</longitude>
+  </city>
+  <city name="Siyangiya">
+    <latitude>-20.0333333</latitude>
+    <longitude>27.7666667</longitude>
+  </city>
+  <city name="Sizinda">
+    <latitude>-20.1727778</latitude>
+    <longitude>28.5427778</longitude>
+  </city>
+  <city name="Sodaka">
+    <latitude>-19.4</latitude>
+    <longitude>27.0833333</longitude>
+  </city>
+  <city name="Solonkwe">
+    <latitude>-19.5666667</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Somabhula">
+    <latitude>-19.7</latitude>
+    <longitude>29.6666667</longitude>
+  </city>
+  <city name="Somabula">
+    <latitude>-19.7</latitude>
+    <longitude>29.6666667</longitude>
+  </city>
+  <city name="Somkaya">
+    <latitude>-19.2</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Somlata">
+    <latitude>-19.55</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Somlota">
+    <latitude>-19.55</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Somqibe">
+    <latitude>-19.7</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Somquibe">
+    <latitude>-19.7</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Sontamba">
+    <latitude>-19.7833333</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Sontambo">
+    <latitude>-19.7833333</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Sosera">
+    <latitude>-20.0166667</latitude>
+    <longitude>31.4666667</longitude>
+  </city>
+  <city name="Sote Source">
+    <latitude>-19.4666667</latitude>
+    <longitude>31.2166667</longitude>
+  </city>
+  <city name="Soti Source">
+    <latitude>-19.4666667</latitude>
+    <longitude>31.2166667</longitude>
+  </city>
+  <city name="Southdale">
+    <latitude>-20.2280556</latitude>
+    <longitude>28.6294444</longitude>
+  </city>
+  <city name="Southerton">
+    <latitude>-17.8636111</latitude>
+    <longitude>31.0191667</longitude>
+  </city>
+  <city name="Southwold">
+    <latitude>-20.1980556</latitude>
+    <longitude>28.5586111</longitude>
+  </city>
+  <city name="Spingwini">
+    <latitude>-19.8333333</latitude>
+    <longitude>27.7833333</longitude>
+  </city>
+  <city name="Springfontein">
+    <latitude>-20.24</latitude>
+    <longitude>28.2563889</longitude>
+  </city>
+  <city name="St. Andrews Park">
+    <latitude>-17.8069444</latitude>
+    <longitude>30.9955556</longitude>
+  </city>
+  <city name="Stapleford">
+    <latitude>-18.7333333</latitude>
+    <longitude>32.8</longitude>
+  </city>
+  <city name="Steeldale">
+    <latitude>-20.1591667</latitude>
+    <longitude>28.56</longitude>
+  </city>
+  <city name="St. Martins">
+    <latitude>-17.8597222</latitude>
+    <longitude>31.0611111</longitude>
+  </city>
+  <city name="Stortford">
+    <latitude>-17.7977778</latitude>
+    <longitude>30.9655556</longitude>
+  </city>
+  <city name="Strathaven">
+    <latitude>-17.7919444</latitude>
+    <longitude>31.0236111</longitude>
+  </city>
+  <city name="Strathmore">
+    <latitude>-17.7483333</latitude>
+    <longitude>31.0269444</longitude>
+  </city>
+  <city name="Stubbington Park">
+    <latitude>-17.7525</latitude>
+    <longitude>31.0516667</longitude>
+  </city>
+  <city name="Suburbs">
+    <latitude>-20.1583333</latitude>
+    <longitude>28.6011111</longitude>
+  </city>
+  <city name="Sunningdale">
+    <latitude>-17.8677778</latitude>
+    <longitude>31.0561111</longitude>
+  </city>
+  <city name="Sunninghill">
+    <latitude>-20.1747222</latitude>
+    <longitude>28.6627778</longitude>
+  </city>
+  <city name="Sunnyside">
+    <latitude>-20.1311111</latitude>
+    <longitude>28.6030556</longitude>
+  </city>
+  <city name="Sunridge">
+    <latitude>-17.7738889</latitude>
+    <longitude>30.9997222</longitude>
+  </city>
+  <city name="Sunrise">
+    <latitude>-17.7708333</latitude>
+    <longitude>30.9977778</longitude>
+  </city>
+  <city name="Susmani">
+    <latitude>-19.65</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Susumani">
+    <latitude>-19.65</latitude>
+    <longitude>27.65</longitude>
+  </city>
+  <city name="Suswe">
+    <latitude>-17.15</latitude>
+    <longitude>32.3833333</longitude>
+  </city>
+  <city name="Sutskwe Township">
+    <latitude>-17.15</latitude>
+    <longitude>32.3833333</longitude>
+  </city>
+  <city name="Sweswe">
+    <latitude>-18.45</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Tabas Induna">
+    <latitude>-20.0619444</latitude>
+    <longitude>28.7194444</longitude>
+  </city>
+  <city name="Tafara">
+    <latitude>-17.8352778</latitude>
+    <longitude>31.2111111</longitude>
+  </city>
+  <city name="Taikoo">
+    <latitude>-16.7166667</latitude>
+    <longitude>30.9</longitude>
+  </city>
+  <city name="Tamhla">
+    <latitude>-19.3166667</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Tamuhle">
+    <latitude>-19.3166667</latitude>
+    <longitude>27.6833333</longitude>
+  </city>
+  <city name="Tandaai">
+    <latitude>-19.6</latitude>
+    <longitude>32.8</longitude>
+  </city>
+  <city name="Tandai">
+    <latitude>-19.6</latitude>
+    <longitude>32.8</longitude>
+  </city>
+  <city name="Tandayi">
+    <latitude>-19.6</latitude>
+    <longitude>32.8</longitude>
+  </city>
+  <city name="Tankahokwe">
+    <latitude>-19.6333333</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Tankahukwe">
+    <latitude>-19.6333333</latitude>
+    <longitude>27.0666667</longitude>
+  </city>
+  <city name="Tegela">
+    <latitude>-20.1230556</latitude>
+    <longitude>28.6027778</longitude>
+  </city>
+  <city name="Tembile">
+    <latitude>-19.7</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Tembili">
+    <latitude>-19.7</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Teneriffe">
+    <latitude>-17.7352778</latitude>
+    <longitude>30.9152778</longitude>
+  </city>
+  <city name="The Grange">
+    <latitude>-17.7733333</latitude>
+    <longitude>31.1405556</longitude>
+  </city>
+  <city name="The Helenvale Block">
+    <latitude>-20.0297222</latitude>
+    <longitude>28.4641667</longitude>
+  </city>
+  <city name="The Jungle">
+    <latitude>-20.0927778</latitude>
+    <longitude>28.5744444</longitude>
+  </city>
+  <city name="The Range">
+    <latitude>-19.0</latitude>
+    <longitude>31.0333333</longitude>
+  </city>
+  <city name="The Springs">
+    <latitude>-20.1491667</latitude>
+    <longitude>28.7372222</longitude>
+  </city>
+  <city name="Theydon">
+    <latitude>-18.1666667</latitude>
+    <longitude>31.6833333</longitude>
+  </city>
+  <city name="Thistle Etna">
+    <latitude>-18.3666667</latitude>
+    <longitude>30.0833333</longitude>
+  </city>
+  <city name="Thorngrove">
+    <latitude>-20.1472222</latitude>
+    <longitude>28.5644444</longitude>
+  </city>
+  <city name="Tizoras">
+    <latitude>-17.4</latitude>
+    <longitude>32.9333333</longitude>
+  </city>
+  <city name="Tjagacuhle">
+    <latitude>-19.2666667</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Tjolotjo">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Tongwe">
+    <latitude>-21.9172222</latitude>
+    <longitude>30.0272222</longitude>
+  </city>
+  <city name="Torwood">
+    <latitude>-19.0166667</latitude>
+    <longitude>29.7333333</longitude>
+  </city>
+  <city name="Towla">
+    <latitude>-21.4333333</latitude>
+    <longitude>29.9</longitude>
+  </city>
+  <city name="Trelawney">
+    <latitude>-17.5333333</latitude>
+    <longitude>30.45</longitude>
+  </city>
+  <city name="Trenance">
+    <latitude>-20.0811111</latitude>
+    <longitude>28.5688889</longitude>
+  </city>
+  <city name="Triangle Ranch">
+    <latitude>-20.95</latitude>
+    <longitude>31.3666667</longitude>
+  </city>
+  <city name="Triangle">
+    <latitude>-20.95</latitude>
+    <longitude>31.3666667</longitude>
+  </city>
+  <city name="Tsambvi">
+    <latitude>-17.3155556</latitude>
+    <longitude>31.5705556</longitude>
+  </city>
+  <city name="Tsamvi">
+    <latitude>-17.3155556</latitude>
+    <longitude>31.5705556</longitude>
+  </city>
+  <city name="Tsetana">
+    <latitude>-22.1333333</latitude>
+    <longitude>30.6666667</longitude>
+  </city>
+  <city name="Tsetseri">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Tshabalala">
+    <latitude>-20.1788889</latitude>
+    <longitude>28.5341667</longitude>
+  </city>
+  <city name="Tshabanda">
+    <latitude>-20.1166667</latitude>
+    <longitude>27.9</longitude>
+  </city>
+  <city name="Tshakapika">
+    <latitude>-19.25</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Tshayile">
+    <latitude>-19.3166667</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Tshefu Tshefu">
+    <latitude>-19.1666667</latitude>
+    <longitude>27.5833333</longitude>
+  </city>
+  <city name="Tshibizena">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Tshibizina">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.2833333</longitude>
+  </city>
+  <city name="Tshino">
+    <latitude>-19.4166667</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Tshinu">
+    <latitude>-19.4166667</latitude>
+    <longitude>27.6333333</longitude>
+  </city>
+  <city name="Tshitashwana">
+    <latitude>-19.6833333</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Tshitatshawa">
+    <latitude>-19.6833333</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Tshiturapadsi">
+    <latitude>-22.2</latitude>
+    <longitude>30.7833333</longitude>
+  </city>
+  <city name="Tshiyakwakiwe">
+    <latitude>-19.45</latitude>
+    <longitude>27.0166667</longitude>
+  </city>
+  <city name="Tshiyakwakwe">
+    <latitude>-19.45</latitude>
+    <longitude>27.0166667</longitude>
+  </city>
+  <city name="Tsholotsho">
+    <latitude>-19.7666667</latitude>
+    <longitude>27.75</longitude>
+  </city>
+  <city name="Tstetseri">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.1333333</longitude>
+  </city>
+  <city name="Tswiza">
+    <latitude>-21.8152778</latitude>
+    <longitude>31.5708333</longitude>
+  </city>
+  <city name="Tudeley">
+    <latitude>-17.7680556</latitude>
+    <longitude>31.0475</longitude>
+  </city>
+  <city name="Tulamela">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.2166667</longitude>
+  </city>
+  <city name="Tulamila">
+    <latitude>-19.5333333</latitude>
+    <longitude>27.2166667</longitude>
+  </city>
+  <city name="Tuli">
+    <latitude>-21.9166667</latitude>
+    <longitude>29.2</longitude>
+  </city>
+  <city name="Tullichewan">
+    <latitude>-18.0333333</latitude>
+    <longitude>31.3166667</longitude>
+  </city>
+  <city name="Turk Mine">
+    <latitude>-19.7166667</latitude>
+    <longitude>28.8</longitude>
+  </city>
+  <city name="Tynwald South">
+    <latitude>-17.8080556</latitude>
+    <longitude>30.9425</longitude>
+  </city>
+  <city name="Tynwald">
+    <latitude>-17.8102778</latitude>
+    <longitude>30.955</longitude>
+  </city>
+  <city name="Uhera">
+    <latitude>-19.3333333</latitude>
+    <longitude>31.4333333</longitude>
+  </city>
+  <city name="Umganine">
+    <latitude>-20.2016667</latitude>
+    <longitude>28.5344444</longitude>
+  </city>
+  <city name="Umganin">
+    <latitude>-20.2016667</latitude>
+    <longitude>28.5344444</longitude>
+  </city>
+  <city name="Umgusa Estate">
+    <latitude>-20.075</latitude>
+    <longitude>28.5852778</longitude>
+  </city>
+  <city name="Umgusa">
+    <latitude>-20.075</latitude>
+    <longitude>28.5852778</longitude>
+  </city>
+  <city name="Umguza Estate">
+    <latitude>-20.075</latitude>
+    <longitude>28.5852778</longitude>
+  </city>
+  <city name="Umguza">
+    <latitude>-20.075</latitude>
+    <longitude>28.5852778</longitude>
+  </city>
+  <city name="Umsweswe Siding">
+    <latitude>-18.45</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Umsweswe">
+    <latitude>-18.45</latitude>
+    <longitude>29.8166667</longitude>
+  </city>
+  <city name="Umtali">
+    <latitude>-18.9666667</latitude>
+    <longitude>32.6666667</longitude>
+  </city>
+  <city name="Umvukwes">
+    <latitude>-17.0333333</latitude>
+    <longitude>30.85</longitude>
+  </city>
+  <city name="Umvuma">
+    <latitude>-19.2833333</latitude>
+    <longitude>30.5333333</longitude>
+  </city>
+  <city name="Umvutcha A">
+    <latitude>-20.0519444</latitude>
+    <longitude>28.5886111</longitude>
+  </city>
+  <city name="Umvutcha">
+    <latitude>-20.0669444</latitude>
+    <longitude>28.5813889</longitude>
+  </city>
+  <city name="Umwinsidale">
+    <latitude>-17.7161111</latitude>
+    <longitude>31.1872222</longitude>
+  </city>
+  <city name="Uplands">
+    <latitude>-17.9205556</latitude>
+    <longitude>31.0291667</longitude>
+  </city>
+  <city name="Upper Glenville">
+    <latitude>-20.0930556</latitude>
+    <longitude>28.5538889</longitude>
+  </city>
+  <city name="Upper Rangemore">
+    <latitude>-20.1986111</latitude>
+    <longitude>28.4891667</longitude>
+  </city>
+  <city name="Ushehwokunze">
+    <latitude>-18.1666667</latitude>
+    <longitude>31.2333333</longitude>
+  </city>
+  <city name="Usher Institute">
+    <latitude>-20.3833333</latitude>
+    <longitude>28.2166667</longitude>
+  </city>
+  <city name="Ushewokunze">
+    <latitude>-18.1666667</latitude>
+    <longitude>31.2333333</longitude>
+  </city>
+  <city name="Vainona">
+    <latitude>-17.7569444</latitude>
+    <longitude>31.0744444</longitude>
+  </city>
+  <city name="Valencedene">
+    <latitude>-17.7933333</latitude>
+    <longitude>31.0102778</longitude>
+  </city>
+  <city name="Valence Dene">
+    <latitude>-17.7933333</latitude>
+    <longitude>31.0102778</longitude>
+  </city>
+  <city name="Vengere">
+    <latitude>-18.55</latitude>
+    <longitude>32.1166667</longitude>
+  </city>
+  <city name="Ventersburg">
+    <latitude>-17.8633333</latitude>
+    <longitude>31.1672222</longitude>
+  </city>
+  <city name="Verona">
+    <latitude>-17.2833333</latitude>
+    <longitude>31.0666667</longitude>
+  </city>
+  <city name="Victoria Falls">
+    <latitude>-17.9333333</latitude>
+    <longitude>25.8333333</longitude>
+  </city>
+  <city name="Villa Franca">
+    <latitude>-17.2666667</latitude>
+    <longitude>31.05</longitude>
+  </city>
+  <city name="Vozheka">
+    <latitude>-19.1333333</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Vozueka">
+    <latitude>-19.1333333</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Vrede">
+    <latitude>-18.95</latitude>
+    <longitude>30.2833333</longitude>
+  </city>
+  <city name="Vulashaba">
+    <latitude>-19.2833333</latitude>
+    <longitude>27.3333333</longitude>
+  </city>
+  <city name="Wallace Block">
+    <latitude>-17.7411111</latitude>
+    <longitude>31.1361111</longitude>
+  </city>
+  <city name="Wange">
+    <latitude>-18.3666667</latitude>
+    <longitude>26.4833333</longitude>
+  </city>
+  <city name="Wankie">
+    <latitude>-18.3666667</latitude>
+    <longitude>26.4833333</longitude>
+  </city>
+  <city name="Warren Park D">
+    <latitude>-17.8316667</latitude>
+    <longitude>30.9622222</longitude>
+  </city>
+  <city name="Warren Park North">
+    <latitude>-17.8158333</latitude>
+    <longitude>30.975</longitude>
+  </city>
+  <city name="Warren Park">
+    <latitude>-17.8302778</latitude>
+    <longitude>30.9822222</longitude>
+  </city>
+  <city name="Warren">
+    <latitude>-17.8302778</latitude>
+    <longitude>30.9822222</longitude>
+  </city>
+  <city name="Waterfalls">
+    <latitude>-17.9186111</latitude>
+    <longitude>31.0016667</longitude>
+  </city>
+  <city name="Waterfall">
+    <latitude>-17.9186111</latitude>
+    <longitude>31.0016667</longitude>
+  </city>
+  <city name="Waterford">
+    <latitude>-20.2280556</latitude>
+    <longitude>28.6594444</longitude>
+  </city>
+  <city name="Waterlea">
+    <latitude>-20.0961111</latitude>
+    <longitude>28.6227778</longitude>
+  </city>
+  <city name="Watsomba">
+    <latitude>-18.6833333</latitude>
+    <longitude>32.6333333</longitude>
+  </city>
+  <city name="Wedza">
+    <latitude>-18.6166667</latitude>
+    <longitude>31.5666667</longitude>
+  </city>
+  <city name="Welcome">
+    <latitude>-20.2255556</latitude>
+    <longitude>28.2788889</longitude>
+  </city>
+  <city name="Westgate">
+    <latitude>-20.1675</latitude>
+    <longitude>28.5563889</longitude>
+  </city>
+  <city name="West Nicholson">
+    <latitude>-21.0666667</latitude>
+    <longitude>29.3666667</longitude>
+  </city>
+  <city name="Westondale">
+    <latitude>-20.1555556</latitude>
+    <longitude>28.5538889</longitude>
+  </city>
+  <city name="West Queens Park">
+    <latitude>-20.1136111</latitude>
+    <longitude>28.6047222</longitude>
+  </city>
+  <city name="Westwood">
+    <latitude>-17.8494444</latitude>
+    <longitude>30.9808333</longitude>
+  </city>
+  <city name="West Wood">
+    <latitude>-17.8494444</latitude>
+    <longitude>30.9808333</longitude>
+  </city>
+  <city name="Wha Wha">
+    <latitude>-19.3666667</latitude>
+    <longitude>30.0166667</longitude>
+  </city>
+  <city name="Whitecairns">
+    <latitude>-20.205</latitude>
+    <longitude>28.595</longitude>
+  </city>
+  <city name="White Star">
+    <latitude>-20.2069444</latitude>
+    <longitude>28.6097222</longitude>
+  </city>
+  <city name="Willowvale">
+    <latitude>-17.8805556</latitude>
+    <longitude>30.9744444</longitude>
+  </city>
+  <city name="Willow Vale">
+    <latitude>-17.8805556</latitude>
+    <longitude>30.9744444</longitude>
+  </city>
+  <city name="Willsgrove">
+    <latitude>-20.1652778</latitude>
+    <longitude>28.6794444</longitude>
+  </city>
+  <city name="Wilmington Park">
+    <latitude>-17.8502778</latitude>
+    <longitude>31.0838889</longitude>
+  </city>
+  <city name="Wilton">
+    <latitude>-18.4</latitude>
+    <longitude>31.7666667</longitude>
+  </city>
+  <city name="Winchendon">
+    <latitude>-17.7183333</latitude>
+    <longitude>31.1172222</longitude>
+  </city>
+  <city name="Windsor Park">
+    <latitude>-20.1</latitude>
+    <longitude>28.55</longitude>
+  </city>
+  <city name="Woodlands">
+    <latitude>-20.1708333</latitude>
+    <longitude>28.6180556</longitude>
+  </city>
+  <city name="Woodville Park">
+    <latitude>-20.1063889</latitude>
+    <longitude>28.6527778</longitude>
+  </city>
+  <city name="Woodville South">
+    <latitude>-20.1005556</latitude>
+    <longitude>28.6527778</longitude>
+  </city>
+  <city name="Woodville">
+    <latitude>-20.08</latitude>
+    <longitude>28.6583333</longitude>
+  </city>
+  <city name="Workington">
+    <latitude>-17.8480556</latitude>
+    <longitude>31.015</longitude>
+  </city>
+  <city name="Worringham">
+    <latitude>-20.2336111</latitude>
+    <longitude>28.7466667</longitude>
+  </city>
+  <city name="Xabamude">
+    <latitude>-19.3</latitude>
+    <longitude>27.4166667</longitude>
+  </city>
+  <city name="Xanixani">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Xhani Xhani">
+    <latitude>-19.4833333</latitude>
+    <longitude>27.4333333</longitude>
+  </city>
+  <city name="Xoboholo">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.2333333</longitude>
+  </city>
+  <city name="Xotjeni">
+    <latitude>-19.3</latitude>
+    <longitude>27.5333333</longitude>
+  </city>
+  <city name="Zabagwadi">
+    <latitude>-19.5833333</latitude>
+    <longitude>27.7333333</longitude>
+  </city>
+  <city name="Zaka">
+    <latitude>-20.35</latitude>
+    <longitude>31.45</longitude>
+  </city>
+  <city name="Zamqaweni">
+    <latitude>-19.4166667</latitude>
+    <longitude>27.0333333</longitude>
+  </city>
+  <city name="Zandile">
+    <latitude>-19.1833333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Zandi">
+    <latitude>-19.1833333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Zanyika">
+    <latitude>-17.55</latitude>
+    <longitude>31.8166667</longitude>
+  </city>
+  <city name="Zemalapala">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.55</longitude>
+  </city>
+  <city name="Zemandana">
+    <latitude>-19.4333333</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Zemanda">
+    <latitude>-19.45</latitude>
+    <longitude>27.5166667</longitude>
+  </city>
+  <city name="Zibalonkwe">
+    <latitude>-19.8333333</latitude>
+    <longitude>27.4666667</longitude>
+  </city>
+  <city name="Zibunkululu">
+    <latitude>-19.6666667</latitude>
+    <longitude>27.6166667</longitude>
+  </city>
+  <city name="Ziga">
+    <latitude>-19.2166667</latitude>
+    <longitude>27.4833333</longitude>
+  </city>
+  <city name="Zikamanas Village">
+    <latitude>-18.2166667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Zimbabwe">
+    <latitude>-20.2666667</latitude>
+    <longitude>30.9166667</longitude>
+  </city>
+  <city name="Zimre Park">
+    <latitude>-17.8661111</latitude>
+    <longitude>31.2136111</longitude>
+  </city>
+  <city name="Ziyakamanas">
+    <latitude>-18.2166667</latitude>
+    <longitude>27.95</longitude>
+  </city>
+  <city name="Zizalisari">
+    <latitude>-17.7588889</latitude>
+    <longitude>31.0105556</longitude>
+  </city>
+  <city name="Zuzumba">
+    <latitude>-20.0333333</latitude>
+    <longitude>27.9333333</longitude>
+  </city>
+  <city name="Zvishavane">
+    <latitude>-20.3333333</latitude>
+    <longitude>30.0333333</longitude>
+  </city>
+</country>

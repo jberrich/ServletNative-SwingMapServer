@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="vg" name="Vierges britanniques (Îles)">
+  <city name="Anderson">
+    <latitude>18.4333333</latitude>
+    <longitude>-64.6333333</longitude>
+  </city>
+  <city name="Belle Vue">
+    <latitude>18.45</latitude>
+    <longitude>-64.7333333</longitude>
+  </city>
+  <city name="Cane Garden Bay">
+    <latitude>18.4166667</latitude>
+    <longitude>-64.65</longitude>
+  </city>
+  <city name="Creek Village">
+    <latitude>18.4911111</latitude>
+    <longitude>-64.3811111</longitude>
+  </city>
+  <city name="Freshwater Pond">
+    <latitude>18.3833333</latitude>
+    <longitude>-64.6666667</longitude>
+  </city>
+  <city name="Great Carrot Bay">
+    <latitude>18.4</latitude>
+    <longitude>-64.6666667</longitude>
+  </city>
+  <city name="Great Mountain">
+    <latitude>18.4333333</latitude>
+    <longitude>-64.6166667</longitude>
+  </city>
+  <city name="Hannah">
+    <latitude>18.4</latitude>
+    <longitude>-64.6333333</longitude>
+  </city>
+  <city name="Kingstown">
+    <latitude>18.4166667</latitude>
+    <longitude>-64.5833333</longitude>
+  </city>
+  <city name="Leonards">
+    <latitude>18.4166667</latitude>
+    <longitude>-64.6333333</longitude>
+  </city>
+  <city name="Lettsome Settlement">
+    <latitude>18.45</latitude>
+    <longitude>-64.7166667</longitude>
+  </city>
+  <city name="Little Carrot Bay">
+    <latitude>18.4</latitude>
+    <longitude>-64.6666667</longitude>
+  </city>
+  <city name="Little Harbour">
+    <latitude>18.4333333</latitude>
+    <longitude>-64.7166667</longitude>
+  </city>
+  <city name="Long Swamp">
+    <latitude>18.4333333</latitude>
+    <longitude>-64.5666667</longitude>
+  </city>
+  <city name="Maya Cove">
+    <latitude>18.4166667</latitude>
+    <longitude>-64.5666667</longitude>
+  </city>
+  <city name="Road Town">
+    <latitude>18.4166667</latitude>
+    <longitude>-64.6166667</longitude>
+  </city>
+  <city name="South Sound">
+    <latitude>18.4833333</latitude>
+    <longitude>-64.3833333</longitude>
+  </city>
+  <city name="Spanish Town">
+    <latitude>18.45</latitude>
+    <longitude>-64.4333333</longitude>
+  </city>
+  <city name="The Mill">
+    <latitude>18.45</latitude>
+    <longitude>-64.5333333</longitude>
+  </city>
+  <city name="The Settlement">
+    <latitude>18.7166667</latitude>
+    <longitude>-64.3166667</longitude>
+  </city>
+  <city name="Threllfall">
+    <latitude>18.4</latitude>
+    <longitude>-64.6333333</longitude>
+  </city>
+  <city name="Wesley Will">
+    <latitude>18.4333333</latitude>
+    <longitude>-64.6</longitude>
+  </city>
+</country>

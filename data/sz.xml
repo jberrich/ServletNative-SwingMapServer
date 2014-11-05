@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="sz" name="Swaziland">
+  <city name="Abercorn">
+    <latitude>-26.8333333</latitude>
+    <longitude>32.1333333</longitude>
+  </city>
+  <city name="Abercorn Point">
+    <latitude>-26.8333333</latitude>
+    <longitude>32.1333333</longitude>
+  </city>
+  <city name="Abercorn Pont">
+    <latitude>-26.8333333</latitude>
+    <longitude>32.1333333</longitude>
+  </city>
+  <city name="Balegana">
+    <latitude>-26.1</latitude>
+    <longitude>31.5666667</longitude>
+  </city>
+  <city name="Balegane">
+    <latitude>-26.1</latitude>
+    <longitude>31.5666667</longitude>
+  </city>
+  <city name="Balegane Store">
+    <latitude>-26.1</latitude>
+    <longitude>31.5666667</longitude>
+  </city>
+  <city name="Bennets">
+    <latitude>-25.95</latitude>
+    <longitude>31.5166667</longitude>
+  </city>
+  <city name="Bhunya">
+    <latitude>-26.55</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Big Bend">
+    <latitude>-26.8166667</latitude>
+    <longitude>31.9333333</longitude>
+  </city>
+  <city name="Bremersdorp">
+    <latitude>-26.4833333</latitude>
+    <longitude>31.3666667</longitude>
+  </city>
+  <city name="Bulembu">
+    <latitude>-25.9666667</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Bunya">
+    <latitude>-26.55</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Commissie Nek">
+    <latitude>-26.3333333</latitude>
+    <longitude>31.2333333</longitude>
+  </city>
+  <city name="Compound">
+    <latitude>-25.9666667</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Croydon">
+    <latitude>-26.2</latitude>
+    <longitude>31.5666667</longitude>
+  </city>
+  <city name="Darkton">
+    <latitude>-26.2333333</latitude>
+    <longitude>31.0333333</longitude>
+  </city>
+  <city name="Darktown">
+    <latitude>-26.2333333</latitude>
+    <longitude>31.0333333</longitude>
+  </city>
+  <city name="Dwaleni">
+    <latitude>-27.1666667</latitude>
+    <longitude>31.2666667</longitude>
+  </city>
+  <city name="Emhlembi">
+    <latitude>-25.9666667</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Emlembe">
+    <latitude>-25.9666667</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Esulweni">
+    <latitude>-26.4</latitude>
+    <longitude>31.1666667</longitude>
+  </city>
+  <city name="Etjanine">
+    <latitude>-26.3833333</latitude>
+    <longitude>30.9</longitude>
+  </city>
+  <city name="Ezulweni">
+    <latitude>-26.4</latitude>
+    <longitude>31.1666667</longitude>
+  </city>
+  <city name="Ezulwini">
+    <latitude>-26.4</latitude>
+    <longitude>31.1666667</longitude>
+  </city>
+  <city name="Forbes Reef">
+    <latitude>-26.1666667</latitude>
+    <longitude>31.1</longitude>
+  </city>
+  <city name="Gege">
+    <latitude>-26.95</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Goedgegun">
+    <latitude>-27.1166667</latitude>
+    <longitude>31.2</longitude>
+  </city>
+  <city name="Gollel">
+    <latitude>-27.3166667</latitude>
+    <longitude>31.9</longitude>
+  </city>
+  <city name="Grand Valley Estate">
+    <latitude>-26.9166667</latitude>
+    <longitude>31.2833333</longitude>
+  </city>
+  <city name="Granvalley">
+    <latitude>-26.9166667</latitude>
+    <longitude>31.2833333</longitude>
+  </city>
+  <city name="Havelock">
+    <latitude>-25.95</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Havelock Mine">
+    <latitude>-25.95</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Herefords">
+    <latitude>-25.8333333</latitude>
+    <longitude>31.5</longitude>
+  </city>
+  <city name="Hlatikulu">
+    <latitude>-26.9666667</latitude>
+    <longitude>31.3166667</longitude>
+  </city>
+  <city name="Hluti">
+    <latitude>-27.2166667</latitude>
+    <longitude>31.6166667</longitude>
+  </city>
+  <city name="Holobela">
+    <latitude>-26.7</latitude>
+    <longitude>31.8333333</longitude>
+  </city>
+  <city name="Horo">
+    <latitude>-25.75</latitude>
+    <longitude>31.4166667</longitude>
+  </city>
+  <city name="Inyetane">
+    <latitude>-26.5333333</latitude>
+    <longitude>32.0166667</longitude>
+  </city>
+  <city name="Kobolondo Heights">
+    <latitude>-25.9</latitude>
+    <longitude>31.2166667</longitude>
+  </city>
+  <city name="Kubuta">
+    <latitude>-26.8833333</latitude>
+    <longitude>31.4833333</longitude>
+  </city>
+  <city name="Kwaluseni">
+    <latitude>-26.4833333</latitude>
+    <longitude>31.3333333</longitude>
+  </city>
+  <city name="Lavumisa">
+    <latitude>-27.3166667</latitude>
+    <longitude>31.9</longitude>
+  </city>
+  <city name="Lismore">
+    <latitude>-27.1166667</latitude>
+    <longitude>31.9333333</longitude>
+  </city>
+  <city name="Lobamba">
+    <latitude>-26.4666667</latitude>
+    <longitude>31.2</longitude>
+  </city>
+  <city name="Lobomba">
+    <latitude>-26.4666667</latitude>
+    <longitude>31.2</longitude>
+  </city>
+  <city name="Lomahasha">
+    <latitude>-25.9833333</latitude>
+    <longitude>32.0</longitude>
+  </city>
+  <city name="Lomati">
+    <latitude>-25.8166667</latitude>
+    <longitude>31.35</longitude>
+  </city>
+  <city name="Lomati Store">
+    <latitude>-25.8166667</latitude>
+    <longitude>31.35</longitude>
+  </city>
+  <city name="Lubuli">
+    <latitude>-27.0166667</latitude>
+    <longitude>31.9</longitude>
+  </city>
+  <city name="Luyengo">
+    <latitude>-26.5333333</latitude>
+    <longitude>31.2333333</longitude>
+  </city>
+  <city name="Macnab">
+    <latitude>-26.4166667</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Mac Nabs">
+    <latitude>-26.4166667</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Macnab Store">
+    <latitude>-26.4166667</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Madlangampisi">
+    <latitude>-26.0833333</latitude>
+    <longitude>31.55</longitude>
+  </city>
+  <city name="Magomba">
+    <latitude>-26.5666667</latitude>
+    <longitude>31.8333333</longitude>
+  </city>
+  <city name="Mahamba">
+    <latitude>-27.1</latitude>
+    <longitude>31.0833333</longitude>
+  </city>
+  <city name="Mahlanya">
+    <latitude>-26.5</latitude>
+    <longitude>31.2833333</longitude>
+  </city>
+  <city name="Malkerns">
+    <latitude>-26.5666667</latitude>
+    <longitude>31.1833333</longitude>
+  </city>
+  <city name="Maloma">
+    <latitude>-27.0166667</latitude>
+    <longitude>31.65</longitude>
+  </city>
+  <city name="Manêini">
+    <latitude>-26.4833333</latitude>
+    <longitude>31.3666667</longitude>
+  </city>
+  <city name="Mankaiana">
+    <latitude>-26.6833333</latitude>
+    <longitude>31.0833333</longitude>
+  </city>
+  <city name="Mankayane">
+    <latitude>-26.6833333</latitude>
+    <longitude>31.0833333</longitude>
+  </city>
+  <city name="Manzini">
+    <latitude>-26.4833333</latitude>
+    <longitude>31.3666667</longitude>
+  </city>
+  <city name="Matapa">
+    <latitude>-26.5166667</latitude>
+    <longitude>31.3166667</longitude>
+  </city>
+  <city name="Matsapa">
+    <latitude>-26.5166667</latitude>
+    <longitude>31.3166667</longitude>
+  </city>
+  <city name="Matsapha">
+    <latitude>-26.5166667</latitude>
+    <longitude>31.3166667</longitude>
+  </city>
+  <city name="Mbabane">
+    <latitude>-26.3166667</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Mbuluzana">
+    <latitude>-26.35</latitude>
+    <longitude>31.5166667</longitude>
+  </city>
+  <city name="Mgamane">
+    <latitude>-26.8166667</latitude>
+    <longitude>31.1</longitude>
+  </city>
+  <city name="Mhlambanyati">
+    <latitude>-26.45</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Mhlambanyatsi">
+    <latitude>-26.45</latitude>
+    <longitude>31.0166667</longitude>
+  </city>
+  <city name="Mhlosheni">
+    <latitude>-27.1833333</latitude>
+    <longitude>31.3833333</longitude>
+  </city>
+  <city name="Mhlotsheni">
+    <latitude>-27.1833333</latitude>
+    <longitude>31.3833333</longitude>
+  </city>
+  <city name="Mhlume">
+    <latitude>-26.0333333</latitude>
+    <longitude>31.85</longitude>
+  </city>
+  <city name="Mhlumeni">
+    <latitude>-26.25</latitude>
+    <longitude>32.1</longitude>
+  </city>
+  <city name="Mlawula">
+    <latitude>-26.1833333</latitude>
+    <longitude>31.9833333</longitude>
+  </city>
+  <city name="Mliba">
+    <latitude>-26.25</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Mooihoek">
+    <latitude>-26.9666667</latitude>
+    <longitude>31.4666667</longitude>
+  </city>
+  <city name="Mvangalini">
+    <latitude>-26.75</latitude>
+    <longitude>31.6</longitude>
+  </city>
+  <city name="Mvangatini">
+    <latitude>-26.75</latitude>
+    <longitude>31.6</longitude>
+  </city>
+  <city name="Ngonini">
+    <latitude>-25.7666667</latitude>
+    <longitude>31.3833333</longitude>
+  </city>
+  <city name="Nhlangano">
+    <latitude>-27.1166667</latitude>
+    <longitude>31.2</longitude>
+  </city>
+  <city name="Nkanni">
+    <latitude>-26.45</latitude>
+    <longitude>31.2166667</longitude>
+  </city>
+  <city name="Nkonjane">
+    <latitude>-26.7666667</latitude>
+    <longitude>32.0833333</longitude>
+  </city>
+  <city name="Nokwane">
+    <latitude>-26.1333333</latitude>
+    <longitude>31.9166667</longitude>
+  </city>
+  <city name="Nomahasha">
+    <latitude>-25.9833333</latitude>
+    <longitude>32.0</longitude>
+  </city>
+  <city name="Nsoka">
+    <latitude>-27.0333333</latitude>
+    <longitude>31.95</longitude>
+  </city>
+  <city name="Nsoko">
+    <latitude>-27.0333333</latitude>
+    <longitude>31.95</longitude>
+  </city>
+  <city name="Nyabe">
+    <latitude>-26.75</latitude>
+    <longitude>31.0833333</longitude>
+  </city>
+  <city name="Palata">
+    <latitude>-26.5333333</latitude>
+    <longitude>32.0166667</longitude>
+  </city>
+  <city name="Piggs Peak">
+    <latitude>-25.9666667</latitude>
+    <longitude>31.25</longitude>
+  </city>
+  <city name="Rocklands">
+    <latitude>-25.95</latitude>
+    <longitude>31.2833333</longitude>
+  </city>
+  <city name="Rondspring">
+    <latitude>-26.8833333</latitude>
+    <longitude>31.7</longitude>
+  </city>
+  <city name="Sandlane">
+    <latitude>-26.5666667</latitude>
+    <longitude>30.7833333</longitude>
+  </city>
+  <city name="Sibobela">
+    <latitude>-26.8833333</latitude>
+    <longitude>31.6</longitude>
+  </city>
+  <city name="Sicunusa">
+    <latitude>-26.8666667</latitude>
+    <longitude>30.95</longitude>
+  </city>
+  <city name="Sidvokodvo">
+    <latitude>-26.6166667</latitude>
+    <longitude>31.45</longitude>
+  </city>
+  <city name="Sigunusa">
+    <latitude>-26.8666667</latitude>
+    <longitude>30.95</longitude>
+  </city>
+  <city name="Sinceni">
+    <latitude>-26.7666667</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Singceni">
+    <latitude>-26.7666667</latitude>
+    <longitude>31.5833333</longitude>
+  </city>
+  <city name="Siphofaneni">
+    <latitude>-26.6833333</latitude>
+    <longitude>31.6833333</longitude>
+  </city>
+  <city name="Sipofaneni Bridge">
+    <latitude>-26.6833333</latitude>
+    <longitude>31.6833333</longitude>
+  </city>
+  <city name="Sipofanenibrug">
+    <latitude>-26.6833333</latitude>
+    <longitude>31.6833333</longitude>
+  </city>
+  <city name="Sipofaneni">
+    <latitude>-26.6833333</latitude>
+    <longitude>31.6833333</longitude>
+  </city>
+  <city name="Siteki">
+    <latitude>-26.45</latitude>
+    <longitude>31.95</longitude>
+  </city>
+  <city name="Sitobela">
+    <latitude>-26.8833333</latitude>
+    <longitude>31.6</longitude>
+  </city>
+  <city name="Skombeni">
+    <latitude>-26.4</latitude>
+    <longitude>31.35</longitude>
+  </city>
+  <city name="Spofanene">
+    <latitude>-26.6833333</latitude>
+    <longitude>31.6833333</longitude>
+  </city>
+  <city name="Stegi">
+    <latitude>-26.45</latitude>
+    <longitude>31.95</longitude>
+  </city>
+  <city name="Stylkloof">
+    <latitude>-26.7833333</latitude>
+    <longitude>31.1333333</longitude>
+  </city>
+  <city name="Tahaneni">
+    <latitude>-25.9833333</latitude>
+    <longitude>31.7166667</longitude>
+  </city>
+  <city name="Tshaneni">
+    <latitude>-25.9833333</latitude>
+    <longitude>31.7166667</longitude>
+  </city>
+  <city name="Usutu Mission">
+    <latitude>-26.5833333</latitude>
+    <longitude>31.1833333</longitude>
+  </city>
+  <city name="Usutu">
+    <latitude>-26.5833333</latitude>
+    <longitude>31.1833333</longitude>
+  </city>
+  <city name="Verdun">
+    <latitude>-26.85</latitude>
+    <longitude>31.4</longitude>
+  </city>
+  <city name="Von Wissel">
+    <latitude>-26.8666667</latitude>
+    <longitude>31.9333333</longitude>
+  </city>
+</country>

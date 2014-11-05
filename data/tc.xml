@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="tc" name="Turks et Caïques (Îles)">
+  <city name="Back Salina">
+    <latitude>21.45</latitude>
+    <longitude>-71.1333333</longitude>
+  </city>
+  <city name="Balfour Town">
+    <latitude>21.3166667</latitude>
+    <longitude>-71.2166667</longitude>
+  </city>
+  <city name="Bambarra">
+    <latitude>21.8166667</latitude>
+    <longitude>-71.7166667</longitude>
+  </city>
+  <city name="Blue Hills">
+    <latitude>21.8</latitude>
+    <longitude>-72.2833333</longitude>
+  </city>
+  <city name="Blue Hills Settlements">
+    <latitude>21.8</latitude>
+    <longitude>-72.2833333</longitude>
+  </city>
+  <city name="Bottle Creek Settlements">
+    <latitude>21.8833333</latitude>
+    <longitude>-71.9166667</longitude>
+  </city>
+  <city name="Cockburn Harbour">
+    <latitude>21.4833333</latitude>
+    <longitude>-71.5333333</longitude>
+  </city>
+  <city name="Cockburn Town">
+    <latitude>21.4666667</latitude>
+    <longitude>-71.1333333</longitude>
+  </city>
+  <city name="Conch Bar">
+    <latitude>21.8333333</latitude>
+    <longitude>-71.7833333</longitude>
+  </city>
+  <city name="Five Cays Settlement">
+    <latitude>21.75</latitude>
+    <longitude>-72.25</longitude>
+  </city>
+  <city name="Grand Turk">
+    <latitude>21.4666667</latitude>
+    <longitude>-71.1333333</longitude>
+  </city>
+  <city name="Greenwich">
+    <latitude>21.95</latitude>
+    <longitude>-71.9333333</longitude>
+  </city>
+  <city name="Kew">
+    <latitude>21.9</latitude>
+    <longitude>-72.0333333</longitude>
+  </city>
+  <city name="Lorimers">
+    <latitude>21.7833333</latitude>
+    <longitude>-71.6833333</longitude>
+  </city>
+  <city name="Over Back The Damp">
+    <latitude>21.4666667</latitude>
+    <longitude>-71.1333333</longitude>
+  </city>
+  <city name="Sandy Point">
+    <latitude>21.95</latitude>
+    <longitude>-72.0333333</longitude>
+  </city>
+  <city name="The Bight Settlements">
+    <latitude>21.7833333</latitude>
+    <longitude>-72.2</longitude>
+  </city>
+  <city name="The Bight">
+    <latitude>21.7833333</latitude>
+    <longitude>-72.2</longitude>
+  </city>
+  <city name="West Road">
+    <latitude>21.4666667</latitude>
+    <longitude>-71.1333333</longitude>
+  </city>
+  <city name="Whitby">
+    <latitude>21.95</latitude>
+    <longitude>-71.9666667</longitude>
+  </city>
+  <city name="Yankee Town">
+    <latitude>21.65</latitude>
+    <longitude>-72.4666667</longitude>
+  </city>
+</country>

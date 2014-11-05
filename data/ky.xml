@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country code="ky" name="Cayman (Îles)">
+  <city name="Banksville">
+    <latitude>19.7</latitude>
+    <longitude>-79.85</longitude>
+  </city>
+  <city name="Battle Ground">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.4</longitude>
+  </city>
+  <city name="Belford Estates">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.2333333</longitude>
+  </city>
+  <city name="Birch Tree Hill">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.4</longitude>
+  </city>
+  <city name="Blakes">
+    <latitude>19.3</latitude>
+    <longitude>-81.1</longitude>
+  </city>
+  <city name="Blossom Point">
+    <latitude>19.6666667</latitude>
+    <longitude>-80.0833333</longitude>
+  </city>
+  <city name="Blossom Village">
+    <latitude>19.6666667</latitude>
+    <longitude>-80.0833333</longitude>
+  </city>
+  <city name="Bodden">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.25</longitude>
+  </city>
+  <city name="Bodden Town">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.25</longitude>
+  </city>
+  <city name="Botabano">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.3833333</longitude>
+  </city>
+  <city name="Breakers">
+    <latitude>19.3</latitude>
+    <longitude>-81.2</longitude>
+  </city>
+  <city name="Breezy Castle">
+    <latitude>19.3</latitude>
+    <longitude>-81.3666667</longitude>
+  </city>
+  <city name="Brinkleys">
+    <latitude>19.35</latitude>
+    <longitude>-81.2333333</longitude>
+  </city>
+  <city name="Cayman Palms">
+    <latitude>19.2666667</latitude>
+    <longitude>-81.2666667</longitude>
+  </city>
+  <city name="Coral Gables">
+    <latitude>19.3666667</latitude>
+    <longitude>-81.4166667</longitude>
+  </city>
+  <city name="Creek">
+    <latitude>19.75</latitude>
+    <longitude>-79.7666667</longitude>
+  </city>
+  <city name="Dog City">
+    <latitude>19.3</latitude>
+    <longitude>-81.3833333</longitude>
+  </city>
+  <city name="Driftwood Village">
+    <latitude>19.35</latitude>
+    <longitude>-81.2333333</longitude>
+  </city>
+  <city name="Dusty Place">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.4</longitude>
+  </city>
+  <city name="East End">
+    <latitude>19.3</latitude>
+    <longitude>-81.1166667</longitude>
+  </city>
+  <city name="Frenchman's Fort">
+    <latitude>19.7</latitude>
+    <longitude>-79.8833333</longitude>
+  </city>
+  <city name="George Town">
+    <latitude>19.3</latitude>
+    <longitude>-81.3833333</longitude>
+  </city>
+  <city name="Gun Bay">
+    <latitude>19.3166667</latitude>
+    <longitude>-81.1</longitude>
+  </city>
+  <city name="Gun Bay Village">
+    <latitude>19.3166667</latitude>
+    <longitude>-81.1</longitude>
+  </city>
+  <city name="Half Moon Bay">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.1666667</longitude>
+  </city>
+  <city name="Half Way Pond">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.3666667</longitude>
+  </city>
+  <city name="Head of Bay">
+    <latitude>19.6666667</latitude>
+    <longitude>-80.0666667</longitude>
+  </city>
+  <city name="Hell">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.4166667</longitude>
+  </city>
+  <city name="High Rock Estates">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.1333333</longitude>
+  </city>
+  <city name="Hutland">
+    <latitude>19.35</latitude>
+    <longitude>-81.2166667</longitude>
+  </city>
+  <city name="Knob Hill">
+    <latitude>19.6833333</latitude>
+    <longitude>-79.8833333</longitude>
+  </city>
+  <city name="Lambert House">
+    <latitude>19.2666667</latitude>
+    <longitude>-81.4</longitude>
+  </city>
+  <city name="Lower Valley">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.2833333</longitude>
+  </city>
+  <city name="Midland Acres">
+    <latitude>19.3</latitude>
+    <longitude>-81.2166667</longitude>
+  </city>
+  <city name="Molusca Heights">
+    <latitude>19.7333333</latitude>
+    <longitude>-79.7833333</longitude>
+  </city>
+  <city name="Mount Pleasant">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.4</longitude>
+  </city>
+  <city name="Newland">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.3</longitude>
+  </city>
+  <city name="Newlands">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.3</longitude>
+  </city>
+  <city name="North Side">
+    <latitude>19.35</latitude>
+    <longitude>-81.2</longitude>
+  </city>
+  <city name="North Side Village">
+    <latitude>19.35</latitude>
+    <longitude>-81.2</longitude>
+  </city>
+  <city name="North Sound Estates">
+    <latitude>19.3</latitude>
+    <longitude>-81.3</longitude>
+  </city>
+  <city name="North Ward">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.2666667</longitude>
+  </city>
+  <city name="Old Isaacs">
+    <latitude>19.3</latitude>
+    <longitude>-81.1166667</longitude>
+  </city>
+  <city name="Old Man Bay">
+    <latitude>19.35</latitude>
+    <longitude>-81.1833333</longitude>
+  </city>
+  <city name="Old Man Village">
+    <latitude>19.35</latitude>
+    <longitude>-81.1833333</longitude>
+  </city>
+  <city name="Old Stores">
+    <latitude>19.4</latitude>
+    <longitude>-81.4</longitude>
+  </city>
+  <city name="Omega Gardens">
+    <latitude>19.3</latitude>
+    <longitude>-81.3333333</longitude>
+  </city>
+  <city name="Pease Bay">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.2333333</longitude>
+  </city>
+  <city name="Pedro">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.2666667</longitude>
+  </city>
+  <city name="Prospect Park">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.3333333</longitude>
+  </city>
+  <city name="Prospect">
+    <latitude>19.2666667</latitude>
+    <longitude>-81.35</longitude>
+  </city>
+  <city name="Red Bay Estate">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.35</longitude>
+  </city>
+  <city name="Red Bay">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.35</longitude>
+  </city>
+  <city name="Rock Hole">
+    <latitude>19.3</latitude>
+    <longitude>-81.3666667</longitude>
+  </city>
+  <city name="Saint James">
+    <latitude>19.2666667</latitude>
+    <longitude>-81.3</longitude>
+  </city>
+  <city name="Sand Bluff">
+    <latitude>19.3166667</latitude>
+    <longitude>-81.0833333</longitude>
+  </city>
+  <city name="Savannah Acres">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.3</longitude>
+  </city>
+  <city name="Savannah">
+    <latitude>19.2666667</latitude>
+    <longitude>-81.3</longitude>
+  </city>
+  <city name="South Hole">
+    <latitude>19.6666667</latitude>
+    <longitude>-80.0833333</longitude>
+  </city>
+  <city name="South Town">
+    <latitude>19.6666667</latitude>
+    <longitude>-80.0833333</longitude>
+  </city>
+  <city name="Spot Bay">
+    <latitude>19.75</latitude>
+    <longitude>-79.75</longitude>
+  </city>
+  <city name="Spotts">
+    <latitude>19.2666667</latitude>
+    <longitude>-81.3166667</longitude>
+  </city>
+  <city name="The Common">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.4</longitude>
+  </city>
+  <city name="The Moorings">
+    <latitude>19.7333333</latitude>
+    <longitude>-79.7833333</longitude>
+  </city>
+  <city name="Tibbetts Turn">
+    <latitude>19.7333333</latitude>
+    <longitude>-79.7833333</longitude>
+  </city>
+  <city name="Town Hall Crescent">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.4166667</longitude>
+  </city>
+  <city name="Tropical Gardens">
+    <latitude>19.2833333</latitude>
+    <longitude>-81.35</longitude>
+  </city>
+  <city name="Upper Land">
+    <latitude>19.35</latitude>
+    <longitude>-81.3833333</longitude>
+  </city>
+  <city name="Vicksville">
+    <latitude>19.3666667</latitude>
+    <longitude>-81.4166667</longitude>
+  </city>
+  <city name="Water Ground">
+    <latitude>19.3833333</latitude>
+    <longitude>-81.4</longitude>
+  </city>
+  <city name="West Bay">
+    <latitude>19.3666667</latitude>
+    <longitude>-81.4166667</longitude>
+  </city>
+  <city name="West End">
+    <latitude>19.3666667</latitude>
+    <longitude>-81.4166667</longitude>
+  </city>
+  <city name="Whitehall Estate">
+    <latitude>19.3</latitude>
+    <longitude>-81.3666667</longitude>
+  </city>
+</country>
