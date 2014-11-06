@@ -23,6 +23,7 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.InputStreamReader;
 import java.net.InetAddress;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -103,7 +104,7 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 		try {
 			conf = new Properties();
 			FileInputStream in = new FileInputStream("./conf/config.ini");
-			conf.load(in);
+			conf.load(new InputStreamReader(in, "UTF-8"));
 			in.close();
 			
 			this.port = Integer.parseInt(conf.getProperty("server.http.port"));
@@ -157,7 +158,7 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private JButton getClearConsoleButton() {
 		if(clearConsoleButton == null) {
-			clearConsoleButton = new JButton(new ImageIcon(getClass().getResource("/ma/ensao/swingmap/server/resources/icons/clear.png")));
+			clearConsoleButton = new JButton(new ImageIcon(getClass().getResource(conf.getProperty("images.clear"))));
 			clearConsoleButton.setOpaque(false);
 			clearConsoleButton.setBorder(BorderFactory.createEmptyBorder(2, 2, 2, 2));
 			clearConsoleButton.addMouseListener(
@@ -230,11 +231,11 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 		if(controlPanel == null) {
 			controlPanel = new JPanel();
 			controlPanel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createEtchedBorder(borderColor, borderColor), 
-					               "Contrôle", 
-					               TitledBorder.LEFT, 
-					               TitledBorder.TOP,
-					               controlPanel.getFont().deriveFont(Font.BOLD), 
-					               borderColor));
+		               												conf.getProperty("titles.control.panel.border"), 
+		               												TitledBorder.LEFT, 
+		               												TitledBorder.TOP,
+		               												controlPanel.getFont().deriveFont(Font.BOLD), 
+		               												borderColor));
 			controlPanel.setLayout(new GridBagLayout());
 			controlPanel.add(getControlStartButton(),
 		             new GridBagConstraints(0, 0, 1, 1, 0, 0, 
@@ -254,7 +255,8 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private JButton getControlStartButton() {
 		if(controlStartButton == null) {
-			controlStartButton = new JButton("Démarrer", new ImageIcon(getClass().getResource("/ma/ensao/swingmap/server/resources/icons/start.png")));
+			controlStartButton = new JButton(conf.getProperty("titles.start.button"), 
+                    						 new ImageIcon(getClass().getResource(conf.getProperty("images.start"))));
 			controlStartButton.addMouseListener(
 					new MouseAdapter() {
 					
@@ -286,9 +288,9 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	private void startAction() {
 		try {
 			getServer().start();
-	        this.setIconImage(new ImageIcon(getClass().getResource("/ma/ensao/swingmap/server/resources/icons/start.png")).getImage());
+	        this.setIconImage(new ImageIcon(getClass().getResource(conf.getProperty("images.start"))).getImage());
 			isStopped = false;
-			String serverMSG = String.format("\n [%s] : Démarrage du serveur dans le port %d", new SimpleDateFormat(dateTimeFormat).format(new Date()), getPort());
+			String serverMSG = String.format(conf.getProperty("messages.start"), new SimpleDateFormat(dateTimeFormat).format(new Date()), getPort());
 			getConsoleStyledDocument().setParagraphAttributes(getConsoleStyledDocument().getLength()+1, serverMSG.length(), defaultConsoleStyle, false);
 			getConsoleStyledDocument().insertString(getConsoleStyledDocument().getLength(), serverMSG, defaultConsoleStyle);
 			this.setTitle(String.format("SwingMapServer : [Server : %s][IP : %s][Port : %d]", InetAddress.getLocalHost().getHostName(), 
@@ -337,7 +339,8 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private JButton getControlStopButton() {
 		if(controlStopButton == null) {
-			controlStopButton = new JButton("Arrêter", new ImageIcon(getClass().getResource("/ma/ensao/swingmap/server/resources/icons/stop.png")));
+			controlStopButton = new JButton(conf.getProperty("titles.stop.button"), 
+											new ImageIcon(getClass().getResource(conf.getProperty("images.stop"))));
 			controlStopButton.setEnabled(false);
 			controlStopButton.addMouseListener(
 					new MouseAdapter() {
@@ -375,12 +378,12 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 			getControlStopButton().setEnabled(false);
 			getStartMenuItem().setEnabled(true);
 			getStopMenuItem().setEnabled(false);
-			String serverMSG = String.format("\n [%s] : Arrêt du serveur", new SimpleDateFormat(dateTimeFormat).format(new Date()), getPort());
+			String serverMSG = String.format(conf.getProperty("messages.stop"), new SimpleDateFormat(dateTimeFormat).format(new Date()), getPort());
 			getConsoleStyledDocument().setParagraphAttributes(getConsoleStyledDocument().getLength()+1, serverMSG.length(), defaultConsoleStyle, false);
 			getConsoleStyledDocument().insertString(getConsoleStyledDocument().getLength(), serverMSG, defaultConsoleStyle);
 			this.setTitle(String.format("SwingMapServer : [Server : %s][IP : %s]", InetAddress.getLocalHost().getHostName(), 
                                                                                    InetAddress.getLocalHost().getHostAddress()));
-			this.setIconImage(new ImageIcon(getClass().getResource("/ma/ensao/swingmap/server/resources/icons/stop.png")).getImage());
+			this.setIconImage(new ImageIcon(getClass().getResource(conf.getProperty("images.stop"))).getImage());
 			isStopped = true;
 		} catch (Exception e) {
 			TaskDialogs.showException(e);
@@ -389,7 +392,8 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private JButton getControlExitButton() {
 		if(controlExitButton == null) {
-			controlExitButton = new JButton("Quitter", new ImageIcon(getClass().getResource("/ma/ensao/swingmap/server/resources/icons/exit.png")));
+			controlExitButton = new JButton(conf.getProperty("titles.exit.button"), 
+                   							new ImageIcon(getClass().getResource(conf.getProperty("images.exit"))));
 			controlExitButton.addMouseListener(
 					new MouseAdapter() {
 					
@@ -420,7 +424,11 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private void exitAction() {
 		int dialogButton = JOptionPane.YES_NO_OPTION;
-		int dialogResult = JOptionPane.showConfirmDialog(this, "Voulez-vous quitter le serveur ?", "Quitter : Confirmation",dialogButton);
+		int dialogResult;
+		dialogResult = JOptionPane.showConfirmDialog(this, 
+													 conf.getProperty("messages.exit"), 
+													 conf.getProperty("titles.exit.dialog"), 
+													 dialogButton);
 		if(dialogResult == 0) {
 			if(!isStopped) {
 				stopAction();	
@@ -433,7 +441,7 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	private void initView() {
 		this.setSize(600, 400);
 		this.setLocationRelativeTo(null);
-        this.setIconImage(new ImageIcon(getClass().getResource("/ma/ensao/swingmap/server/resources/icons/view.png")).getImage());
+		this.setIconImage(new ImageIcon(getClass().getResource(conf.getProperty("images.view"))).getImage());
         this.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		this.addWindowListener(
 				new WindowAdapter() {
@@ -448,13 +456,12 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 			
 				}
 		);
-		this.setTitle("ENSA Oujda : SwingMapServer");
+		this.setTitle(conf.getProperty("titles.frame"));
 		setSystemTray();
+		String loadMSG = String.format("\n%s\n%s\n%s\n", conf.getProperty("messages.load.description"), 
+														 conf.getProperty("messages.load.copyright"), 
+														 conf.getProperty("messages.load.line"));
 		try {
-			String loadMSG = "\n" + 
-					         "Démarrage de l’application : SwingMapServer - version Servlet" + "\n" +
-	                         "Copyright ENSA Oujda : 2014-2015"                              + "\n" +
-			                 "-----------------------------------------------------------------------------" + "\n";
 			getConsoleStyledDocument().insertString(getConsoleStyledDocument().getLength(), loadMSG, welcomeConsoleStyle);
 		} catch (BadLocationException e) {
 			TaskDialogs.showException(e);
@@ -483,7 +490,7 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private MenuItem getStartMenuItem() {
 		if(startMenuItem == null) {
-			startMenuItem = new MenuItem("Démarrer");
+			startMenuItem = new MenuItem(conf.getProperty("titles.start.button"));
 			startMenuItem.addActionListener(new ActionListener() {
 				
 				public void actionPerformed(ActionEvent e) {
@@ -497,7 +504,7 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private MenuItem getStopMenuItem() {
 		if(stopMenuItem == null) {
-			stopMenuItem  = new MenuItem("Arrêter");
+			stopMenuItem  = new MenuItem(conf.getProperty("titles.stop.button"));
 			stopMenuItem.setEnabled(false);
 			stopMenuItem.addActionListener(new ActionListener() {
 				
@@ -512,7 +519,7 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private MenuItem getExitMenuiItem() {
 		if(exitMenuiItem == null) {
-			exitMenuiItem = new MenuItem("Quitter");
+			exitMenuiItem = new MenuItem(conf.getProperty("titles.exit.button"));
 			exitMenuiItem.addActionListener(
 					new ActionListener() {
 						
@@ -528,8 +535,8 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	
 	private TrayIcon getTray() {
 		if(tray == null) {
-			Image icon = new ImageIcon(getClass().getResource("/ma/ensao/swingmap/server/resources/icons/view.png")).getImage();
-			tray = new TrayIcon(icon, "ENSA Oujda : SwingMapServer", getPopup());
+			Image icon = new ImageIcon(getClass().getResource(conf.getProperty("images.view"))).getImage();
+			tray = new TrayIcon(icon, conf.getProperty("titles.frame"), getPopup());
 			tray.setImageAutoSize(true);
 			tray.addMouseListener(
 					new MouseAdapter() {
@@ -551,10 +558,10 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	@Override
 	public void displayRequest(String host, double latitude, double longitude) {
 		try {
-			String serverRequestMSG = String.format("\n [%s] : Le client [%s] a envoyé une demande de récupération de la date système de la vile [%f, %f] ", new SimpleDateFormat(dateTimeFormat).format(new Date())
-					                                                                                                                                       , host
-					                                                                                                                                       , latitude
-					                                                                                                                                       , longitude);
+			String serverRequestMSG = String.format(conf.getProperty("messages.request"), new SimpleDateFormat(dateTimeFormat).format(new Date())
+					                                                                    , host
+				                                                                        , latitude
+					                                                                    , longitude);
 			getConsoleStyledDocument().setParagraphAttributes(getConsoleStyledDocument().getLength()+1, serverRequestMSG.length(), clientConsoleStyle, false);
 			getConsoleStyledDocument().insertString(getConsoleStyledDocument().getLength(), serverRequestMSG, clientConsoleStyle);
 		} catch (Exception e) {
@@ -565,8 +572,8 @@ public class SwingMapServerView extends JFrame implements ConsoleMessage {
 	@Override
 	public void displayResponse(String host) {
 		try {
-			String serverResponseMSG = String.format("\n [%s] : Le serveur a répondu à la demande du client [%s]", new SimpleDateFormat(dateTimeFormat).format(new Date()), 
-                                                                                                                   host);
+			String serverResponseMSG = String.format(conf.getProperty("messages.response"), new SimpleDateFormat(dateTimeFormat).format(new Date())
+																						  , host);
 			getConsoleStyledDocument().setParagraphAttributes(getConsoleStyledDocument().getLength()+1, serverResponseMSG.length(), serverConsoleStyle, false);
 			getConsoleStyledDocument().insertString(getConsoleStyledDocument().getLength(), serverResponseMSG, serverConsoleStyle);
 		} catch (Exception e) {
